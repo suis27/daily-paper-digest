@@ -2,11 +2,17 @@ name: Update Biology Paper Website
 
 on:
   schedule:
+    # 매일 오전 9시 한국 시간 (UTC 00:00)
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
       - main
+    paths:
+      - "main.py"
+      - "index.html"
+      - "requirements.txt"
+      - ".github/workflows/daily.yml"
 
 permissions:
   contents: write
@@ -20,10 +26,14 @@ concurrency:
 jobs:
   collect:
     runs-on: ubuntu-latest
-    timeout-minutes: 35
+    timeout-minutes: 45
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -37,25 +47,28 @@ jobs:
         run: |
           curl -fsSL https://ollama.com/install.sh | sh
           ollama serve > /tmp/ollama.log 2>&1 &
+
           for i in $(seq 1 30); do
             if curl -fsS http://localhost:11434/api/tags >/dev/null; then
+              echo "Ollama is ready"
               break
             fi
             sleep 2
           done
+
           curl -fsS http://localhost:11434/api/tags >/dev/null
 
       - name: Download AI model
         run: ollama pull qwen2.5:3b
 
-      - name: Collect papers
+      - name: Collect papers and generate summaries
         env:
           OLLAMA_URL: http://localhost:11434
           OLLAMA_MODEL: qwen2.5:3b
           MAX_SUMMARIES_PER_RUN: "5"
+          MAX_ABSTRACT_REFRESH_PER_RUN: "10"
+          PYTHONUNBUFFERED: "1"
         run: python main.py
-
-
 
       - name: Commit updated paper archive
         run: |
@@ -66,9 +79,9 @@ jobs:
 
           if ! git diff --cached --quiet; then
             git commit -m "Update daily paper archive"
-
-            git pull --rebase origin main
             git push origin HEAD:main
+          else
+            echo "No paper archive changes to commit"
           fi
 
       - name: Prepare website
@@ -84,8 +97,10 @@ jobs:
   deploy:
     needs: collect
     runs-on: ubuntu-latest
+
     environment:
       name: github-pages
+
     steps:
       - name: Deploy website
         uses: actions/deploy-pages@v4
