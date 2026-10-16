@@ -135,7 +135,7 @@ def main():
 
     now = datetime.now(KST)
     end_date = now.date()
-    start_date = end_date - timedelta(days=3)
+    start_date = end_date - timedelta(days=30)
 
     existing = load_existing()
     by_id = {paper["id"]: paper for paper in existing if paper.get("id")}
