@@ -386,7 +386,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42828487/",
     "abstract": "Chondroitin sulfate (CS), a sulfated glycosaminoglycan, has attracted considerable attention in nanomedicine owing to its excellent biocompatibility, biodegradability, and intrinsic bioactivity. Recent advances in CS-based nanoplatforms, including nanogels, nanoparticles, hydrogels, and other drug delivery systems, have enabled targeted drug delivery, tissue engineering, and regenerative medicine applications. These multifunctional systems facilitate controlled drug release, enhance cellular uptake, and regulate key biological processes such as inflammation, oxidative stress, and extracellular matrix remodeling. Beyond their roles in material design, CS-based nanoplatforms have demonstrated promising preclinical potential in cancer therapy, osteoarthritis, periodontitis, cartilage regeneration, wound healing, ophthalmic disorders, liver fibrosis, and neurodegenerative diseases. This review first discusses the design principles and functional characteristics of CS-based material platforms followed by their therapeutic applications in tissue engineering and disease treatment. Finally, the current challenges, translational perspectives, and future opportunities for the clinical development of CS-based nanoplatforms are highlighted.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 코엔트roit산 수소이트(Chondroitin Sulfate, CS)라는 단백질 합성물이 nanoplatform을 통해 약물 전달, 조직 재생, 질병 치료 등 다양한 분야에 적용될 수 있음을 다루고 있다. 이는 CS가 우수한 생물학적 유합성, 생분해성, 내재적 생물학적 활성성을 가진다는 점에서 주목받고 있다. 또한, CS를 기반으로 한 nanoplatform의 다양한 기능적 특성을 살펴보고, 그들이 조직 재생 및 질병 치료에 어떻게 적용되는지에 대해 논의한다.",
+      "methods": "이 논문은 CS를 기반으로 한 nanoplatform의 설계 원칙과 기능적 특성을 다루며, 이를 통해 약물 전달, 조직 재생, 질병 치료 등에 대한 잠재적인 잠재력을 평가한다. 이는 CS의 생물학적 활성성과 생분해성, 생물학적 유합성 등을 고려한 설계 원칙에 따라 이루어진다.",
+      "quantitative_results": "이 논문에서는 CS를 기반으로 한 nanoplatform의 잠재적인 잠재력을 설명하며, 이는 약물 전달, 조직 재생, 질병 치료 등에 대한 잠재력을 평가하는 데 도움이 된다. 이는 CS의 생물학적 활성성과 생분해성, 생물학적 유합성 등을 고려한 설계 원칙에 따라 이루어진다.",
+      "novelty": "이 논문은 CS를 기반으로 한 nanoplatform의 다양한 기능적 특성을 살펴보고, 그들이 약물 전달, 조직 재생, 질병 치료 등에 어떻게 적용되는지에 대해 논의한다. 이는 기존 연구에서 보다 깊이 있는 이해를 제공하며, 새로운 적용 사례를 제시한다.",
+      "limitations": "이 논문은 CS를 기반으로 한 nanoplatform의 잠재적인 잠재력을 설명하며, 이는 CS의 생물학적 활성성과 생분해성, 생물학적 유합성 등을 고려한 설계 원칙에 따라 이루어진다. 이는 CS의 생물학적 활성성과 생분해성, 생물학적 유합성 등을 고려한 설계 원칙에 따라 이루어진다. 이는 CS의 생물학적 활성성과 생분해성, 생물학적 유합성 등을 고려한 설계 원칙에 따라 이루어진다.",
+      "future_research": "이 논문은 CS를 기반으로 한 nanoplatform의 잠재적인 잠재력을 설명하며, 이는 CS의 생물학적 활성성과 생분해성, 생물학적 유합성 등을 고려한 설계 원칙에 따라 이루어진다. 이는 CS의 생물학적 활성성과 생분해성, 생물학적 유합성 등을 고려한 설계 원칙에 따라 이루어진다. 이는 CS의 생물학적 활성성과 생분해성, 생물학적 유합성 등을 고려한 설계 원칙에 따라 이루어진다."
+    }
   },
   {
     "id": "PMC:PMC13648733",
@@ -423,7 +431,15 @@
     "doi": "10.1080/21645515.2026.2737475",
     "url": "https://europepmc.org/articles/PMC13644636",
     "abstract": "Nanotechnology has transformed vaccine development by engineering nanovaccines that offer precise control over antigen performance, immune modulation and targeted delivery. These platforms influence physicochemical properties size, charge, and ligand expression to direct antigen trafficking, co-deliver adjuvants and antigen-presenting cells, stimulating potent and robust adaptive immune responses. This review discusses the development of nanovaccines for prophylactic vaccines which induce antibody and memory B-cell responses and therapeutic cancer vaccines, which overcome tolerance and immunosuppression to activate CD8 + T cells with particular emphasis on lipid nanoparticles (LNPs), polymeric NPs, inorganic-core NPs, virus-like particles (VLP) and mechanisms by which each platform exploits physicochemical properties to enhance the antigen encapsulation, adjuvant incorporation, lymphatic transferring, quality and quantity of adaptive immune responses. We reviewed the clinical and preclinical developments of these nanovaccine platforms in cancer and infectious disease immunotherapy, including major successes and new opportunities that will shape the future of vaccines for prevention and treatment.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "ai_summary": {
+      "research_purpose": "이 논문은 엔지니어링된 나노백신이 암과 감염 질환에 대한 예방 및 치료적 면역 치료에 대한 정확한 제어와 효과적인 면역 반응을 유도하는 데 사용될 수 있음을 다루고 있습니다. 특히, 나노백신 플랫폼이 물리화학적 성질을 활용하여 항원 포장, 백신 조제, 면역계 전달, 면역 반응의 품질과 양을 향상시키는 방법에 대해 논의합니다.",
+      "methods": "논문은 주로 lipid nanoparticles (LNPs), 폴리머 NPs, 인organic-core NPs, 바이러스 유사 입자 (VLP) 등 다양한 나노백신 플랫폼의 개발과 그들이 물리화학적 성질을 활용하여 항원을 포장하고 백신을 조제하고 면역계를 전달하는 방법에 대해 설명합니다. 또한, 암과 감염 질환 치료를 위한 임상 및 임상 전 단계의 개발 상황을 검토합니다.",
+      "quantitative_results": "논문에서는 나노백신 플랫폼의 임상 및 임상 전 단계 개발 상황을 검토하며, 이러한 플랫폼이 암과 감염 질환 치료에 대한 예방 및 치료를 위한 백신 개발에 중요한 역할을 할 수 있음을 보여줍니다.",
+      "novelty": "논문은 기존 연구에서 볼 때, 나노백신 플랫폼이 물리화학적 성질을 활용하여 항원을 포장하고 백신을 조제하고 면역계를 전달하는 방법에 대해 새로운 접근을 제시합니다. 이러한 접근법은 기존의 백신 플랫폼과 비교하여 더 효과적인 면역 반응을 유도할 수 있습니다.",
+      "limitations": "논문에서는 나노백신 플랫폼의 임상 및 임상 전 단계 개발 상황을 검토하며, 이러한 플랫폼이 암과 감염 질환 치료에 대한 예방 및 치료를 위한 백신 개발에 중요한 역할을 할 수 있음을 보여줍니다. 그러나, 논문에서는 나노백신 플랫폼의 임상 및 임상 전 단계 개발 상황에 대한 자세한 정보가 제공되지 않았습니다. 이러한 정보는 추가 연구를 통해 확인될 수 있습니다.",
+      "future_research": "논문은 나노백신 플랫폼의 임상 및 임상 전 단계 개발 상황을 검토하며, 이러한 플랫폼이 암과 감염 질환 치료에 대한 예방 및 치료를 위한 백신 개발에 중요한 역할을 할 수 있음을 보여줍니다. 이러한 플랫폼을 활용한 후속 연구를 제안합니다."
+    }
   },
   {
     "id": "PMC:PMC13648732",
@@ -473,7 +489,15 @@
     "doi": "10.1042/bcj20260179",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42693796/",
     "abstract": "For more than 50 years, the linear sequence and the multiple sequence alignment have been the foundational data structures of protein science, and they remain central to homology search, phylogenetic inference, covariance-based contact prediction, and modern protein language models. However, relational and graph-based representations are increasingly being adopted alongside sequence-based methods to capture biological relationships that linear data structures express only implicitly. Proteins fold as three-dimensional residue interaction networks, evolve through high-dimensional genotype networks defined by mutational connectivity, and operate within cellular protein-protein interaction graphs. Here, we review how graph theory is being used to describe and understand these relationships across protein science, with an emphasis on what these methods offer biochemists working on enzyme superfamilies, protein engineering, drug targets, and functional annotation. We trace the development of these ideas from early theoretical topologies, through statistical coupling and the structural network analyses, to the geometric and graph-like representations used in recent machine-learning-driven advances. Throughout, we emphasise that graphs do not replace sequences or MSAs but provide a complementary representation for biochemical relationships that are difficult to express in one dimension.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "ai_summary": {
+      "research_purpose": "이 논문은 단백질 과학에서 선형 시퀀스와 다중 시퀀스 대조표가 주요 데이터 구조로 사용되고 있는 상황을 설명하며, 그래프 기반 표현을 통해 생물학적 관계를 더 잘 이해하고 설명할 수 있다는 점을 강조하고 있습니다. 이는 효소 부족군, 단백질 공학, 약물 타겟, 그리고 기능적 설명에 대한 연구자들에게 도움이 될 것입니다.",
+      "methods": "논문에서는 그래프 이론이 단백질 과학에서의 이러한 관계를 설명하고 이해하는 데 어떻게 사용되고 있는지에 대해 검토합니다. 이는 이론적 최상의 구조부터 통계적 결합과 구조적 네트워크 분석, 그리고 최근 머신 러닝 기반의 진보까지 다양한 단계를 통해 설명됩니다.",
+      "quantitative_results": "논문에서는 이 방법들이 효소 부족군, 단백질 공학, 약물 타겟, 그리고 기능적 설명에 대한 연구자들에게 도움이 될 수 있다는 점을 강조하며, 이는 단순한 차원으로는 표현하기 어려운 생물학적 관계를 보다 잘 표현할 수 있다는 점을 강조합니다.",
+      "novelty": "이 논문은 단백질 과학에서 그래프 기반 표현의 중요성을 강조하며, 이는 단순한 시퀀스와 다중 시퀀스 대조표로는 설명하기 어려운 생물학적 관계를 보다 잘 이해하고 설명할 수 있다는 점에서 기존 연구와 차별화됩니다.",
+      "limitations": "논문에서는 이 방법들이 단순히 시퀀스와 다중 시퀀스 대조표를 대체하는 것이 아니라, 그들이 표현하기 어려운 생물학적 관계를 보다 잘 표현할 수 있다는 점을 강조하며, 이는 그래프 기반 표현이 시퀀스와 다중 시퀀스 대조표와의 상호작용을 강조합니다. 이는 논문에서 확인할 수 없는 정보입니다.",
+      "future_research": "논문은 그래프 기반 표현이 단백질 과학에서의 효율적인 연구와 이해를 향상시키는 데 어떻게 활용될 수 있는지에 대한 후속 연구를 제안합니다."
+    }
   },
   {
     "id": "doi:10.1111/imr.70179",
@@ -485,7 +509,15 @@
     "doi": "10.1111/imr.70179",
     "url": "https://europepmc.org/articles/PMC13617164",
     "abstract": "Post-translational modifications (PTMs) chemically diversify the ~20,000 genomically encoded proteins into millions of functional variants, and this diversity has profound consequences for T cell-mediated immune responses. PTM-reactive T cells have been identified across numerous autoimmune diseases and, in several cases, implicated directly as pathogenic drivers. Mechanistically, PTMs promote autoimmunity through two intertwined routes: by altering peptide-MHC and TCR binding to favor recognition of self-epitopes, and by generating neoepitopes in peripheral and/or inflamed tissues that are absent from the thymus, allowing PTM-reactive T cells to escape central tolerance. This cascade is amplified by inflammatory cytokines, upregulated antigen-processing machinery, disease-associated HLA alleles, and, in some cases, exogenous triggers such as diet. We use three well-characterized examples-citrullination in multiple autoimmune disorders, hybrid insulin peptide (HIP) formation in type 1 diabetes, and gluten deamidation in celiac disease-to illustrate how distinct PTM biology, tissue specificity, and genetic encodability shape the antigenic landscape and dictate feasible discovery strategies. We then review four complementary approaches for identifying PTM-specific T cell responses: mass spectrometry-based proteomics and immunopeptidomics, computational MHC-binding prediction, antigen-directed methods, and high-throughput T cell receptor (TCR)-directed library screening methods. For each, we discuss underlying principles, strengths, and limitations, with particular attention to the challenge posed by non-canonical, PTM-bearing residues. By comparing citrullination, HIPs, and gluten deamidation across these methodologies, we highlight how biochemical alterations, tissue accessibility, and mouse-to-human conservation determine which discovery approach is most tractable. We conclude that while synthetic peptide-based methods remain the standard for validating known epitopes, emerging high-throughput, cell-based platforms are rapidly expanding the accessibility of the PTM antigenic landscape for both known and undiscovered autoimmune epitopes.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "ai_summary": {
+      "research_purpose": "이 논문은 PTM이 자가면역 질환에서 어떻게 작용하는지에 초점을 맞추고 있습니다. PTM은 단백질의 후생화를 통해 다양한 유형의 면역 반응을 조장하며, 이를 통해 자가면역 질환에서 면역 체계의 오류가 발생하는 원인을 이해하고자 합니다.",
+      "methods": "논문에서는 세 가지 유명한 예를 통해 PTM이 어떻게 작용하는지 설명하며, 이를 통해 PTM이 어떻게 면역 반응에 영향을 미치는지 이해할 수 있습니다. 이에 따라, 세 가지 유형의 방법을 소개하고 각 방법의 장단점을 설명합니다. 이는 단백질 분석, 면역학적 분석, 그리고 면역 반응에 대한 이해를 높이는 데 도움이 됩니다.",
+      "quantitative_results": "논문에서는 PTM이 자가면역 질환에서 작용하는 방식을 설명하며, 이를 통해 특정 질환에서 PTM이 작용하는 방식을 이해할 수 있습니다. 이는 질환의 진단과 치료에 도움이 될 것입니다.",
+      "novelty": "이 논문은 기존 연구와는 다른 관점에서 PTM이 자가면역 질환에서 작용하는 방식을 설명하며, 이를 통해 새로운 이해를 제공합니다. 또한, 다양한 방법을 소개하여 PTM이 작용하는 방식을 이해하는 데 도움이 될 것입니다.",
+      "limitations": "논문에서는 PTM이 작용하는 방식을 설명하며, 이를 통해 특정 질환에서 PTM이 작용하는 방식을 이해할 수 있습니다. 그러나, 이는 특정 질환에 대한 연구이며, 모든 질환에 대한 확장은 불가능합니다. 또한, 이 연구는 실험 조건과 물질에 대한 정보를 제공하지 않습니다.",
+      "future_research": "이 논문은 PTM이 자가면역 질환에서 작용하는 방식을 이해하는 데 도움이 되며, 이를 통해 새로운 치료법을 개발할 수 있습니다. 이에 따라, 이 연구를 기반으로 한 후속 연구를 제안합니다. 이를 통해 PTM이 작용하는 방식을 더 깊이 이해하고, 이를 통해 새로운 치료법을 개발할 수 있습니다."
+    }
   },
   {
     "id": "doi:10.1002/pro.70774",
