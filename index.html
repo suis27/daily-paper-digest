@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>BioPaper Digest</title>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f5f7fa;
+  --card: #ffffff;
+  --text: #182230;
+  --muted: #667085;
+  --line: #e4e7ec;
+  --accent: #176b57;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  background: var(--bg);
+  color: var(--text);
+  font: 16px/1.65 system-ui, sans-serif;
+}
+header {
+  background: #123c35;
+  color: white;
+  padding: 30px 20px;
+}
+header, main { width: 100%; }
+.wrap { max-width: 1000px; margin: auto; }
+header h1 { margin: 0; font-size: 28px; }
+header p { margin-bottom: 0; color: #d2e8e0; }
+main { padding: 24px 16px 60px; }
+.controls {
+  display: grid;
+  grid-template-columns: 1fr 220px;
+  gap: 10px;
+  margin-bottom: 18px;
+}
+input, select {
+  width: 100%;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: 10px;
+  background: white;
+  color: var(--text);
+  font-size: 15px;
+}
+#status { color: var(--muted); margin: 12px 0; }
+.paper {
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  padding: 20px;
+  margin: 12px 0;
+}
+.meta { color: var(--muted); font-size: 13px; }
+.tag {
+  display: inline-block;
+  background: #e4f4ed;
+  color: #176b57;
+  border-radius: 20px;
+  padding: 3px 10px;
+  font-size: 12px;
+  margin-right: 6px;
+}
+h2 { font-size: 19px; line-height: 1.45; margin: 12px 0; }
+a { color: var(--accent); overflow-wrap: anywhere; }
+details { margin-top: 14px; }
+summary { cursor: pointer; font-weight: 600; }
+.abstract {
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  color: #344054;
+  font-size: 14px;
+}
+footer { color: var(--muted); font-size: 12px; margin-top: 28px; }
+@media(max-width: 600px) {
+  .controls { grid-template-columns: 1fr; }
+  header h1 { font-size: 23px; }
+  .paper { padding: 15px; }
+}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>BioPaper Digest</h1>
+    <p>Protein · Nucleic acids · Immunity · Drug delivery</p>
+    <p>매일 업데이트되는 생명과학 논문 라이브러리</p>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="controls">
+    <input id="search" type="search"
+      placeholder="논문 제목, 저자, 초록 검색">
+    <select id="topic">
+      <option value="">모든 연구 분야</option>
+      <option>Protein</option>
+      <option>Nucleic acids</option>
+      <option>Immunity</option>
+      <option>Drug delivery</option>
+    </select>
+  </div>
+
+  <div id="status">논문 데이터를 불러오는 중입니다...</div>
+  <section id="papers"></section>
+
+  <footer>
+    논문 메타데이터와 초록은 Europe PMC에서 수집합니다.
+    초록만으로는 모든 실험 세부사항을 확인할 수 없으므로
+    중요한 결론은 원문에서 검증하세요.
+  </footer>
+</main>
+
+<script>
+const search = document.getElementById("search");
+const topic = document.getElementById("topic");
+const statusBox = document.getElementById("status");
+const paperBox = document.getElementById("papers");
+let papers = [];
+
+function escapeHTML(value) {
+  return String(value ?? "").replace(/[&<>"']/g, ch => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
+  })[ch]);
+}
+
+function render() {
+  const q = search.value.trim().toLowerCase();
+  const selectedTopic = topic.value;
+
+  const filtered = papers.filter(p => {
+    const topics = String(p.topic || "").split(", ");
+    const matchesTopic = !selectedTopic || topics.includes(selectedTopic);
+    const text = [
+      p.title, p.authors, p.journal, p.abstract, p.topic
+    ].join(" ").toLowerCase();
+    return matchesTopic && text.includes(q);
+  });
+
+  statusBox.textContent =
+    `총 ${papers.length}편 중 ${filtered.length}편 표시`;
+
+  if (!filtered.length) {
+    paperBox.innerHTML =
+      "<p>조건에 맞는 논문이 없습니다. 검색어나 분야를 바꿔보세요.</p>";
+    return;
+  }
+
+  paperBox.innerHTML = filtered.map(p => `
+    <article class="paper">
+      <div>${String(p.topic || "").split(", ").map(t =>
+        `<span class="tag">${escapeHTML(t)}</span>`
+      ).join(" ")}</div>
+      <div class="meta">
+        ${escapeHTML(p.date || "날짜 미상")} ·
+        ${escapeHTML(p.journal || "저널 정보 없음")}
+      </div>
+      <h2>
+        <a href="${escapeHTML(p.url)}"
+           target="_blank" rel="noopener noreferrer">
+          ${escapeHTML(p.title)}
+        </a>
+      </h2>
+      <div class="meta">${escapeHTML(p.authors || "저자 정보 없음")}</div>
+      <details>
+        <summary>초록 및 요약 보기</summary>
+        <p><strong>초록 기반 안내</strong></p>
+        <p>${escapeHTML(p.summary || "")}</p>
+        <p class="abstract">${escapeHTML(p.abstract || "초록이 제공되지 않았습니다.")}</p>
+        ${p.doi ? `<p>DOI: <a href="https://doi.org/${escapeHTML(p.doi)}"
+          target="_blank" rel="noopener noreferrer">${escapeHTML(p.doi)}</a></p>` : ""}
+      </details>
+    </article>
+  `).join("");
+}
+
+async function init() {
+  try {
+    const response = await fetch("./papers.json", { cache: "no-store" });
+    if (!response.ok) throw new Error("논문 데이터 파일을 찾을 수 없습니다.");
+    papers = await response.json();
+    render();
+  } catch (err) {
+    statusBox.textContent =
+      "논문 데이터를 불러오지 못했습니다. 자동 배포가 완료됐는지 확인하세요.";
+    console.error(err);
+  }
+}
+
+search.addEventListener("input", render);
+topic.addEventListener("change", render);
+init();
+</script>
+</body>
+</html>
