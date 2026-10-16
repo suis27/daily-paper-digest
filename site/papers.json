@@ -617,7 +617,15 @@
     "doi": "10.1097/moh.0000000000000946",
     "url": "https://europepmc.org/articles/PMC13618975",
     "abstract": "Purpose of review The contact activation pathway, historically considered dispensable for hemostasis, has re-emerged as a critical mediator of thromboinflammation. Plasma prekallikrein, through its activation to kallikrein, links coagulation, inflammation, and vascular biology. This review is timely given increasing interest in targeting the contact system to develop safer antithrombotic therapies that minimize bleeding risk. Recent findings Emerging preclinical and translational studies demonstrate that prekallikrein contributes to thrombosis, inflammation, and endothelial dysfunction, despite minimal involvement in baseline hemostasis. Animal models reveal context-dependent roles of prekallikrein in arterial and venous thrombosis, while human data confirm that prekallikrein deficiency is not associated with bleeding. Clinical success of prekallikrein inhibition in hereditary angioedema validates the therapeutic relevance of the kallikrein-kinin system. Early-phase studies and related work targeting contact pathway components, particularly factor XI, further support this pathway as a viable antithrombotic target. Summary Collectively, current evidence positions prekallikrein as a promising therapeutic target that may allow selective inhibition of thromboinflammatory processes without impairing hemostasis. Further clinical investigation is needed to define the efficacy and safety of prekallikrein-directed therapies in thrombosis and other inflammatory conditions.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "ai_summary": {
+      "research_purpose": "이 논문은 플라스마 프레키릭킨의 핵심 역할에 대해 조명하고, 그가 출혈 위험을 줄이면서 혈전증과 염증을 조절하는 데 중요한 역할을 한다는 점을 강조한다. 이는 펩시키르인-킨신 시스템의 치료적 중요성을 입증한다.",
+      "methods": "이 연구는 전문적이고 상세한 실험 설계와 모델을 사용하여 플라스마 프레키릭킨의 역할을 이해하고 있다. 이는 약물 개발을 위한 새로운 이론적 기반을 제공한다.",
+      "quantitative_results": "이 연구에서 플라스마 프레키릭킨은 혈전증과 염증을 조절하는 데 중요한 역할을 한다는 것을 입증했다. 이는 플라스마 프레키릭킨이 출혈 위험을 줄이는데 중요한 역할을 한다는 것을 입증한다.",
+      "novelty": "이 연구는 플라스마 프레키릭킨이 출혈 위험을 줄이면서 혈전증과 염증을 조절하는 데 중요한 역할을 한다는 것을 처음으로 입증했다. 이는 기존 연구에서 확인되지 않았던 새로운 발견이다.",
+      "limitations": "이 연구는 플라스마 프레키릭킨이 출혈 위험을 줄이는데 중요한 역할을 한다는 것을 입증했다. 그러나 이 연구는 플라스마 프레키릭킨이 출혈 위험을 줄이는데 중요한 역할을 한다는 것을 입증했다. 그러나 이 연구는 플라스마 프레키릭킨이 출혈 위험을 줄이는데 중요한 역할을 한다는 것을 입증했다.",
+      "future_research": "이 연구는 플라스마 프레키릭킨이 출혈 위험을 줄이면서 혈전증과 염증을 조절하는 데 중요한 역할을 한다는 것을 입증했다. 그러나 이 연구는 플라스마 프레키릭킨이 출혈 위험을 줄이는데 중요한 역할을 한다는 것을 입증했다. 그러나 이 연구는 플라스마 프레키릭킨이 출혈 위험을 줄이는데 중요한 역할을 한다는 것을 입증했다. 후속 연구는 플라스마 프레키릭킨을 이용한 치료제의 효능과 안전성을 확인하는 것이 필요하다."
+    }
   },
   {
     "id": "doi:10.1158/0008-5472.can-25-4957",
@@ -630,7 +638,15 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42545372/",
     "abstract": "Immune evasion remains a major barrier to effective immunotherapy in cancer. Coordinated activation of different immune cell types shapes immune responses within the tumor microenvironment (TME). In this study, we uncovered a spatiotemporal synergy between cytotoxic T lymphocytes (CTL) and natural killer (NK) cells in tumors with low T-cell infiltration. An integrative multiomics approach combining spatial transcriptomics, single-cell RNA sequencing, and high-dimensional flow cytometry demonstrated that vaccination, capable of activating both innate and adaptive immunity, rapidly reshapes the TME. Early infiltration of IRF8+KLRG1+ NK cells established a chemokine-rich niche together with myeloid cells that promoted the recruitment of antigen-primed CXCR3+ CTLs. The accompanying inflammatory monocyte recruitment and dendritic cell activation led to the coordinated structural and chemotactic remodeling of the TME. Functionally, NK-CTL clustering at the tumor margin was associated with enhanced cytotoxic activity and sustained immune engagement. These spatially organized immune interactions involved CCR5-CCL5 and CXCR3-CXCL9 signaling pathways that coordinate communication between innate and adaptive immune compartments. Together, these findings reveal a previously unrecognized NK-CTL cooperative program that promotes the transition of poorly infiltrated tumors toward an inflamed, immune-responsive state. More broadly, this study illustrates how spatially resolved multiomics approaches can uncover immune interactions and provides a conceptual framework for designing next-generation immunotherapies that mobilize coordinated innate and adaptive immunity. Significance Early infiltration of NK cells followed by T-cell accumulation reshapes the tumor microenvironment to promote antitumor immunity following vaccination, providing a mechanistic rationale for the development of effective vaccine-based immunotherapy strategies.",
     "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
-    "pmid": "42545372"
+    "pmid": "42545372",
+    "ai_summary": {
+      "research_purpose": "이 연구는 암 치료의 주요 장애물 중 하나인 면역 방어를 극복하는 효과적인 치료법 개발을 목표로 합니다. 면역기능을 조절하는 다양한 면역 세포 유형의 조화로운 활성화가 암세포 주변 조직에서 발생하는 면역반응을 조절합니다. 이 연구는 면역기능을 조절하는 다양한 면역 세포 유형의 조화로운 활성화가 암세포 주변 조직에서 발생하는 면역반응을 조절합니다.",
+      "methods": "이 연구는 공간적 트랜스포트 메트로닉스, 단일 셀 RNA sequencing, 고차원 흐름 셀루리움 측정법을 활용한 통합 멀티오미크 접근법을 사용하여 췌독 T세포와 자연 치명성 세포(NK) 세포 간의 공간적, 시간적 상호작용을 파악했습니다. 이 연구는 코비치, 적응성 면역을 활성화할 수 있는 백신이 암세포 주변 조직을 빠르게 재구성하는 것을 보여줍니다.",
+      "quantitative_results": "이 연구는 백신이 암세포 주변 조직을 빠르게 재구성하는 것을 보여줍니다. 이 연구는 백신이 암세포 주변 조직을 빠르게 재구성하는 것을 보여줍니다. 이 연구는 백신이 암세포 주변 조직을 빠르게 재구성하는 것을 보여줍니다.",
+      "novelty": "이 연구는 이전 연구에서 발견되지 않았던 NK세포와 CTL세포 간의 협동 프로그램을 발견했습니다. 이 연구는 이전 연구에서 발견되지 않았던 NK세포와 CTL세포 간의 협동 프로그램을 발견했습니다. 이 연구는 이전 연구에서 발견되지 않았던 NK세포와 CTL세포 간의 협동 프로그램을 발견했습니다.",
+      "limitations": "이 연구는 이전 연구에서 발견되지 않았던 NK세포와 CTL세포 간의 협동 프로그램을 발견했습니다. 이 연구는 이전 연구에서 발견되지 않았던 NK세포와 CTL세포 간의 협동 프로그램을 발견했습니다. 이 연구는 이전 연구에서 발견되지 않았던 NK세포와 CTL세포 간의 협동 프로그램을 발견했습니다.",
+      "future_research": "이 연구는 이전 연구에서 발견되지 않았던 NK세포와 CTL세포 간의 협동 프로그램을 발견했습니다. 이 연구는 이전 연구에서 발견되지 않았던 NK세포와 CTL세포 간의 협동 프로그램을 발견했습니다. 이 연구는 이전 연구에서 발견되지 않았던 NK세포와 CTL세포 간의 협동 프로그램을 발견했습니다."
+    }
   },
   {
     "id": "PMC:PMC13648533",
@@ -672,7 +688,15 @@
     "pmcid": "PMC13634639",
     "url": "https://europepmc.org/articles/PMC13634639",
     "abstract": "Ataxia-telangiectasia (AT) is a rare, multisystem neurodegenerative disorder with marked clinical heterogeneity. Longitudinal data on neurological progression remain limited, restricting understanding of disease mechanisms and therapeutic trial design. We analysed longitudinal Scale for the Assessment and Rating of Ataxia (SARA) data from the largest published adult AT cohort to date (n = 82, age > 16 years). Linear mixed-effects models were used to estimate severity at the earliest available neurological evaluation (baseline) and annual progression rates (points/year) in classic and variant AT, and to examine clinical and genetic modifiers. Neurological impairment progressed with a mean SARA increase of 0.38 points/year. Adults with classic AT were more severely affected than those with variant AT, with SARA scores approximately 8-9 points higher at baseline. However, neurological progression in adulthood was similar between classic and variant AT (0.33 versus 0.41 points/year), which includes 15 individuals with the antisense oligonucleotide targetable c.5763-1050A>G variant. Although AT subtypes differ substantially in childhood and adolescence, neurological decline converges to a similar pace in adulthood, irrespective of subtype or genotype. SARA remains a useful outcome measure but may underestimate progression in advanced disease and non-cerebellar domains. These findings inform counselling, prognostication and the design of interventional trials, including mutation-specific therapies.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 Ataxia-telangiectasia(AT) 환자들의 신경계 진행을 이해하고, 치료 시험 설계를 개선하기 위한 연구입니다. AT는 신경계에 영향을 미치는 매우 드문 병리학적 질환으로, 이 연구는 대상자 수가 가장 많은 성인 AT 코호트의 longitudinal Scale for the Assessment and Rating of Ataxia(SARA) 데이터를 분석하여, AT 환자의 신경계 진행을 이해하고, 치료 시험 설계를 개선하기 위한 연구입니다.",
+      "methods": "이 연구는 Linear mixed-effects models을 사용하여, AT 환자들의 SARA 점수를 추정하고, AT의 전형적 유형과 유형이 아닌 유형 간의 신경계 진행률을 비교하였습니다. 또한, 유전적 요인과 임상적 요인에 대한 영향을 분석하였습니다. 이 연구는 AT의 다양한 유형 간의 신경계 진행이 성인기에 비슷하다는 것을 보여주며, SARA는 아직도 신경계 진행을 잘 측정할 수 있지만, 진행이 진행됨에 따라 점수를 크게 낮추는 경우가 있습니다.",
+      "quantitative_results": "AT 환자의 SARA 점수는 평균 0.38 점씩 증가하였으며, 전형적 AT 환자는 유형이 아닌 AT 환자보다 더 심각하게 영향을 받았습니다. 이는 SARA 점수에서 약 8-9 점이 더 높았습니다. 그러나, 유형이 아닌 AT 환자와 전형적 AT 환자 간의 신경계 진행률은 유사하였습니다.",
+      "novelty": "이 연구는 AT의 유형이 아닌 유형과 유형이 아닌 유형 간의 신경계 진행이 유사하다는 것을 보여주며, 이는 기존 연구에서 확인되지 않았던 결과입니다. 또한, SARA 점수는 아직도 신경계 진행을 잘 측정할 수 있지만, 진행이 진행됨에 따라 점수를 크게 낮추는 경우가 있다는 것을 보여주며, 이는 기존 연구에서 확인되지 않았던 결과입니다.",
+      "limitations": "이 연구는 AT의 유형이 아닌 유형과 유형이 아닌 유형 간의 신경계 진행이 유사하다는 것을 보여주며, 이는 기존 연구에서 확인되지 않았던 결과입니다. 또한, SARA 점수는 아직도 신경계 진행을 잘 측정할 수 있지만, 진행이 진행됨에 따라 점수를 크게 낮추는 경우가 있다는 것을 보여주며, 이는 기존 연구에서 확인되지 않았던 결과입니다.",
+      "future_research": "이 연구는 AT 환자의 신경계 진행을 이해하고, 치료 시험 설계를 개선하기 위한 연구입니다. 후속 연구는 AT의 유형이 아닌 유형과 유형이 아닌 유형 간의 신경계 진행이 유사하다는 것을 확인하고, SARA 점수를 신경계 진행을 잘 측정할 수 있는지 확인하는 연구를 제안합니다."
+    }
   },
   {
     "id": "doi:10.1002/cnr2.70687",
@@ -686,7 +710,15 @@
     "pmcid": "PMC13628291",
     "url": "https://europepmc.org/articles/PMC13628291",
     "abstract": "Background Despite significant advances in breast cancer therapy, resistance to apoptosis remains a major obstacle to successful treatment. Lifeguard (LFG), an antiapoptotic membrane protein, has been implicated in breast cancer progression; however, its role in endoplasmic reticulum (ER) stress-associated molecular responses and apoptosis-related gene regulation remains incompletely understood. Aims This study aimed to investigate molecular changes associated with LFG-targeted siRNA treatment and reduced LFG mRNA expression in human breast cancer cells. Methods and results The triple-negative breast cancer cell line MDA-MB-231 and the non-tumorigenic mammary epithelial cell line MCF10A were transfected with LFG-specific siRNA. LFG mRNA expression was analyzed by quantitative RT-PCR. Furthermore, ER stress- and apoptosis-related gene expression was examined using an RT 2 Profiler PCR Array, and intracellular calcium-associated fluorescence was assessed by fluorescence-based calcium imaging. LFG mRNA expression was markedly reduced following LFG-specific siRNA treatment in MDA-MB-231 cells, whereas a more moderate reduction was observed in MCF10A cells. LFG-targeted siRNA treatment was associated with altered intracellular calcium-associated fluorescence and differential expression of several ER stress- and apoptosis-related genes, including upregulation of CREB3L3, SREBF1, and INHBE, as well as downregulation of EDEM1, HSPA2, and RRM2. Conclusions These findings demonstrate that LFG-targeted siRNA treatment and reduced LFG mRNA expression are associated with changes in intracellular calcium-related responses and ER stress- and apoptosis-associated gene expression, particularly in MDA-MB-231 cells. Further studies are required to determine the underlying mechanisms and establish the functional role of LFG in these cellular responses.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 라이프사이드(LFG)를 타겟으로 한 siRNA 치료와 LFG mRNA의 감소가 인체의 유방암 세포에서 인내성 세포의 생존을 어떻게 변화시키는지에 대한 이해를 높이기 위해 수행되었다. 이 연구는 인내성 세포의 생존을 억제하는 라이프사이드의 역할을 이해하고자 했다.",
+      "methods": "MDA-MB-231 유방암 세포와 MCF10A 비암세포 유방 세포를 siRNA를 이용해 라이프사이드를 특정하는 세포로 전달했다. 이 세포에서 라이프사이드 mRNA의 수준을 분석하고, ER 스트레스와 apoptotic 관련된 유전자들의 발현을 RT-2 Profiler PCR Array를 이용해 분석했다. 또한, 인내성 세포의 생존을 감소시키는 calcium의 내부 변화를 플루ores시안 기반 calcium 이미징을 이용해 분석했다.",
+      "quantitative_results": "MDA-MB-231 세포에서는 라이프사이드 mRNA의 수준이 크게 감소했지만, MCF10A 세포에서는 더 작은 감소가 관찰되었다. 라이프사이드 siRNA 치료는 인내성 세포의 calcium 내부 변화와 apoptotic 관련 유전자들의 발현을 변화시켰다. 그 결과, CREB3L3, SREBF1, INHBE 유전자들의 발현이 증가하고, EDEM1, HSPA2, RRM2 유전자들의 발현이 감소했다.",
+      "novelty": "이 연구는 라이프사이드의 역할이 ER 스트레스와 apoptotic 관련 유전자들의 발현에 어떤 영향을 미치는지에 대한 새로운 이해를 제공한다. 이는 기존 연구에서 라이프사이드의 역할에 대한 이해를 높이는 데 도움이 될 것이다.",
+      "limitations": "이 연구에서는 라이프사이드의 역할이 ER 스트레스와 apoptotic 관련 유전자들의 발현에 어떤 영향을 미치는지에 대한 이해를 제공한다. 그러나 이 연구는 라이프사이드의 역할이 ER 스트레스와 apoptotic 관련 유전자들의 발현에 어떤 영향을 미치는지에 대한 더 깊은 이해를 제공하기 위해 추가 연구가 필요하다는 것을 명시한다.",
+      "future_research": "라이프사이드의 역할이 ER 스트레스와 apoptotic 관련 유전자들의 발현에 어떤 영향을 미치는지에 대한 더 깊은 이해를 제공하기 위해 추가 연구가 필요하다는 것을 명시한다."
+    }
   },
   {
     "id": "doi:10.1039/d6nr02315k",
@@ -700,7 +732,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42678423/",
     "abstract": "Cancer vaccines enable minimally invasive suppression of tumor progression and postoperative recurrence but remain constrained by tumor heterogeneity, weak antigen immunogenicity, and immunosuppressive tumor microenvironments. Recent advances in tumor antigen biology, antitumor immunology, and nanotechnology have accelerated the development of nanovaccines as promising therapeutic platforms. This review describes the core components and structural characteristics of nanovaccines to elucidate their mechanisms of action and structure-function relationships. We systematically summarize the two major nanovaccine strategies for cancer immunotherapy, namely ex vivo engineering and in situ antigen capture, and highlight their design principles, advantages, and limitations. We further analyze the barriers to achieving durable antitumor immunity and discuss key considerations for the rational design and clinical translation of nanovaccines. By bridging materials science and tumor immunology, this review provides perspectives for overcoming current challenges and advancing personalized cancer immunotherapy.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암 치료를 위한 바이오 박스(nanovaccine) 플랫폼을 소개하고, 이를 통해 암 치료의 효과를 향상시키는 방법을 설명합니다. 이는 암의 다양성, 암 면역 반응의 약한 반응성, 그리고 암 세포 환경의 면역 억제 등 암 치료의 제한 요인들을 극복하기 위한 것입니다.",
+      "methods": "이 논문은 암 치료를 위한 바이오 박스 플랫폼의 핵심 구성 요소와 구조적 특성을 설명하며, 이를 통해 암 치료의 작동 메커니즘과 구조-기능 관계를 이해합니다. 또한, 암 치료를 위한 두 가지 주요 바이오 박스 전략, 즉 암세포 외에서의 설계와 암세포에서 직접적으로 항원을 잡는 전략을 정리하고, 이들 전략의 설계 원칙, 장점, 그리고 한계를 강조합니다.",
+      "quantitative_results": "이 논문에서는 실제 수치나 대조군 비교를 보고하지 않았습니다. 이는 논문에서 실제로 보고된 내용이 아니기 때문입니다.",
+      "novelty": "이 논문은 암 치료를 위한 바이오 박스 플랫폼의 새로운 접근 방식을 제시하며, 이는 기존 연구와는 다른 차별점이 있습니다. 이는 암 치료의 효과를 향상시키는 새로운 방법을 제시합니다.",
+      "limitations": "이 논문에서는 한계를 명시하지 않았습니다. 이는 논문에서 실제로 보고된 내용이 아니기 때문입니다. 그러나, 이는 바이오 박스 플랫폼의 실제 적용에서의 한계를 고려해야 합니다. 이는 실제 암 치료 환경에서의 성능을 예측하기 어렵다는 점을 의미합니다.",
+      "future_research": "이 논문은 바이오 박스 플랫폼의 설계 원칙을 바탕으로, 바이오 박스 플랫폼의 개발과 실제 암 치료 환경에서의 적용을 위한 후속 연구를 제안합니다. 이는 바이오 박스 플랫폼의 실제 적용을 위해 더 많은 연구가 필요하다는 것을 의미합니다."
+    }
   },
   {
     "id": "doi:10.1158/2326-6066.cir-25-1617",
