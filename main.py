@@ -268,6 +268,31 @@ def main():
         key=lambda p: p.get("date", ""),
         reverse=True,
     )
+     # 아직 AI 요약이 없는 최신 논문부터 순서대로 처리한다.
+    pending = [
+        paper for paper in all_papers
+        if not paper.get("ai_summary")
+    ]
+
+    for paper in pending[:MAX_SUMMARIES_PER_RUN]:
+        try:
+            print(f"[AI 요약 시작] {paper['title']}")
+
+            summary = summarize_paper(paper)
+
+            if summary:
+                paper["ai_summary"] = summary
+                print(f"[AI 요약 완료] {paper['title']}")
+
+        except (
+            requests.RequestException,
+            ValueError,
+            KeyError,
+            TypeError,
+        ) as exc:
+            print(
+                f"[AI 요약 실패] {paper.get('title', '')}: {exc}"
+            )
 
     DATA_FILE.write_text(
         json.dumps(all_papers, ensure_ascii=False, indent=2),
