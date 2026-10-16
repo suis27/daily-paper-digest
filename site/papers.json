@@ -21,7 +21,8 @@
     "doi": "",
     "url": "https://europepmc.org/articles/PMC13651604",
     "abstract": "",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmcid": "PMC13651604"
   },
   {
     "id": "PMC:PMC13646910",
@@ -33,7 +34,8 @@
     "doi": "",
     "url": "https://europepmc.org/articles/PMC13646910",
     "abstract": "",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmcid": "PMC13646910"
   },
   {
     "id": "PMC:PMC13647171",
@@ -72,6 +74,34 @@
     "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
   },
   {
+    "id": "PMC:PMC13645587",
+    "title": "Plasma membrane proteomics reveals mechanism of low potassium tolerance in two contrasting maize genotypes",
+    "topic": "Protein",
+    "date": "2026-10-09",
+    "journal": "",
+    "authors": "Zhong M, Chen S, Yang X, Wang X, Li S, Jiao D, Zou F, Li J, Ruan Y, Guo Z, Garcia-Caparros P.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13645587",
+    "url": "https://europepmc.org/articles/PMC13645587",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13648266",
+    "title": "Lipid Nanoparticle Surface Engineering with Heparosan Polysaccharides Enhances mRNA Efficacy via Reduced Endosomal Retention",
+    "topic": "Drug delivery",
+    "date": "2026-10-09",
+    "journal": "",
+    "authors": "He Y, Wang L, Williams A, Valerio T, Sun Y, Bowman J, Ricketts S, Hammond S, Sison A, Alexandre J, Niastor Z, Chen W, Green D, Fung K, DeAngelis P, Wilhelm S.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13648266",
+    "url": "https://europepmc.org/articles/PMC13648266",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.64898/2026.10.07.757460",
     "title": "Programming N-linked glycan composition through de novo protein design",
     "topic": "Protein",
@@ -81,7 +111,15 @@
     "doi": "10.64898/2026.10.07.757460",
     "url": "https://doi.org/10.64898/2026.10.07.757460",
     "abstract": "N-linked glycans are ubiquitous post-translational modifications that mediate diverse biological processes, including cell signaling and adhesion, molecular recognition, and host-pathogen interactions. Despite their importance, N-linked glycans have largely remained beyond the reach of biomolecular design due to a lack of methods capable of jointly modeling glycans and protein structure. Here, we develop a general all-atom computational pipeline for creating de novo glycoproteins in which the amino acid sequence encodes both the location and composition of N-linked glycans. The method uses three-dimensional protein structure to tune glycan accessibility to processing enzymes in the eukaryotic secretory pathway. Systematic increases in steric restriction progressively reduced processing, shifting glycans from heterogeneous complex-type structures toward increasingly underprocessed oligomannose-type species resembling those found on many viral glycoproteins. Despite this programmed restriction, the resulting oligomannose glycans remained accessible for biological recognition, inhibiting uropathogenic Escherichia coli adhesion to human bladder cells and binding mannose-binding lectin. These results establish steric control of N-glycan processing as a genetically encodable design principle and extend computational protein design to functional glycoproteins with programmed composition.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "ai_summary": {
+      "research_purpose": "이 연구는 단백질의 N-linked 글로불산을 유전적으로 설계하여 다양한 생물학적 과정을 조절할 수 있는 방법을 개발하고자 함으로써, 단백질 설계 분야에서 새로운 지평을 열고자 합니다.",
+      "methods": "연구자들은 단백질의 3차원 구조를 사용하여 글로불산의 접근성을 조절하는 방법을 개발하였습니다. 이 방법은 단백질의 아미노산 순서를 이용하여 글로불산의 위치와 구성까지 포함합니다. 이 방법은 유전체 설계의 한계를 극복하고, 단백질과 글로불산을 동시에 설계할 수 있는 새로운 접근법을 제공합니다.",
+      "quantitative_results": "연구자들은 단백질의 글로불산 구성이 유전적으로 조절될 수 있음을 보여주었습니다. 이는 유전체 설계의 새로운 가능성을 열어주며, 이는 다양한 생물학적 과정을 조절하는 데 사용될 수 있습니다.",
+      "novelty": "이 연구는 단백질의 N-linked 글로불산을 유전적으로 설계하는 방법을 처음으로 제시하였습니다. 이 방법은 단백질 설계 분야에서 새로운 지평을 열고, 단백질과 글로불산을 동시에 설계할 수 있는 접근법을 제공합니다.",
+      "limitations": "연구자들은 이 방법이 아직 실험실 환경에서만 확인되었으며, 실제 환경에서의 성능을 확인하기 위해서는 추가적인 연구가 필요합니다. 또한, 이 연구는 단백질의 N-linked 글로불산을 유전적으로 설계하는 방법을 처음으로 제시하였으므로, 이 방법의 확장성을 확인하기 위해서는 추가적인 연구가 필요합니다.",
+      "future_research": "이 연구는 유전체 설계의 새로운 가능성을 열어주었습니다. 앞으로는 이 방법을 더 많은 단백질에 적용하고, 다양한 생물학적 과정을 조절하는 데 사용할 수 있는 방법을 개발하는 연구가 필요합니다."
+    }
   },
   {
     "id": "PMC:PMC13642676",
@@ -132,6 +170,20 @@
     "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
   },
   {
+    "id": "PMC:PMC13643384",
+    "title": "Blood-based proteomics for schizophrenia: candidate biomarkers for risk assessment and precision psychiatry",
+    "topic": "Protein",
+    "date": "2026-10-08",
+    "journal": "",
+    "authors": "Kononikhin A, Bugrova A, Foliforova A, Indeykina M, Strelnikova P, Zakharova N, Morozova A, Kostyuk G, Nikolaev E.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13643384",
+    "url": "https://europepmc.org/articles/PMC13643384",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.64898/2026.10.06.756934",
     "title": "Generalizing Protein Fitness Prediction Across Distribution Shifts via Structural and Co-evolutionary Priors",
     "topic": "Protein",
@@ -141,7 +193,71 @@
     "doi": "10.64898/2026.10.06.756934",
     "url": "https://doi.org/10.64898/2026.10.06.756934",
     "abstract": "Protein fitness prediction is essential for protein engineering. Recent fitness-landscape benchmarks such as FLIP2 have shown that methods performing well under conventional train-test splits can fail when the test set is shifted out of distribution (OOD), including mutations at unseen positions and variants from unseen protein backbones. In particular, current protein language models (pLMs) often suffer substantial performance degradation under such distribution shifts, limiting their practical use in protein engineering. We therefore develop a framework that augments sequence representations with structural and co-evolutionary information for fitness prediction. Specifically, we pair structure-aware pLMs with features pooled from an AlphaFold-style trunk applied to each sequence and its multiple sequence alignment (MSA), and use a lightweight prediction probe to map these frozen representations to fitness scores. Our framework consistently outperforms the best previously reported FLIP2 scores across several types of distribution shift. We then systematically study the contribution of each component in our framework to generalization. Structural priors yield the largest performance gains on held-out protein backbones, whereas trunk features improve generalization to held-out mutation positions. Rather than proposing a single best method, we characterize which modalities are effective for different protein families and distribution shifts, providing practical guidance for choosing representations according to the generalization regime. These findings support the development of more generalizable fitness predictors that can serve as effective reward functions or oracles for protein design toward desired functions.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "ai_summary": {
+      "research_purpose": "이 연구는 단백질 엔지니지에서 단백질의 생존력을 예측하는 데 필요한 중요한 역할을 수행하는 방법을 개발하고자 합니다. 현재의 단백질 언어 모델은 분포 이동에서 성능이 크게 저하되는 문제를 겪고 있습니다. 이를 해결하기 위해, 구조 정보와 상호 진화 정보를 단백질의 시퀀스 표현에 추가하여 생존력을 예측하는 방법을 개발하였습니다.",
+      "methods": "우리는 구조 인식 단백질 언어 모델과 각 시퀀스와 그 여러 시퀀스 대조 (MSA)에서 추출한 트렁크의 특징을 결합하여 생존력을 예측하는 모델을 개발하였습니다. 이 모델은 추정된 특징을 사용하여 추정된 표현을 생존점수로 변환하였습니다. 이 모델은 FLIP2의 최고 보고된 점수를 상대적으로 개선하였습니다.",
+      "quantitative_results": "우리의 모델은 다양한 분포 이동에서 FLIP2의 최고 보고된 점수를 상대적으로 개선하였습니다. 각 구성 요소의 기여도를 연구하여 구조 정보가 생존력을 예측하는 데 가장 큰 성능 향상을 제공하고, 트렁크 특징이 생존 위치에서의 생존 위치 이동을 일반화하는 데 도움이 된다는 것을 발견하였습니다.",
+      "novelty": "기존 연구와는 달리, 우리는 각 단백질 가족과 분포 이동에 대한 효과적인 모드를 개발하여 단백질 디자인에 대한 효과적인 보상 함수 또는 오라클을 제공하는 방법을 개발하였습니다. 이 연구는 단백질 엔지니지에서 더 일반화 가능한 생존력 예측자를 개발하는 데 도움이 될 것입니다.",
+      "limitations": "이 연구는 구조 정보와 상호 진화 정보가 단백질의 생존력을 예측하는 데 얼마나 중요한지를 결정하는 데 필요한 데이터를 제공하지 않았습니다. 또한, 이 연구는 단백질의 생존력을 예측하는 데 필요한 구조 정보와 상호 진화 정보를 어떻게 사용해야 하는지에 대한 구체적인 지침을 제공하지 않았습니다.",
+      "future_research": "이 연구는 단백질 엔지니지에서 더 일반화 가능한 생존력 예측자를 개발하는 데 도움이 될 것입니다. 이를 위해, 더 많은 데이터를 수집하고, 다양한 단백질 가족과 분포 이동에 대한 더 많은 연구를 수행하여 구조 정보와 상호 진화 정보가 단백질의 생존력을 예측하는 데 얼마나 중요한지를 결정하는 데 필요한 데이터를 제공해야 합니다. 또한, 구조 정보와 상호 진화 정보를 어떻게 사용해야 하는지에 대한 구체적인 지침을 제공하는 연구를 수행해야 합니다."
+    }
+  },
+  {
+    "id": "PMC:PMC13640516",
+    "title": "Toward Optimized Proteomics Analysis to Detect Bacterial and Host Proteins in Calcified Coronary Artery Plaques",
+    "topic": "Protein",
+    "date": "2026-10-07",
+    "journal": "",
+    "authors": "Musta K, Ojanen M, Stensland M, Kankaanranta J, Lehtimäki T, Karhunen P, Nyman T, Hytönen V.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13640516",
+    "url": "https://europepmc.org/articles/PMC13640516",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13638558",
+    "title": "Comparative proteomics reveals hydrogenase-centered steel-dependent growth and corrosion in Desulfovibrio vulgaris and Desulfovibrio ferrophilus",
+    "topic": "Protein",
+    "date": "2026-10-07",
+    "journal": "",
+    "authors": "Raghunatha Reddy L, Jehmlich N, Fiskal A, Fischer C, Ternes T, Meier J, Wick A.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13638558",
+    "url": "https://europepmc.org/articles/PMC13638558",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13640419",
+    "title": "Integrated Proteomics and Metabolomics Can Shed Light on Potential Biomarkers of Inflammation and Infection in Chicken Embryos as an Experimental Model",
+    "topic": "Protein",
+    "date": "2026-10-07",
+    "journal": "",
+    "authors": "Sommerfeld S, Souza H, Martins M, Picolo B, Pedrosa I, Silva B, Strack A, Silva Vieira D, Gomes L, da Silva M, Aguiar de Souza Penha V, Fonseca B.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13640419",
+    "url": "https://europepmc.org/articles/PMC13640419",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13640137",
+    "title": "hnRNPs in immunity: from nucleic acid sensing to lymphocyte fate determination",
+    "topic": "Nucleic acids",
+    "date": "2026-10-07",
+    "journal": "",
+    "authors": "Zhang D, Lei J, Tang S, Dong S, Lei X, Yuan L, Cao X.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13640137",
+    "url": "https://europepmc.org/articles/PMC13640137",
+    "abstract": "",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "PMC:PMC13635165",
@@ -165,7 +281,36 @@
     "doi": "",
     "url": "https://europepmc.org/articles/PMC13635662",
     "abstract": "",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmcid": "PMC13635662"
+  },
+  {
+    "id": "PMC:PMC13637160",
+    "title": "Efficacy and exploratory treatment-response modeling of acupuncture for acute migraine based on DIA proteomics: a study protocol for a randomized controlled trial",
+    "topic": "Protein",
+    "date": "2026-10-06",
+    "journal": "",
+    "authors": "Zhang Q, Liu M, Xu F, Jiang H.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13637160",
+    "url": "https://europepmc.org/articles/PMC13637160",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13634939",
+    "title": "Mitochondria affect antibacterial immunity in cross talk with innate immune response molecules coded by genes of nuclear origin",
+    "topic": "Immunity",
+    "date": "2026-10-06",
+    "journal": "",
+    "authors": "Chakraborty A, Pal A, Debnath M, Sahu J, Pal A, Mukherjee J, Samanta R, Chatterjee P.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13634939",
+    "url": "https://europepmc.org/articles/PMC13634939",
+    "abstract": "",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1080/17576180.2026.2739128",
@@ -177,7 +322,16 @@
     "doi": "10.1080/17576180.2026.2739128",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42830509/",
     "abstract": "The expanding landscape of therapeutic modalities, including monoclonal antibodies and oligonucleotide-based drugs, has created a need for sensitive and efficient bioanalytical strategies. Traditional blood sampling approaches pose significant limitations, including volume constraints, patient burden, and increased study complexity. Microsampling provides a transformative alternative, enabling low-volume (<100 µL), minimally invasive sample collection while supporting serial sampling and improved translational study design. This review highlights recent advances in microsampling techniques, including dried blood spots (DBS), volumetric absorptive microsampling (VAMS), and capillary microsampling (CMS), with focus on applications to protein therapeutics and oligonucleotides. Selected biomarker and protein/proteomics applications are also discussed where they provide practical insight into microsampling implementation for larger modalities. Key challenges, including hematocrit effects, recovery, matrix-dependent bias, stability, collection-site effects, and sensitivity limitations, are discussed alongside innovations in hybridization-based extraction, ligand-binding assays, and LC-MS workflows that enable reliable quantitation in microliter-scale samples. Despite these advances, broader implementation in regulated settings remains limited by regulatory considerations and the need to demonstrate concordance with conventional sampling. Ongoing efforts to harmonize best practices and improve analytical robustness are expected to accelerate adoption. Overall, microsampling offers opportunities to reduce burden, enhance efficiency, and expand access to high-quality PK data across emerging therapeutic modalities.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42830509",
+    "ai_summary": {
+      "research_purpose": "이 논문은 단백질 치료제와 화합체 약물에 대한 정확한 분석을 위해 현대적인 보조 샘플링 기술의 발전을 조명하고 있습니다. 기존의 혈액 샘플링 방법이 제한적일 뿐만 아니라, 환자에게 부담이 되고 복잡성을 증가시키는 문제점을 가지고 있어, 이에 대처하기 위한 새로운 기술이 필요하다는 점을 강조하고 있습니다.",
+      "methods": "논문은 주로 dried blood spots (DBS), volumetric absorptive microsampling (VAMS), 및 capillary microsampling (CMS) 기술에 초점을 맞추고 있습니다. 이들 기술은 단백질 치료제와 화합체 약물에 대한 정확한 분석을 가능하게 합니다. 논문은 이 기술들이 단백질 치료제와 화합체 약물에 대한 신약 개발 및 임상 연구에 어떻게 적용되는지에 대해 설명하고 있습니다.",
+      "quantitative_results": "논문에서는 이 기술들이 단백질 치료제와 화합체 약물에 대한 정확한 분석을 가능하게 한다는 점을 강조하고 있습니다. 그러나 이 기술들이 사용되는 데 있어 아직도 여러 제약이 존재한다는 점을 지적하고 있습니다.",
+      "novelty": "논문은 기존 연구와 비교하여 새로운 기술을 소개하고 있습니다. 이 기술들은 기존의 혈액 샘플링 방법보다 더 작은 샘플 크기로도 정확한 분석을 가능하게 합니다. 또한, 이 기술들은 단백질 치료제와 화합체 약물에 대한 신약 개발 및 임상 연구에 더 효율적인 방법을 제공합니다.",
+      "limitations": "논문에서는 기존 연구와 비교하여 이 기술들이 아직도 여러 제약이 존재한다는 점을 지적하고 있습니다. 이 기술들은 혈액 샘플링에 대한 제약, 환자에 대한 부담, 샘플링의 복잡성 등이 있습니다. 또한, 이 기술들이 정확한 분석을 가능하게 하는 데 있어 아직도 한계가 존재한다는 점도 지적하고 있습니다.",
+      "future_research": "논문은 이 기술들이 더 넓은 범위에서 더 잘 작동하도록 개선되어야 한다는 점을 지적하고 있습니다. 또한, 이 기술들이 더 많은 환자들에게 적용될 수 있도록 더 많은 연구가 필요하다는 점도 강조하고 있습니다. 이 기술들이 더 넓은 범위에서 더 잘 작동하도록 개선되어야 하며, 이를 위해 더 많은 연구가 필요합니다."
+    }
   },
   {
     "id": "doi:10.1080/07853890.2026.2738261",
@@ -189,7 +343,15 @@
     "doi": "10.1080/07853890.2026.2738261",
     "url": "https://europepmc.org/articles/PMC13644424",
     "abstract": "Background Ovarian, cervical and endometrial cancers have been the leading cause of morbidity and mortality in women, often resulting from late diagnosis, resistance to therapies and off-target toxicity of conventional therapies. Discussion The review discusses recent progress in the development of dual-targeted nanocarrier systems in gynaecologic oncology, relying on peer-reviewed publications in scientific databases published within the past decade. Applications of these systems are also discussed in terms of the potential to improve the selectivity and therapeutic efficiency of tumour therapy. Major available evidence is based on preclinical in vitro and in vivo models. Clinical translation is in its early-phase trials, suggesting clinical validation in gynaecologic oncology remains in its infancy. The most important challenges in translation are scalable manufacturing, long-term safety, biological complexity and regulatory challenges. Conclusion This review describes the prevailing situation and constraints of dual-targeted nanotechnology, focusing on possible applications in the development of more accurate and individualized therapies for gynaecologic cancers.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "ai_summary": {
+      "research_purpose": "이 논문은 여성의 난소암, 자궁경암, 자궁경부암이 유발되는 늦은 진단, 치료제 저항, 전통 치료법의 오차전달로 인한 부작용 등으로 인해 여성의 질병과 사망률을 높이고 있는 문제를 해결하기 위해, 여성의생殖기종양학 분야에서 두 개의 표적을 가진 다중 표적 박테리아 운반체 시스템의 최근 진보를 조사하고 있습니다.",
+      "methods": "이 연구는 최근 10년 동안 과학 데이터베이스에서 출판된 학술 저널에서의 논문을 기반으로 합니다. 이 시스템의 잠재적인 투자 가능성을 평가하기 위해 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다. 이 시스템의 잠재적인 투자 가능성을 평가하기 위해 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다.",
+      "quantitative_results": "이 논문에서는 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다. 이 시스템의 잠재적인 투자 가능성을 평가하기 위해 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다.",
+      "novelty": "이 연구는 전통적인 치료법과 비교하여 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다. 이 시스템의 잠재적인 투자 가능성을 평가하기 위해 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다.",
+      "limitations": "이 연구는 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다. 이 연구는 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다. 이 연구는 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다.",
+      "future_research": "후속 연구는 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다. 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가하기 위해 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다."
+    }
   },
   {
     "id": "doi:10.1016/j.jconrel.2026.115431",
@@ -201,7 +363,30 @@
     "doi": "10.1016/j.jconrel.2026.115431",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42829049/",
     "abstract": "Many genetic and rare diseases are molecularly defined but remain difficult to treat because their biology involves intracellular targets, toxic gain-of-function mechanisms, splicing defects, repeat expansions, or chemically undruggable pathways. Although RNA medicines can be designed directly from genetic information, their clinical success depends on delivery architecture rather than sequence design alone. This review examines delivery architectures for oligonucleotide therapeutics, using GalNAc-siRNA as the central clinically validated model. The GalNAc-siRNA platform demonstrates how receptor selection, ligand presentation, linker design, chemical stabilization, intracellular persistence, PK/PD properties, dosing, and safety monitoring enable durable subcutaneous hepatocyte pharmacology. As of July 18, 2026, seven FDA-approved GalNAc-siRNA drugs validated this paradigm. We compare extrahepatic strategies for the CNS, muscle, eye, lung, kidney, immune cells, and adipose tissue. Intrathecal C16-siRNA and TfR1-directed antibody-oligonucleotide conjugates are among the most advanced extrahepatic approaches. Inhaled pulmonary RNAi has generated human PD and entered Phase 2a development; divalent CNS siRNA has entered Phase 1; adipose RNAi is in Phase 1/2a; ocular and kidney synthetic-siRNA platforms remain preclinical, whereas immune-cell delivery remains early translational. Antisense oligonucleotide and phosphorodiamidate morpholino oligomer examples illustrate shared delivery principles, including GalNAc-mediated hepatocyte targeting, TfR1-mediated muscle uptake, and local central nervous system and ocular administration. Rather than comprehensively reviewing oligonucleotide chemistry, this review emphasizes delivery architecture, including targeting moieties, lipophilic and structural handles, linker design, administration route, PK/PD, safety liabilities, rare-disease biomarkers, and regulatory experience. Overall, RNA medicines are genetically programmable, but their clinical reach is determined by delivery architecture.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42829049",
+    "ai_summary": {
+      "research_purpose": "이 논문은 유전적 질환과 극히 드문 질환을 치료하기 위한 오ligonucleotide 치료제의 배달 구조를 분석하고, GalNAc 기반의 간세포 targeting과 간세포 외 배달을 중심으로 연구한다. 이는 유전 정보로부터 설계된 RNA 치료제의 임상 성공이 배달 구조에 더 많이 의존한다는 것을 보여준다.",
+      "methods": "논문은 GalNAc-siRNA 플랫폼을 사용하여 유전자 정보로부터 설계된 RNA 치료제의 배달 구조를 분석한다. 이 플랫폼은 수용체 선택, 리간드 표시, 링크 디자인, 화학 안정성, 세포내 지속성, PK/PD 속성, 용량, 안전 감시 등이 어떻게 작동하는지 설명한다. 또한, CNS, 근육, 눈, 폐, 신장, 면역 세포, 지방 조직 등에서의 배달 전략을 비교한다.",
+      "quantitative_results": "논문은 2026년 7월 18일까지 FDA 승인된 GalNAc-siRNA 약물이 이 패러다임을 입증했다고 언급한다. 또한, 인체 PD를 얻은 폐포 RNai, CNS siRNA가 1단계에 진입했다는 점도 언급한다. 지방 조직의 RNAi는 1단계/2단계에 진입하고 있다. 신경계와 눈에 대한 시술은 아직 임상 시험 단계에 머물러 있다.",
+      "novelty": "이 논문은 유전적 질환과 극히 드문 질환을 치료하기 위한 오ligonucleotide 치료제의 배달 구조를 분석하고, GalNAc 기반의 간세포 targeting과 간세포 외 배달을 중심으로 연구한다. 이는 유전 정보로부터 설계된 RNA 치료제의 임상 성공이 배달 구조에 더 많이 의존한다는 것을 보여준다.",
+      "limitations": "논문은 유전 정보로부터 설계된 RNA 치료제의 임상 성공이 배달 구조에 더 많이 의존한다는 것을 보여준다. 그러나 유전 정보로부터 설계된 RNA 치료제의 임상 성공이 배달 구조에 더 많이 의존한다는 것을 보여준다. 이는 유전 정보로부터 설계된 RNA 치료제의 임상 성공이 배달 구조에 더 많이 의존한다는 것을 보여준다. 이는 유전 정보로부터 설계된 RNA 치료제의 임상 성공이 배달 구조에 더 많이 의존한다는 것을 보여준다.",
+      "future_research": "후속 연구는 유전적 질환과 극히 드문 질환을 치료하기 위한 오ligonucleotide 치료제의 배달 구조를 더 깊이 연구하고, 다양한 배달 전략을 개발하는 것이다."
+    }
+  },
+  {
+    "id": "doi:10.1021/acsabm.6c00711",
+    "title": "Chondroitin Sulfate as a Bioactive Carbohydrate: Design of Nanoplatforms for Drug Delivery, Tissue Engineering, and Disease Therapy.",
+    "topic": "Drug delivery",
+    "date": "2026-10-03",
+    "journal": "",
+    "authors": "Shabbir A, Parvinzadeh Gashti M.",
+    "doi": "10.1021/acsabm.6c00711",
+    "pmid": "42828487",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42828487/",
+    "abstract": "Chondroitin sulfate (CS), a sulfated glycosaminoglycan, has attracted considerable attention in nanomedicine owing to its excellent biocompatibility, biodegradability, and intrinsic bioactivity. Recent advances in CS-based nanoplatforms, including nanogels, nanoparticles, hydrogels, and other drug delivery systems, have enabled targeted drug delivery, tissue engineering, and regenerative medicine applications. These multifunctional systems facilitate controlled drug release, enhance cellular uptake, and regulate key biological processes such as inflammation, oxidative stress, and extracellular matrix remodeling. Beyond their roles in material design, CS-based nanoplatforms have demonstrated promising preclinical potential in cancer therapy, osteoarthritis, periodontitis, cartilage regeneration, wound healing, ophthalmic disorders, liver fibrosis, and neurodegenerative diseases. This review first discusses the design principles and functional characteristics of CS-based material platforms followed by their therapeutic applications in tissue engineering and disease treatment. Finally, the current challenges, translational perspectives, and future opportunities for the clinical development of CS-based nanoplatforms are highlighted.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "PMC:PMC13648733",
@@ -213,7 +398,8 @@
     "doi": "",
     "url": "https://europepmc.org/articles/PMC13648733",
     "abstract": "",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmcid": "PMC13648733"
   },
   {
     "id": "doi:10.1038/s43856-026-01962-3",
@@ -238,6 +424,20 @@
     "url": "https://europepmc.org/articles/PMC13644636",
     "abstract": "Nanotechnology has transformed vaccine development by engineering nanovaccines that offer precise control over antigen performance, immune modulation and targeted delivery. These platforms influence physicochemical properties size, charge, and ligand expression to direct antigen trafficking, co-deliver adjuvants and antigen-presenting cells, stimulating potent and robust adaptive immune responses. This review discusses the development of nanovaccines for prophylactic vaccines which induce antibody and memory B-cell responses and therapeutic cancer vaccines, which overcome tolerance and immunosuppression to activate CD8 + T cells with particular emphasis on lipid nanoparticles (LNPs), polymeric NPs, inorganic-core NPs, virus-like particles (VLP) and mechanisms by which each platform exploits physicochemical properties to enhance the antigen encapsulation, adjuvant incorporation, lymphatic transferring, quality and quantity of adaptive immune responses. We reviewed the clinical and preclinical developments of these nanovaccine platforms in cancer and infectious disease immunotherapy, including major successes and new opportunities that will shape the future of vaccines for prevention and treatment.",
     "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+  },
+  {
+    "id": "PMC:PMC13648732",
+    "title": "Glycation proteomics identifies creatine kinase as a mediator of the effects of methylglyoxal on mitochondrial permeability transition",
+    "topic": "Protein",
+    "date": "2026-10-02",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13648732",
+    "url": "https://europepmc.org/articles/PMC13648732",
+    "abstract": "",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "PMC:PMC13640493",
@@ -357,7 +557,176 @@
     "doi": "10.1158/0008-5472.can-25-4957",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42545372/",
     "abstract": "Immune evasion remains a major barrier to effective immunotherapy in cancer. Coordinated activation of different immune cell types shapes immune responses within the tumor microenvironment (TME). In this study, we uncovered a spatiotemporal synergy between cytotoxic T lymphocytes (CTL) and natural killer (NK) cells in tumors with low T-cell infiltration. An integrative multiomics approach combining spatial transcriptomics, single-cell RNA sequencing, and high-dimensional flow cytometry demonstrated that vaccination, capable of activating both innate and adaptive immunity, rapidly reshapes the TME. Early infiltration of IRF8+KLRG1+ NK cells established a chemokine-rich niche together with myeloid cells that promoted the recruitment of antigen-primed CXCR3+ CTLs. The accompanying inflammatory monocyte recruitment and dendritic cell activation led to the coordinated structural and chemotactic remodeling of the TME. Functionally, NK-CTL clustering at the tumor margin was associated with enhanced cytotoxic activity and sustained immune engagement. These spatially organized immune interactions involved CCR5-CCL5 and CXCR3-CXCL9 signaling pathways that coordinate communication between innate and adaptive immune compartments. Together, these findings reveal a previously unrecognized NK-CTL cooperative program that promotes the transition of poorly infiltrated tumors toward an inflamed, immune-responsive state. More broadly, this study illustrates how spatially resolved multiomics approaches can uncover immune interactions and provides a conceptual framework for designing next-generation immunotherapies that mobilize coordinated innate and adaptive immunity. Significance Early infiltration of NK cells followed by T-cell accumulation reshapes the tumor microenvironment to promote antitumor immunity following vaccination, providing a mechanistic rationale for the development of effective vaccine-based immunotherapy strategies.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42545372"
+  },
+  {
+    "id": "PMC:PMC13648533",
+    "title": "Chemical proteomics reveals post-translational remodeling of endosomal pathways during macrophage activation",
+    "topic": "Protein",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13648533",
+    "url": "https://europepmc.org/articles/PMC13648533",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13643220",
+    "title": "A serum proteomics‐based predictive model for steroid‐resistant immune checkpoint inhibitor associated myocarditis",
+    "topic": "Protein",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Zhang Y, Li Y, Zhang J, He X, Shen Y, Xu Y, Zhang H, Pan J, Wang X, Zhang S, Wang Y, Cheng L.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13643220",
+    "url": "https://europepmc.org/articles/PMC13643220",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1093/brain/awag285",
+    "title": "Neurological disease progression in adults with ataxia-telangiectasia: a longitudinal study.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Hensiek A, Bottolo L, Tiet MY, Harrison E, Ashby E, Olympio C, Biggs H, Everett N, Schon K, Horvath R.",
+    "doi": "10.1093/brain/awag285",
+    "pmid": "42634970",
+    "pmcid": "PMC13634639",
+    "url": "https://europepmc.org/articles/PMC13634639",
+    "abstract": "Ataxia-telangiectasia (AT) is a rare, multisystem neurodegenerative disorder with marked clinical heterogeneity. Longitudinal data on neurological progression remain limited, restricting understanding of disease mechanisms and therapeutic trial design. We analysed longitudinal Scale for the Assessment and Rating of Ataxia (SARA) data from the largest published adult AT cohort to date (n = 82, age > 16 years). Linear mixed-effects models were used to estimate severity at the earliest available neurological evaluation (baseline) and annual progression rates (points/year) in classic and variant AT, and to examine clinical and genetic modifiers. Neurological impairment progressed with a mean SARA increase of 0.38 points/year. Adults with classic AT were more severely affected than those with variant AT, with SARA scores approximately 8-9 points higher at baseline. However, neurological progression in adulthood was similar between classic and variant AT (0.33 versus 0.41 points/year), which includes 15 individuals with the antisense oligonucleotide targetable c.5763-1050A>G variant. Although AT subtypes differ substantially in childhood and adolescence, neurological decline converges to a similar pace in adulthood, irrespective of subtype or genotype. SARA remains a useful outcome measure but may underestimate progression in advanced disease and non-cerebellar domains. These findings inform counselling, prognostication and the design of interventional trials, including mutation-specific therapies.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/cnr2.70687",
+    "title": "Regulation of ER Stress-Associated Gene Expression by Lifeguard in Human Breast Cancer Cells.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Nebel I, Strauß S, Schlottmann F, Herrmann LM, Vogt PM, Bucan V.",
+    "doi": "10.1002/cnr2.70687",
+    "pmid": "42817800",
+    "pmcid": "PMC13628291",
+    "url": "https://europepmc.org/articles/PMC13628291",
+    "abstract": "Background Despite significant advances in breast cancer therapy, resistance to apoptosis remains a major obstacle to successful treatment. Lifeguard (LFG), an antiapoptotic membrane protein, has been implicated in breast cancer progression; however, its role in endoplasmic reticulum (ER) stress-associated molecular responses and apoptosis-related gene regulation remains incompletely understood. Aims This study aimed to investigate molecular changes associated with LFG-targeted siRNA treatment and reduced LFG mRNA expression in human breast cancer cells. Methods and results The triple-negative breast cancer cell line MDA-MB-231 and the non-tumorigenic mammary epithelial cell line MCF10A were transfected with LFG-specific siRNA. LFG mRNA expression was analyzed by quantitative RT-PCR. Furthermore, ER stress- and apoptosis-related gene expression was examined using an RT 2 Profiler PCR Array, and intracellular calcium-associated fluorescence was assessed by fluorescence-based calcium imaging. LFG mRNA expression was markedly reduced following LFG-specific siRNA treatment in MDA-MB-231 cells, whereas a more moderate reduction was observed in MCF10A cells. LFG-targeted siRNA treatment was associated with altered intracellular calcium-associated fluorescence and differential expression of several ER stress- and apoptosis-related genes, including upregulation of CREB3L3, SREBF1, and INHBE, as well as downregulation of EDEM1, HSPA2, and RRM2. Conclusions These findings demonstrate that LFG-targeted siRNA treatment and reduced LFG mRNA expression are associated with changes in intracellular calcium-related responses and ER stress- and apoptosis-associated gene expression, particularly in MDA-MB-231 cells. Further studies are required to determine the underlying mechanisms and establish the functional role of LFG in these cellular responses.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1039/d6nr02315k",
+    "title": "Nanovaccine platforms for cancer immunotherapy from ex vivo engineering to in situ antigen capture strategies.",
+    "topic": "Immunity",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Liang H, Hu R, Lu B, Zhang J, Yang J, Zhou Z.",
+    "doi": "10.1039/d6nr02315k",
+    "pmid": "42678423",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42678423/",
+    "abstract": "Cancer vaccines enable minimally invasive suppression of tumor progression and postoperative recurrence but remain constrained by tumor heterogeneity, weak antigen immunogenicity, and immunosuppressive tumor microenvironments. Recent advances in tumor antigen biology, antitumor immunology, and nanotechnology have accelerated the development of nanovaccines as promising therapeutic platforms. This review describes the core components and structural characteristics of nanovaccines to elucidate their mechanisms of action and structure-function relationships. We systematically summarize the two major nanovaccine strategies for cancer immunotherapy, namely ex vivo engineering and in situ antigen capture, and highlight their design principles, advantages, and limitations. We further analyze the barriers to achieving durable antitumor immunity and discuss key considerations for the rational design and clinical translation of nanovaccines. By bridging materials science and tumor immunology, this review provides perspectives for overcoming current challenges and advancing personalized cancer immunotherapy.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1158/2326-6066.cir-25-1617",
+    "title": "Elevated CHAF1A Suppresses Type I Interferon Production and Causes Immunotherapy Resistance in Esophageal Squamous Cell Carcinoma.",
+    "topic": "Immunity",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Ma Y, Shi M, Ma M, Li S, Cui N, Li Y, Dang T, Yang R, Bai Y, Wang B, Zhang C, Liu C, Zhang Y.",
+    "doi": "10.1158/2326-6066.cir-25-1617",
+    "pmid": "42462139",
+    "pmcid": "PMC13635741",
+    "url": "https://europepmc.org/articles/PMC13635741",
+    "abstract": "In esophageal squamous cell carcinoma (ESCC), chemoradiotherapy potentiates the effects of immune checkpoint inhibitors by activating the tumor-intrinsic innate immune response. However, ESCC cells frequently suppress this activation, which contributes to the high rates of immunotherapy resistance (70%-80%) observed clinically. Thus, identifying intracellular suppressors of this innate immune response remains an unmet critical need. Herein, through multiomics analyses, we identify the chromatin assembly factor CHAF1A as a suppressor of the tumor-intrinsic innate immune response in ESCC. We found that CHAF1A was overexpressed in ESCC and negatively correlated with type I interferon production and CD8+ T-cell infiltration. Mechanistically, CHAF1A maintained heterochromatin silencing mediated by H3K9me3, thereby repressing endogenous retroviruses. This suppression prevented the accumulation of double-stranded RNA and the subsequent activation of the MAVS-IRF3 signaling pathway. Concurrently, CHAF1A preserved genomic stability, limiting the release of double-stranded DNA and activation of the cGAS-STING pathway. Loss of CHAF1A potentiated the response to immunotherapy through the coordinated activation of these dual pathways. We then performed a small-molecule compound screen and identified a CHAF1A inhibitor, baimaside, which enhanced the effect of anti-PD-1 therapy to augment antitumor immunity. Collectively, these data indicate that CHAF1A represents a potential therapeutic target for sensitizing ESCC to immunotherapy and provide a potential combination strategy for reversing immunotherapy resistance.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1158/0008-5472.can-25-3567",
+    "title": "Targeting WRN Helicase in Microsatellite-Instable Colorectal Cancer Induces Antitumor Immunity through Extrachromosomal Circular DNA Release.",
+    "topic": "Immunity",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Hao S, Sato Y, Liu Z, Lizardo D, Lu X, Lenz HJ, Schoen RE, Yu J, Zhang L.",
+    "doi": "10.1158/0008-5472.can-25-3567",
+    "pmid": "42461083",
+    "pmcid": "PMC13464570",
+    "url": "https://europepmc.org/articles/PMC13464570",
+    "abstract": "Colorectal cancer with microsatellite instability (MSI) is often treated with immune checkpoint inhibitors (ICI), such as anti-PD-1 antibodies. However, a substantial fraction of MSI colorectal cancers do not respond to ICIs. Recent studies have identified the DNA helicase Werner (WRN) as a synthetic lethal target in MSI cancer cells, leading to the development of several small-molecule WRN inhibitors that are currently in clinical trials. In this study, we found that targeting WRN in MSI colorectal cancer cells triggered a robust antitumor immune response. Cell death induced by WRN inhibition was selective in MSI colorectal cancer cells and led to the release of extrachromosomal circular DNA (eccDNA), which directly stimulated immune cell activation and cytokine production. The deletion of nuclear ligase LIG3, a key mediator of eccDNA biogenesis, abolished the antitumor and immunogenic effects of WRN inhibition in MSI colorectal cancer cells and tumors. Furthermore, WRN inhibition potentiated anti-PD-1 therapy in MSI colorectal cancer models, including syngeneic mouse tumors and patient-derived tumor organoids. Together, these results reveal the eccDNA-mediated immunogenic effects of WRN inhibition in MSI colorectal cancer, further strengthening the rationale for combining WRN inhibitors with ICIs. Significance Extrachromosomal circular DNA release induced by WRN inhibition in colorectal cancer cells with microsatellite instability stimulates immune cell activation and cytokine production, which can be leveraged to enhance the efficacy of immunotherapy.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1021/acsami.6c13187",
+    "title": "Manganese-Doped Fluorinated Zeolitic Imidazolate Framework-90 for Activatable 1H/19F MRI and Metalloimmunotherapy of Hepatocellular Carcinoma.",
+    "topic": "Immunity",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Zheng Y, Li L, Fu W, Li Y, Yan J, Chi X, Yin Z, Lin H, Gao J.",
+    "doi": "10.1021/acsami.6c13187",
+    "pmid": "42817599",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817599/",
+    "abstract": "In the immunotherapy of hepatocellular carcinoma (HCC), the efficacy of immune checkpoint inhibitors (ICIs) is substantially limited by the complex and highly immunosuppressive tumor microenvironment (TME). Therefore, developing approaches to effectively reverse the immunosuppressive TME while enabling accurate HCC imaging poses a major unmet challenge. To tackle this critical challenge, we rationally designed and constructed a hyaluronic acid (HA)-functionalized manganese-doped fluorinated zeolitic imidazolate framework-90 (ZIF-90) nanosystem (ZM-F6@HA NPs) for integrated theranostic applications in HCC. This nanosystem not only enabled noninvasive and precise visualization of HCC lesions through GSH-activatable 1H/19F MRI for diagnostic purposes, but also induced robust tumor-associated inflammation and promoted potent antitumor adaptive immunity through synergistic mechanisms, including cGAS-STING pathway activation, immunogenic cell death (ICD) induction, and pyroptosis induction in HCC cells. The activated antitumor immune response effectively remodeled the immunosuppressive TME, and its combination with ICIs results in significant tumor regression and substantial inhibition of lung metastasis. This responsive ZIF-90-based multifunctional nanosystem provides a promising and rational strategy for integrated diagnosis and combinatorial immunotherapy of HCC.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1136/jitc-2026-015279",
+    "title": "Propionate promotes CD8 + T-cell infiltration and enhances immunotherapy efficacy in colorectal cancer.",
+    "topic": "Immunity",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Pan J, Tong L, Fei R, Wu K, Ji J, Sun T, Zhao Y, Zhang J, Feng H, Hua H, Yao HP.",
+    "doi": "10.1136/jitc-2026-015279",
+    "pmid": "42823087",
+    "pmcid": "PMC13630036",
+    "url": "https://europepmc.org/articles/PMC13630036",
+    "abstract": "Background Short-chain fatty acids (SCFAs) produced by the gut microbiota are increasingly recognized as regulators of host immunity, yet the role of individual SCFAs in shaping the tumor immune microenvironment in colorectal cancer (CRC) remains poorly defined. This study aims to investigate the role of propionate in antitumor immunity and immunotherapy responsiveness in CRC. Methods SCFA levels, systemic inflammatory cytokine levels, and immune cell subsets were quantified in peripheral blood and tumor tissues from patients with CRC and healthy controls. Syngeneic microsatellite instability-high (MSI-H) and microsatellite stable (MSS) murine CRC models were used to evaluate the therapeutic efficacy of propionate alone and in combination with anti-programmed death-ligand 1 (PD-L1) blockade. CD8 + T-cell infiltration, activation status, and cytotoxic function were assessed by flow cytometry, immunohistochemistry, and single-cell RNA sequencing. Mechanistic investigations included acetylation-dependent protein modification analyses. Molecular analyses of signaling pathways were performed to delineate the regulatory axis underlying propionate-mediated immune modulation. Results Propionate levels were inversely associated with systemic inflammation and positively correlated with intratumoral CD8 + T-cell infiltration. Propionate supplementation enhanced CD8 + T-cell cytotoxicity, promoted CD8 + T-cell tumor infiltration and suppressed tumor growth in both MSI-H and MSS mouse models. Notably, propionate significantly potentiated the efficacy of PD-L1 blockade and restored immunotherapy sensitivity in otherwise resistant MSS tumors. Mechanistically, propionate induced acetyl-CoA acetyltransferase 1-dependent acetylation and proteasomal degradation of argininosuccinate synthase 1 (ASS1), resulting in activation of signal transducer and activator of transcription 1 signaling and upregulation of the T cell-recruiting chemokine C-X-C motif chemokine ligand 9. In clinical samples, low ASS1 expression was associated with high CD8 + T-cell infiltration. Conclusions This study revealed the role of propionate in regulating the tumor immune microenvironment in CRC, suggesting propionate as a promising strategy to overcome immune exclusion and enhance the efficacy of immunotherapy.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/cam4.72318",
+    "title": "The Impact of SF3B1 Mutations on the Tumor Microenvironment and Response to Immunotherapy.",
+    "topic": "Immunity",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Cho KJ, Lim B.",
+    "doi": "10.1002/cam4.72318",
+    "pmid": "42806564",
+    "pmcid": "PMC13620285",
+    "url": "https://europepmc.org/articles/PMC13620285",
+    "abstract": "Cancer genomes shape the immune landscape within the tumor microenvironment (TME), thereby influencing host antitumor immunity. Identifying somatic mutations that modulate the TME is critical for selecting patients most likely to benefit from immunotherapy. Here, by integrating a transcriptome-based predictive model with comprehensive genomic analyses, we identified SF3B1 splicing factor mutations associated with the response to immune checkpoint inhibitors (ICIs). We systematically evaluated the effects of SF3B1 mutations on the TME and ICI response through in silico, in vitro, and in vivo approaches. Comparative analyses of patient genotypes, together with loss- and gain-of-function studies, revealed that SF3B1 mutations drive transcriptional reprogramming that enhances ICI responsiveness. To validate these findings in vivo, we established a syngeneic mouse model using immune-resistant B16F10 melanoma cells. SF3B1-mutant tumors, compared with wild-type counterparts, exhibited TME features and immune profiles indicative of an enhanced antitumor immune response, including increased proportions of CD4 + and CD8 + T cells and dendritic cells, accompanied by the upregulation of immune effectors. Consistently, mice bearing SF3B1-mutant tumors demonstrated significantly greater tumor regression following anti-PD-1 treatment compared with their wild-type counterparts. These findings establish SF3B1 mutations as predictive biomarkers for guiding rational immunotherapy selection in cancer patients.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1039/d6nr02152b",
+    "title": "Dual-targeting poly(2-oxazoline)-coated porous silicon nanoparticles for improving osteosarcoma therapy.",
+    "topic": "Drug delivery",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Abdelmoneem MA, Esser L, Mazrad ZAI, Kempe K, Voelcker NH.",
+    "doi": "10.1039/d6nr02152b",
+    "pmid": "42677776",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42677776/",
+    "abstract": "Osteosarcoma is the most prevalent malignant bone tumor in children and adolescents. Current treatment of this aggressive tumor with surgery and chemotherapy is hindered by the non-selectivity of chemotherapeutics, leading to severe toxicity and poor outcomes. This urgent clinical challenge necessitates the need for targeted nanomedicine approaches. We developed dual-targeted poly(2-oxazoline) (POx)-functionalized porous silicon nanoparticles (pSiNPs) loaded with doxorubicin for osteosarcoma therapy. These bespoke nanoparticles with hydrophobic pores displayed high drug loading efficiency (up to 48.7 ± 2.0% w/w) and pH-responsive drug release. Surface decoration with alendronate (ALN) and/or insulin growth factor-2 receptor antibody (Ab) enhanced bone cancer cell targetability. POx is a promising alternative to poly(ethylene glycol) (PEG), and POx-coated pSiNPs revealed comparable anti-fouling properties to PEG. Dual-targeted ALN + Ab-POx@pSiNPs demonstrated three-fold higher cellular association in osteosarcoma cells compared to non-targeted control. They also exhibited enhanced binding affinity to hydroxyapatite crystals in mineralized Saos-2 cells. Importantly, DOX-loaded dual-targeted pSiNPs produced significantly greater cytotoxicity than free DOX, non-targeted, or single-targeted formulations. These findings establish this dual-targeted drug delivery system as potent nanocarrier system for osteosarcoma, combining high payload capacity, controlled release, and selective cancer cell targeting to advance therapeutic outcomes.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/mabi.70267",
+    "title": "Ferritin-Based Nanomotors for Deep Glioblastoma Penetration and Enhanced Drug Delivery.",
+    "topic": "Drug delivery",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Ma J, Liu R, Chamseddine I, Qiu J, Wang S.",
+    "doi": "10.1002/mabi.70267",
+    "pmid": "42814085",
+    "pmcid": "PMC13625947",
+    "url": "https://europepmc.org/articles/PMC13625947",
+    "abstract": "Poor penetration into tumor tissue remains a major barrier to effective nanomedicine delivery, particularly in glioblastoma multiforme (GBM). Here, nanoparticle transport was computationally studied to rationally design an ultrasmall chemotactic nanomotor that improves penetration into dense tumor tissue. The nanomotor comprises a targeting human heavy-chain ferritin (HFn) nanocage and a catalytic cerium oxide (CeO 2 ) component. Leveraging transferrin receptor‑1 overexpression on brain microvascular endothelial cells and GBM cells, HFn enables transport across an in vitro blood-brain barrier (BBB) model and accumulation in GBM spheroids. The CeO 2 domain catalyzes hydrogen peroxide decomposition in the tumor‑mimicking microenvironment, generating oxygen and imparting directional propulsion along H 2 O 2 gradients. In chemotaxis assays, the nanomotors actively migrated toward localized H 2 O 2 sources and GBM cells embedded in Matrigel. In large U87 spheroids (>400 µm), HFn@CeO 2 nanomotors penetrated deeply and distributed throughout the spheroid core, whereas non‑propelled HFn nanocarriers remained confined mainly to the periphery. Doxorubicin‑loaded nanomotors (HFn@CeO 2- DOX) achieved substantially enhanced intratumoral DOX distribution and reduced IC 50 (0.33 µM) compared with HFn-DOX (1.13 µM) and free DOX (1.75 µM) in GBM spheroids. These results provide a promising basis for future in vivo evaluation in brain tumor therapy.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1038/s41586-026-10965-y",
@@ -381,7 +750,8 @@
     "doi": "10.1016/j.bmcl.2026.130790",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42815653/",
     "abstract": "The human epidermal growth factor receptor 2 (HER2) plays an important role as a transmembrane receptor, contributing to signaling activities implicated in cellular proliferation, differentiation, and survival. Across select tumor types, HER2 is pro-oncogenic, facilitating cancer initiation, progression and metastatic spread, leading towards treatment resistance. Further, cell surface presentation and signaling activity of HER2 has led to the development of precision oncology therapeutic approaches. In this study, a HER2-targeting DNA aptamer was modified into a novel chimeric sequence with an RNA sense strand that was hybridized with a complementary antisense RNA or DNA sequence for aptamer-mediated HER2 cellular uptake in a representative HER2 positive (+) SKBR3 breast cancer cell line. The incorporation of antisense oligonucleotide (ASO) and short interfering (si) RNA within the chimeric HER2-aptamer elicited favorable hybrid duplex secondary structures and thermal stability profiles for biological activity. Enzymatic (Ribonuclease H, RNase H) digestion of the RNA sense strand made the chimeric HER2-aptamer:ASO hybrid applicable for antisense and with siRNA for RNA interference (RNAi) gene silencing activities against the stress-inducible oncoprotein, Glucose Regulated Protein 78, GRP78, as a key regulator of cancer cell survival and apoptosis. The chimeric ASO and siRNA conjugated aptamer demonstrated cellular binding and uptake activities directly in the HER2 presenting SKBR3 cell line and downstream GRP78 silencing (siRNA) activity that was dependent on a Lipofectamine-based formulation, underscoring the importance of the transfection agent for cellular delivery of genetic therapies.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42815653"
   },
   {
     "id": "doi:10.1007/s13577-026-01458-1",
@@ -405,7 +775,9 @@
     "doi": "10.1002/advs.78044",
     "url": "https://europepmc.org/articles/PMC13627076",
     "abstract": "Antigen-based tumor vaccines rely on adjuvants to stimulate local inflammation, recruit antigen-presenting cells (APCs), and enhance immune activation. However, the complex interplay between antigen transport, lymphatic drainage, and immune cell dynamics across organs remains poorly understood, limiting the rational design of vaccination strategies. Here, we present a multiscale compartmental Physiologically Based Pharmacokinetic/Pharmacodynamic (PBPK/PD) model of antigen vaccination that integrates systemic circulation, lymphatic connectivity, and immune cell activation at the whole-body level. The model incorporates arterial, venous, and lymphatic flows, organ-specific interstitium and lymph node (LN) networks, and a superficial skin network. The model reproduces spatiotemporal distributions of antigen and suppressive factors, APC activation, and nT priming across activation sites, including LNs and spleen. Our results show that the sensitivity of vaccination-induced immunity is highly related to antigen and suppressive factor production by the tumor, and that early-stage vaccination enhances immunity. Since the model is able to identify optimal vaccination administration over the course of tumor growth for each patient with certain levels of antigen and immunosuppressive factors, it can serve as the foundation for digital twins of patients to help inform anti-cancer vaccination strategies.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42816457",
+    "pmcid": "PMC13627076"
   },
   {
     "id": "doi:10.1186/s11671-026-04953-4",
@@ -430,6 +802,76 @@
     "url": "https://europepmc.org/articles/PMC13634237",
     "abstract": "Macrophages are highly plastic immune cells with tumor-homing capacity and immunomodulatory functions, making macrophage-based nanoplatforms attractive for cancer immunotherapy. Macrophage-based nanoplatforms include macrophage-derived extracellular vesicles (EVs), macrophage membrane-coated nanoparticles, and live macrophage carriers. The platforms combine the biological properties of macrophages with the advantages offered by nanocarriers to achieve targeted delivery and immune regulation. Beyond serving as delivery vehicles, macrophages can be therapeutically reprogrammed through strategies such as CD47-SIRPα blockade and TLR7/MyD88 pathway activation to enhance antitumor immunity. Despite promising preclinical outcomes, clinical translation of macrophage-based Biomimetic nano-drug delivery systems (BNDDS) remains challenging due to cytokine release syndrome risk, scalable manufacturing limitations, and species differences between animal models and human immunity. The review provides insights into the development and clinical translation of macrophage-based BNDDS for cancer therapy.",
     "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+  },
+  {
+    "id": "PMC:PMC13648671",
+    "title": "Global mapping of protein localization in vegetative Dictyostelium discoideum by subcellular spatial proteomics",
+    "topic": "Protein",
+    "date": "2026-09-30",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13648671",
+    "url": "https://europepmc.org/articles/PMC13648671",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13648440",
+    "title": "Protocol for Single-Cell Patch-Proteomics: identify specific proteins associated with electrophysiological properties from individual neurons",
+    "topic": "Protein",
+    "date": "2026-09-30",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13648440",
+    "url": "https://europepmc.org/articles/PMC13648440",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.3760/cma.j.cn112144-20260601-00335",
+    "title": "[Research progress of RNA therapy in oral squamous cell carcinoma].",
+    "topic": "Nucleic acids",
+    "date": "2026-09-30",
+    "journal": "",
+    "authors": "Long SQ, Wang JH, Sun R.",
+    "doi": "10.3760/cma.j.cn112144-20260601-00335",
+    "pmid": "42811715",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42811715/",
+    "abstract": "Accounting for more than 90% of oral malignancies, oral squamous cell carcinoma (OSCC) is recognized as the predominant histological subtype of oral cancer. The overall five-year survival rate of patients with advanced OSCC remains unsatisfactory.With the rapid advancement of transcriptomics, molecular biology, and nucleic acid delivery technologies, increasing attention has been directed toward RNA-based therapeutics as a promising approach for OSCC treatment, owing to their capacity for precise regulation of oncogenes, signaling pathways, and the tumor microenvironment. Included among the major forms of RNA therapeutics are small interfering RNA, micro RNA, messenger RNA, long non-coding RNA, and circular RNA. By modulating oncogenes, tumor microenvironment-related factors, and signaling pathways associated with therapeutic resistance, suppression of tumor proliferation, invasion, and metastasis can be achieved, while apoptosis induction and the enhancement of chemo-radiotherapeutic sensitivity may also be promoted.Considerable potential has therefore been demonstrated by RNA therapeutics in the treatment of OSCC. Nevertheless, multiple obstacles continue to hinder their clinical translation, among which insufficient in vivo stability, limited delivery efficiency, off-target effects, and the specific oral environment are particularly prominent. In this review, the theoretical basis of RNA therapy, recent advances in its application to OSCC, RNA delivery systems, and the current challenges faced are comprehensively summarized, with the aim of providing references for future research on precision therapy for OSCC.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13621384",
+    "title": "Circular RNAs in tumor immunity and immunotherapy of breast cancer",
+    "topic": "Immunity",
+    "date": "2026-09-30",
+    "journal": "",
+    "authors": "Jiang Y, Wang Y, Zhang K.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13621384",
+    "url": "https://europepmc.org/articles/PMC13621384",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1073/pnas.2606579123",
+    "title": "α-aminobutyric acid promotes tumor progression by polarizing macrophages through the ASNS-mTORC2 axis.",
+    "topic": "Immunity",
+    "date": "2026-09-30",
+    "journal": "",
+    "authors": "Li F, Xie X, Xu T, Tang Y, Xia Y, Tang Y, Yuan S, Zhu M, Wu X, He L, Lin SH, He R.",
+    "doi": "10.1073/pnas.2606579123",
+    "pmid": "42814553",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42814553/",
+    "abstract": "Tumor-associated macrophages (TAMs), the most abundant immune cell subset in the tumor microenvironment (TME), exhibit phenotypic plasticity and exert critical roles in tumor progression and antitumor immunity. Targeting TAM polarization has emerged as a promising strategy for cancer immunotherapy, yet the key regulators governing this process remain incompletely defined. Here, we identified α-aminobutyric acid (AABA) as a pro-tumor metabolite that drives M2-like polarization of TAMs to promote tumor progression. Mechanistically, AABA binds to asparagine synthetase (ASNS), reinforcing the mTORC2-IRF4 signaling axis to reprogram TAMs, switching macrophage metabolism from glycolysis to oxidative phosphorylation, a hallmark of pro-tumor M2-like phenotypes. Moreover, tumor-derived AABA was transported into macrophages by monocarboxylate transporters 1 and compromised the therapeutic efficacy of PD-1 checkpoint inhibition. Collectively, our findings uncover AABA as a previously unrecognized signaling metabolite to control TAM polarization, providing insights into the metabolic crosstalk within the TME and offering a potential therapeutic target to improve cancer immunotherapy outcomes.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.64898/2026.09.24.751570",
@@ -501,7 +943,64 @@
     "doi": "10.1016/j.nano.2026.103031",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42810654/",
     "abstract": "Effective treatment of ischemic stroke requires improved perfusion and drug delivery to the ischemic penumbra. We investigated whether sensory stimulation could enhance cerebral blood flow and improve delivery of an apoferritin (Aft)-based ginsenoside Rb1 nanodelivery system (Aft@Rb1). Sensory stimulation increased blood flow in the barrel cortex after cerebral ischemia-reperfusion (I/R). By exploiting increased transferrin receptor 1 expression in cerebrovascular endothelial cells, Aft@Rb1 achieved targeted delivery to ischemic tissue. In mice with cerebral I/R, sensory stimulation combined with Aft@Rb1 increased local Rb1 accumulation, reduced blood-brain barrier disruption and infarct area, and improved neurological recovery. These findings indicate that sensory stimulation can enhance local perfusion and nanodrug delivery, providing a potential combined therapeutic strategy for ischemic brain injury.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42810654"
+  },
+  {
+    "id": "doi:10.1039/d6bm00738d",
+    "title": "Advances in the development and delivery of nucleic acid-based therapeutics.",
+    "topic": "Nucleic acids",
+    "date": "2026-09-29",
+    "journal": "",
+    "authors": "Kurczewski E, Mansurov A, Sachar C, Guler MO.",
+    "doi": "10.1039/d6bm00738d",
+    "pmid": "42644266",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42644266/",
+    "abstract": "Recent advancements in experimental and computational methods along with growing gene sequencing libraries have enabled rapid development of nucleic acid-based therapeutic design for a wide variety of diseases. New drugs, delivery tools and methods have enabled precise and efficient therapy at a molecular scale. This review covers the current landscape and future directions of methods for gene and cell therapies, as well as their applications, advantages, and limitations. We present self-amplifying RNA, circular RNA, CRISPR systems, antisense oligonucleotides, and antibody-oligonucleotide conjugates, as well as CAR modification of T-cells, natural killer cells, and macrophages, with a brief discussion of modified stem cells. We also discuss developments in viral and non-viral delivery systems for their applications in cell and gene therapies.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/anie.2929190",
+    "title": "DNA-Peptide Nanoassembly for Mitochondria-Specific and Programmable Subcellular Apoptotic Regulation.",
+    "topic": "Nucleic acids",
+    "date": "2026-09-29",
+    "journal": "",
+    "authors": "Zhang F, Hu X, Sun Y, Zhou F, Huang W, Wan Y, Xia M, Shang Y, Ban Y, Qiao R, Ling D, Wang G.",
+    "doi": "10.1002/anie.2929190",
+    "pmid": "42806941",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42806941/",
+    "abstract": "Effective tumor cell apoptosis critically depends on the efficient delivery of pro-apoptotic agents to mitochondria. While mitochondria-targeted peptide-based nanoassemblies offer a promising platform for controllable delivery, achieving mitochondria-specific responses and programmable subcellular apoptotic regulation remains a critical yet underexplored challenge. Herein, we report controllable mitochondria-targeted DNA-peptide nanoassemblies co-assembled from an enterokinase (ENTK)-responsive cationic peptide-incorporating a DDDDK substrate motif targeted to the perimitochondrial ENTK-and a multifunctional DNAzyme chimera (DC) through DNAzyme-catalyzed dityrosine crosslinking, thereby enabling mitochondria-specific and programmable subcellular apoptotic regulation. In addition, the DC integrates a hemin-intercalated G-quadruplex (G4/hemin) that catalyzes H 2 O 2 -dependent reactive oxygen species (ROS) generation and an antisense oligonucleotide (ASO) targeting antisense long noncoding mitochondrial RNAs (ASncmtRNAs). Upon selective peptide cleavage by perimitochondrial ENTK, the DNA-peptide nanoassemblies undergo subcellular-specific disassembly and payload release, resulting in mitochondria-localized ROS generation and synergistic ASO-mediated ASncmtRNA knockdown, accompanied by suppression of the anti-apoptotic protein survivin. These coordinated effects collectively induce mitochondria-mediated apoptosis and achieve effective tumor suppression. This work establishes a DNAzyme-catalyzed covalent assembly strategy that integrates the molecular programmability of nucleic acids with the biological specificity of peptides, providing a modular and highly tunable platform for organelle-targeted nanosystems and enabling sophisticated spatiotemporal combination therapy.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.2174/0113816128500945260918112735",
+    "title": "Emulsion Stabilized by Pickering Emulsion Polymerization Technique: A State-of-the-Art Review.",
+    "topic": "Drug delivery",
+    "date": "2026-09-29",
+    "journal": "",
+    "authors": "Batra S, Sharma S, Kuchibhotla A, Khanna T, Dwivedi A.",
+    "doi": "10.2174/0113816128500945260918112735",
+    "pmid": "42817131",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42817131/",
+    "abstract": "Pickering emulsion is an attractive approach for developing stabilized emulsions. It has proved its potential use not only in the food industry but also in the pharmaceutical industry. The use of surfactants in ocular and other parenteral drug delivery systems is limited due to their potential to cause allergic reactions, thereby limiting the application of emulsions as drug delivery routes in the pharmaceutical industry. Pickering emulsion is known for imparting better stability to emulsions with respect to Ostwald ripening and destabilization under varying environmental conditions. The technique involves surrounding the micelle with solid particles, resulting in modified physicochemical properties of the developed carrier. It also allows preventing the use of surfactants that are currently considered toxic by regulatory authorities for human use. Various organic polymers such as starch, chitosan, soy protein, ovotransferrin, and gums, among others with amphiphilic characteristics, have been investigated for the development of new drug delivery or monolithic systems using the Pickering emulsion technique. Pickering emulsion offers opportunities to develop not only O/W and W/O emulsions but also multiple emulsions and surface modifications with different active functionalities to impart stimuli-responsive drug release. Despite the broad scope of pharmaceutical applications, controlling polydispersity, maintaining particle integrity while dealing with proteins, ensuring industrial scalability, and achieving low production costs are some of the key challenges with Pickering emulsions. Future developments may include multifunctional carriers capable of simultaneous drug delivery and diagnosis, thereby enabling personalized therapeutic treatments with controlled delivery profiles. Consequently, Pickering emulsions make targeted delivery, controlled release, and enzyme immobilization possible for challenging drug molecules.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.64898/2026.09.24.753692",
+    "title": "DCMax - A novel Delayed C max Drug Delivery System for Improved Chronotherapy",
+    "topic": "Drug delivery",
+    "date": "2026-09-29",
+    "journal": "",
+    "authors": "Punyani K, Loehde JB, Knopp MM, Gregersen S, Gupta S, Bar-Shalom D.",
+    "doi": "10.64898/2026.09.24.753692",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.09.24.753692",
+    "abstract": "This study evaluated the Delayed C max Drug Delivery System (DCMax), an erosion-based controlled-release formulation designed to delay peak plasma concentration (Cmax) and sustain drug release. The tablet matrix contained hydroxypropyl methylcellulose, hydroxypropyl methylcellulose acetate succinate, and polyethylene oxide. In-vitr o dissolution and erosion studies confirmed the delayed release profile. In-vivo performance was assessed in six healthy volunteers by measuring salivary caffeine concentrations after administration of immediate-release caffeine tablets and DCMax tablets. DCMax induced a delayed C max of 5 hours compared with 1 hour for the immediate-release formulation, while peak concentrations were lower compared to immediate release. These findings demonstrate that erosion-based drug delivery can achieve delayed release, with potential application in chronotherapy for endocrine disorders. Highlights Erosion-based controlled release tablet may enable chronotherapy dosing Chronotherapeutically-relevant release rate achieved for molecules including thyroid hormone T3 and caffeine in-vitro Drug release rate largely independent of molecule type when the drug load is ≤20% Pharmacokinetic modelling predicts API release profile matching circadian rhythm Clinical study shows delayed Cmax and reduced peak during release",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1016/j.jconrel.2026.115415",
@@ -516,6 +1015,132 @@
     "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
   },
   {
+    "id": "PMC:PMC13648547",
+    "title": "Subcellular spatiotemporal proteomics delineates distinct phases of ER stress proteostatic response",
+    "topic": "Protein",
+    "date": "2026-09-28",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13648547",
+    "url": "https://europepmc.org/articles/PMC13648547",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.ymthe.2026.09.033",
+    "title": "Decoupling reactogenicity from efficacy enables safer mRNA vaccines, AAV gene delivery, and in vivo base editing.",
+    "topic": "Nucleic acids",
+    "date": "2026-09-28",
+    "journal": "",
+    "authors": "Lainšček D, Malenšek Š, Forstnerič V, Golob-Urbanc A, Orehek S, Bohinc J, Keber MM, Sotošek T, Esih H, Pečan P, Pantović-Žalig J, Benčina M, Bester R, Protzer U, Jerala R.",
+    "doi": "10.1016/j.ymthe.2026.09.033",
+    "pmid": "42806631",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42806631/",
+    "abstract": "Nucleic-acid therapeutics, including mRNA vaccines, genome editors, and viral vectors, are constrained by acute innate reactogenicity that limits dosing flexibility, tissue targeting, and safety. Here we identify a conserved early innate inflammatory program, peaking approximately six hours after administration, that governs reactogenicity across mRNA formulated lipid nanoparticle (LNP), adenoviral vectors and AAV9. Using pharmacological and biochemical probes, we show that this program is driven predominantly by nucleic-acid cargo sensing, rather than lipid components, and is mechanistically separable from antigen expression, adaptive immune priming, and in vivo genome-editing efficacy. Selective modulation of this early cytokine burst achieved here using endosomal nucleic-acid sensing suppressors markedly reduces reactogenicity in multiple mouse models while preserving humoral and cellular immunity to mRNA vaccines, maintaining transgene expression, protecting blood-brain barrier integrity during stereotactic AAV9 delivery, and mitigating LNP-associated hepatotoxicity and thrombocytopenia. These findings define a unifying innate-sensing architecture for nucleic-acid therapeutics and establish that reactogenicity is not required for effective vaccination or gene delivery, enabling a broadly applicable strategy to widen the safety window of mRNA medicines, viral vectors, and in vivo genome editing.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.jconrel.2026.115418",
+    "title": "Protein expression kinetics of mRNA, saRNA, and pDNA as individual or co-delivered payloads using a common lipid nanoparticle formulation.",
+    "topic": "Nucleic acids",
+    "date": "2026-09-28",
+    "journal": "",
+    "authors": "McMillan C, Hussain M, Punnabhum P, Varley AJ, Kong KYS, Rattray Z, Druschitz A, Perrie Y.",
+    "doi": "10.1016/j.jconrel.2026.115418",
+    "pmid": "42805567",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42805567/",
+    "abstract": "Lipid nanoparticles (LNPs) are clinically established carriers for nucleic acid therapeutics, most notably messenger RNA (mRNA). Beyond mRNA, LNPs can be used to deliver alternative gene-expressing nucleic acids with distinct biological properties, offering opportunities to modulate expression kinetics. Here, we compared LNPs formulated with firefly luciferase (FLuc)-encoding mRNA, self-amplifying RNA (saRNA), and plasmid DNA (pDNA), as well as defined combinations of these payloads, to assess how payload identity and composition influence expression in vitro and in vivo. Using a constant ALC-0315-based lipid composition and microfluidic formulation process, single-payload LNPs displayed distinct expression profiles following intramuscular and intravenous administration in mice: mRNA produced high, transient expression levels, saRNA produced delayed and sustained expression, and pDNA enabled prolonged low-level expression. Combined-payload formulations, prepared either by mixing the payloads before LNP formulation or by mixing separately formulated LNPs, exhibited expression profiles consistent with the proportional contributions of their constituent payloads, providing proof-of-concept evidence of additive behaviour under the conditions tested, with no clear evidence of synergistic or antagonistic interactions. Characterisation of LNP physicochemical properties, including mean hydrodynamic diameter, polydispersity, zeta potential, and encapsulation efficiency, showed minimal differences between formulations. These findings indicate that, within the common formulation system investigated, differences in expression profiles were associated with payload identity and composition. Overall, this study shows that distinct expression kinetics can be observed when different nucleic acid payloads are delivered using a common LNP formulation and that combined-payload preparations can exhibit additive expression behaviour under defined experimental conditions.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1039/d6tb01548d",
+    "title": "A DNA nanostructure-enabled photothermal hydrogel for synergistic antibacterial therapy and infected wound repair.",
+    "topic": "Nucleic acids",
+    "date": "2026-09-28",
+    "journal": "",
+    "authors": "Chen J, Zhao Q, Li T, Zhang X, Pu Y, He B.",
+    "doi": "10.1039/d6tb01548d",
+    "pmid": "42803125",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42803125/",
+    "abstract": "Bacterial infection is a major cause of delayed wound healing, while overuse of antibiotics has accelerated the emergence of antimicrobial resistance. Developing multifunctional antibacterial biomaterials that eradicate bacteria without relying on conventional antibiotics is therefore highly desirable. Herein, we report an injectable polyethylene glycol (PEG)-based hydrogel incorporating gold nanorods (ARs) and a DNA nanostructure-mediated silver and antisense oligonucleotide delivery system (A-C@Ag) to achieve synergistic antibacterial therapy and enhanced skin regeneration. The hydrogel is formed by rapid thiol-maleimide crosslinking of PEG precursors containing AR@A-C@Ag, providing excellent injectability, biocompatibility, and mechanical stability. Upon near-infrared irradiation, the AR generates mild photothermal heating to directly damage bacteria and simultaneously promotes the on-demand release of Ag + and antisense oligonucleotides from the DNA nanostructure, resulting in markedly enhanced antibacterial activity against both Staphylococcus aureus and Escherichia coli by facilitating bacterial membrane disruption. In a S. aureus -infected full-thickness wound model, AR@A-C@Ag/Gel under NIR irradiation significantly accelerated wound closure by efficiently eliminating bacteria, suppressing inflammation, promoting angiogenesis and collagen deposition, and facilitating the regeneration of skin appendages. This work demonstrates that integrating DNA nanostructure-enabled drug delivery with mild photothermal therapy represents an effective strategy for constructing antibiotic-free antibacterial hydrogels for infected wound repair.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.anai.2026.08.003",
+    "title": "Corrigendum to '2025 Inborn errors of immunity practice parameter: Guidance from the Joint Task Force on Practice Parameters, the American Academy of Allergy, Asthma & Immunology (AAAAI), the American College of Allergy, Asthma and Immunology (ACAAI) and the Clinical Immunology Society (CIS)' [Annals of Allergy, Asthma & Immunology. Volume 136, issue 4 (2026) 426-493.e1].",
+    "topic": "Immunity",
+    "date": "2026-09-28",
+    "journal": "",
+    "authors": "Orange JS, Chinen J, Horner CC, Kobrynski LJ, Ballow M, Butte MJ, Chandrakasan S, Chinn IK, Satter LF, Freeman AF, Heimall JR, Knight V, Lawrence MG, Lehman HK, Maglione PJ, Perez EE, Risma KA, Walter JE, Abraham RS, Barmettler S, Broderick L, Chang CC, Chan AY, Chen K, Connelly J, Danziger-Isakov LA, la Morena MT, DiGiacomo D, Dimitriades VR, Dorsey MJ, Dulek DE, Dutmer CM, Dvorak CC, Farmer JR, Frazer-Abel A, Joshi AY, Keller MD, Khan YW, Kitcharoensakkul M, Leiding JW, Myers KC, Nandakumar V, Platt CD, Pai SY, Patel NC, Pozos TC, Puck JM, Rider NL, Sacco KA, Williams KW, Lieberman JA, Rank MA, Shaker MS, Abrams EM, Bernstein JA, Chu DK, Ellis AK, Golden DBK, Greenhawt M, Ledford DK, Mosnaim G, Wang J.",
+    "doi": "10.1016/j.anai.2026.08.003",
+    "pmid": "42808930",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42808930/",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.2174/0115748871495317260907100938",
+    "title": "A Review Article on Smart Phyto-nanoemulgel Systems for Modulation of Inflammatory Mediators in Rheumatoid Arthritis.",
+    "topic": "Drug delivery",
+    "date": "2026-09-28",
+    "journal": "",
+    "authors": "Tiwari R, Sharma S.",
+    "doi": "10.2174/0115748871495317260907100938",
+    "pmid": "42816995",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42816995/",
+    "abstract": "This review article offers a thorough examination of nanoemulgel-based drug delivery methods for rheumatoid arthritis (RA) treatment. The study delves into the fusion of nanotechnology with gel-based systems, underscoring their superior drug-delivery capabilities, controlled release, and targeted therapeutic potential for managing rheumatoid arthritis. It also provides a detailed exploration of the use of herbal plants in the treatment of arthritis, focusing on traditional remedies, active components, mechanisms of action, and pharmacological strategies to enhance their administration. These approaches are designed to improve bioavailability, support targeted distribution, and allow for controlled release of herbal constituents. Safety considerations, including potential drug interactions and the risk of allergic responses, are also addressed. Rheumatoid arthritis is a debilitating condition characterized by inflammation of the synovial membrane, leading to cartilage and bone degradation. Numerous medications, including anti-inflammatory drugs and disease-modifying antirheumatic therapies, can assist in its management; also, phytotherapy presents a promising and advantageous approach for treating rheumatoid arthritis, due to its capacity to target a range of inflammatory substances, such as nitric oxide (NO), cytokines, chemokines, and adhesion molecules, especially given the significant side effects associated with conventional treatments. Additionally, nanomedicine offers a valuable formulation approach to address challenges associated with phytoconstituents, including poor bioavailability, high first-pass metabolism, and reduced stability. This review provides an extensive overview of numerous phytoconstituents with significant potential in the management of RA, their limitations, innovative drug formulations reported, and the relevant regulatory considerations.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.jviromet.2026.115478",
+    "title": "Nanomedicine and one health approaches for monkeypox: Emerging preclinical strategies for prevention, diagnosis, and treatment.",
+    "topic": "Drug delivery",
+    "date": "2026-09-28",
+    "journal": "",
+    "authors": "Harini K, Kiran V, Thirumalai A, Girigoswami K, Girigoswami A.",
+    "doi": "10.1016/j.jviromet.2026.115478",
+    "pmid": "42805404",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42805404/",
+    "abstract": "The global resurgence of mpox, caused by monkeypox virus (MPXV), has highlighted the need for effective antiviral strategies, rapid diagnostics, vaccination, and integrated preparedness approaches. This review critically examines recent advances in MPXV biology, pathogenesis, transmission, clinical manifestations, prevention, diagnosis, treatment, and emerging nanomedicine-based strategies within a One Health framework. Particular emphasis is placed on nanoparticle-enabled vaccines, diagnostics, therapeutics, and wastewater surveillance, highlighting their potential to improve antigen delivery, diagnostic sensitivity, targeted drug delivery, and population-level monitoring. The review also compares conventional and nanoscale approaches and evaluates the current evidence supporting their efficacy and translational potential. Importantly, most nano-enabled MPXV interventions remain at the preclinical stage, and their reported performance cannot be directly compared because of differences in nanoparticle composition, target antigens, experimental models, assay conditions, and clinical validation strategies. Major challenges include long-term safety, pharmacokinetics, reproducibility, scalability, storage stability, regulatory approval, and the limited availability of well-designed clinical studies. Within the One Health framework, effective MPXV control also requires coordinated surveillance of human, animal, and environmental reservoirs, including standardized wastewater monitoring and cross-sectoral data sharing. Future research should therefore prioritize rigorous clinical validation, standardized evaluation protocols, diverse MPXV clade testing, long-term safety assessment, scalable manufacturing, and integrated human-animal-environmental surveillance.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1038/s41587-026-03331-w",
+    "title": "Accelerated discovery of thermostable mRNA-lipid nanoparticle vaccines using data-efficient AI.",
+    "topic": "Drug delivery",
+    "date": "2026-09-28",
+    "journal": "",
+    "authors": "Tian J, Tran KTM, Pogostin BH, Sheridan O, Mursalova S, Lee AH, Liu S, Hamkins J, Antov D, Power AL, Dash ZS, Yun D, Konaković Luković M, Langer RS, Jaklenec A.",
+    "doi": "10.1038/s41587-026-03331-w",
+    "pmid": "42806112",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42806112/",
+    "abstract": "The instability of mRNA-lipid nanoparticles (LNPs) necessitates ultra-cold storage, limiting global distribution and their broader application in advanced delivery systems. Solid-state, water-free formulations enhance thermostability and enable integration into emerging delivery modalities such as microneedle patches. Previous efforts to stabilize mRNA-LNPs have been constrained by narrow formulation scope and low-throughput screening methods. Here we introduce Algorithm-Guided Experimental design for lipid Nanoparticle Thermostabilization (AGENT), an artificial intelligence (AI)-driven framework that couples high-throughput experimentation with Bayesian optimization to identify thermostable mRNA-LNP formulations. AGENT extracts maximal information from sparse experimental datasets, enabling efficient formulation optimization in six iterations completed within 1 month. We stabilized mRNA vaccines with two clinically relevant LNPs representative of the Moderna (SM-102-based) and Pfizer-BioNTech (ALC-0315-based) compositions into solid-state formulations that retained 100% bioactivity after storage at 37 °C for more than 2 months. In rodents and non-human primates, thermostable, solid-state vaccine formulations induced antigen-specific immune responses non-inferior to those elicited by intramuscular delivery of freshly prepared soluble vaccines.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1186/s43556-026-00600-7",
+    "title": "mRNA lipid nanoparticle vaccines: current status, challenges and future prospects.",
+    "topic": "Drug delivery",
+    "date": "2026-09-28",
+    "journal": "",
+    "authors": "Wu Z, Lou J, Cheng Y, Li M, Wang Z, Liu N, Gao X, Zheng A, Zhang H.",
+    "doi": "10.1186/s43556-026-00600-7",
+    "pmid": "42804114",
+    "pmcid": "PMC13620059",
+    "url": "https://europepmc.org/articles/PMC13620059",
+    "abstract": "mRNA vaccines have become a clinically validated vaccine platform, as demonstrated by the success of COVID-19 vaccines such as Comirnaty and Spikevax, owing to their rapid design, manufacturing scalability, and capacity to induce in situ antigen expression. A key factor underlying this success is the lipid nanoparticle (LNP) delivery system, which protects mRNA from degradation and promotes efficient cellular uptake and cytoplasmic delivery, thereby enabling the full potential of mRNA technology. The continued advancement of mRNA-LNP vaccines requires integrated optimization of mRNA design, LNP composition, and delivery strategies to achieve improved stability, efficient intracellular delivery, and balanced immune responses. Despite remarkable progress, challenges related to formulation stability, long-term storage stability, safety and reactogenicity concerns, and durability of immune protection continue to hinder the broader application of mRNA-LNP vaccine platforms. This review provides an integrated overview of recent advances in mRNA-LNP vaccines, covering mRNA molecular engineering, LNP composition and delivery mechanisms, immune responses, clinical progress, and current developmental challenges. Furthermore, emerging strategies, including thermostable formulations, next-generation LNPs with improved targeting capability, emerging RNA platforms, and artificial intelligence-assisted optimization of RNA sequences and lipid materials, are discussed. By summarizing current achievements and future opportunities, this review highlights key principles guiding the rational design of safer, more stable, and more precise mRNA-LNP vaccine platforms and provides insights into accelerating their clinical translation.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.1007/s11033-026-12635-8",
     "title": "Silencing with precision: In silico strategies for antisense oligonucleotide engineering.",
     "topic": "Nucleic acids",
@@ -525,7 +1150,9 @@
     "doi": "10.1007/s11033-026-12635-8",
     "url": "https://europepmc.org/articles/PMC13616835",
     "abstract": "Therapeutics based on nucleic acids are emerging as a transformative drug class in the era of personalized medicine. They include antisense oligonucleotides (ASOs), aptamers, small interfering RNAs (siRNAs), small activating RNAs (saRNAs), microRNAs (miRNAs), and long non-coding RNAs (lncRNAs), in addition to messenger RNAs (mRNAs). ASOs are short synthetic molecules of nucleic acids designed to bind to specific RNA molecules to allow for precise modulation of gene expression in a personalized medicine context. This review will summarize the state of the art in in silico tools and methods that are used for the design, 3D structural prediction, molecular docking, and simulation of ASOs, including their applications and limitations. By leveraging these computational approaches, the review will provide in silico methodologies toward improved specificity and efficacy of ASO therapeutics. These methodologies can enhance understanding of biological mechanisms of ASOs to allow for improved accuracy and efficacy of ASOs in the clinic while also providing new pathways toward the development of targeted therapies.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42801377",
+    "pmcid": "PMC13616835"
   },
   {
     "id": "doi:10.1002/adma.75174",
@@ -538,6 +1165,34 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42802644/",
     "abstract": "Lipid nanoparticles (LNPs) are the leading platform for delivery of RNA-based therapeutics. There is considerable interest in optimizing the transfection potency of these systems. Standard formulation protocols involve mixing lipids in ethanol with a buffer containing mRNA at pH 4, followed by dialysis against a pH 7.4 saline buffer to remove ethanol and raise the pH. The dialysis process results in fusion of mRNA-lipid complexes and small vesicles formed at pH 4, driven by two processes: Conversion of the ionizable lipid from the positively charged bilayer form to the neutral oil form and fusion stimulated by higher ionic strengths. Here we explored the consequences of a two-step dialysis process involving formulating at pH 4, 25 mM NaOAc, and then inducing fusion at pH 4 by dialyzing against a higher ionic strength buffer while maintaining the ethanol concentration at 25% (v/v). This was followed by dialysis against PBS to raise the pH. We show that the two-step protocol results in increased mRNA loading per LNP, a decreased proportion of \"empties\" as compared to the standard process, and improved transfection potencies in vitro and in vivo when compared to LNP mRNA formed from the traditional one-step buffer exchange process.",
     "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+  },
+  {
+    "id": "doi:10.1016/j.ijpharm.2026.127476",
+    "title": "Physicochemical and biological evaluation of a GMP‑grade ionizable lipid for robust and scalable manufacturing of siRNA- and mRNA-loaded lipid nanoparticles.",
+    "topic": "Nucleic acids",
+    "date": "2026-09-27",
+    "journal": "",
+    "authors": "Maharjan R, Kim GN, Jung HS, Kim HJ, Kim JH, Kang HM, Kim HU, Jeong SH.",
+    "doi": "10.1016/j.ijpharm.2026.127476",
+    "pmid": "42801999",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801999/",
+    "abstract": "The clinical translation of RNA-loaded lipid nanoparticles (LNPs) requires GMP-grade excipients supported by a rigorous analytical control strategy. This study aimed to evaluate the GMP-grade ionizable lipid (YCE-C10) as a manufacturing-ready component for siRNA- and mRNA-loaded LNPs produced by scalable microfluidic mixing. The evaluated critical quality attributes (CQAs) included Z-average size, polydispersity index, encapsulation efficiency, mRNA integrity, thermotropic behavior, lipid composition, and subvisible particle content. YCE-C10 LNPs exhibited sub-100-nm particle sizes with narrow size distributions, high encapsulation efficiencies, and potent in vitro transfection activity comparable to benchmark formulations prepared with SM-102. Batch-to-batch reproducibility across four independent GMP manufacturing runs was consistent, with relative standard deviations below 5% for all CQAs. LNP encapsulation preserved mRNA integrity across 25-85°C and improved reversibility during cooling compared with naked mRNA. A quantitative HPLC-CAD method demonstrated good linearity for DMG-PEG2K and confirmed consistent lipid composition in formulated LNPs (YCE-C10, 5.21 mg/mL, cholesterol, 4.89 mg/mL, DOPE, 4.13 mg/mL, and DMG-PEG2K, 0.80 mg/mL). Subvisible particles were predominantly <10 µm, with nominal numbers measuring ≥25 µm. In vitro and in vivo studies demonstrated potent mRNA expression and sustained siRNA protection for 24 h, supporting the robustness of the manufacturing platform. The integrated analytical framework of various biophysical methods and in vitro assay is broadly applicable to quality evaluation of LNPs formulated with an ionizable lipid. The findings identify YCE-C10 as a GMP-grade ionizable lipid for reproducible RNA-LNP.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.bbcan.2026.189726",
+    "title": "The cGAS-STING signaling in hepatocellular carcinoma: A spatiotemporally gated immune switch linking pro-tumorigenic immune evasion and anti-tumor therapeutic response.",
+    "topic": "Immunity",
+    "date": "2026-09-27",
+    "journal": "",
+    "authors": "Chen Y, An Y, Wang C, Jin H, Feng L.",
+    "doi": "10.1016/j.bbcan.2026.189726",
+    "pmid": "42801953",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42801953/",
+    "abstract": "Hepatocellular carcinoma (HCC) arises from chronic inflammation and immune tolerance, posing substantial challenges for immunotherapy. The cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) signaling is a central immunological hub linking innate immune sensing to adaptive immune responses in tumors. In HCC, cGAS-STING signaling exhibits a context-dependent dual role across multiple hepatic cell types, including hepatocytes, hepatic stellate cells and immune cells, orchestrating both anti-tumor immunity and pro-tumorigenic inflammation. While acute activation enhances dendritic cell maturation, antigen presentation, and CD8+ T-cell priming to boost anti-tumor immunity, sustained or dysregulated cGAS-STING signaling promotes chronic inflammation and subsequently remodels an immunosuppressive tumor microenvironment (TME) to promote tumorigenesis. This dual functionality positions the cGAS-STING signaling as both a therapeutic opportunity and a critical constraint in HCC immunotherapy. Recent advances highlight the translational potential of STING-targeted strategies, including synthetic agonists, combination regimens with targeted therapies, immune checkpoint inhibitors (ICIs) as well as nanomaterial-based delivery systems. At the same time, clinical translation remains constrained by systemic inflammatory toxicity, context-dependent tumor-promoting inflammation, pathway refractoriness or silencing, and the lack of validated biomarkers for patient selection. In this review, we summarize the molecular mechanisms, cell-type-specific functions and intercellular crosstalk of cGAS-STING signaling in HCC, and discuss therapeutic strategies and translational challenges. We propose future directions focusing on spatiotemporal activation, precision delivery, and biomarker-guided interventions to exploit the therapeutic potential of targeting the cGAS-STING signaling in HCC.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "PMC:PMC13635509",
@@ -576,6 +1231,20 @@
     "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
   },
   {
+    "id": "doi:10.1007/s00203-026-05194-w",
+    "title": "Pharmaceutical innovation in advanced nanomedicine for the treatment of hypervirulent and multidrug-resistant Klebsiella pneumoniae infections.",
+    "topic": "Drug delivery",
+    "date": "2026-09-26",
+    "journal": "",
+    "authors": "Hetta HF, Alanazi FE, Alshareef H, Soliman GM, Almadi SA, Aljuhani AF, Bukhari SQ, Alatawi Z, Ellah NHA, Atoom AM, El-Maghrabey M, Ramadan YN.",
+    "doi": "10.1007/s00203-026-05194-w",
+    "pmid": "42799769",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42799769/",
+    "abstract": "Hypervirulent and multidrug-resistant Klebsiella pneumoniae represents a dual threat to global health, combining aggressive virulence with resistance to last-line antibiotics. Conventional therapies are failing, leaving an urgent need for disruptive approaches. Nanotechnology offers transformative solutions by enabling targeted drug delivery, dismantling biofilms, restoring antibiotic potency, and introducing novel modalities such as phage-nanoparticle hybrids and CRISPR-based nanoplatforms. This review synthesizes recent advances in metal-, polymer-, and lipid-based nanostructures designed to combat hvKp, highlighting mechanisms of action, synergistic combinations with antibiotics, and innovative theranostic systems. We also critically examine translational challenges, including reproducibility, safety, and regulatory uncertainty, while outlining future opportunities for precision nanomedicine through smart nanoplatforms, nano-enabled diagnostics, and AI-driven design. By integrating efficacy with safety and clinical feasibility, nanotechnology holds promise to reshape the therapeutic landscape for hvKp and MDR pathogens and contribute to broader strategies against antimicrobial resistance.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.1016/j.cell.2026.08.055",
     "title": "In-cell discovery and characterization of a non-canonical bacterial protein translocation-folding complex.",
     "topic": "Protein",
@@ -585,7 +1254,8 @@
     "doi": "10.1016/j.cell.2026.08.055",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42790421/",
     "abstract": "Cryo-electron tomography has emerged as a powerful technology for in-cell structural biology and, in combination with breakthroughs in protein structure prediction, offers a unique opportunity for illuminating functions of previously uncharacterized macromolecular complexes. Here, we used the genome-reduced bacterium Mycoplasma pneumoniae as a minimal cell model and determined in-cell maps of an unknown complex located at the cell surface. By combining proteomics, structure prediction, integrative modeling, and bioinformatics, we identified the complex to include the conserved Sec-translocon and an extracellular dome-like structure largely formed by three uncharacterized proteins (Mdps). The Mdps show structural homology to the periplasmic ATP-independent foldase PrsA, with Mdp444 retaining key catalytic residues and activity. Our study provides the first sub-nanometer-resolution maps of the complete bacterial Sec-translocation machinery, depicting its association in SecA-mediated co-translational translocation and its coordination with an extracellular protein-folding system.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42790421"
   },
   {
     "id": "doi:10.5582/ddt.2026.01064",
@@ -597,7 +1267,8 @@
     "doi": "10.5582/ddt.2026.01064",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42802047/",
     "abstract": "Chronic hepatitis B (CHB) remains a major global health burden despite the availability of potent nucleos(t)ide analogue (NA) therapy. Although NAs effectively suppress hepatitis B virus (HBV) DNA replication and reduce the risks of cirrhosis and hepatocellular carcinoma, they have limited effects on covalently closed circular DNA and hepatitis B surface antigen (HBsAg) production, and most patients require prolonged treatment. Bepirovirsen is an antisense oligonucleotide that targets conserved HBV RNA sequences, promotes RNase H1-mediated RNA degradation, and reduces viral antigen expression and replication. In August 2026, Japan approved bepirovirsen (Hibsago) for selected adults with chronic HBV infection receiving NA therapy, representing its first global regulatory approval. Approval was supported by the phase III B-Well 1 and B-Well 2 trials, in which a functional cure after treatment withdrawal was achieved in 20% and 19% of bepirovirsen-treated patients, respectively, versus 0% with a placebo. Response rates were higher among patients with lower baseline HBsAg levels. The overall safety profile was acceptable; however, elevated alanine aminotransferase levels were observed in 6% of bepirovirsen-treated participants. Ongoing studies will further define long-term durability, broader applicability, and optimal treatment strategies.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42802047"
   },
   {
     "id": "PMC:PMC13603024",
@@ -646,6 +1317,20 @@
     "url": "https://europepmc.org/articles/PMC13601906",
     "abstract": "",
     "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+  },
+  {
+    "id": "doi:10.1177/15578100261488096",
+    "title": "An Immunogenic Cell Death-Enhanced Self-Assembled Nanoparticle-Composite Hydrogel for Postoperative Local Immunotherapy of Melanoma.",
+    "topic": "Immunity",
+    "date": "2026-09-25",
+    "journal": "",
+    "authors": "Zhou W, Zhou D, Iqbal H, Zhang J, Wu S, Zhu W.",
+    "doi": "10.1177/15578100261488096",
+    "pmid": "42798191",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42798191/",
+    "abstract": "Photodynamic therapy (PDT) can elicit antitumor immunity by inducing immunogenic cell death (ICD), making it an attractive option for postoperative local cancer treatment. However, in solid tumors, aberrant vasculature and an immunosuppressive microenvironment often restrict immune-cell infiltration, thereby weakening the immune benefits of PDT. Here, we develop an ICD-amplifying, self-assembled nanoparticle-hydrogel composite (methacrylate-functionalized fucoidan hydrogel [dFuGMA]-Ce6-Tas nanoparticles [CTNPs]) for local immunotherapy following melanoma resection. In this system, the photosensitizer chlorin e6 and the immunomodulatory/antiangiogenic agent tasquinimod (Tas) spontaneously coassemble into carrier-free nanoparticles (CTNPs), which are subsequently embedded in a photocrosslinkable dFuGMA to enable in situ gelation and coordinated therapy at the surgical site. In vitro , CTNPs markedly enhanced cellular uptake, reactive oxygen species generation, and ICD-associated responses. In a postoperative melanoma model, dFuGMA-CTNPs combined with laser irradiation significantly suppressed tumor regrowth and promoted immune activation, as evidenced by increased dendritic cell maturation (4.6-fold) and enhanced infiltration of CD4 + (4.8-fold) and CD8 + T cells (5.8-fold). Mechanistically, Tas induced tumor vascular normalization by downregulating the hypoxia-inducible factor 1-alpha/vascular endothelial growth factor axis, thereby synergistically potentiating PDT-triggered ICD and downstream immune responses. Transcriptomic profiling further confirmed modulation of pathways associated with \"immune response\" and \"T cell activation.\" In conclusion, dFuGMA-CTNPs achieves a dual-pathway synergy through ICD enhancement and vascular normalization, providing a precisely localized and translationally feasible immunotherapeutic strategy to prevent postoperative melanoma recurrence.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.64898/2026.09.22.753561",
@@ -729,7 +1414,8 @@
     "doi": "10.2174/0118715206516168260917080151",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42786872/",
     "abstract": "Introduction Cancer remains a leading cause of mortality worldwide, and current conventional therapies are often limited by systemic toxicity, drug resistance, and tumour recurrence. Although natural polyphenols, such as Curcumin (CUR), Quercetin (QUE), Caffeic Acid Phenethyl Ester (CAPE), Resveratrol (RSV), and Genistein (GEN), exhibit promising anticancer properties, their clinical translation is hindered by poor solubility, chemical instability, rapid metabolism, and low bioavailability. As biodegradable polymers have been approved by the Food and Drug Administration (FDA), Poly (lactic-co-glycolic acid) (PLGA)-based Nanoparticles (NPs) represent a promising delivery platform to overcome these limitations by enabling both passive and active tumour targeting. Methods This review evaluates PLGA-based nanoparticle formulations for polyphenol delivery in cancer therapy, with an emphasis on single-drug delivery, co-encapsulation strategies (polyphenol-polyphenol and polyphenol-chemotherapeutic combinations), and functionalised targeted systems (e.g., folic acid-, transferrin-, ligand-, or peptide-mediated targeting). Studies conducted in two-dimensional (2D) and Three- Dimensional (3D) in vitro models, as well as in vivo models, are also discussed. Results Overall, PLGA NPs significantly improved the therapeutic activity of polyphenols by enhancing their stability, pharmacokinetics, and tumour accumulation via passive and active targeting mechanisms. Co-encapsulation and targeted delivery strategies show enhanced growth inhibition activity compared to free polyphenols and non-functionalised PLGA NPs. Discussion The activity of targeted PLGA co-delivery systems is attributed to the synergistic modulation of signalling pathways and improved intracellular accumulation via active targeting. This multifunctional delivery platform may serve as a strategy for combination cancer therapy by addressing the key pharmacokinetic limitations of polyphenols. Conclusion Despite encouraging preclinical outcomes, several challenges remain, including batch-tobatch variability, large-scale production, long-term toxicity, immune responses, and clinical translation. Therefore, future studies should prioritise the development of stimuli-responsive, biomimetic, and personalised nanomedicine approaches to improve clinical applicability.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42786872"
   },
   {
     "id": "doi:10.1016/j.bbr.2026.116493",
@@ -741,7 +1427,50 @@
     "doi": "10.1016/j.bbr.2026.116493",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42777955/",
     "abstract": "The ventral tegmental area (VTA) is involved in the behavioural sensitization to heroin, but the possible neural projections and molecular mechanisms remain unclear. Rats first underwent 8 days of heroin sensitization induction, followed by a 10-day drug-free period. Subsequently, a M5 muscarinic acetylcholine receptor antisense oligonucleotide was microinjected into the VTA, and the expression of heroin sensitization was assessed. Secondly, retrograde viral tracing combined with immunofluorescence labeling was used to characterize VTA neuronal populations projecting to the paraventricular thalamic (PVT) and the ventromedial hypothalamus (VMH). Finally, chemogenetic inhibition of VTA-PVT or VTA-VMH dopaminergic projections was performed to evaluate their effects on heroin sensitization. We found that microinjection of a M5 receptor antisense oligonucleotide into the VTA inhibited the expression of heroin sensitization. Furthermore, although the VTA sends dopaminergic projections to both the PVT and the VMH at varying densities, chemogenetic inhibition of VTA-PVT dopaminergic projection specifically attenuates heroin sensitization expression and leads to increased protein kinase B (Akt) phosphorylation and decreased cAMP response element binding protein (CREB) phosphorylation in the PVT. In contrast, inhibition of the VTA-VMH dopaminergic projection had no effect. Our results suggest that M5 receptor in the VTA is critically involved in regulating heroin sensitization. Furthermore, the VTA-PVT dopaminergic projection is essential for heroin sensitization expression and may act by modulating Akt and CREB phosphorylation.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42777955"
+  },
+  {
+    "id": "doi:10.64898/2026.09.23.753708",
+    "title": "Enhancing the efficacy of siRNA Antibody Oligonucleotide Conjugates (AOCs) through chemical design",
+    "topic": "Nucleic acids",
+    "date": "2026-09-23",
+    "journal": "",
+    "authors": "Hayes OG, Rädler J, Filipiak E, Czapik T, Roudi S, Ojansivu M, Ilamathi HS, Marquant A, Huang Y, Wiklander OP, Zain R, Honcharenko M, Andaloussi SE.",
+    "doi": "10.64898/2026.09.23.753708",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.09.23.753708",
+    "abstract": "Antibody-oligonucleotide conjugates (AOCs) offer a promising solution to delivery challenges of therapeutic oligonucleotides. However, the relationship between their complex chemical architectures and biological activity remains poorly understood, limiting the development of important structure-function relationships. For siRNA-containing AOCs, increasing the siRNA-to-antibody ratio beyond one (drug-to-antibody ratio, DAR>1) reduces potency, attributed to altered pharmacokinetics arising from increased negative charge density. Here, we investigated whether simple chemical modifications could improve AOC efficacy and mitigate limitations associated with higher DAR. Introduction of a single C16 lipid modification to the siRNA significantly enhanced target gene silencing compared to the unmodified AOC. Extending this modification to a DAR2 architecture, in which two siRNAs are conjugated per antibody, restored the loss of activity associated with increasing DAR from 1 to 2. Notably, at an equivalent siRNA dose (1 mg/kg), the DAR2-C16 AOC requires half the amount of antibody while achieving knockdown comparable to the DAR1-C16 AOC. We also developed a charge-balancing ionizable linker (CBIL) designed to partially compensate for the negative charge of siRNA. Incorporation of the CBIL enhanced target gene silencing in heart and skeletal muscle without a corresponding increase in hepatic activity, resulting in a shift toward greater extrahepatic activity relative to liver. Together, these findings demonstrate that chemical modification of both the siRNA payload and antibody-siRNA linker can be used to tune AOC potency and tissue activity, while enabling higher payload loading without compromising efficacy. These results establish chemical design as an important strategy for expanding the architecture and therapeutic potential of AOCs. TOC Graphic",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/bit.70372",
+    "title": "Process Analytical Technology (PAT) for Continuous Purification of mRNA via Precipitation and Tangential Flow Filtration.",
+    "topic": "Nucleic acids",
+    "date": "2026-09-23",
+    "journal": "",
+    "authors": "Bhawnani RR, Royo MDCP, Kadambi R, Hatas A, Burcat S, Arnold T, Al-Mahayni H, Braatz RD, Myerson AS.",
+    "doi": "10.1002/bit.70372",
+    "pmid": "42775719",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42775719/",
+    "abstract": "Continuous downstream processing of messenger ribonucleic acid (mRNA) therapeutics requires purification strategies that are scalable, robust, and capable of removing product- and process-related impurities from in vitro transcription mixtures. Precipitation-based purification coupled with tangential flow filtration (TFF) has recently been demonstrated as a chromatography-free route for continuous mRNA purification. However, implementation of this approach requires real-time monitoring strategies that can distinguish the product-rich precipitated phase from the impurity-rich liquid phase, as well as phase-dependent transport behavior across the integrated process. In this work, we develop a phase-resolved process analytical technology (PAT) and residence time distribution (RTD) framework for continuous mRNA purification by PEG/NaCl precipitation and sequential TFF. Inline UV-Vis spectroscopy and LED-based optical density measurements were used concurrently to separate nucleic-acid absorbance from turbidity-driven responses associated with suspended mRNA precipitates. RTD experiments with dissolved and precipitated tracers revealed phase-dependent transport behavior in both the tubular precipitator and TFF module, which was quantified using axial dispersion and tanks-in-series models. During integrated operation, inline PAT captured startup, steady-state, and washout behavior, while stable TMP indicated operation without observable membrane fouling. This work demonstrates that precipitation-based continuous mRNA purification can be strengthened through phase-resolved monitoring and RTD-based process understanding, providing a framework for robust development of continuous downstream processes for nucleic acid therapeutics.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1158/1535-7163.mct-25-1412",
+    "title": "An oncolytic virus armed with fowl adenovirus fiber-modified recombinant TRAIL enhances tumor targeting and immunotherapy activity.",
+    "topic": "Immunity",
+    "date": "2026-09-23",
+    "journal": "",
+    "authors": "Liu W, Wang L, Wang X, Zhou H, Liu X, Wang J, Chen Y, Li F, Wu H, Jiang Y, Yu B, Yu X.",
+    "doi": "10.1158/1535-7163.mct-25-1412",
+    "pmid": "42773554",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42773554/",
+    "abstract": "Oncolytic viruses have emerged as a promising strategy in cancer immunotherapy and have been applied to the treatment of various tumors. We previously demonstrated that oncolytic adenoviruses engineered expressing tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) could induce apoptosis in tumor cells and modulate immune responses in the tumor microenvironment. To enhance targeting capability and antitumor immunity, the full-length TRAIL is intended to be replaced with a soluble TRAIL (sTRAIL). However, the sTRAIL is limited by structural instability and hepatic accumulation. In this study, we performed an optimized design based on the previously developed, more stable sTRAIL (FA1FT) by fusing it with a knobless fiber motif derived from fowl adenovirus type 1. Through structural analysis and genetic engineering, we developed a novel recombinant sTRAIL protein (mut-FA1TLST) that exhibited reduced liver tropism and enhanced antitumor activity both in vitro and in vivo. Furthermore, we incorporated this optimized sTRAIL into a capsid-modified oncolytic adenovirus, which demonstrated improved tumor targeting ability and antitumor efficacy. The recombinant oncolytic virus expressing the sTRAIL also promoted activation of CD4⁺ T cells, CD8⁺ T cells and DCs in the tumor microenvironment, thereby eliciting antitumor immune response. Overall, this study provides a promising recombinant sTRAIL candidate for preclinical and clinical applications and presents a novel oncolytic virus with potential for in vivo tumor immunotherapy.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1073/pnas.2536559123",
@@ -765,7 +1494,8 @@
     "doi": "10.2174/0113894501516654260904091333",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42786822/",
     "abstract": "Background Small interfering RNA (siRNA) therapeutics have become an important class of nucleic acid medicines. Meanwhile, nucleic acid foundation models and RNA language models have demonstrated promising performance in selected RNA-related tasks and may support siRNA drug design through transferable sequence representation learning. Approach This mini-review selectively surveys and critically evaluates representative nucleic acid foundation models and their potential roles in siRNA design, including representation learning, lowdata adaptation, multitask prediction, generative design, and multi-objective optimization. Particular attention is given to RNA language models such as RNA-FM and RiNALMo, while DNA, regulatory, unified DNA-RNA, and multimodal models are positioned according to their direct or contextual relevance to siRNA development. Results Current models can be broadly grouped into DNA genomic language models, RNA language models, epigenomic/regulatory models, unified DNA-RNA models, and multimodal biomolecular foundation models. Across these categories, existing models provide complementary capabilities for sequence, structure, regulatory context, and cross-modal representation, but none yet constitutes a complete framework for therapeutic siRNA design. Discussion Although these models show strong transferability across genomic and RNA tasks, their value for siRNA-specific therapeutic design remains insufficiently established. A central challenge is the mismatch between the natural RNA grammar and the therapeutic oligonucleotide grammar. Real siRNA development requires simultaneous consideration of efficacy, specificity, chemical modification, stability, immunogenicity, off-target effects, delivery compatibility, and manufacturability. Conclusion Future progress will depend on modification-aware representations, therapeutic oligonucleotide datasets, multimodal integration, interpretable and experimentally testable outputs, robust cross-dataset and cross-protocol evaluation, and Pareto-based multi-objective selection. These requirements define a practical roadmap for moving from transferable RNA representations to therapeutically credible siRNA design systems.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42786822"
   },
   {
     "id": "doi:10.1016/j.cell.2026.08.049",
@@ -777,7 +1507,8 @@
     "doi": "10.1016/j.cell.2026.08.049",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42772280/",
     "abstract": "Interferon regulatory factor 2 (IRF2) is a transcription factor that prevents skin inflammation in mice and humans but, paradoxically, promotes pyroptosis by upregulating gasdermin D. How IRF2 activates some proinflammatory genes but suppresses inflammation is unclear. We show that skin inflammation in Irf2-deficient mice is driven by IRF1 activation of interferon-stimulated genes (ISGs). Chromatin profiling reveals that IRF1 and IRF2 occupy the same ISG regulatory sites, but as a weaker transcriptional activator, IRF2 limits ISG transcription by IRF1. Toll-like receptor (TLR) signaling favors IRF1-driven transcription by inducing Irf1. In addition, IRF1 recruits the ubiquitin ligase SPOP to ISG sites, resulting in proteasomal degradation of IRF2. This shift from IRF2 to IRF1 occupancy enhances ISG transcription. Collectively, these findings define a hierarchical transcriptional circuit in which IRF2 limits IRF1 activity under homeostatic conditions but is displaced during an immune response, allowing IRF1-dependent gene programs central to innate immunity and autoinflammation.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42772280"
   },
   {
     "id": "doi:10.2147/dddt.s638939",
@@ -790,6 +1521,48 @@
     "url": "https://europepmc.org/articles/PMC13615833",
     "abstract": "Breast cancer heterogeneity and its complex tumor microenvironment (TME) are key drivers of therapeutic failure and multidrug resistance (MDR). Drug delivery systems (DDS) provide an important approach, but their clinical translation remains limited by biological variability, formulation complexity, and manufacturing challenges. This review delineates the evolution of breast cancer DDS from passive carriers to increasingly functional and responsive platforms, focusing on three core dimensions. First, regarding decisive barriers, we dissect the constraints imposed by the three-dimensional collagen network, pH/glutathione (GSH) gradients, and tumor-associated macrophages (TAMs) on drug penetration. These factors not only act as physical and biochemical obstacles but can also be harnessed as endogenous triggers for responsive design. Second, in terms of diversified platforms, we critically evaluate liposomes, polymeric nanoparticles, hydrogels, extracellular vesicles, and antibody-drug conjugates (ADCs). We highlight the potential of solid lipid nanoparticles to address drug resistance, the development of carrier-free delivery enabled by prodrug self-assembly, and the clinical significance of ADCs (eg, T-DXd) in expanding treatment options for HER2-low breast cancer. Third, we examine inter- and intratumoral heterogeneity, metastatic site-specific delivery barriers in the brain, bone, and lung, the multilayered resistance network from efflux pumps to cancer stem cells, and the sequential barriers nanomedicines must traverse from systemic circulation to intracellular targets. We propose three strategic directions: personalized precision delivery integrating liquid biopsy, organoids, and functional imaging to support patient stratification and treatment adaptation; AI-assisted formulation optimization using machine learning to develop material-structure-function predictive models and support data-driven formulation design; and multi-responsive systems leveraging endogenous signals such as pH, GSH, and enzymes, together with exogenous stimuli including light, magnetism, and ultrasound, for spatiotemporally controlled combination therapy. This review summarizes key considerations from biological barriers to clinical translation, emphasizing that alignment of tumor subtype, metastatic site, microenvironmental characteristics, and patient-specific factors may improve the clinical applicability of drug delivery strategies.",
     "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+  },
+  {
+    "id": "doi:10.64898/2026.09.19.752892",
+    "title": "Geometry-dependent mRNA delivery with programmable RNA-DNA nanostructures",
+    "topic": "Nucleic acids",
+    "date": "2026-09-22",
+    "journal": "",
+    "authors": "Zheng M, Dwivedy A, Gandavadi D, Hong W, Cho H, Shkolnik N, Wang X.",
+    "doi": "10.64898/2026.09.19.752892",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.09.19.752892",
+    "abstract": "ABSTRACT Efficient intracellular delivery of neoantigen-encoded mRNAs is central to the development of effective cancer vaccines and immunotherapies. However, how the nanoscale geometry of delivery carriers impacts mRNA delivery remains poorly understood, largely because conventional delivery platforms do not readily permit systematic variation of carrier architecture while maintaining comparable chemical composition. Here, we develop a modular RNA-DNA hybrid nanoplatform that enables controlled investigation of geometry-dependent mRNA delivery. Guided by a unified design principle, we construct a series of two- and three-dimensional nanostructures with programmable architectures and systematically compare their delivery performance using consistent functional readouts. We further investigate how mRNA embedding strategies and aptamer-mediated functionalization influence intracellular delivery efficiency. By providing precise control over carrier geometry, this platform establishes a framework for elucidating structure-function relationships in mRNA delivery and offers a versatile strategy for engineering targeted nucleic acid delivery systems.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1159/iaa/adfag029",
+    "title": "From Allergy to Tumor Immunology: The Dual Role of Antigen-Specific IgE-Mechanisms, Challenges, and Prospects for Clinical Translation.",
+    "topic": "Immunity",
+    "date": "2026-09-22",
+    "journal": "",
+    "authors": "Wang Y, Yu T, Li J, Liu Z.",
+    "doi": "10.1159/iaa/adfag029",
+    "pmid": "42771566",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42771566/",
+    "abstract": "This review aims to systematically explore the dual role of antigen-specific IgE (AS-IgE) in allergic reactions and tumor immunity, focusing on the possibility, mechanism and current obstacles of its clinical transformation. Recent studies have revealed that AS-IgE is not only a single function of promoting allergies. It can activate antibody-dependent cytotoxicity (ADCC) and phagocytosis (ADCP) by binding to FcεRI receptors on the surface of immune cells (common in monocytes and macrophages), thereby reshaping the surrounding environment of tumors (TME) and enhancing the anticancer activity of CD8+ T cells. However, this duality also carries risks. For example, AS-IgE may induce the shift of Th2 immune response, causing immunosuppression and thus contributing to tumors. At the same time, the potential for it to activate allergic reactions remains a significant barrier to clinical application. It is worth noting that some experiments have tried to optimize AS-IgE through engineering modification. For example, sialic acid modification has been observed to reduce its sensitivity to allergic stimuli, providing ideas for safe applications. These findings suggest that AS-IgE is expected to become a new tool for tumor immunotherapy. However, in order to achieve transformation, it is necessary to first solve the key issues: how to balance its anti-cancer effect with allergies and tumor-promoting risks? At present, optimizing safety (especially reducing the risk of allergy) is the primary task, and exploring the combination with immune checkpoint inhibitors may improve the efficacy. Future research should be closer to the individual differences of patients, based on the characteristics of tumor environment in different people, and accurately regulate the dual role of AS-IgE. Only in this way can this molecule truly move from the laboratory to the clinic.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1039/d6lc00536e",
+    "title": "Optimization of lipid nanoparticle components and microfluidic parameters for intramuscular circRNA delivery with reduced hepatic off-targeting.",
+    "topic": "Drug delivery",
+    "date": "2026-09-22",
+    "journal": "",
+    "authors": "Yang J, Hao Y, Long S, Huang Y, Wang G, Yan C, Piao J, Wu B, Huang G, Han X.",
+    "doi": "10.1039/d6lc00536e",
+    "pmid": "42770725",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42770725/",
+    "abstract": "Circular RNA (circRNA) represents a promising class of RNAs for sustained protein expression and vaccine applications. However, current lipid nanoparticle (LNP) platforms remain poorly optimized for efficient intramuscular circRNA delivery, as they are primarily designed for the delivery of small interfering RNA and linear messenger RNA with strong off-target expression in the liver. In this study, based on the clinical benchmark SM-102 LNP, we systematically optimized lipid components and microfluidic parameters for better intramuscular circRNA delivery. Through in vitro and in vivo screening of a variety of phospholipids and sterols, we identified a 1,2-dioleoyl- sn-glycero -3-phosphoethanolamine (DOPE)- and cholesterol-based formulation, which demonstrated improved storage stability and enhanced intramuscular transfection while minimizing hepatic off-target expression. Using ovalbumin as a model antigen, we proved that this formulation-based vaccine elicited more balanced Th1/Th2 immune responses with reduced liver toxicity. Together, this study successfully develops an optimized formulation with reduced hepatic off-target effects, which holds great promise for the intramuscular delivery of circRNA-based vaccines and therapeutics.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1186/s11671-026-04927-6",
@@ -813,7 +1586,9 @@
     "doi": "10.1155/adpp/5531134",
     "url": "https://europepmc.org/articles/PMC13591434",
     "abstract": "Background Artificial intelligence (AI) has rapidly emerged as a powerful tool for accelerating the design and optimization of nanoparticle-based drug delivery systems (NDDSs). By analyzing complex multidimensional datasets, AI models can predict nanoparticle physicochemical properties, biodistribution, and safety profiles more efficiently than traditional experimental approaches. Methods This systematic review was conducted following PRISMA 2020 guidelines and was registered in PROSPERO (ID: 1148160). Five electronic databases (PubMed, Scopus, Web of Science, ScienceDirect, and SpringerLink) were searched up to January 2025. Studies applying AI approaches, including machine learning, deep learning, and hybrid modeling to nanoparticle design, optimization, biodistribution prediction, or nanotoxicology, were included. Extracted data included nanoparticle platform, AI methodology, prediction targets, validation strategies, and reported performance metrics. Methodological quality was assessed using a framework integrating TRIPOD-AI and Joanna Briggs Institute (JBI) appraisal domains. Results A total of 17 unique studies met the established eligibility criteria and were included in the final qualitative analysis. The applications of machine learning or deep-learning methods and models were demonstrated across the various nanoparticle-based platforms to predict the formulation properties, biodistribution, nano-bio interactions, therapeutic materials discovery, and nanoparticle toxicity. The models augmented by artificial intelligence (AI) technology in the physiologically based pharmacokinetic area manifested promising prediction ability for biodistribution, while the abilities differed among the datasets and the prediction endpoints. Nine studies incorporated in vitro or in vivo biological/experimental validation, whereas only four of the 17 included studies used independent external validation. Conclusions AI has significant potential to enhance nanoparticle formulation optimization, biodistribution modeling, and toxicity prediction. Nevertheless, translation into clinical practice remains constrained by small datasets, limited external validation, and inconsistent reporting standards. Future research should prioritize standardized datasets, transparent AI models, and prospective validation to advance AI-enabled nanomedicine toward clinical implementation.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42769491",
+    "pmcid": "PMC13591434"
   },
   {
     "id": "doi:10.2147/ijn.s629428",
@@ -849,7 +1624,50 @@
     "doi": "10.1007/s40199-026-00664-4",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42766065/",
     "abstract": "Background Pancreatic ductal adenocarcinoma (PDAC) is an aggressive malignancy characterized by late diagnosis, frequent recurrence, limited treatment options, and an immunosuppressive tumor microenvironment. These features have encouraged the development of personalized approaches targeting tumor-specific neoantigens. Objective This review discusses the development and therapeutic potential of personalized neoantigen mRNA vaccines for PDAC, with particular emphasis on lipid nanoparticle (LNP) delivery systems and their role in shaping antitumor immunity. Methods Published literature on PDAC, neoantigen identification, personalized cancer vaccines, mRNA engineering, and LNP-based delivery was reviewed and synthesized, with emphasis on preclinical findings, clinical evidence, and translational challenges. Results Advances in sequencing and computational approaches have improved the identification of patient-specific neoantigens, while mRNA platforms allow multiple neoantigens to be encoded in a flexible vaccine format. LNPs provide protection and efficient intracellular delivery of mRNA and can also influence antigen-presenting cell activation, inflammatory signaling, and T-cell responses. Preclinical studies have demonstrated neoantigen-specific immunity and improved tumor control in PDAC models. Early clinical studies of autogene cevumeran showed measurable vaccine-induced T-cell responses, with an association between stronger immune responses and longer recurrence-free survival. However, these findings remain preliminary because of small study populations and the absence of randomized controls. Tumor heterogeneity, immunosuppression, neoantigen prediction, manufacturing complexity, cost, and delivery barriers remain important challenges. Conclusion Personalized neoantigen mRNA vaccines delivered through LNPs represent a promising investigational strategy for PDAC. Further advances in neoantigen selection, mRNA engineering, LNP optimization, targeted delivery, and clinical evaluation are needed to establish their safety, efficacy, and therapeutic role.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42766065"
+  },
+  {
+    "id": "doi:10.1371/journal.pbio.3004002",
+    "title": "AlloPool is a deep learning framework that infers protein allostery from molecular dynamics simulations.",
+    "topic": "Protein",
+    "date": "2026-09-21",
+    "journal": "",
+    "authors": "Marfoglia M, Pedraza-Joya MA, Guirardel L, Chatzi Souleiman A, Barth P.",
+    "doi": "10.1371/journal.pbio.3004002",
+    "pmid": "42766632",
+    "pmcid": "PMC13592721",
+    "url": "https://europepmc.org/articles/PMC13592721",
+    "abstract": "Recent advances in artificial intelligence have transformed protein structure prediction and design. However, protein function is governed not only by static structures but also by the conformational dynamics that allow proteins to access distinct functional states. Predicting these dynamic transitions, central to many biological processes, remains challenging due to the scarcity of high-resolution experimental data, which limits the training of machine-learning models for dynamic and energetic property prediction. Here, we present AlloPool, a graph neural network (GNN)-based framework that interprets molecular dynamics simulations by iteratively pruning residue-residue interactions to uncover minimal, time-resolved interaction networks that govern protein conformational dynamics and structural responses to chemical or mechanical perturbations, collectively known as allostery. By integrating temporal attention with graph aggregation, AlloPool learns evolving interaction graphs from equilibrium and non-equilibrium molecular dynamics simulations, enabling accurate reconstruction of dynamic trajectories and the interaction networks that drive conformational transitions. Validated across diverse dynamic protein systems, including binding domains, mechanosensors, signaling receptors, and enzymes, AlloPool maps allosteric communication pathways, predicts the effects of ligand binding, mechanical forces, and mutations, discovers transient dynamic states and outperforms existing machine-learning approaches in dynamic trajectory reconstruction. This advance provides a general framework for interpreting protein dynamics with broad implications for drug discovery, synthetic biology, and protein engineering.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1001/jama.2026.15540",
+    "title": "Vaccines for Cancer: A Translational Science Review.",
+    "topic": "Immunity",
+    "date": "2026-09-21",
+    "journal": "",
+    "authors": "Disis ML, Chun BMN, Dhillon KK, Liao JB, Hunter N, Cecil DL.",
+    "doi": "10.1001/jama.2026.15540",
+    "pmid": "42766303",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42766303/",
+    "abstract": "Importance Advances in tumor immunology and vaccine technology are reshaping cancer vaccine development after decades of limited clinical success. More than 2000 immunogenic tumor proteins or antigens have been identified, the types of immune responses required for tumor eradication have been defined, and safe and effective vaccine delivery technologies have been developed. This progress has renewed clinical investigation of cancer vaccines for multiple types of cancer. Observations Vaccines, such as those against human papillomavirus and hepatitis B, are composed of (1) an antigen target, (2) an adjuvant to activate the immune system, and (3) a vaccine delivery vehicle. Antigens can be derived from tumor mutations termed neoantigens, or cancer-associated nonmutated proteins, which are normal human proteins that are abnormally expressed in cancer. The tumor can also act as an antigen source, such as when immunization occurs with whole tumor cells or by directly injecting an immunogenic substance into the tumor to elicit an adaptive immune response. T and B lymphocytes, cells of the adaptive immune system, are stimulated by cancer vaccines and can provide a highly specific and durable immune response directed against cancer. Vaccines that elicit adaptive immunity are approved for cancer treatment. Sipuleucel-T, a vaccine against the antigen prostatic acid phosphatase, reduced all-cause mortality compared with placebo in men with metastatic castrate-resistant prostate cancer (32% vs 23%; hazard ratio, 0.78 [95% CI, 0.61-0.98]; P = .03). Compared with granulocyte-macrophage colony-stimulating factor, a systemic immune stimulant, talimogene laherparepvec increased rates of a 6-month or longer complete or partial response, defined as the disappearance of all treated disease and at least a 50% decrease in the sum of the products of perpendicular diameters of the measurable lesion with no new lesions, respectively, when injected into advanced melanoma lesions (16.3% [95% CI, 12.1%-20.5%] vs 2.1% [95% CI, 0%-4.5%]; odds ratio, 8.9; P Conclusions and relevance Cancer vaccines can treat several types of malignant neoplasms, including melanoma, prostate cancer, and bladder cancer. Adverse effects associated with cancer vaccines are generally mild and of short duration, promoting eventual integration of vaccination into treatment regimens with chemotherapy and immunotherapy. Cancer vaccines are increasingly undergoing evaluation for primary prevention.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1080/17435889.2026.2734072",
+    "title": "Neuroinflammation and peripheral targeting: formulation-based strategies for modulating the neuroimmune axis in diabetic peripheral neuropathy.",
+    "topic": "Drug delivery",
+    "date": "2026-09-21",
+    "journal": "",
+    "authors": "Bhattacharyya M, Mazumder PM.",
+    "doi": "10.1080/17435889.2026.2734072",
+    "pmid": "42765277",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42765277/",
+    "abstract": "Introduction Diabetic peripheral neuropathy (DPN) is a common and disabling complication of diabetes that is largely treated symptomatically. Chronic neuroinflammation in the peripheral nerve, dorsal root ganglion, and blood-nerve barrier (BNB) may contribute to disease progression, making the peripheral neuroimmune interface a potential therapeutic target. Areas covered A literature search of PubMed/MEDLINE and Google Scholar was conducted for January 2005-July 2026, supplemented by reference-list hand-searching and prioritization of recent studies. This review examines neuroinflammatory mechanisms in DPN, including macrophage activation, Schwann-cell dysfunction, NOD-, LRR- and pyrin domain-containing protein 3 (NLRP3) inflammasome activation, and BNB impairment. It also evaluates peripheral-targeted nanomedicine and advanced drug delivery systems, including lipid and polymeric nanoparticles, nanoemulsions, exosomes, hydrogels, and microneedles. Expert opinion Preclinical evidence suggests that inadequate endoneurial drug exposure is a plausible pharmacokinetic barrier to disease modification in DPN, although its contribution to clinical treatment failure remains unconfirmed. Peripheral-targeted nanomedicine offers a rational strategy to improve drug delivery to regions of neuroinflammation. Standardized preclinical models, sex-specific analyses, biomarker-informed trials, scalable manufacturing, and rigorous clinical validation will be critical for translation.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.3390/pharmaceutics18091189",
@@ -861,7 +1679,37 @@
     "doi": "10.3390/pharmaceutics18091189",
     "url": "https://europepmc.org/articles/PMC13610481",
     "abstract": "Ocular diseases remain a major global health challenge with substantial unmet therapeutic needs. Small nucleic acid therapeutics offer a precise strategy to regulate disease-related mRNAs or noncoding RNAs through base pairing, thereby modulating protein expression at the RNA level. Major modalities include antisense oligonucleotides, small interfering RNAs, microRNA-based therapeutics, small activating RNAs, and nucleic acid aptamers, which act through RNA degradation, RNA interference, splicing modulation, microRNA regulation, transcriptional activation, or structure-dependent target binding. These properties make them attractive for ocular diseases involving genetic defects, pathological angiogenesis, inflammation, fibrosis, or neurodegeneration. However, their clinical translation in ophthalmology remains limited by poor molecular stability, insufficient tissue retention, immune activation, off-target effects, and inefficient delivery to target ocular tissues. Rational oligonucleotide design, appropriate local administration routes, and optimized delivery platforms are therefore essential for improving stability, tissue penetration, cellular uptake, and therapeutic durability. This review summarizes the major classes, mechanisms, chemical modification strategies, ocular delivery systems, and therapeutic applications of small nucleic acid drugs in ophthalmology. We also discuss lessons from clinical successes and failures and propose future directions for safe, durable, and individualized ocular therapy.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42797364",
+    "pmcid": "PMC13610481"
+  },
+  {
+    "id": "doi:10.1016/j.critrevonc.2026.105611",
+    "title": "Beyond the Generic Tumor: Engineering Patient-Specific Immune Ecosystems for Cancer.",
+    "topic": "Immunity",
+    "date": "2026-09-20",
+    "journal": "",
+    "authors": "Anvari S, Naghinezhad J, Farokhi R, Rahnama MA, Hoseinzadeh S, Nikbakht M, Ahmadvand M.",
+    "doi": "10.1016/j.critrevonc.2026.105611",
+    "pmid": "42764098",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42764098/",
+    "abstract": "Cancer immunotherapy has transformed the treatment landscape of malignancies; however, durable clinical responses remain limited by interpatient heterogeneity, tumor evolution, antigen loss, and variability in immune recognition. Advances in genomic sequencing, neoantigen discovery, immunopeptidomics, mRNA-based therapeutics, and cellular engineering have expanded opportunities for developing individualized immunotherapeutic strategies based on patient-specific tumor and immune characteristics. This review examines the state of personalized cancer immunotherapy, with emphasis on individualized neoantigen-specific therapies (iNeST), neoantigen vaccines, mRNA-based antigen delivery platforms, engineered T-cell approaches, and computational methods for antigen prioritization and immune-response prediction. We summarize the biological rationale, preclinical and clinical evidence, and limitations of these approaches, while considering their translational potential and clinical feasibility. We examine the relationships among tumor mutational landscapes, neoantigen immunogenicity, antigen processing and presentation, HLA restriction, immune-cell engineering, and computational immunology. We further assess key barriers to clinical implementation, including limitations in neoantigen prediction and validation, intratumoral heterogeneity, antigen evolution and loss, manufacturing complexity, scalability, regulatory requirements, and the need for prospective clinical validation. Overall, current evidence supports personalized immunotherapy as a promising approach for improving the precision of cancer treatment, but its clinical application remains constrained by biological, technical, manufacturing, regulatory, and clinical challenges. Future progress will require more accurate and experimentally validated neoantigen identification, improved computational and immunologic modeling, robust manufacturing and quality-control processes, and prospective clinical studies demonstrating safety, feasibility, and therapeutic benefit. This review evaluates the current evidence, identifies knowledge gaps, and outlines priorities for the responsible clinical development of individualized cancer immunotherapy.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.21203/rs.3.rs-10681677/v1",
+    "title": "Lipid nanoparticle-mediated CDC7 base editing enables synthetic lethal therapy in TP53-mutant liver cancer",
+    "topic": "Drug delivery",
+    "date": "2026-09-20",
+    "journal": "",
+    "authors": "Wu Y.",
+    "doi": "10.21203/rs.3.rs-10681677/v1",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.21203/rs.3.rs-10681677/v1",
+    "abstract": "Abstract TP53-mutant hepatocellular carcinoma (HCC) represents an aggressive molecular subtype with limited therapeutic options and poor responsiveness to current systemic treatments. Synthetic lethal targeting offers a strategy to exploit this otherwise undruggable genetic context, but the clinical translation of many synthetic lethal dependencies remains constrained by the lack of selective and durable therapeutic approaches. Here, we develop a lipid nanoparticle (LNP)-mediated adenine base-editing strategy to therapeutically disrupt CDC7, a synthetic lethal vulnerability in TP53-mutant HCC. LNP-ABE8e-CDC7sg3 efficiently edits the CDC7 splice-donor site, leading to precise loss of CDC7 expression without inducing DNA double-strand breaks. In TP53-mutant HCC cells, CDC7 base editing suppresses MCM2 phosphorylation, inhibits tumor cell proliferation and induces a senescence-associated program. Notably, this senescence response remodels the tumor secretory phenotype, enhances chemokine expression and promotes natural killer (NK) cell immune surveillance. In orthotopic HCC models, a single intravenous administration of LNP-ABE8e-CDC7sg3 achieves efficient in vivo CDC7 editing, significantly suppresses tumor growth and prolongs overall survival. Together, our findings identify CDC7 base editing as a therapeutic strategy for exploiting TP53-associated synthetic lethality in liver cancer and reveal a mechanism linking genome editing-induced senescence to NK-cell-mediated antitumor immunity.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1016/j.ijbiomac.2026.154533",
@@ -909,7 +1757,9 @@
     "doi": "10.2147/ijn.s630802",
     "url": "https://europepmc.org/articles/PMC13600269",
     "abstract": "Effective drug delivery to the central nervous system remains a persistent challenge owing to the blood-brain barrier (BBB), heterogeneous pathological microenvironments, and the limited capacity of conventional carriers to achieve precise spatiotemporal control over drug release. Multifunctional hybrid nanomedicines (MHNs), defined here as engineered nanosystems that integrate two or more functional modules, such as targeted delivery, controlled release, and/or theranostic capabilities within a single platform, offer a transformative approach to neurotherapeutic design. This review traces the evolution of MHNs from passive carriers to stimuli-responsive, \"smart\" delivery platforms and presents a unified design framework built upon four synergistic strategies: (1) surface engineering for receptor-mediated BBB transcytosis and site-specific accumulation; (2) biomimetic surface modification to prolong systemic circulation and evade immune-mediated clearance; (3) controlled release systems responsive to endogenous stimuli (pH, redox gradients, pathologically elevated metal ions) or exogenous triggers (light, magnetic fields), with particular emphasis on metal-coordination bonds as tunable, microenvironment-sensitive release switches; and (4) theranostic integration enabling image-guided drug delivery and real-time therapeutic monitoring. The construction strategies, synergistic mechanisms, mechanistic principles, and therapeutic functions underpinning these four approaches are systematically examined in the context of neurodegenerative diseases. The current clinical translation landscape corresponding to each approach is also comprehensively surveyed. Furthermore, while most integrated MHN platforms remain at the preclinical stage, the principal challenges confronting MHNs are critically assessed, and prospective development trajectories associated with each approach are identified and discussed, thereby providing a substantive reference framework for the next-generation design of MHNs with effective spatiotemporal controlled release capabilities.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42781592",
+    "pmcid": "PMC13600269"
   },
   {
     "id": "doi:10.1002/anie.5852828",
@@ -945,7 +1795,9 @@
     "doi": "10.1002/mco2.70943",
     "url": "https://europepmc.org/articles/PMC13586785",
     "abstract": "Tertiary lymphoid structures (TLSs) are ectopic, organized immune aggregates forming in non-lymphoid tissues during chronic inflammation. Resembling secondary lymphoid organs (SLOs) architecturally and functionally, TLSs feature specialized stromal networks and compartmentalized immune cell zones. In autoimmunity, TLSs can perpetuate local immune activation, autoantibody production, and tissue damage, correlating with disease severity and progression. In the tumor microenvironment, TLSs are generally associated with enhanced anti-tumor immunity, improved patient survival, and better responses to immunotherapy, although their functional impact can vary across cancer types. This review systematically examines the structural and functional foundations of TLSs and dissects the mechanisms driving their formation in both autoimmune disorders and cancers. We critically evaluate the clinical correlations of TLSs with disease activity, progression, and patient outcomes. Furthermore, we summarize current methodologies for TLS detection and assess their diagnostic and prognostic utility in disease monitoring. Finally, we discuss emerging therapeutic strategies aimed at modulating TLSs formation or function. By synthesizing current knowledge, this review provides crucial insights into TLSs biology within autoimmunity and cancer, highlighting their potential as novel biomarkers and therapeutic targets, thereby advancing our understanding of disease mechanisms and treatment approaches.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42761275",
+    "pmcid": "PMC13586785"
   },
   {
     "id": "doi:10.3389/fimmu.2026.1877480",
@@ -996,6 +1848,48 @@
     "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
   },
   {
+    "id": "PMC:PMC13584629",
+    "title": "Stoichiometry-Dependent Specificity in Biotin Enrichment: A Benchmarking Framework for Proximity-Labeling Proteomics",
+    "topic": "Protein",
+    "date": "2026-09-18",
+    "journal": "",
+    "authors": "Zala C, Trueba Sanchez M, van den Bor J, Willemsens T, Verweij F, Altelaar M, Stecker K.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13584629",
+    "url": "https://europepmc.org/articles/PMC13584629",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.3389/fmed.2026.1937471",
+    "title": "Immune checkpoint blockade and thrombo-inflammatory remodeling in microsatellite instability-high intrahepatic cholangiocarcinoma with Trousseau syndrome: a case report.",
+    "topic": "Immunity",
+    "date": "2026-09-18",
+    "journal": "",
+    "authors": "Sun X, Kuang X, Sun S, Cui Y, Xu X, Dong J, Lin F.",
+    "doi": "10.3389/fmed.2026.1937471",
+    "pmid": "42828198",
+    "pmcid": "PMC13631942",
+    "url": "https://europepmc.org/articles/PMC13631942",
+    "abstract": "Background Cancer-associated thrombosis (CAT) is a major cause of morbidity and mortality in patients with malignancy and is increasingly recognized as a manifestation of tumor-associated thrombo-inflammation. Although immune checkpoint inhibitors (ICIs) have transformed the treatment of microsatellite instability-high (MSI-H) malignancies, their impact on the interplay between antitumor immunity and cancer-associated thrombosis remains poorly understood, particularly in intrahepatic cholangiocarcinoma (ICC). Case presentation We report a 74-year-old woman with MSI-H intrahepatic cholangiocarcinoma presenting with Trousseau syndrome characterized by extensive arterial and venous thrombotic events, including deep vein thrombosis, portal vein thrombosis, multifocal cerebral infarctions, splenic infarction, and renal infarction. Following treatment with the PD-L1 inhibitor envafolimab in combination with rivaroxaban, radiographic evaluation demonstrated stable disease without recurrent thrombotic events. Longitudinal biomarker assessment revealed temporally associated reductions in circulating D-dimer and interleukin-6 (IL-6) concentrations during treatment, while peripheral immune-cell subsets exhibited dynamic changes that paralleled systemic inflammatory activity. Despite a temporary interruption of immunotherapy because of influenza A-associated pneumonia, both inflammatory and coagulation markers declined following resolution of the infection. Conclusion This case underscores the complex interplay between systemic inflammation, coagulation activation, and tumor progression in MSI-H intrahepatic cholangiocarcinoma with Trousseau syndrome. Serial assessment of coagulation and inflammatory biomarkers may help characterize disease dynamics and inform individualized management.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1007/s11910-026-01520-3",
+    "title": "Advances in Nanomedicine for Brain Tumors: Overcoming Biological Barriers, Targeting Strategies, and Future Directions.",
+    "topic": "Drug delivery",
+    "date": "2026-09-18",
+    "journal": "",
+    "authors": "Mi Y, Liu H, Liu Y, Lei X, Fu C, Xu H, Jiang P, Luan J, Feng L, Gao X.",
+    "doi": "10.1007/s11910-026-01520-3",
+    "pmid": "42758253",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758253/",
+    "abstract": "Purpose of review This review evaluates nanomedicine strategies for brain tumors through a translational lens. Rather than cataloguing nanoparticle formulations, it focuses on representative lipid-based, polymeric, inorganic, self-assembled, protein-based, biomimetic, and nanoconjugate platforms according to the delivery problem they are designed to solve: crossing or bypassing the blood-brain barrier (BBB) and blood-brain tumor barrier (BBTB), improving intratumoral penetration, controlling payload release, reducing toxicity, or enabling image-guided therapy. Recent findings Preclinical studies show that nanomedicines can increase brain tumor exposure through receptor-mediated transport, physical BBB modulation, local delivery, stimuli-responsive release, biomimetic trafficking, and theranostic integration. However, the strength of evidence remains uneven. Many systems are supported mainly by isolated or model-specific preclinical studies, with limited pharmacokinetic, pharmacodynamic, toxicity, reproducibility, or manufacturing validation. Among clinically tested platforms, gadolinium-based AGuIX nanoparticles currently provide one of the clearest brain tumor-directed examples, supported by early-phase data showing tumor accumulation and acceptable tolerability when combined with radiotherapy. Conversely, the withdrawn SERIL trial of intratumoral JCXH-211 illustrates that mechanistic promise alone does not establish clinical feasibility in glioma. Nanomedicine may improve drug delivery, intratumoral exposure, immunomodulatory payload delivery, and image-guided radiotherapy for brain tumors. Its clinical impact will depend on reproducible central nervous system delivery, validated intratumoral pharmacodynamic readouts, disease-specific safety assessment, scalable good manufacturing practice (GMP)-compliant production, and prospective trials showing benefit over current standards of care.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.1016/j.ultsonch.2026.108066",
     "title": "Mechanistic insights into ultrasound‑improved foaming properties of freeze‑thawed egg white: From macroscopic rheology to interfacial proteomics.",
     "topic": "Protein",
@@ -1005,7 +1899,9 @@
     "doi": "10.1016/j.ultsonch.2026.108066",
     "url": "https://europepmc.org/articles/PMC13628221",
     "abstract": "Repeated freeze-thawed (F-T) cycles critically damaged the foaming properties of egg white, thereby constraining its application in the food industry. This study investigated the effect of ultrasonic pretreatment in restoring the foaming property of egg white protein (EWP) subjected to repeated F-T cycles. A comprehensive analysis was conducted from the perspectives of foam behavior, physicochemical and interfacial properties, protein structure and interfacial proteomics. The results demonstrated that ultrasonic pretreatment (360 W, 10 min) effectively maintained foaming properties of egg white that underwent eight F-T cycles (EWP8-FTC) compared with those of fresh EWP. Moreover, ultrasonic pretreatment reduced the foaming ability (FA) from 41.35% to 18.56%, while concomitantly enhancing foam stability (FS) by 32.69%. Furthermore, there was no significant difference (p > 0.05) in the FA of ultrasonically pretreated egg white that underwent eight F-T cycles (UEWP8-FTC) compared with those of EWP. Ultrasound reduced the particle size of EWP, enhanced molecular flexibility, increased the content of free sulfhydryl groups and surface hydrophobicity, as well as optimized secondary structure. In addition, it regulated the adsorption behavior of interfacial proteins such as lysozyme C, mucin-5B, clusterin and Ovodefensin A1 at the air-water interface. This study elucidated the molecular mechanism by which ultrasound modulates interfacial protein adsorption, providing a theoretical reference for improving the quality of frozen egg white and promoting its high‑value industrial applications.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42762600",
+    "pmcid": "PMC13628221"
   },
   {
     "id": "doi:10.1016/j.jacbts.2026.101697",
@@ -1065,7 +1961,9 @@
     "doi": "10.3389/fchem.2026.1920337",
     "url": "https://europepmc.org/articles/PMC13627390",
     "abstract": "In recent times, permeation of nanotechnology to modern medicine has revolutionized transformation, especially in the case of cancer diagnosis and therapy, positioning nanomedicine as a key pillar of next-generation healthcare. Tuning the physicochemical properties of nanoparticles such as size, morphology, and surface charge, enables controlled targeted drug delivery, increased cellular uptake and controlled therapeutic release. Nanomedicine-based platforms can improve certain drawbacks associated with conventional therapies including poor aqueous solubility, unfavorable pharmacokinetics, systemic toxicity and low bioavailability for specific therapeutic agents. While consistent tumor-specific accumulation, intratumoral heterogeneity, drug resistance, and long-term therapeutic outcomes remains challenging and highly formulation- and patient-dependent. This review paper besides, focussing on individual nanocarrier classes or specific therapeutic modalities, also provide an integrated and critical perspective on next-generation nanomedicine by connecting nanocarrier design with tumor-specific accumulation, intracellular trafficking, stimuli-responsive drug release, combination therapy and clinical translation. Recent advances in polymeric, lipid-based, inorganic, biological, and hybrid nanocarriers are systematically discussed, with particular stress on surface engineering, ligand-mediated targeting, multifunctional delivery systems and nanoengineered cancer medicine. The potential of these platforms for elevating therapeutic precision, overcoming biological barriers, multidrug resistance and enabling site-specific delivery is critically studied. In addition, major translational challenges, including large-scale fabrication, reproducibility, long-term safety, regulatory barriers, and nanotoxicological concerns are also addressed. Finally, emerging directions involving personalized nanomedicine, combination therapies, and artificial intelligence-assisted nanoparticle design are highlighted to provide perspectives toward safer, more effective, and patient-concentrated cancer therapy.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42824424",
+    "pmcid": "PMC13627390"
   },
   {
     "id": "doi:10.2174/0118715273453180260908055829",
@@ -1077,7 +1975,92 @@
     "doi": "10.2174/0118715273453180260908055829",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42770366/",
     "abstract": "Glioblastoma (GB) is a highly aggressive tumor that demonstrates significant treatment resistance due to the blood-brain barrier (BBB) and resistance mechanisms of the tumor. Nanoparticle- based drug delivery systems (NDDS) can enhance drug bioavailability, enable targeted delivery, and provide controlled release. These nanoparticles can be engineered to target GB-specific biomarkers, such as EGFRvIII, which is expressed on glioma stem cells, to enhance treatment precision. A comprehensive literature review was conducted using the keywords \"Glioblastoma,\" \"Nanoparticles,\" \"Pathogenesis,\" and \"Treatment Resistance\" across PubMed, MEDLINE, Web of Science, ClinicalTrial. gov, Science Direct, and Google Scholar databases. Engineered nanoparticles have considerable potential to overcome major therapeutic obstacles in GB. Techniques such as surface functionalization (e.g., with cRGD or transferrin) and biomimetic coatings enable nanoparticles to cross the BBB, significantly increasing drug accumulation within brain tumors by up to 12-fold. This leads to improved anti-tumor efficacy, demonstrating significant reductions in tumor burden and improved survival in animal models. Additionally, these platforms are used to deliver genetic therapies, such as siRNA and miRNA, to specific cancer-driving genes. The ability to deliver drugs intranasally further enhances the therapeutic potential. Nanoparticle-based therapies have emerged as a promising approach in the treatment of GB and have successfully overcome barriers such as the BBB and treatment resistance. These methods have demonstrated robust preclinical outcomes, which emphasize their potential for clinical translation. Ongoing research is important to maximize the potential of these technologies and improve survival rates for patients with GB.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42770366"
+  },
+  {
+    "id": "PMC:PMC13602712",
+    "title": "2026: A watershed year for RNA therapeutics—From breakthrough vaccines to chronic indications and beyond",
+    "topic": "Nucleic acids",
+    "date": "2026-09-17",
+    "journal": "",
+    "authors": "Di Nitto C, Giangrande P.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13602712",
+    "url": "https://europepmc.org/articles/PMC13602712",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.jconrel.2026.115356",
+    "title": "A dual-targeted oligonucleotide delivery hydrogel for diabetic wound healing: Regulating macrophage-endothelial crosstalk and ferroptosis.",
+    "topic": "Nucleic acids",
+    "date": "2026-09-17",
+    "journal": "",
+    "authors": "Zhang M, Yang W, Fu X, Zhao Z, Xiong J, He Y, Liu Z, Lin Y.",
+    "doi": "10.1016/j.jconrel.2026.115356",
+    "pmid": "42753825",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42753825/",
+    "abstract": "The diabetic microenvironment induces excessive M1 macrophage infiltration and severe oxidative stress, triggering endothelial cell ferroptosis and delaying wound healing. However, effective strategies for precise immune modulation and intracellular oligonucleotide delivery remain limited due to lysosomal degradation. Here, we developed a semi-i-motif-modified tetrahedral framework nucleic acid platform (IT) that co-delivers miR-125b-5p and an anti-HMGB1 aptamer (RHIT) to regulate macrophage-mediated inflammation. Mechanistically, RHIT leverages the proton sponge effect for lysosomal escape and specifically recognizes macrophages. It synergistically activates the Nrf2 axis and suppresses the HMGB1/MAPK signaling pathway. This intervention promotes macrophage M2 polarization, attenuates inflammation, and protects endothelial cells from ferroptosis through paracrine signaling. To achieve sustained delivery and stable tissue adhesion, we integrated RHIT into an adhesive composite GelMA/4-PEG-SS-based hydrogel (GS), constructing the RHIT@GS system. The RHIT@GS hydrogel significantly accelerated wound repair, enhanced M2 macrophage polarization, and promoted angiogenesis in a diabetic model. Our findings demonstrate that this integrated system precisely remodels the pathological immune microenvironment, establishing a promising oligonucleotide-based therapeutic strategy for clinical diabetic wound regeneration.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.64898/2026.09.16.750970",
+    "title": "Targeting hypoxia-responsive miR-155-5p and miR-210-3p restores alveolar regeneration and reverses pulmonary fibrosis",
+    "topic": "Nucleic acids",
+    "date": "2026-09-17",
+    "journal": "",
+    "authors": "Zandomenego G, Ingo AMD, Torresi M, Klima R, Volpe MC, Salton F, Confalonieri P, Bahmed K, Kosmider B, Raslan A, Licastro D, Ligresti G, Confalonieri M, Braga L.",
+    "doi": "10.64898/2026.09.16.750970",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.09.16.750970",
+    "abstract": "Idiopathic pulmonary fibrosis (IPF) is an age-associated degenerative disease largely driven by failure of alveolar epithelial regeneration, yet current therapies slow fibrosis progression without restoring epithelial repair. Building on our previous unbiased microRNA screen in primary murine alveolar type II (ATII) cells, we identified miR-155-5p and miR-210-3p as previously unrecognized mediators of alveolar epithelial regenerative failure. Both microRNAs were markedly upregulated in ATII cells from patients with IPF and enriched within KRT17+/KRT5- aberrant transitional epithelial cells. Their expression also increased spontaneously with ageing in ATII cells from uninjured mice, linking these microRNAs to the age-dependent loss of ATII to ATI transdifferentiation capacity. Furthermore, we found that hypoxia-induced HIF signalling drives the expression of these microRNAs in ATII cells, locking them in a dysfunctional transitional state characterized by a profibrotic secretome that promotes paracrine myofibroblasts activation. Antisense oligonucleotide (ASO) inhibition of selected miRNAs restored ATII-to-ATI differentiation, eliminated aberrant transitional states, normalized epithelial-mesenchymal communication, promoted de novo alveolar regeneration and reversed fibrosis, including in both young and aged mice. Together, these findings identify the hypoxia-responsive miRNAs miR-155-5p and miR-210-3p as therapeutically actionable regulators of alveolar regenerative failure and establish their inhibition as a strategy to restore endogenous lung repair while disrupting pathological epithelial-mesenchymal crosstalk in pulmonary fibrosis.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.expneurol.2026.116030",
+    "title": "Deletion of NLRP3 gene blocks traumatic brain injury induced abnormal immune response in mice with a genetic background for AD.",
+    "topic": "Immunity",
+    "date": "2026-09-17",
+    "journal": "",
+    "authors": "Green J, Liu Z, Timis S, Nelson C, Pedin A, Guo C, Wang XY, Zhang S, Sun D.",
+    "doi": "10.1016/j.expneurol.2026.116030",
+    "pmid": "42753897",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42753897/",
+    "abstract": "Traumatic brain injury (TBI) is a significant risk factor for the development of Alzheimer's disease (AD) and related dementia. In both TBI and AD, inflammation plays a pivotal role. It is known that the NLRP3 inflammasome plays an important role in AD pathogenesis while TBI triggers activation of the NLRP3 inflammasome in the brain. To evaluate the importance of the NLRP3 inflammasome in mediating the TBI-induced immune response in animals with a genetic background for AD, we have examined immune profiles in the brain using a novel transgenic mouse line at 3xTg background with the NLRP3 gene deleted. Briefly, a group of 4 months old male and female 3xTg and 3xTg/NLRP3 -/- mice received a moderate lateral fluid percussive injury or sham. Immune cell phenotypes and cytokine gene expression were assessed at 3- and 7-days post injury (dpi). We found that NLRP3 gene deletion counteracted injury-induced alteration of the immune response in 3xTg mice with a significant sex-related difference. Specifically, TBI induced a significant brain infiltration of neutrophils, macrophages and γδ T-cells in 3xTg mice in both sexes at 3dpi, and NLRP3 gene deletion blocked this injury effect only in males not in females. NLRP3 gene deletion also blocked injury-enhanced IL-1β, TNF-α gene expression in male mice, but not in female mice. In conclusion, our study has confirmed that TBI significantly alters the immune response in 3xTg mice and NLRP3 inflammasome is important in mediating these TBI-induced changes with significant sex-related differences.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/smll.75777",
+    "title": "Super-Selectivity versus Affinity-Driven Targeting in Oncological Nanomedicine.",
+    "topic": "Drug delivery",
+    "date": "2026-09-17",
+    "journal": "",
+    "authors": "Unzueta U, Parladé E, Mangues R, Vazquez E, Villaverde A.",
+    "doi": "10.1002/smll.75777",
+    "pmid": "42752984",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42752984/",
+    "abstract": "Developing functional nanomaterials for targeted drug delivery remains a major goal of nanomedicine, particularly in oncology, where cytotoxic drugs often cause severe systemic toxicity. Most nanoparticle-based strategies rely on surface ligands that bind receptors overexpressed on diseased cells. However, these receptors are rarely exclusive to tumors but frequently present in healthy tissues. As a result, decades of efforts to improve targeting by increasing ligand affinity have produced only limited clinical benefits. Affinity-driven targeting generally leads to gradual, receptor density-dependent binding, resulting in suboptimal biodistribution, off-target accumulation, and dose-limiting toxicity. Recent advances in nanomaterial engineering suggest an alternative paradigm inspired by viral infection. Rather than relying on high-affinity interactions, viruses often exploit multivalent arrays of weak ligands to achieve highly selective cell recognition. Mimicking this strategy, synthetic nanoparticles can display spatially organized low-affinity ligands whose cooperative interactions produce super-selective binding, only above a critical receptor density. By tuning ligand valency, nanoscale geometry, and linker flexibility, these virus-inspired nanostructures convert small differences in receptor abundance into sharp threshold-like binding responses. Integrating multivalent recognition with rational nanomaterial design therefore offers a promising strategy to improve tissue discrimination and to achieve super-selective, rather than merely targeted, drug delivery.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1039/d6nr01492e",
+    "title": "Leveraging endogenous proteins to improve cancer nanomedicine delivery.",
+    "topic": "Drug delivery",
+    "date": "2026-09-17",
+    "journal": "",
+    "authors": "Xu Z, Jolly KJ, Zhang F.",
+    "doi": "10.1039/d6nr01492e",
+    "pmid": "42576815",
+    "pmcid": "PMC13458888",
+    "url": "https://europepmc.org/articles/PMC13458888",
+    "abstract": "Nanoparticle performance in vivo is strongly shaped by interactions with the complex biological environment. Upon exposure to biological fluids, endogenous proteins rapidly adsorb onto nanoparticle surfaces to form a protein corona, which redefines the nanoparticle's biological identity and influences its biodistribution, cellular interactions, and tumor accumulation. Rather than viewing protein adsorption solely as a barrier, growing evidence suggests that endogenous proteins can be strategically leveraged to enhance nanoparticle tumor delivery. This review provides a comprehensive overview of recent advances in endogenous protein-mediated nanoparticle delivery in cancer. We first discuss six major protein families implicated in both cancer biology and nanoparticle delivery, including apolipoproteins, albumin, vitronectin, transferrin, complement proteins, and coagulation factors. Together, these proteins illustrate how cancer-associated receptor overexpression and dysregulated protein metabolism can be exploited to enhance cancer-selective nanoparticle delivery. We then examine how cancer reshapes protein profiles in tumor interstitial fluid and in the blood plasma of cancer patients and discuss the implications of these altered proteomes for nanoparticle corona formation and targeting. Engineering strategies to modulate endogenous protein-nanoparticle interactions are also reviewed, including tuning nanoparticle surface properties, protein pre-incubation, covalent conjugation, crosslinking, and computationally guided approaches. Finally, we address current challenges, including interpatient variability, corona reproducibility, and translational considerations. By integrating tumor biology with materials engineering, this review demonstrates that endogenous protein-mediated targeting provides a mechanistically informed framework for advancing precision cancer nanomedicine.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1039/d6ob01006g",
@@ -1125,7 +2108,9 @@
     "doi": "10.1186/s40035-026-00577-x",
     "url": "https://europepmc.org/articles/PMC13579807",
     "abstract": "Background Alpha-synuclein accumulation contributes to Parkinson's disease (PD), and lowering α-synuclein expression is a candidate disease-modifying approach. The brain-wide pharmacodynamic profile of human-targeting antisense oligonucleotides (ASOs) remains incompletely defined in humanized models that preserve the regulatory architecture of the human SNCA locus. Methods BAC-hSNCA rats were treated at an early stage, when human α-synuclein is elevated, but striatal dopamine content remains largely preserved. A single intracerebroventricular dose of an ASO targeting human SNCA 3'UTR (SNCA ASO3.0) was administered, and outcomes were assessed 45 days later by isoform-specific RT-qPCR, immunoblotting of soluble and detergent-insoluble α-synuclein species, bulk RNA-seq across selected regions, multiplex cytokine profiling, phospho-kinase assays, neurotransmitter quantification, and behavioral testing. Results SNCA ASO3.0 reduced human SNCA mRNA and multiple α-synuclein protein species in a regionally graded manner, with the strongest effects in the olfactory bulb and striatum. Bulk RNA-seq identified anatomically distinct transcriptional responses, including synaptic and metabolic pathway shifts in the olfactory bulbs and immune-related enrichment within glial signatures in the striatum and midbrain, without detectable changes in protein levels of glial fibrillary acidic protein or ionized calcium-binding adapter molecule 1. Cytokine profiling showed selective modulation of a subset of analytes, and phospho-kinase assays indicated reduced AKT1S1/PRAS40 phosphorylation. Striatal dopamine levels were unchanged, whereas the striatal tyrosine hydroxylase level was increased. SNCA ASO3.0 increased locomotor activity and improved exploratory behavior and selected measures of olfactory discrimination. Conclusions Partial suppression of human α-synuclein in a humanized rat model yields region-specific molecular adaptations accompanied by early behavioral changes at a stage preceding overt dopamine depletion. These data provide a framework for evaluating region-resolved consequences of α-synuclein-lowering interventions in synucleinopathies.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42750047",
+    "pmcid": "PMC13579807"
   },
   {
     "id": "doi:10.1016/j.omtn.2026.103086",
@@ -1149,7 +2134,9 @@
     "doi": "10.3389/fimmu.2026.1955025",
     "url": "https://europepmc.org/articles/PMC13623909",
     "abstract": "Chimeric antigen receptor (CAR) T cells are capable to eliminate cancer cells in the treatment of hematologic malignancies, yet the efficacy is frequently inconsistent and limited by cancer cell resistance and antigen-loss resulting in early tumor relapses. While CAR T cells are deemed to be the primary effectors in controlling the tumor, maturing evidence indicates that therapeutic outcomes are shaped by a broader immune cell network involving both the endogenous adaptive and innate immunity. In this review, we reframe CAR T cell therapy as the induction of a multi-system immune response rather than a uni-directional cytotoxic cell-autonomous intervention. We discuss the respective contributions of CAR T cells, innate immune cells, and host adaptive immunity in controlling tumor progression and outline strategies to recruit innate immunity using TRUCKs, armored CAR T cells, as well as immunological adjuvants to surmount current limitations. Finally, we address the risks associated with excessive innate immune activation and propose that a calibrated, broad immune cell activation should be viewed as design principle for next-generation CAR T cell therapies.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42819351",
+    "pmcid": "PMC13623909"
   },
   {
     "id": "PMC:PMC13575755",
@@ -1185,7 +2172,8 @@
     "doi": "10.2174/0126673878470708260902071103",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42764775/",
     "abstract": "Introduction/ Objective: Rheumatoid Arthritis (RA) is an autoimmune disease characterized by chronic inflammation of the synovial joints, leading to joint destruction and systemic complications. Existing therapies, such as Disease-Modifying Antirheumatic Drugs (DMARDs) and Nonsteroidal Anti-Inflammatory Drugs (NSAIDs), are typically associated with low efficiency, systemic side effects, and poor patient compliance. Methods A literature search was conducted using PubMed, Google Scholar, ScienceDirect, and Web of Science to identify relevant studies published between 2005 and 2025. The search employed the keywords \"rheumatoid arthritis,\" \"cubosomes,\" \"cubosomal gel,\" \"nanocarriers,\" and \"targeted drug delivery\" with Boolean operators (AND/OR). English-language studies focusing on cubosome-based drug delivery for rheumatoid arthritis were included, while non-English publications, duplicates, and unrelated studies were excluded. The selected literature was qualitatively synthesized to summarize current advances and therapeutic potential. Results Preclinical research demonstrates that cubosomal gels enhance Pharmacodynamic effects, improve drug retention in inflamed joints, and reduce systemic toxicity. Such systems show improved bioavailability and therapeutic action compared to traditional therapies. Nonetheless, issues such as scale-up manufacturing, stability, and regulatory acceptance remain. Discussions Cubosomal gels would be an effective platform for safer, more effective, and personalized RA therapies. New studies are advised on stimuli-responsive systems and multifunctional targeting to maximize clinical responses and translate them into patient care. Conclusion Nanocarrier-based drug delivery systems offer enhanced targeted delivery and controlled release. Cubosomes, lipid-based nanostructures with bicontinuous cubic phases, effectively encapsulate both hydrophilic and hydrophobic drugs. This study demonstrates that cubosomes significantly improve topical RA treatment when incorporated into gel formulations, enhancing skin penetration, bioadhesion, and localized drug delivery. These findings have important clinical implications, suggesting cubosomes may reduce systemic side effects while maximizing therapeutic efficacy at diseased sites.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "pmid": "42764775"
   },
   {
     "id": "doi:10.1016/j.jconrel.2026.115365",
@@ -1198,5 +2186,19 @@
     "url": "https://pubmed.ncbi.nlm.nih.gov/42749133/",
     "abstract": "Messenger RNA (mRNA)-loaded lipid nanoparticles (LNPs) are predominantly manufactured by microfluidic mixing, where extensive efforts have focused on optimizing upstream formulations and mixing parameters. In contrast, the influence of dilution methods on the final physicochemical properties and biological performance of mRNA/LNPs remains insufficiently understood. In this study, we systematically compared two representative downstream manufacturing methods, conventional off-line dilution (OD) and integrated in-line dilution (ID), using a design-of-experiments (DOE) strategy encompassing different flow rates (FR), flow-rate ratios (FRR), dilution ratios (DR). Across multiple formulations, ID consistently produced smaller nanoparticles with lower encapsulation efficiency and more negative surface charge than OD, whereas the dominant process parameter shifted from FRR under OD to DR under ID. These physicochemical differences were accompanied by distinct biological responses. ID-derived LNPs exhibited enhanced transfection in AML12 cells and increased hepatic mRNA expression following intramuscular administration, whereas OD-derived LNPs elicited stronger antigen-specific IFN-γ responses. Collectively, these findings suggest that dilution method continues to influence the maturation of mRNA/LNPs after microfluidic mixing and contributes to the establishment of their final physicochemical and biological characteristics.",
     "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+  },
+  {
+    "id": "doi:10.1080/08820139.2026.2733761",
+    "title": "Therapeutic Cancer Vaccines: Classification, Mechanisms, Challenges and Future Perspectives.",
+    "topic": "Immunity",
+    "date": "2026-09-16",
+    "journal": "",
+    "authors": "Gao J, Sun Y, Han Z, Zhang H, Sun M, Liu S, Zhang B.",
+    "doi": "10.1080/08820139.2026.2733761",
+    "pmid": "42746879",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42746879/",
+    "abstract": "Background With the rapid advancements in oncology, immunology, and molecular biology, immunotherapy has emerged as a cornerstone of anti-tumor treatment, complementing traditional modalities such as surgery, radiotherapy, and chemotherapy. Therapeutic cancer vaccines are a promising immunotherapy strategy that deliver tumor-associated antigens or neoantigens to prime naive T cells and generate long-lived memory cells for durable anti-tumor immunity. Recent advances in neoantigen identification, mRNA technology, biomaterial delivery and combination immunotherapy accelerate the development of personalized cancer vaccines. However, their clinical efficacy remains suboptimal, limited by poor immunogenicity, tumor heterogeneity, immune escape and immunosuppressive TME. Objectives This review classifies therapeutic cancer vaccines by antigen source and design strategy, analyzes key biological barriers limiting efficacy, summarizes clinical trial evidence, and discusses strategies to overcome these bottlenecks. Methods We systematically reviewed published literature regarding cancer vaccine design, delivery platforms, clinical trials and combination immunotherapy. Results Multiple biological obstacles restrict vaccine efficacy. Novel approaches including computational antigen design, advanced RNA platforms, optimized delivery, biomarker-guided vaccination and rational combination therapy can mitigate these barriers. Conclusions These advances provide an integrated framework for developing next-generation therapeutic cancer vaccines and advancing precision cancer immunotherapy.",
+    "summary": "초록 기반 요약"
   }
 ]
