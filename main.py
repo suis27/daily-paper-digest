@@ -129,6 +129,98 @@ def search_topic(topic, terms, start_date, end_date):
     print(f"[{topic}] 반환된 논문: {len(papers)}")
     return papers
 
+import json
+import os
+import requests
+
+OLLAMA_URL = os.getenv(
+    "OLLAMA_URL", "http://localhost:11434"
+)
+OLLAMA_MODEL = os.getenv(
+    "OLLAMA_MODEL", "qwen2.5:3b"
+)
+MAX_SUMMARIES_PER_RUN = int(
+    os.getenv("MAX_SUMMARIES_PER_RUN", "5")
+)
+
+
+def summarize_paper(paper):
+    """논문의 제목과 초록을 바탕으로 한국어 상세 요약을 생성한다."""
+
+    abstract = paper.get("abstract", "").strip()
+
+    if not abstract:
+        print(f"[요약 건너뜀] 초록 없음: {paper['title']}")
+        return None
+
+    prompt = f"""
+당신은 단백질, 핵산, 면역학, 약물 전달 분야의 연구를 분석하는
+과학 논문 분석가입니다.
+
+아래에 제공된 논문 제목과 초록만 근거로 한국어 분석을 작성하세요.
+
+논문 제목: {paper.get('title', '')}
+연구 분야: {paper.get('topic', '')}
+학술지: {paper.get('journal', '')}
+발표일: {paper.get('date', '')}
+초록:
+{abstract}
+
+반드시 유효한 JSON 객체 하나만 출력하세요.
+다음 6개 키의 값은 모두 한국어 문자열이어야 합니다.
+
+{{
+  "research_purpose": "연구 배경과 해결하려는 문제, 연구 목적",
+  "methods": "실험 설계, 사용한 물질·모델·분석법",
+  "quantitative_results": "보고된 수치, 대조군 비교, 통계적 결과",
+  "novelty": "기존 연구와 비교한 차별점",
+  "limitations": "저자가 명시한 한계와 초록만으로 확인할 수 없는 정보",
+  "future_research": "후속 연구에서 검증할 수 있는 제안"
+}}
+
+중요한 규칙:
+- 초록에 없는 수치, 실험 조건, 인과관계를 만들어내지 마세요.
+- 확인할 수 없는 정보는 '초록에서 확인할 수 없음'이라고 쓰세요.
+- 실제 논문에 명시된 한계와 당신의 추론을 구분하세요.
+- 후속 연구는 제안임을 명확히 표시하세요.
+- 각 항목은 핵심 내용을 담은 2~5문장으로 작성하세요.
+"""
+
+    response = requests.post(
+        f"{OLLAMA_URL}/api/generate",
+        json={
+            "model": OLLAMA_MODEL,
+            "prompt": prompt,
+            "stream": False,
+            "format": "json",
+            "options": {
+                "temperature": 0.2
+            }
+        },
+        timeout=300,
+    )
+    response.raise_for_status()
+
+    result = response.json().get("response", "")
+    summary = json.loads(result)
+
+    required_keys = [
+        "research_purpose",
+        "methods",
+        "quantitative_results",
+        "novelty",
+        "limitations",
+        "future_research",
+    ]
+
+    if not isinstance(summary, dict):
+        raise ValueError("AI 응답이 JSON 객체가 아닙니다.")
+
+    for key in required_keys:
+        if not isinstance(summary.get(key), str):
+            raise ValueError(f"AI 요약 필드 누락: {key}")
+
+    return summary
 
 def main():
     DATA_FILE.parent.mkdir(parents=True, exist_ok=True)
