@@ -419,7 +419,15 @@
     "doi": "10.1038/s43856-026-01962-3",
     "url": "https://europepmc.org/articles/PMC13633241",
     "abstract": "Rare diseases affect hundreds of millions of individuals worldwide, primarily resulting from genetic factors, with many presenting during childhood. Advances in genome sequencing increasingly enable identification of the responsible gene in more patients; however, only a limited selection of therapies exists to correct or mitigate the underlying genetic defect. This overview delineates the interconnected aspects of diagnosis, evidence generation, treatment, and long-term safety monitoring within an integrated framework. It also posits that the molecular mechanism underlying a disorder, rather than its clinical label, determines both the diagnostic test to be employed and the potential treatment options that may be effective.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "ai_summary": {
+      "research_purpose": "이 논문은 드문 유전性疾病에 대한 진단과 개인화된 치료에 대한 최신 전달 관점을 다루며, 유전적 요인으로 인한 드문 유전性疾病에 대한 진단, 치료 및 장기적인 안전성 모니터링에 대한 통합적인 관점을 제공한다.",
+      "methods": "이 논문은 유전性疾病의 진단, 증거 생성, 치료 및 장기적인 안전성 모니터링에 대한 통합적인 관점을 제공하며, 유전性疾病의 생물학적 메커니즘은 진단 테스트를 선택하고 효과적인 치료 옵션을 결정하는 데 결정적인 역할을 한다.",
+      "quantitative_results": "이 논문에서는 유전性疾病의 진단과 치료에 대한 통합적인 관점을 제공하며, 유전性疾病의 생물학적 메커니즘은 진단 테스트를 선택하고 효과적인 치료 옵션을 결정하는 데 결정적인 역할을 한다.",
+      "novelty": "이 논문은 유전性疾病의 생물학적 메커니즘에 대한 이해를 통해 유전性疾病의 진단과 치료에 대한 통합적인 관점을 제공하며, 이는 기존 연구에서 보다 구체적이고 통합적인 접근을 제공한다.",
+      "limitations": "이 논문은 유전性疾病의 생물학적 메커니즘에 대한 이해를 통해 유전性疾病의 진단과 치료에 대한 통합적인 관점을 제공하며, 이는 기존 연구에서 보다 구체적이고 통합적인 접근을 제공한다.",
+      "future_research": "이 논문은 유전性疾病의 생물학적 메커니즘에 대한 이해를 통해 유전性疾病의 진단과 치료에 대한 통합적인 관점을 제공하며, 이는 기존 연구에서 보다 구체적이고 통합적인 접근을 제공한다. 후속 연구는 유전性疾病의 생물학적 메커니즘에 대한 더 깊은 이해를 위해 더 많은 실험을 수행하고, 다양한 유전性疾病에 대한 효과적인 치료 옵션을 개발하는 데 초점을 맞출 것이다."
+    }
   },
   {
     "id": "doi:10.1080/21645515.2026.2737475",
@@ -529,7 +537,15 @@
     "doi": "10.1002/pro.70774",
     "url": "https://europepmc.org/articles/PMC13575976",
     "abstract": "Amino acid oxidation is a major cause of protein instability and loss of function in therapeutic and industrial settings. Although methionine, cysteine, tryptophan, tyrosine, histidine, lysine, and arginine residues are widely recognized as oxidation-prone, only a subset of such residues is dominant functional hotspots, and not all are suitable targets for mutation. Identifying these vulnerable, yet engineerable, sites remains a major challenge. Here, we present EvoMut, a residue-level analytical framework for evaluating both oxidative vulnerability and mutation feasibility. EvoMut estimates oxidation risk by integrating structural features, local functional context, intrinsic chemical susceptibility, and evolutionary conservation. A central feature of the framework is the explicit separation of oxidation risk from mutation feasibility. Specifically, candidate substitutions are evaluated only after high-risk residues are identified and ranked by evolutionary substitution patterns. Application of EvoMut to multiple proteins, and evaluation with experimental data, showed that oxidation-prone residues differ markedly in their engineering potential. EvoMut distinguishes residues that are both oxidation-sensitive and evolutionarily permissive from those that are chemically vulnerable but functionally constrained. By providing residue-level mechanistic insight, EvoMut offers a practical framework for the rational design of oxidation-resistant proteins. EvoMut is freely available as a web server at https://proteus.cmm.uga.edu/evomut.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "ai_summary": {
+      "research_purpose": "이 연구는 아미노산 산화가 약물의 안정성과 기능에 미치는 영향을 이해하고 이를 개선하기 위한 계산적 기반을 제공합니다. 특히, 아미노산 산화가 주된 원인으로 알려진 약물의 불안정성과 기능 손실을 줄이기 위한 유전자 설계에 초점을 맞춥니다.",
+      "methods": "이 연구는 EvoMut이라는 유전자 수준 분석 모델을 개발하여 아미노산 산화의 위험성과 유전자 변이의 가능성을 평가합니다. 이 모델은 유전적 패턴을 통해 위험한 아미노산을 식별하고, 이에 따른 유전자 변이를 평가합니다.",
+      "quantitative_results": "이 연구는 아미노산 산화가 주된 원인으로 알려진 여러 약물에 대해 적용했을 때, 아미노산 산화에 민감한 아미노산이 유전자 변이를 통해 안정성을 향상시킬 수 있다는 것을 보여주었습니다.",
+      "novelty": "이 연구는 아미노산 산화에 민감한 아미노산이 유전자 변이를 통해 안정성을 향상시킬 수 있다는 새로운 관점을 제공합니다. 이는 기존 연구에서 확인되지 않은 새로운 발견입니다.",
+      "limitations": "이 연구는 실험 데이터를 사용하여 모델을 테스트하였지만, 실제 실험을 통해 확인되지 않은 부분이 있습니다. 또한, 이 연구는 모델의 구체적인 작동 방식과 세부적인 결과를 제공하지 않았습니다.",
+      "future_research": "후속 연구는 이 모델을 더 다양한 약물에 적용하여 그 효과를 확인하고, 모델의 작동 방식을 더 깊이 이해하는 연구가 필요합니다. 또한, 실제 실험을 통해 모델의 정확성을 확인하는 연구도 필요합니다."
+    }
   },
   {
     "id": "doi:10.1080/14789450.2026.2738952",
@@ -541,7 +557,15 @@
     "doi": "10.1080/14789450.2026.2738952",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42778966/",
     "abstract": "Introduction Mass spectrometry-based proteomics has became a data-rich discipline, supported by public repositories, community standards, and increasingly scalable computational workflows. However, the public availability of proteomics datasets does not guarantee that they can be reanalyzed, compared with other studies, integrated with other omics layers, or used to support clinical interpretation. Areas covered This review discusses the differences between data repositories, the FAIR (Findable, Accessible, Interoperable, and Reusable) principles, interoperability, and true reusability, workflow-level reproducibility, multi-omics integration, and clinical phenotype harmonization. Common points of failure are highlighted: gaps in metadata, tool-specific outputs, misuse of missing values, batch-effect overcorrection, proteoform collapse, and premature claims of AI-readiness. Expert opinion Reusable-by-design proteomics requires that biospecimen context, metadata, spectral evidence, protein inference, quality control, workflow provenance, molecular specificity, and clinical meaning are all planned in concert from the outset of a study. The future impact of proteomics will depend not only on generating more data, but also on making those data independently interpretable, computable, auditable, and clinically reusable. For candidate medical tests, reusable-by-design should additionally anticipate metrological traceability, fit-for-purpose measurement uncertainty, and intended-use-specific analytical and clinical evidence so that clinically interpreted results remain comparable across laboratories, platforms, and time.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "ai_summary": {
+      "research_purpose": "이 논문은 단백질 분석 데이터의 재사용성을 향상시키기 위한 표준화 방법을 제시합니다. 이를 통해 다양한 omics 데이터와 임상적 해석이 가능해집니다.",
+      "methods": "논문은 FAIR 원칙, interoperability, workflow-level reproducibility, multi-omics integration, 그리고 clinical phenotype harmonization 등에 대한 논의를 통해 단백질 분석 데이터의 재사용성을 강조합니다. 또한, 연구 시작 단계에서부터 biospecimen context, metadata, spectral evidence, protein inference, quality control, workflow provenance, molecular specificity, 그리고 clinical meaning을 모두 고려해야 함을 강조합니다.",
+      "quantitative_results": "논문에서는 단백질 분석 데이터의 재사용성을 향상시키기 위한 표준화 방법에 대해 논의하며, 이를 통해 단백질 분석 데이터의 재사용성이 향상될 것으로 기대됩니다.",
+      "novelty": "이 논문은 단백질 분석 데이터의 재사용성을 향상시키기 위한 표준화 방법을 제시하며, 이는 기존 연구에서 보다 더 깊이 있는 분석을 가능하게 합니다.",
+      "limitations": "논문에서는 단백질 분석 데이터의 재사용성을 향상시키기 위한 표준화 방법에 대한 한계를 명시하지 않았으며, 이는 논문에서 확인할 수 없는 사항입니다. 그러나 논문은 이러한 표준화 방법이 임상적 해석을 가능하게 할 것으로 기대하고 있습니다.",
+      "future_research": "후속 연구는 이러한 표준화 방법이 임상적 해석을 가능하게 할 수 있는지 확인하는 연구를 제안합니다. 또한, metrological traceability, fit-for-purpose measurement uncertainty, 그리고 intended-use-specific analytical and clinical evidence와 같은 추가적인 연구도 필요할 것으로 추정됩니다."
+    }
   },
   {
     "id": "doi:10.1111/exd.70367",
@@ -553,7 +577,15 @@
     "doi": "10.1111/exd.70367",
     "url": "https://europepmc.org/articles/PMC13617235",
     "abstract": "Skin aging is a multifactorial process characterized by the progressive decline of tissue structure, function and regenerative capacity. Although numerous interventions have been developed to improve the clinical manifestations of aging, most primarily alleviate downstream consequences rather than directly targeting the molecular mechanisms underlying tissue deterioration. Recent advances in single-cell and spatial transcriptomic technologies have fundamentally transformed our understanding of skin aging by identifying cell type-specific transcriptional programmes and uncovering novel regulators of epidermal homeostasis, dermal remodelling and intercellular communication. These high-resolution atlases have generated an expanding repertoire of candidate rejuvenation targets, many of which consist of intracellular regulatory proteins that have traditionally been considered difficult to manipulate using conventional pharmacological approaches. In parallel, rapid progress in RNA engineering has established nucleic acid therapeutics as a versatile approach for precise molecular intervention. Among these, messenger RNA (mRNA) therapeutics are particularly well suited to the molecular landscape emerging from skin aging atlases because they enable transient restoration of proteins that are lost during aging. Advances in lipid nanoparticles, extracellular vesicles and microneedle-based delivery systems are rapidly improving the feasibility of local cutaneous administration. In this review, we discuss the emerging rejuvenation targets identified by single-cell and spatial transcriptomic atlases and examine recent advances in RNA-based therapeutics and mRNA delivery strategies that are paving the way for precision skin rejuvenation.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "ai_summary": {
+      "research_purpose": "이 논문은 피부 노화 과정을 이해하고, 이를 극복하기 위한 mRNA 테라피의 잠재력을 조명합니다. 특히, 피부 노화 과정에서 발견된 다양한 세포 유형의 전문적인 유전적 프로그램과 피부 노화를 조절하는 새로운 제어 요인에 초점을 맞추고 있습니다. 이는 전통적인 약물 투여 방법으로부터 벗어난 mRNA 테라피의 잠재력을 강조합니다.",
+      "methods": "이 연구는 mRNA 테라피를 사용하여 피부 노화 과정에서 손실된 단백질을 재구성하는 방법을 검토합니다. 이는 lipid nanoparticles, extracellular vesicles 및 microneedle 기반의 전달 시스템의 발전을 통해 가능해졌습니다. 이론적으로, 이러한 방법은 피부 재생을 위한 정확한 치료를 가능하게 합니다.",
+      "quantitative_results": "이 논문에서는 mRNA 테라피가 피부 노화 과정에서 발견된 다양한 잠재적인 rejuvenation targets를 탐색하고 있습니다. 이는 mRNA 테라피의 잠재력을 강조하고, 이는 전통적인 약물 투여 방법으로부터 벗어난 새로운 치료 방법을 제시합니다.",
+      "novelty": "이 연구는 mRNA 테라피가 피부 노화 과정에서 발견된 새로운 잠재적인 rejuvenation targets를 탐색하고, 이는 전통적인 약물 투여 방법으로부터 벗어난 새로운 치료 방법을 제시합니다. 이는 mRNA 테라피의 잠재력을 강조하고, 이는 피부 노화를 극복하는 데 중요한 역할을 할 수 있습니다.",
+      "limitations": "이 논문에서는 실제 실험 조건과 결과에 대한 정보가 제공되지 않았습니다. 그러나 이 연구는 mRNA 테라피가 피부 노화 과정에서 발견된 새로운 잠재적인 rejuvenation targets를 탐색하고, 이는 전통적인 약물 투여 방법으로부터 벗어난 새로운 치료 방법을 제시합니다.",
+      "future_research": "이 연구는 mRNA 테라피를 사용하여 피부 노화를 극복하는 데 대한 후속 연구를 제안합니다. 이는 mRNA 테라피의 잠재력을 더욱 확장하고, 이는 피부 노화를 극복하는 데 중요한 역할을 할 수 있습니다."
+    }
   },
   {
     "id": "doi:10.1080/10717544.2026.2738285",
@@ -565,7 +597,15 @@
     "doi": "10.1080/10717544.2026.2738285",
     "url": "https://europepmc.org/articles/PMC13637766",
     "abstract": "Nose-to-brain (N2B) delivery is a promising noninvasive strategy to circumvent the blood‒brain barrier (BBB). However, the clinical translation of N2B platforms remains hindered by a conceptual oversimplification that equates crude central nervous system (CNS) exposure with effective therapeutic delivery. This review reconceptualizes the N2B pathway as a stage-resolved sequential transport cascade extending from nasal entry to meaningful parenchymal and cellular access. We identify a critical imbalance in current formulation strategies, which have advanced two extreme poles, namely initial mucosal retention and epithelial permeation at one end and final target-cell engagement at the other, while leaving the intermediate post-epithelial gateways, including cerebrospinal fluid (CSF) and perivascular space (PVS)-mediated redistribution and deep intraparenchymal diffusion, as structural and interpretive blind spots. To bridge this gap, we propose an integrated engineering paradigm with three core design principles. First, multistage-aware design harmonizes sequential spatiotemporal functionalities within a single vehicle architecture. Second, disease-informed design integrates pathologically remodeled barrier states and glymphatic hydrodynamics into the formulation rationale. Third, cargo-informed design establishes the distinct biophysical identity and inherent liabilities of each payload, from small molecules to viral vectors and CRISPR machinery, as the primary engineering starting point. Finally, we advocate for a methodological standard demanding stage-specific validation of vehicle integrity, cross-boundary penetration, and functional target engagement, beyond compartment-blind whole-brain readouts. We further underscore the biofate and clearance of delivery systems as an emerging axis of safety and regulatory evaluation. Collectively, this framework provides a systematic basis for transitioning N2B engineering into a viable clinical modality.",
-    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요."
+    "summary": "초록 기반 요약입니다. 연구 목적, 방법, 결과와 한계는 제공된 초록에서 확인하세요.",
+    "ai_summary": {
+      "research_purpose": "이 논문은 N2B (Nose-to-Brain) 전달을 통해 뇌에 도달하는 과정을 재정의하고, 이를 통해 뇌 세포와 조직에 접근할 수 있는 새로운 접근법을 제안합니다. 이 접근법은 현재의 단순화된 접근법에서 벗어나, N2B 경로가 단계별로 순차적으로 이동하는 것을 재정의합니다. 이를 통해 중간 단계의 통로, 예를 들어 CSF와 PVS를 통해 분비된 공간을 포함하는 통로를 이해하는 데 필요한 정보를 제공합니다.",
+      "methods": "이 논문은 다단계 인식 설계, 질병에 기반한 설계, 콘테이너에 기반한 설계를 통해 N2B 전달의 새로운 접근법을 제안합니다. 이 접근법은 단일 차세계 구조 내에서 순차적 공간과 시간 기능을 조화롭게 조정하고, 질병에 기반한 장벽 상태와 화학 수동성 동력학을 통합하며, 각 배송물의 독특한 물리적 성질과 내재적 부담을 명시적으로 설정합니다. 마지막으로, 이 접근법은 단계별 검증, 경계 간 통과, 기능적 목표 접근을 요구하며, 단순화된 전체 뇌 읽기 결과를 넘어서는 것입니다.",
+      "quantitative_results": "이 논문은 수치적 결과나 대조군 비교를 제공하지 않습니다.",
+      "novelty": "이 논문은 N2B 전달의 새로운 접근법을 제안하며, 현재의 단순화된 접근법에서 벗어나, N2B 경로가 단계별로 순차적으로 이동하는 것을 재정의합니다. 이 접근법은 중간 단계의 통로, 예를 들어 CSF와 PVS를 통해 분비된 공간을 포함하는 통로를 이해하는 데 필요한 정보를 제공합니다.",
+      "limitations": "이 논문은 현재의 연구에서 확인할 수 없는 정보를 포함합니다. 예를 들어, 중간 단계의 통로, 예를 들어 CSF와 PVS를 통해 분비된 공간을 포함하는 통로를 이해하는 데 필요한 정보는 현재의 연구에서 확인할 수 없습니다. 또한, 이 논문은 질병에 기반한 설계와 콘테이너에 기반한 설계를 제안하며, 이는 현재의 연구에서 확인할 수 없는 정보입니다.",
+      "future_research": "이 논문은 후속 연구를 제안하며, 이는 단계별 검증, 경계 간 통과, 기능적 목표 접근을 요구합니다. 이 접근법은 단순화된 전체 뇌 읽기 결과를 넘어서는 것입니다."
+    }
   },
   {
     "id": "doi:10.1097/moh.0000000000000946",
