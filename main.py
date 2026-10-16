@@ -48,8 +48,9 @@ def load_existing():
 
 def search_topic(topic, terms, start_date, end_date):
     terms_query = " OR ".join(
-        f'TITLE_ABS:"{term}"' for term in terms
+        f'"{term}"' for term in terms
     )
+
     query = (
         f"({terms_query}) AND "
         f"FIRST_PDATE:[{start_date} TO {end_date}]"
@@ -67,8 +68,13 @@ def search_topic(topic, terms, start_date, end_date):
         timeout=60,
     )
     response.raise_for_status()
+    data = response.json()
 
-    records = response.json().get("resultList", {}).get("result", [])
+    print(f"[{topic}] HTTP: {response.status_code}")
+    print(f"[{topic}] 검색식: {query}")
+    print(f"[{topic}] 전체 검색 결과: {data.get('hitCount', '미확인')}")
+
+    records = data.get("resultList", {}).get("result", [])
     papers = []
 
     for item in records:
@@ -95,7 +101,10 @@ def search_topic(topic, terms, start_date, end_date):
         elif doi:
             url = "https://doi.org/" + doi
         else:
-            url = "https://europepmc.org/search?query=" + requests.utils.quote(title)
+            url = (
+                "https://europepmc.org/search?query="
+                + requests.utils.quote(title)
+            )
 
         abstract = item.get("abstractText", "") or ""
         abstract = re.sub(r"<[^>]+>", " ", abstract)
@@ -112,12 +121,12 @@ def search_topic(topic, terms, start_date, end_date):
             "url": url,
             "abstract": abstract,
             "summary": (
-                "초록 기반 요약입니다. 아래 초록을 바탕으로 "
-                "연구 목적, 방법, 결과 및 한계를 검토하세요. "
-                "초록에 없는 세부사항은 확인할 수 없습니다."
+                "초록 기반 요약입니다. 연구 목적, 방법, "
+                "결과와 한계는 제공된 초록에서 확인하세요."
             ),
         })
 
+    print(f"[{topic}] 반환된 논문: {len(papers)}")
     return papers
 
 
