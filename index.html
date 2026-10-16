@@ -130,7 +130,34 @@ function escapeHTML(value) {
     "'": "&#39;"
   })[ch]);
 }
+function renderAISummary(summary) {
+  if (!summary || typeof summary !== "object") {
+    return `
+      <p class="meta">
+        AI 상세 요약이 아직 생성되지 않았습니다.
+        다음 자동 실행에서 처리될 수 있습니다.
+      </p>
+    `;
+  }
 
+  const fields = [
+    ["연구 목적", "research_purpose"],
+    ["연구 방법", "methods"],
+    ["정량적 결과", "quantitative_results"],
+    ["기존 연구 대비 차별점", "novelty"],
+    ["한계점", "limitations"],
+    ["후속 연구 제안", "future_research"]
+  ];
+
+  return fields.map(([label, key]) => `
+    <section>
+      <h3>${escapeHTML(label)}</h3>
+      <p class="abstract">${
+        escapeHTML(summary[key] || "정보를 확인할 수 없습니다.")
+      }</p>
+    </section>
+  `).join("");
+}
 function render() {
   const q = search.value.trim().toLowerCase();
   const selectedTopic = topic.value;
@@ -171,9 +198,17 @@ function render() {
       <div class="meta">${escapeHTML(p.authors || "저자 정보 없음")}</div>
       <details>
         <summary>초록 및 요약 보기</summary>
-        <p><strong>초록 기반 안내</strong></p>
-        <p>${escapeHTML(p.summary || "")}</p>
-        <p class="abstract">${escapeHTML(p.abstract || "초록이 제공되지 않았습니다.")}</p>
+        <div class="ai-summary">
+      <h3>AI 상세 요약</h3>
+  ${renderAISummary(p.ai_summary)}
+</div>
+
+<details>
+  <summary>원문 초록 보기</summary>
+  <p class="abstract">${
+    escapeHTML(p.abstract || "초록이 제공되지 않았습니다.")
+  }</p>
+</details>
         ${p.doi ? `<p>DOI: <a href="https://doi.org/${escapeHTML(p.doi)}"
           target="_blank" rel="noopener noreferrer">${escapeHTML(p.doi)}</a></p>` : ""}
       </details>
