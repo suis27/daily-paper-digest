@@ -28,6 +28,50 @@
     "summary": "초록 기반 요약"
   },
   {
+    "id": "doi:10.64898/2026.10.09.758136",
+    "title": "Protein Deimmunization with a Generative Diffusion Model",
+    "topic": "Protein",
+    "date": "2026-10-16",
+    "journal": "",
+    "authors": "Chen Z, Yu C, Zhou C, Jiang X, Nguyen L, Myhrvold C, Jaakkola TS, Jiang K.",
+    "doi": "10.64898/2026.10.09.758136",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.10.09.758136",
+    "abstract": "Protein immunogenicity is a major cause of biologic drug failure, leading to the production of anti-drug antibodies (ADA) that accelerate drug clearance, rejection of repeated doses, abolished efficacy, and sometimes life threatening anaphylaxis in patients. These responses constrain the clinical use of synthetic protein therapeutics from non-human origin. To efficiently deimmunize protein therapeutics, we developed a generative discrete diffusion model (MESSI), which takes protein structures as input and outputs sequences that preserve structure without containing peptides predicted to bind major histocompatibility complex class II molecules. MESSI designs sequences with high structural recovery and down to 0 predicted epitopes for specified MHC molecules at higher efficiency than post-hoc filtering approaches. Experimentally, we first applied MESSI to deimmunize a luciferase and a de novo designed mini-binder against PD-1, resulting in variants with no predicted epitopes and higher activity than their parents. Lastly, we coupled MESSI with evolution guidance to deimmunize uricase, a clinically approved enzyme with severe immunogenicity, and found deimmunized variants with higher catalytic activity than their natural orthologs. MESSI enables generative design of functional proteins with minimized immunogenicity, potentially making protein therapeutics safer and more effective.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "단백질의 면역 반응으로 인한 실패를 줄이기 위해, 이 연구는 단백질 치료제의 면역 반응을 줄이기 위한 새로운 모델을 개발하고 검증합니다. 이 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다.",
+      "methods": "MESSI 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다. 이 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다. 이 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다. 이 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다.",
+      "quantitative_results": "MESSI 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다. 이 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다. 이 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다.",
+      "novelty": "MESSI 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다. 이 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다. 이 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다.",
+      "limitations": "MESSI 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다. 이 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다. 이 모델은 단백질 구조를 입력받아 면역학적으로 안전한 단백질 구성을 생성합니다.",
+      "future_research": "MESSI 모델을 더 많은 단백질 유형에 적용하여 면역학적으로 안전한 단백질 치료제를 개발할 수 있습니다."
+    }
+  },
+  {
+    "id": "doi:10.64898/2026.10.15.759489",
+    "title": "Lipid nanoparticle-mediated RNAi targeting of KRAS mutants sensitises colorectal cancer cells to chemotherapy",
+    "topic": "Drug delivery",
+    "date": "2026-10-16",
+    "journal": "",
+    "authors": "Wang Y, Su S, Zahra K, Sang R, Molloy MP, Hutvagner G, Deng W.",
+    "doi": "10.64898/2026.10.15.759489",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.10.15.759489",
+    "abstract": "KRAS mutations, including G12D, G12V and G13D, are major oncogenic drivers in colorectal cancer (CRC) and are associated with therapeutic resistance. However, approved KRAS inhibitors remain focused on G12C subtype, leaving these prevalent variants without approved targeted therapies. Here, we developed a lipid nanoparticle (LNP)-based RNA interference (RNAi) strategy to target these three KRAS variants using a single small interfering RNA (siRNA) sequence. The developed siRNA-LNPs reduced KRAS mRNA and protein expression in HCT116 (G13D), SW620 (G12V) and LS180 (G12D) cells, but not in KRAS wild-type HT29 cells, suppressing the cellular proliferation, clonogenic survival and migration. Transcriptomic profiling revealed changes in KRAS associated signalling, including suppression of cell-cycle and DNA repair programmes, providing a rationale for combining siRNA silencing with the fluoropyrimidine chemotherapeutic agent 5-fluorouracil (5-FU). The combination produced synergistic effects across all three KRAS-mutant CRC cell models and enhanced the apoptosis in both monolayer cultures and 3D spheroids. Collectively, these findings provide proof of concept for this combination strategy and support its further investigation as a potential therapeutic approach for KRAS-mutant CRC.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 KRAS 유전자 변이가 암세포에 대한 치료 저항을 일으키는 것을 해결하기 위해 RNA干扰 (RNAi) 기술을 사용하여 KRAS 유전자 변이를 치료하는 방법을 검토합니다. 이 연구는 KRAS 유전자 변이를 치료하는 약물이 아직 충분히 개발되지 않았기 때문에 이 연구가 KRAS 유전자 변이를 가진 암세포에 대한 치료 접근 방식으로의 가능성을 제공할 수 있음을 입증하기 위해 수행되었습니다.",
+      "methods": "이 연구는 lipid nanoparticle (LNP) 기반의 RNA干扰 (RNAi) 전략을 사용하여 KRAS 유전자 변이를 치료하기 위해 단일 작은 산화물 RNA (siRNA) 코돈을 사용했습니다. 이 연구는 HCT116 (G13D), SW620 (G12V) 및 LS180 (G12D) 세포에서 KRAS mRNA와 프로tein의 수준을 줄였습니다. 이 연구는 KRAS 유전자 변이를 가진 암세포의 세포 성장, 클론 생존 및 이동성을 억제했습니다. 이 연구는 KRAS 유전자 변이를 가진 세포 모델에서 5-FU 치료제와의 조합이 synergistic 효과를 나타내며, 이는 KRAS 유전자 변이를 가진 세포의 apoptosis를 증가시켰습니다.",
+      "quantitative_results": "이 연구는 KRAS 유전자 변이를 가진 세포 모델에서 siRNA-LNPs가 KRAS mRNA와 프로tein의 수준을 줄였으며, KRAS 유전자 변이를 가진 세포 모델에서 siRNA-LNPs가 KRAS 유전자 변이를 가진 세포의 apoptosis를 증가시켰습니다. 이 연구는 KRAS 유전자 변이를 가진 세포 모델에서 5-FU 치료제와의 조합이 synergistic 효과를 나타내며, 이는 KRAS 유전자 변이를 가진 세포의 apoptosis를 증가시켰습니다.",
+      "novelty": "이 연구는 KRAS 유전자 변이를 가진 세포 모델에서 siRNA-LNPs가 KRAS 유전자 변이를 가진 세포의 apoptosis를 증가시켰다는 새로운 발견을 제공합니다. 이 연구는 KRAS 유전자 변이를 가진 암세포에 대한 치료 접근 방식으로의 가능성을 입증하기 위해 수행되었습니다.",
+      "limitations": "이 연구는 KRAS 유전자 변이를 가진 세포 모델에서 siRNA-LNPs가 KRAS 유전자 변이를 가진 세포의 apoptosis를 증가시켰다는 결과를 보여줍니다. 그러나 이 연구는 KRAS 유전자 변이를 가진 암세포에 대한 치료 접근 방식으로의 가능성을 입증하기 위해 수행되었습니다. 이 연구는 KRAS 유전자 변이를 가진 암세포에 대한 치료 접근 방식으로의 가능성을 입증하기 위해 수행되었습니다.",
+      "future_research": "이 연구는 KRAS 유전자 변이를 가진 암세포에 대한 치료 접근 방식으로의 가능성을 입증하기 위해 수행되었습니다. 이 연구는 KRAS 유전자 변이를 가진 암세포에 대한 치료 접근 방식으로의 가능성을 입증하기 위해 수행되었습니다. 이 연구는 KRAS 유전자 변이를 가진 암세포에 대한 치료 접근 방식으로의 가능성을 입증하기 위해 수행되었습니다."
+    }
+  },
+  {
     "id": "doi:10.64898/2026.10.09.757591",
     "title": "Neonatal Delivery of Exon Skipping Therapeutics Maximizes Brain Dystrophin Rescue in the Mdx52 Mouse Model of Duchenne Muscular Dystrophy",
     "topic": "Nucleic acids",
@@ -188,7 +232,15 @@
     "pmcid": "",
     "url": "https://doi.org/10.20944/preprints202610.0853.v1",
     "abstract": "The traditional nanocarrier-mediated nucleic acid delivery relies on random Brownian diffusion, suffering from slow transport speed and insufficient single-cell targeting ability. In this study, we proposed a targeted siRNA delivery strategy that uses optical tweezers to deliver the siRNA-PS probes to target cells. The nanoscale inter-facial stability and trapping performance of the probes are evaluated. Delivery is achieved in less than 10 s, two orders of magnitude faster than passive-diffusion-based delivery. Using Nicotiana protoplasts as a proof-of-concept cellular model, single siRNA-PS probe target delivery tests achieved a gene-silencing efficiency of up to 92%. This work demonstrates an optical tweezers-driven targeted delivery strategy and provides experimental insights into nanophotonic manipulation of microscale colloidal assemblies.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 전통적인 나노카리너를 이용한 유전자 유도 분자(DNA/RNA) 전달 방법이 느린 이동 속도와 유일한 세포 targeting 능력이 부족하다는 문제점을 가지고 있다. 이를 해결하기 위해, 초음파 투과기를 이용한 유전자 유도 분자의 targeted 전달 전략을 제안한다.",
+      "methods": "이 연구에서는 초음파 투과기를 이용해 siRNA-PS probe를 타겟 세포에 전달하는 방법을 개발했다. probe의 나노 규모의 인터페이스 안정성과 잡아들이기 능력을 평가했다. siRNA-PS probe가 타겟 세포에 전달되는 데는 약 10초가 걸렸으며, 이는 무력화 기반의 전달보다 약 10배 빠르다. 이 연구에서는 니코타니아 프로토포스터스를 사용해 siRNA-PS probe의 유전자 유도 효율을 평가했다.",
+      "quantitative_results": "siRNA-PS probe가 타겟 세포에 전달된 후, 유전자 유도 효율은 약 92%까지 달했다. 이 연구는 초음파 투과기를 이용한 targeted delivery 전략을 보여주며, nanophotonic 조작에 대한 실험적 인사이트를 제공한다.",
+      "novelty": "이 연구는 초음파 투과기를 이용한 유전자 유도 분자의 targeted delivery 전략을 제시하며, 이는 기존 연구에서 보여주지 않았던 새로운 접근법이다. 이 연구는 유전자 유도 분자의 targeted delivery를 위한 새로운 방법을 제시한다.",
+      "limitations": "이 연구는 초음파 투과기를 이용한 유전자 유도 분자의 targeted delivery의 효율성을 확인했다. 그러나 이 연구는 초음파 투과기를 이용한 유전자 유도 분자의 targeted delivery의 실제 적용 가능성에 대한 확인은 불가능하다고 명시했다.",
+      "future_research": "이 연구는 초음파 투과기를 이용한 유전자 유도 분자의 targeted delivery를 위한 후속 연구를 제안한다. 이는 초음파 투과기를 이용한 유전자 유도 분자의 targeted delivery의 실제 적용 가능성과 효율성을 확인하는 연구가 될 것이다."
+    }
   },
   {
     "id": "PMC:PMC13646910",
@@ -279,6 +331,78 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42850317/",
     "abstract": "Over the past decade, protein design has drawn considerable attention and emerged as a promising tool for sustainable and efficient biocatalytic processes, driven by breakthroughs in DNA sequencing, gene synthesis, bioinformatics, and artificial intelligence. Enabled by strategies such as directed evolution, structure/function analysis, and (semi-)rational design, engineered enzymes can now accommodate nonnatural substrates, catalyze novel reactions, and operate under harsh conditions including elevated temperatures and organic solvents.This chapter provides a comprehensive overview of major strategies in protein design including directed evolution, rational design, and semi-rational design. Emphasis is placed on recent advances in high-throughput screening technologies, identification of functionally critical residues, and optimization of site-specific mutations. Furthermore, the integration of artificial intelligence and multiscale modeling to enzyme design is discussed, highlighting data-driven decision-making and deep learning-assisted prediction of enzymatic performance. Looking forward, biocatalysis is poised to further expand its applications in valorization of renewable resources, biofuels, and synthetic chemistry. Powered by ongoing advances in AI and computational protein design, the development of enzymes with unprecedented catalytic functions is anticipated to accelerate rapidly.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 단백질 설계의 주요 전략을 소개하고, 고도화된 고속 스캔 기술, 유기 화합물溶劑 및 고온 환경에서의 효율적인 반응을 수행하는 유전적 유전자 변형, 그리고 면역학적 분석과 합성 인공 지능을 통합하여 단백질 설계에 대한 최신 발전을 다룹니다.",
+      "methods": "이 연구는 단백질 설계의 주요 전략을 다룹니다. 이는 유전적 유전자 변형, 합성 인공 지능, 면역학적 분석 등입니다. 또한, 고속 스캔 기술, 유기 화합물溶劑 및 고온 환경에서의 효율적인 반응을 수행하는 유전적 유전자 변형, 그리고 면역학적 분석과 합성 인공 지능을 통합하여 단백질 설계에 대한 최신 발전을 다룹니다.",
+      "quantitative_results": "이 논문에서는 고속 스캔 기술, 유기 화합물溶劑 및 고온 환경에서의 효율적인 반응을 수행하는 유전적 유전자 변형, 그리고 면역학적 분석과 합성 인공 지능을 통합하여 단백질 설계에 대한 최신 발전을 다룹니다.",
+      "novelty": "이 논문은 합성 인공 지능을 통합하여 단백질 설계에 대한 최신 발전을 다룹니다. 이는 기존 연구에서 보고되지 않은 것입니다.",
+      "limitations": "이 논문에서는 기존 연구에서 보고되지 않은 한계가 있습니다. 이 한계는 확인할 수 없는 사항입니다.",
+      "future_research": "후속 연구는 단백질 설계에 대한 새로운 전략을 개발하고, 유기 화합물溶劑 및 고온 환경에서의 효율적인 반응을 수행하는 유전적 유전자 변형, 그리고 면역학적 분석과 합성 인공 지능을 통합하여 단백질 설계에 대한 최신 발전을 다룹니다."
+    }
+  },
+  {
+    "id": "doi:10.1016/j.cbpa.2026.102784",
+    "title": "Fluorescence labelling strategies for nucleic acids and current applications in studying RNA delivery.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-09",
+    "journal": "",
+    "authors": "Karlsson AFE, Adams TJ, Wilhelmsson LM.",
+    "doi": "10.1016/j.cbpa.2026.102784",
+    "pmid": "42854543",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854543/",
+    "abstract": "Recent advances in nucleic acid delivery technologies have accelerated research in RNA therapeutics and vaccines across many areas of pre-clinical study. As the main limitation for RNA as a therapeutic remains its functional delivery to the cytosol, much current literature is focused on optimising the endosomal escape of internalised RNA molecules. Fluorescence labelling of RNA molecules offers an effective way to measure this experimentally, allowing researchers to develop assays which distinguish RNA location from protein production. In recent years, advances in fluorescent nucleic acid chemistry have produced a variety of novel labelling strategies. This work provides an overview of RNA labelling strategies, with an accompanying selection guide for researchers who design assays to measure RNA delivery. It also reviews recent applications of fluorescently labelled RNA in delivery studies and concludes with a perspective on how novel fluorescent label chemistries could be applied in future delivery-focused RNA research.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 RNA의 세포질로의 전달을 측정하고, 이를 통해 RNA 헬스케어 치료제와 백신 연구에 대한 연구가 가속화되었다는 점을 설명합니다. 특히, RNA가 세포질로 전달되는 과정에서의 문제인 엔테로마이저 탈출을 최적화하기 위한 방법들을 소개합니다.",
+      "methods": "RNA 분자에 플루ores스 펩타이드를 부착하는 새로운 방법들을 소개합니다. 이 방법들은 RNA의 위치를 측정하고, 플루ores스를 사용하여 RNA가 세포질로 전달되는 것을 확인할 수 있게 합니다. 이 연구는 RNA 전달 연구에서 플루ores스 레이블링 전략의 다양한 선택지를 제공합니다.",
+      "quantitative_results": "이 논문에서는 플루ores스 레이블링 전략의 다양한 선택지를 제공하며, 이는 RNA의 위치를 측정하고, RNA가 세포질로 전달되는 것을 확인하는 데 사용될 수 있습니다. 이 연구는 플루ores스 레이블링 RNA의 최근 응용 사례를 검토하고, 미래의 RNA 전달 연구에 대한 시각을 제공합니다.",
+      "novelty": "이 논문은 플루ores스 레이블링 전략의 다양한 선택지를 제공하며, 이는 기존 연구에서 플루ores스 레이블링 RNA의 응용 사례를 검토하고, 미래의 RNA 전달 연구에 대한 시각을 제공합니다. 이 연구는 플루ores스 레이블링 전략의 다양한 선택지를 제공하며, 이는 기존 연구에서 플루ores스 레이블링 RNA의 응용 사례를 검토하고, 미래의 RNA 전달 연구에 대한 시각을 제공합니다.",
+      "limitations": "이 논문에서는 플루ores스 레이블링 전략의 다양한 선택지를 제공하며, 이는 기존 연구에서 플루ores스 레이블링 RNA의 응용 사례를 검토하고, 미래의 RNA 전달 연구에 대한 시각을 제공합니다. 이 연구는 플루ores스 레이블링 전략의 다양한 선택지를 제공하며, 이는 기존 연구에서 플루ores스 레이블링 RNA의 응용 사례를 검토하고, 미래의 RNA 전달 연구에 대한 시각을 제공합니다.",
+      "future_research": "이 논문은 플루ores스 레이블링 전략의 다양한 선택지를 제공하며, 이는 기존 연구에서 플루ores스 레이블링 RNA의 응용 사례를 검토하고, 미래의 RNA 전달 연구에 대한 시각을 제공합니다. 이 연구는 플루ores스 레이블링 전략의 다양한 선택지를 제공하며, 이는 기존 연구에서 플루ores스 레이블링 RNA의 응용 사례를 검토하고, 미래의 RNA 전달 연구에 대한 시각을 제공합니다."
+    }
+  },
+  {
+    "id": "doi:10.1016/j.xcrm.2026.103100",
+    "title": "AI-integrated RNA therapeutics in precision oncology.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-09",
+    "journal": "",
+    "authors": "Symmans WSO, Li Z, Calin GA, Samuel A.",
+    "doi": "10.1016/j.xcrm.2026.103100",
+    "pmid": "42854694",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854694/",
+    "abstract": "RNA therapeutics can silence oncogenic transcripts, modulate RNA processing, restore protein expression, or encode tumor antigens. Their development, however, is constrained by target selection, molecular design, delivery, immunogenicity, and inter-patient heterogeneity. Artificial intelligence (AI) is increasingly applied to these bottlenecks through multi-omics target prioritization, RNA structure and sequence modeling, delivery optimization, neoantigen selection, patient stratification, and manufacturing quality control. The maturity of these applications is uneven: within oncology, messenger RNA (mRNA) cancer vaccines are the most clinically advanced RNA-based strategy, whereas therapeutic approaches involving long non-coding RNAs and circular RNAs remain predominantly preclinical or early clinical, and most AI-enabled methods lack prospective clinical validation. In this review, we evaluate AI across the RNA therapeutic development pipeline, distinguish evidence-supported applications from preclinical and speculative uses, and discuss the validation, regulatory, and data-governance requirements for translation into precision oncology.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1186/s11671-026-04965-0",
+    "title": "Nanopolysaccharides in agriculture. Advances, applications, and future prospects: a review.",
+    "topic": "Drug delivery",
+    "date": "2026-10-09",
+    "journal": "",
+    "authors": "A Rasulov B, A Pattaeva M.",
+    "doi": "10.1186/s11671-026-04965-0",
+    "pmid": "42853439",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42853439/",
+    "abstract": "Nanopolysaccharides (NPSs) constitute a rapidly advancing class of biodegradable and biocompatible nanomaterials with strong potential to support sustainable, climate-resilient agriculture. NPSs exhibit high surface area, tunable surface chemistry, and enhanced interactions with biological interfaces, enabling multifunctional roles across soil-plant-microbe systems. This review provides a function-guided synthesis of recent advances in NPS-based agricultural applications, structured around ten interconnected functional domains. These include: (i) structural classes of NPSs and their surface-chemistry-driven functionality; (ii) soil improvement and moisture regulation; (iii) slow and controlled release of mineral fertilizers (e.g., NPK, urea, ammonium and phosphate salts); (iv) foliar delivery for nutrient uptake and stress mitigation; (v) direct antibacterial and antifungal activity against major phytopathogens; (vi) antiviral strategies, including nano-enabled RNA interference delivery; (vii) nano-loading and targeted delivery of agrochemicals, micronutrients, and botanical actives; (viii) induction of plant defense and immune priming; and (ix) encapsulation and nanocoating of agriculturally important microbial inoculants to enhance survival, controlled release, and field performance; and (x) seed nanopriming for improved germination, stress resilience, and early vigor. Emphasis is placed on structure-function relationships linking nanoparticle size, surface charge, crystallinity, functional group density, and cross-linking chemistry to agronomic outcomes, providing a framework for rational design of next-generation NPS-based agricultural formulations.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.jconrel.2026.115453",
+    "title": "Lipid nanoparticle-mediated co-delivery of human RB1 mRNA and triptolide for localized genetic therapy of retinoblastoma.",
+    "topic": "Drug delivery",
+    "date": "2026-10-09",
+    "journal": "",
+    "authors": "Chun K, Choi SY, An K, Jo DH, Lee H.",
+    "doi": "10.1016/j.jconrel.2026.115453",
+    "pmid": "42854919",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42854919/",
+    "abstract": "Retinoblastoma is a rare pediatric intraocular malignancy for which intravitreal administration offers a clinically attractive route for localized therapy owing to its minimally invasive nature and direct access to intraocular tumors. However, efficient intravitreal delivery of nucleic acids remains challenging because the protein-poor vitreous microenvironment restricts nanoparticle transport and subsequent intracellular delivery. Conventional lipid nanoparticles (LNPs), which have been primarily developed for systemic administration, are therefore not necessarily suited to this unique biological environment. Here, we developed a C12-200-containing lipid nanoparticle (CLNP) engineered for efficient intravitreal gene delivery through systematic optimization of lipid composition. The optimized CLNP exhibited favorable diffusion within the vitreous, efficient intracellular mRNA delivery, and reduced dependence on extracellular protein-assisted uptake under vitreous-mimetic conditions. To demonstrate the therapeutic versatility of the platform, human RB transcriptional corepressor 1 mRNA and triptolide were co-delivered as representative gene and small-molecule therapeutics. CLNP-mediated co-delivery of hRB1 mRNA and triptolide produced greater antiproliferative activity than either monotherapy in vitro and markedly suppressed tumor progression in an orthotopic retinoblastoma model following a single intravitreal administration, with no detectable abnormalities in retinal function, structure, or apoptosis during the evaluation period. Collectively, this study establishes a vitreous-oriented lipid engineering strategy that simultaneously improves extracellular transport through the vitreous and intracellular nucleic acid delivery, providing a broadly applicable platform for localized gene delivery and combination gene-drug therapy for ocular diseases.",
     "summary": "초록 기반 요약"
   },
   {
@@ -585,7 +709,7 @@
     "authors": "Arthurs AL, Bhattacharjee R, Smith MD, Medina Garcia DL, Menkhorst E, Mora G, Williamson JM, Harris LK, Polo JM, MacIntyre DA, Roberts CT.",
     "doi": "10.1073/pnas.2614827123",
     "pmid": "42837445",
-    "pmcid": "",
+    "pmcid": "PMC13663791",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42837445/",
     "abstract": "Late-onset preeclampsia (LOPE) is a major pregnancy complication characterized by hypertension and placental dysfunction, resolving only upon delivery. Here, we show that LOPE placentae undergo accelerated molecular aging, marked by telomere attrition, DNA damage, and trophoblast senescence. Using primary placental tissue and trophoblast organoids, we demonstrate oxidative stress as a driver of telomere shortening and angiogenic imbalance. Inflammation did not alter placental aging trajectories. Antioxidant treatment (superoxide dismutase) preserved telomere length, reduced DNA damage, and restored angiogenic balance, highlighting oxidative stress as a modifiable determinant of placental aging. We identify reduced expression of telomeric repeat-containing RNAs (TERRAs) as a molecular hallmark of LOPE, and show that antisense oligonucleotide-mediated TERRA depletion exacerbates telomere erosion and senescence. Together, these findings delineate oxidative stress and TERRA loss as mechanisms driving placental decline, establish trophoblast organoids as a tractable model of placental aging, and reveal potential therapeutic avenues for mitigating preeclampsia-associated placental dysfunction.",
     "summary": "초록 기반 요약"
@@ -599,7 +723,7 @@
     "authors": "Mosca K, Hoffmann SV, Jones NC, Sinden RR, Wien F, Marco S, Arluison V.",
     "doi": "10.1073/pnas.2617882123",
     "pmid": "42837461",
-    "pmcid": "",
+    "pmcid": "PMC13663790",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42837461/",
     "abstract": "Understanding the structural conformation and dynamics of nucleic acids in solution is critical for the development of nucleic acid therapeutics involving antisense or mRNA therapies, where controlling stability, efficacy, and manufacturability are important. Circular dichroism (CD) spectroscopy allows rapid and nondestructive solution analysis of the spatial arrangements of nucleic acids. While widely used to analyze protein structure, the potential of CD for DNA- and RNA-based pharmaceutical applications has remained largely unrealized because nucleic acid spectra are complex and difficult to interpret quantitatively. We introduce herein a framework (NA-CDQuant) that transforms CD from a qualitative fingerprinting method into a quantitative tool for nucleic acid structure prediction by combining spectral deconvolution with a rigorously curated synchrotron radiation circular dichroism reference library comprising 18 structurally defined conformational families. This systematic classification overcomes long-standing challenges posed by spectral overlap and structural polymorphism, enabling estimation of the fractional composition of coexisting conformations during real-time monitoring of structural transitions in solution. NA-CDQuant provides mechanistic insight into subtle conformational redistributions that may affect molecular recognition and functional performance assisting pharmaceutical development and medical application by facilitating formulation optimization, stability assessment, quality control, and regulatory support of nucleic acid-based therapeutics.",
     "summary": "초록 기반 요약"
