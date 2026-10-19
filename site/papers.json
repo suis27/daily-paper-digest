@@ -375,7 +375,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42854694/",
     "abstract": "RNA therapeutics can silence oncogenic transcripts, modulate RNA processing, restore protein expression, or encode tumor antigens. Their development, however, is constrained by target selection, molecular design, delivery, immunogenicity, and inter-patient heterogeneity. Artificial intelligence (AI) is increasingly applied to these bottlenecks through multi-omics target prioritization, RNA structure and sequence modeling, delivery optimization, neoantigen selection, patient stratification, and manufacturing quality control. The maturity of these applications is uneven: within oncology, messenger RNA (mRNA) cancer vaccines are the most clinically advanced RNA-based strategy, whereas therapeutic approaches involving long non-coding RNAs and circular RNAs remain predominantly preclinical or early clinical, and most AI-enabled methods lack prospective clinical validation. In this review, we evaluate AI across the RNA therapeutic development pipeline, distinguish evidence-supported applications from preclinical and speculative uses, and discuss the validation, regulatory, and data-governance requirements for translation into precision oncology.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 RNA therapeutics의 발전 과정에서 인공지능(AI)을 활용한 접근법을 평가하고, 그 기존 연구와의 차별성을 분석하며, AI를 통한 RNA therapeutics의 정확한 암 치료에 대한 전환을 위한 요구 사항을 논의한다.",
+      "methods": "논문은 AI를 활용한 RNA therapeutics 개발 과정에서의 여러 단계를 분석한다. 이는 오ncology 분야에서 mRNA 암 백신이 가장 진전된 RNA 기반 전략임을 포함한다. 또한, AI를 활용한 long non-coding RNA와 circular RNA에 대한 치료 접근법은 대부분 전파 단계나 초기 임상 단계에 머물러 있으며, 대부분의 AI 기반 방법은 임상적 검증이 필요하다는 점을 강조한다.",
+      "quantitative_results": "논문은 AI를 활용한 RNA therapeutics 개발 과정에서의 여러 단계를 분석하며, 이는 오ncology 분야에서 mRNA 암 백신이 가장 진전된 RNA 기반 전략임을 포함한다. 또한, AI를 활용한 long non-coding RNA와 circular RNA에 대한 치료 접근법은 대부분 전파 단계나 초기 임상 단계에 머물러 있으며, 대부분의 AI 기반 방법은 임상적 검증이 필요하다는 점을 강조한다.",
+      "novelty": "이 논문은 AI를 활용한 RNA therapeutics 개발 과정에서의 여러 단계를 분석하며, 이는 오ncology 분야에서 mRNA 암 백신이 가장 진전된 RNA 기반 전략임을 포함한다. 또한, AI를 활용한 long non-coding RNA와 circular RNA에 대한 치료 접근법은 대부분 전파 단계나 초기 임상 단계에 머물러 있으며, 대부분의 AI 기반 방법은 임상적 검증이 필요하다는 점을 강조한다.",
+      "limitations": "논문은 AI를 활용한 RNA therapeutics 개발 과정에서의 여러 단계를 분석하며, 이는 오ncology 분야에서 mRNA 암 백신이 가장 진전된 RNA 기반 전략임을 포함한다. 또한, AI를 활용한 long non-coding RNA와 circular RNA에 대한 치료 접근법은 대부분 전파 단계나 초기 임상 단계에 머물러 있으며, 대부분의 AI 기반 방법은 임상적 검증이 필요하다는 점을 강조한다.",
+      "future_research": "후속 연구는 AI를 활용한 RNA therapeutics의 정확한 암 치료에 대한 전환을 위한 요구 사항을 검토하고, AI를 활용한 RNA therapeutics의 개발 과정에서의 여러 단계를 더 깊이 분석하는 것을 제안한다."
+    }
   },
   {
     "id": "doi:10.1186/s11671-026-04965-0",
@@ -389,7 +397,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42853439/",
     "abstract": "Nanopolysaccharides (NPSs) constitute a rapidly advancing class of biodegradable and biocompatible nanomaterials with strong potential to support sustainable, climate-resilient agriculture. NPSs exhibit high surface area, tunable surface chemistry, and enhanced interactions with biological interfaces, enabling multifunctional roles across soil-plant-microbe systems. This review provides a function-guided synthesis of recent advances in NPS-based agricultural applications, structured around ten interconnected functional domains. These include: (i) structural classes of NPSs and their surface-chemistry-driven functionality; (ii) soil improvement and moisture regulation; (iii) slow and controlled release of mineral fertilizers (e.g., NPK, urea, ammonium and phosphate salts); (iv) foliar delivery for nutrient uptake and stress mitigation; (v) direct antibacterial and antifungal activity against major phytopathogens; (vi) antiviral strategies, including nano-enabled RNA interference delivery; (vii) nano-loading and targeted delivery of agrochemicals, micronutrients, and botanical actives; (viii) induction of plant defense and immune priming; and (ix) encapsulation and nanocoating of agriculturally important microbial inoculants to enhance survival, controlled release, and field performance; and (x) seed nanopriming for improved germination, stress resilience, and early vigor. Emphasis is placed on structure-function relationships linking nanoparticle size, surface charge, crystallinity, functional group density, and cross-linking chemistry to agronomic outcomes, providing a framework for rational design of next-generation NPS-based agricultural formulations.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 나노복합당류(NPSs)가 지속가능하고 기후 지향적인 농업에 대한 강력한 잠재력을 가지고 있음을 설명하고, 이를 통해 나노복합당류가 농업 분야에서 다양한 응용 분야에 활용될 수 있음을 강조한다.",
+      "methods": "논문은 나노복합당류의 구조 클래스, 표면 화학적 특성, 그리고 생물학적 인터페이스와의 상호 작용을 중심으로 나노복합당류의 최근 진보를 분석한다.",
+      "quantitative_results": "논문은 나노복합당류가 지속가능하고 기후 지향적인 농업에 대한 강력한 잠재력을 가지고 있음을 입증한다.",
+      "novelty": "논문은 나노복합당류가 농업 분야에서 다양한 응용 분야에 활용될 수 있음을 처음으로 보여준다.",
+      "limitations": "논문은 나노복합당류의 구조, 표면 화학적 특성, 그리고 생물학적 인터페이스와의 상호 작용에 대한 구체적인 정보를 제공하지 않았다. 이 정보는 추가 연구가 필요하다.",
+      "future_research": "논문은 나노복합당류의 구조, 표면 화학적 특성, 그리고 생물학적 인터페이스와의 상호 작용에 대한 더 깊이 있는 연구를 제안한다."
+    }
   },
   {
     "id": "doi:10.1016/j.jconrel.2026.115453",
@@ -403,7 +419,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42854919/",
     "abstract": "Retinoblastoma is a rare pediatric intraocular malignancy for which intravitreal administration offers a clinically attractive route for localized therapy owing to its minimally invasive nature and direct access to intraocular tumors. However, efficient intravitreal delivery of nucleic acids remains challenging because the protein-poor vitreous microenvironment restricts nanoparticle transport and subsequent intracellular delivery. Conventional lipid nanoparticles (LNPs), which have been primarily developed for systemic administration, are therefore not necessarily suited to this unique biological environment. Here, we developed a C12-200-containing lipid nanoparticle (CLNP) engineered for efficient intravitreal gene delivery through systematic optimization of lipid composition. The optimized CLNP exhibited favorable diffusion within the vitreous, efficient intracellular mRNA delivery, and reduced dependence on extracellular protein-assisted uptake under vitreous-mimetic conditions. To demonstrate the therapeutic versatility of the platform, human RB transcriptional corepressor 1 mRNA and triptolide were co-delivered as representative gene and small-molecule therapeutics. CLNP-mediated co-delivery of hRB1 mRNA and triptolide produced greater antiproliferative activity than either monotherapy in vitro and markedly suppressed tumor progression in an orthotopic retinoblastoma model following a single intravitreal administration, with no detectable abnormalities in retinal function, structure, or apoptosis during the evaluation period. Collectively, this study establishes a vitreous-oriented lipid engineering strategy that simultaneously improves extracellular transport through the vitreous and intracellular nucleic acid delivery, providing a broadly applicable platform for localized gene delivery and combination gene-drug therapy for ocular diseases.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 리 tinoblastoma를 치료하기 위한 인비트리투리(인비트리) 전달 방법을 개선하고자 합니다. 인비트리 전달은 리 tinoblastoma를 치료하는 데 있어 치료 효과와 안전성을 높이는 데 유용한 방법입니다. 그러나 인비트리 전달을 위한 플랫폼은 리 tinoblastoma의 인비트리 전달 환경에 적합하지 않다는 연구 결과가 있습니다. 따라서, 이 연구에서는 리 tinoblastoma를 치료하기 위한 새로운 플랫폼을 개발하고자 합니다.",
+      "methods": "연구자들은 리 tinoblastoma를 치료하기 위한 새로운 플랫폼을 개발하기 위해 리 tinoblastoma의 인비트리 전달 환경을 이해하기 위해 다양한 방법을 사용했습니다. 먼저, 리 tinoblastoma의 인비트리 전달 환경을 이해하기 위해 다양한 플랫폼을 개발했습니다. 그 다음, 개발한 플랫폼을 통해 리 tinoblastoma를 치료하기 위한 mRNA와 소재를 함께 전달할 수 있는 플랫폼을 개발했습니다. 이 플랫폼은 리 tinoblastoma를 치료하기 위한 mRNA와 소재를 함께 전달할 수 있는 새로운 플랫폼을 개발했습니다.",
+      "quantitative_results": "연구자들은 새로운 플랫폼을 통해 리 tinoblastoma를 치료하기 위한 mRNA와 소재를 함께 전달할 수 있는 플랫폼을 개발했습니다. 이 플랫폼은 리 tinoblastoma를 치료하기 위한 mRNA와 소재를 함께 전달할 수 있는 새로운 플랫폼을 개발했습니다. 이 플랫폼은 리 tinoblastoma를 치료하기 위한 mRNA와 소재를 함께 전달할 수 있는 새로운 플랫폼을 개발했습니다.",
+      "novelty": "기존 연구 대비 차별점은 새로운 플랫폼을 개발하여 리 tinoblastoma를 치료하기 위한 mRNA와 소재를 함께 전달할 수 있는 새로운 플랫폼을 개발했습니다. 이 플랫폼은 기존의 플랫폼보다 더 나은 치료 효과를 보였습니다.",
+      "limitations": "연구자들은 새로운 플랫폼을 통해 리 tinoblastoma를 치료하기 위한 mRNA와 소재를 함께 전달할 수 있는 플랫폼을 개발했습니다. 그러나, 새로운 플랫폼의 효과를 확인하기 위해 추가적인 연구가 필요합니다. 또한, 새로운 플랫폼의 장단점에 대한 더 깊은 이해가 필요합니다.",
+      "future_research": "후속 연구는 새로운 플랫폼의 효과를 더 깊이 이해하고, 새로운 플랫폼의 장단점을 더 잘 이해하기 위한 연구입니다. 또한, 새로운 플랫폼을 통해 리 tinoblastoma를 치료하기 위한 mRNA와 소재를 함께 전달할 수 있는 새로운 플랫폼을 개발하기 위한 연구도 필요합니다."
+    }
   },
   {
     "id": "doi:10.64898/2026.10.07.757460",
@@ -499,7 +523,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42845113/",
     "abstract": "mRNA-lipid nanoparticles (mRNA-LNPs) have revolutionized nucleic acid therapeutics, yet their clinical success relies heavily on precise manufacturing processes. This review comprehensively explores the critical intersection between microfluidic channel design, lipid self-assembly biophysics, and the subsequent biological performance of mRNA-LNPs. First, we analyze the fundamental fluid mechanics driving representative microfluidic mixers, elucidating how different channel architectures dictate solvent exchange rates and nanoparticle assembly kinetics. We then systematically examine how these specific mixing regimes modulate essential physicochemical characteristics, including lipid distribution, internal nanostructure, particle morphology, size distribution, and overall colloidal stability. Crucially, we bridge the gap between manufacturing and pharmacology by evaluating how mixing-induced physicochemical differences directly translate into distinct biological outcomes, such as cellular uptake mechanisms, endosomal escape efficiency, and systemic pharmacokinetics. By integrating microfluidic engineering principles with biological evaluation, this review provides a mechanistic framework for understanding how continuous-flow assembly processes program the functional behavior of mRNA-LNP systems. Ultimately, we highlight emerging design principles essential for developing the next generation of robust, highly efficient nucleic acid delivery platforms.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 mRNA-LNPs의 제조 과정을 정교하게 설계하여 이를 통해 mRNA-LNPs의 생물학적 성능을 개선하고자 합니다. 이를 위해 미세 유동 챔버 설계, 리파이신자 자가 조립 물리학, 그리고 mRNA-LNPs의 생물학적 성능 간의 상호작용을 분석합니다.",
+      "methods": "논문은 다양한 미세 유동 챔버 설계의 물리학적 원리를 분석하고, 이 설계가 리파이신자 자가 조립 물리학적 특성에 미치는 영향을 분석합니다. 또한, 이 설계가 mRNA-LNPs의 생물학적 성능에 미치는 영향을 분석합니다.",
+      "quantitative_results": "논문에서는 미세 유동 챔버 설계가 리파이신자 자가 조립 물리학적 특성에 미치는 영향을 분석하였으며, 이 설계가 mRNA-LNPs의 생물학적 성능에 미치는 영향을 분석하였습니다. 이 결과는 mRNA-LNPs의 제조 과정을 개선하고 생물학적 성능을 향상시키는 데 도움이 될 것입니다.",
+      "novelty": "이 논문은 미세 유동 챔버 설계와 리파이신자 자가 조립 물리학적 특성 간의 상호작용을 분석하여 새로운 설계 원리를 제시하였습니다. 이 원리는 mRNA-LNPs의 제조 과정을 개선하고 생물학적 성능을 향상시키는 데 도움이 될 것입니다.",
+      "limitations": "논문은 미세 유동 챔버 설계와 리파이신자 자가 조립 물리학적 특성 간의 상호작용을 분석하였지만, 실제 실험 조건과 결과에 대한 자료는 제공되지 않았습니다. 또한, 이 연구는 미세 유동 챔버 설계의 생물학적 성능에 대한 직접적인 증거를 제공하지 않았습니다.",
+      "future_research": "이 논문은 미세 유동 챔버 설계와 리파이신자 자가 조립 물리학적 특성 간의 상호작용을 분석하여 새로운 설계 원리를 제시하였습니다. 이 원리는 후속 연구에서 mRNA-LNPs의 제조 과정을 개선하고 생물학적 성능을 향상시키는 데 도움이 될 것입니다. 이 연구는 후속 연구를 위한 기초를 제공하며, 생물학적 성능을 향상시키는 데 필요한 추가 연구가 필요합니다."
+    }
   },
   {
     "id": "doi:10.1039/d6cc04822f",
@@ -645,6 +677,20 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42842371/",
     "abstract": "Mammalian heart regeneration is restricted to a brief postnatal period during which neonatal-specific mechanisms, including a tightly regulated immune response, enable tissue repair. Here, we show that cardiac injury during the regenerative window induces the accumulation of a distinct γδ T cell population that is absent from older, non-regenerative hearts. Following injury, these cells serve as a rapid source of IL-17A, which shapes the timing and composition of the neonatal immune response. Genetic ablation of γδ T cells or disruption of IL-17 signaling limits heart regeneration and results in dysregulated immune cell infiltration and impaired cardiac function. Mechanistically, our data suggest that γδ T cell-derived IL-17A acts on myeloid cells to initiate a rapid, self-limited inflammatory response that facilitates apoptotic cell clearance and limits sustained inflammation. Our study identifies a developmentally restricted immune axis that supports heart regeneration and advances our understanding of how neonatal-specific immune circuits shape tissue repair.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1039/d6tb00934d",
+    "title": "Micro/nanoparticle hybrid hydrogel platform with mild photothermal stimulation on abaloparatide in situ release for cranial bone regeneration.",
+    "topic": "Drug delivery",
+    "date": "2026-10-07",
+    "journal": "",
+    "authors": "Wu Y, Lu W, Salas-Hernandez JL, Wang R, Zhao Z, Zheng W, Li Y, Liao J.",
+    "doi": "10.1039/d6tb00934d",
+    "pmid": "42758143",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42758143/",
+    "abstract": "Repairing critical-sized bone defects is still difficult in clinical practice. Current strategies increasingly rely on bone tissue engineering to reconstruct defect sites while reducing donor-site injury associated with autografts and immunological concerns related to allografts. Parathyroid hormone (PTH) and parathyroid hormone-related protein (PTHrP) have been acknowledged for their ability to promote skeletal repair and bone production. However, systemic administration may result in limited drug accumulation within the defect area and may also cause unwanted systemic effects. In situ drug delivery is an effective way to help bone regeneration. In addition to growth factors, physical stimuli, especially mild photothermal therapy (PTT), have emerged as outstanding strategies to promote tissue regeneration. Meanwhile, drug release can be triggered by mild PTT. As a result, abaloparatide (ABL)-encapsulated poly(lactic- co -glycolic acid) (PLGA) nanoparticles were prepared. The nanoparticles were then incorporated into hydrogels for local delivery. GO-BPEI endowed the hydrogel with mild photothermal responsiveness and heat-triggered drug-release capability. In the cranial bone defect model, the synergistic effect of ABL and mild PTT promoted neovascularization and bone regeneration, ultimately achieving significant bone repair. Overall, the micro/nanoparticle hybrid hydrogel platform with localized, controlled release of ABL provides a potentially effective new method for repairing bone defects.",
     "summary": "초록 기반 요약"
   },
   {
