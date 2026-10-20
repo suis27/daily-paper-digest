@@ -1,5 +1,113 @@
 [
   {
+    "id": "doi:10.1002/pmic.70199",
+    "title": "Meet the Editorial Team. An Interview With Garry Corthals, Editor-in-Chief, Proteomics and Proteomics Clinical Applications, University of Amsterdam, Amsterdam, Netherlands.",
+    "topic": "Protein",
+    "date": "2026-10-18",
+    "journal": "",
+    "authors": "",
+    "doi": "10.1002/pmic.70199",
+    "pmid": "42892754",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42892754/",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.64898/2026.10.12.758592",
+    "title": "A Humanized Mouse Model of DRPLA Recapitulates Epilepsy and Demonstrates Antisense Oligonucleotide-Mediated Disease Modification",
+    "topic": "Nucleic acids",
+    "date": "2026-10-18",
+    "journal": "",
+    "authors": "WU Q, Erickson I, Davidson S, Shonka S, Smith V, Gidi B, Knox K, Yu TW, Khurana V, Carroll J, Korecka JA, Barker-Haliski M.",
+    "doi": "10.64898/2026.10.12.758592",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.10.12.758592",
+    "abstract": "Dentatorubral-pallidoluysian atrophy (DRPLA) is an ultra-rare progressive myoclonus epilepsy caused by a glutamine-coding CAG repeat expansion in atrophin-1 (ATN1). Mutant ATN1 (mATN1) expression results in symptoms that inversely correlate to CAG-expansion size: young-onset cases have the most CAG repeats and developmental delay, high-frequency treatment-resistant seizures, and early mortality. We sought to characterize the seizure susceptibility of a fully humanized ATN1 mouse expressing human mATN1 with 112 CAG repeats to then assess therapeutic antisense oligonucleotide (ASO) intervention on seizure-related outcomes. Atn1Q112/+ or wild-type (WT) mice were treated with investigational ASO targeting human, CAG-expanded, ATN1 or saline (P2 and then again at 4 weeks-old) before acute seizure testing, ataxia profiling, and chronic in vivo video-EEG recording for spontaneous seizures up to 8 weeks-old. Saline-treated Atn1Q112/+ mice were more seizure prone with early death. However, ASO administration to Atn1Q112/+ mice normalized seizure threshold, decreased ataxia, and protected against early death. Atn1Q112/+ mice exhibited spontaneous behavioral seizures recorded over 2 weeks, which were absent in ASO-treated Atn1Q112/+ and WT mice, with a specific mATN1 expression-driven decrease in delta and theta EEG frequencies. Atn1Q112/+ mice are highly seizure prone, validating this model for DRPLA epilepsy. ATN1 represents a novel epilepsy-related risk factor for therapeutic investigation.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 DRPLA 증후군의 마우스 모델을 개발하여, 인공 인지 합성 돌연변이 ATN1을 이용하여 DRPLA 증후군의 발달과 증상에 대한 이해를 높이고, ASO를 이용한 치료 효과를 평가하기 위해 수행되었다. 이 모델은 DRPLA의 진단과 치료에 새로운 접근 방식을 제공할 것으로 기대된다.",
+      "methods": "이 연구에서는 인공 인지 합성 돌연변이 ATN1을 가진 마우스 모델을 사용하여, DRPLA 증후군의 발달과 증상에 대한 이해를 높이고, ASO를 이용한 치료 효과를 평가하였다. 마우스 모델은 인공 인지 합성 돌연변이 ATN1을 가진 Atn1Q112/+ 또는 WT 마우스로 구성되었다. 이들 마우스는 ASO를 이용한 치료 효과를 평가하기 위해, 2주 동안의 임상적 발작 검사, 기계적 균형 평가, 그리고 8주 동안의 생물학적 동영상 전기 생체학 (video-EEG) 기록을 수행하였다.",
+      "quantitative_results": "ASO를 이용한 치료는 인공 인지 합성 돌연변이 ATN1을 가진 마우스의 발작 경로를 정상화하고, 기계적 균형을 개선하며, 생물학적 동영상 전기 생체학 기록에서의 발작을 감소시켰다. 이 결과는 인공 인지 합성 돌연변이 ATN1을 가진 마우스 모델이 DRPLA 증후군의 진단과 치료에 대한 이해를 높이는 데 사용될 수 있음을 입증한다.",
+      "novelty": "이 연구는 인공 인지 합성 돌연변이 ATN1을 가진 마우스 모델을 사용하여 DRPLA 증후군의 발달과 증상에 대한 이해를 높이고, ASO를 이용한 치료 효과를 평가하였다. 이 연구는 기존 연구 대비, DRPLA 증후군의 진단과 치료에 대한 새로운 접근 방식을 제공하는 것을 차별점으로 삼을 수 있다.",
+      "limitations": "이 연구는 인공 인지 합성 돌연변이 ATN1을 가진 마우스 모델을 사용하였으므로, 이 모델이 실제 환자에서의 DRPLA 증후군의 발달과 증상에 대한 이해를 제공하는지에 대한 확인이 필요하다. 또한, 이 연구는 인공 인지 합성 돌연변이 ATN1을 가진 마우스 모델의 생물학적 동영상 전기 생체학 기록에서의 발작 감소 효과를 확인하였으나, 실제 환자에서의 발작 감소 효과는 아직 확인되지 않았다.",
+      "future_research": "이 연구는 인공 인지 합성 돌연변이 ATN1을 가진 마우스 모델을 사용하여 DRPLA 증후군의 진단과 치료에 대한 이해를 높이고, ASO를 이용한 치료 효과를 평가하였다. 이 연구는 후속 연구를 통해 실제 환자에서의 DRPLA 증후군의 진단과 치료에 대한 이해를 제공하는 데 사용될 수 있음을 제안한다."
+    }
+  },
+  {
+    "id": "doi:10.1111/imm.70210",
+    "title": "Neuro-Immune Interactions in the Tumour Microenvironment: Implications for Cancer Progression and Treatment.",
+    "topic": "Immunity",
+    "date": "2026-10-18",
+    "journal": "",
+    "authors": "T Ardah M, Ali Bakr R, Malathi H, Arora V, Priyadarshini Nayak P, Urazbaeva D, Djumaniyazova M, Moxinur S.",
+    "doi": "10.1111/imm.70210",
+    "pmid": "42893818",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42893818/",
+    "abstract": "The nervous and immune systems, once viewed as distinct biological networks, are now understood to be closely linked in regulating cancer development, progression, and responses to therapy. Neural structures infiltrate the tumour microenvironment and communicate with immune cells, influencing key processes such as tumour growth, invasion, and metastatic spread. Through neurotransmitters, neuropeptides, and continuous signalling between peripheral tissues and the brain, nerves affect immune cell recruitment, activity, and overall immune balance. Factors including psychological stress, circadian rhythm disturbances, and gut-brain communication further shape antitumour immune responses, highlighting the complexity of these interactions. Research suggests that neuronal signalling not only contributes to cancer-associated symptoms, such as pain, but also affects the efficacy of chemotherapy, radiotherapy, and immunotherapy. Neural biomarkers may provide prognostic value, while interventions targeting neural pathways could strengthen anticancer immunity. Nevertheless, major challenges remain, including cellular heterogeneity, dynamic spatial and temporal interactions, and the limitations of existing experimental models. Continued progress in molecular techniques, bioinformatics, and cross-disciplinary research will be crucial for clarifying these mechanisms. Investigating the neuro-immune-cancer interface offers significant potential for developing innovative treatment approaches that combine neuroscience, immunology, and oncology to enhance patient survival and quality of life.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 신경계와 면역계가 암 발달, 진행 및 치료 반응에 어떻게 상호 작용하는지에 대한 이해를 높이기 위해 수행됩니다. 이를 통해 암 치료 접근법을 개선하고 암 환자의 생존율과 생활 질을 향상시키는 새로운 치료법을 개발할 수 있을 것입니다.",
+      "methods": "논문에서는 신경계와 면역계의 상호 작용에 대한 실험적 접근을 제안하지 않았습니다. 대신, 신경계와 면역계가 암 발달과 진행에 미치는 영향에 대한 연구 결과를 소개하고 있습니다.",
+      "quantitative_results": "논문에서는 수치나 대조군 비교 결과를 제공하지 않았습니다. 이는 논문의 초록에서 확인할 수 없다는 점을 명시합니다.",
+      "novelty": "논문은 신경계와 면역계가 암 발달과 진행에 미치는 영향에 대한 새로운 이해를 제공하며, 이는 기존 연구와 차별화됩니다. 이는 신경계와 면역계의 복잡한 상호 작용을 이해하고 이를 활용하여 암 치료 접근법을 개선하는 데 도움이 될 것입니다.",
+      "limitations": "논문에서는 신경계와 면역계의 복잡한 상호 작용에 대한 한계를 명시하지 않았습니다. 이는 연구의 한계를 명확히 이해하기 위해 추가 연구가 필요합니다. 또한, 신경계와 면역계의 복잡한 상호 작용을 이해하는 데 필요한 실험 모델의 한계도 명시하지 않았습니다.",
+      "future_research": "후속 연구는 신경계와 면역계의 복잡한 상호 작용을 이해하고 이를 활용하여 암 치료 접근법을 개선하는 데 필요한 연구입니다. 이는 신경계와 면역계의 복잡한 상호 작용을 이해하고 이를 활용하여 암 치료 접근법을 개선하는 데 필요한 연구입니다."
+    }
+  },
+  {
+    "id": "PMC:PMC13675746",
+    "title": "Tumour‐proximal deep serum proteomics identifies biomarkers associated with ovarian cancer",
+    "topic": "Protein",
+    "date": "2026-10-17",
+    "journal": "",
+    "authors": "Lau D, Pincher D, Young C, Chappell N, Lokman N, Mittal P, Donnellan L, Oehler M, Brooks D, Hoffmann P.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13675746",
+    "url": "https://europepmc.org/articles/PMC13675746",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.canlet.2026.218900",
+    "title": "2-Hydroxyisobutyrylation of SRSF9 Regulates CD44 Alternative Splicing to Promote Colorectal Cancer Liver Metastasis.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-17",
+    "journal": "",
+    "authors": "Zhang M, Song J, Yu S, Liu H, Li Z, Nie T, Qi J, He S, Zhang C, Liu X, Yao S, Ni W, Li J.",
+    "doi": "10.1016/j.canlet.2026.218900",
+    "pmid": "42892521",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42892521/",
+    "abstract": "Colorectal cancer liver metastasis (CRLM) remains a major cause of cancer mortality, yet the metabolic mechanisms that remodel metastatic RNA-splicing programs are poorly defined. Here, integrated quantitative proteomics and lysine 2-hydroxyisobutyrylation (Khib) proteomics of patient-matched normal mucosa, primary CRCs, and liver metastases revealed a progressive increase in global Khib, with enrichment on RNA-splicing proteins. Serine/arginine-rich splicing factor 9 (SRSF9) emerged as a Khib-modified splicing factor whose expression and K155 Khib levels increased from normal tissue to primary tumors and liver metastases. Gain and loss of function studies in CRC cell lines, patient-derived organoids, subcutaneous xenografts, and splenic injection liver metastasis models showed that SRSF9 promotes proliferation, invasion, tumor growth, and liver colonization. Mechanistically, K155 Khib stabilized SRSF9 protein; the K155R mutation accelerated degradation and abolished SRSF9-driven malignant phenotypes. KAT7 and SIRT6 act as regulators of Khib modification, which positively and negatively modulate the K155 Khib modification of SRSF9, respectively. SRSF9 bound CD44 pre-mRNA through its RRM1 domain and promoted alternative splicing toward the oncogenic CD44V8-10 isoform, which was elevated in patient tumors and metastases and rescued the impaired proliferation and metastatic capacity caused by SRSF9 loss. Finally, a CD44V8-10-targeting antisense oligonucleotide suppressed CRC growth and liver metastasis in preclinical models. These findings define a KAT7/SIRT6-regulated Khib-SRSF9-CD44V8-10 axis that couples metabolic acylation to metastatic splicing and nominate CD44V8-10 as a therapeutic vulnerability in CRC liver metastasis.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 colorectal cancer liver metastasis (CRLM)의 메타블로시 메커니즘을 이해하고 이를 이용해 치료적 약점을 찾아내기 위한 연구입니다. SRSF9라는 단백질이 CD44의 유전적 변형을 통해 colorectal cancer의 간 전이를 촉진하는 메커니즘을 밝히고, 이를 통해 colorectal cancer의 간 전이를 억제하는 새로운 치료법을 개발하기 위한 연구입니다.",
+      "methods": "이 연구는 질병과 정상 조직 간의 비교를 통해 K155 Khib의 증가를 확인하고, CRC 세포 줄기 세포, 유전체 합성체, 세포 유전체, 그리고 간 전이 모델을 사용하여 SRSF9의 역할을 확인했습니다. 또한, KAT7과 SIRT6의 역할을 조사했습니다.",
+      "quantitative_results": "질병 조직에서 K155 Khib의 수준이 정상 조직보다 높았으며, SRSF9의 K155 Khib 수준도 증가했습니다. SRSF9가 CRC 세포에서의 증식, 전이, 종양 성장, 그리고 간 전이를 촉진하는 것을 보여주었습니다. 또한, SRSF9의 K155R 변형은 SRSF9의 기능을 중단했습니다.",
+      "novelty": "이 연구는 KAT7과 SIRT6가 K155 Khib의 수정을 조절하며, SRSF9가 CD44의 유전적 변형을 통해 colorectal cancer의 간 전이를 촉진하는 메커니즘을 밝히는 것이 새로운 것입니다. 이 연구는 colorectal cancer의 간 전이를 억제하는 새로운 치료법을 제시합니다.",
+      "limitations": "이 연구는 KAT7과 SIRT6의 역할을 조사하고, SRSF9가 CD44의 유전적 변형을 통해 colorectal cancer의 간 전이를 촉진하는 메커니즘을 밝혔습니다. 그러나, 이 연구는 KAT7과 SIRT6의 역할에 대한 추가적인 연구가 필요하며, SRSF9가 CD44의 유전적 변형을 통해 colorectal cancer의 간 전이를 촉진하는 메커니즘에 대한 추가적인 연구가 필요합니다.",
+      "future_research": "이 연구는 KAT7과 SIRT6의 역할에 대한 추가적인 연구를 통해 KAT7/SIRT6-regulated Khib-SRSF9-CD44V8-10 axis의 작동 메커니즘을 더 깊이 이해할 수 있습니다. 또한, SRSF9가 CD44의 유전적 변형을 통해 colorectal cancer의 간 전이를 촉진하는 메커니즘에 대한 추가적인 연구를 통해 colorectal cancer의 간 전이를 억제하는 새로운 치료법을 개발할 수 있습니다."
+    }
+  },
+  {
+    "id": "doi:10.1007/s10555-026-10388-1",
+    "title": "Vascular plasticity in the gastric cancer environment: mechanisms, prognostic significance, and concepts of therapeutic interventions.",
+    "topic": "Drug delivery",
+    "date": "2026-10-17",
+    "journal": "",
+    "authors": "Chmiela M, Jaroniek P, Manzaneque JCR, Balcerczak E, Brzeziński M, Jeleń A, Mani S, Wosiak A, Gonciarz W.",
+    "doi": "10.1007/s10555-026-10388-1",
+    "pmid": "42891752",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42891752/",
+    "abstract": "Gastric cancer (GC) remains a major global health problem because of its aggressive behavior and frequent development of therapeutic resistance. In GC, as in other malignancies, blood vessels are essential for Tumor-cell survival and dissemination, thereby facilitating metastasis to distant organs. As tumors grow, they remodel the surrounding microenvironment, generating hypoxic, acidic, nutrient-poor conditions with elevated interstitial fluid pressure. Reactive oxygen species further support tumor growth, glycolytic metabolism, and neovascularization. Highly aggressive cancer cells can also form endothelial cell-independent vascular-like networks defined as vasculogenic mimicry (VM), which may facilitate access to oxygen and nutrients. Many molecular markers and mechanisms underlying VM in GC remain insufficiently defined, while the presence of VM is associated with aggressive tumor behavior, metastatic potential, therapeutic resistance, and poor prognosis. Therefore, new therapeutic strategies are needed that complement conventional treatment and target the heterogeneous vascular compartments of GC. Nanomedicine may contribute to this goal by improving targeted drug delivery, local drug concentration, bioavailability, and controlled release while reducing systemic adverse effects.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "PMC:PMC13662915",
     "title": "Innate immunity-stroma crosstalk in pancreatic cancer: overcoming spatial and metabolic barriers to immunotherapy",
     "topic": "Immunity",
@@ -72,6 +180,28 @@
     }
   },
   {
+    "id": "doi:10.1186/s43046-026-00418-y",
+    "title": "Cancer nanomedicine and RNA/Lipid nanoparticle platforms in oncology: developmental evolution, translational barriers, and precision-therapy opportunities.",
+    "topic": "Drug delivery",
+    "date": "2026-10-16",
+    "journal": "",
+    "authors": "Sambar B, Dudam AK.",
+    "doi": "10.1186/s43046-026-00418-y",
+    "pmid": "42886329",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42886329/",
+    "abstract": "Nanomedicine has become an important translational platform in oncology by enabling altered pharmacokinetics, controlled exposure, reduced systemic toxicity, intracellular delivery of nucleic acids, and improved handling of complex therapeutic payloads. Early cancer nanomedicines, including pegylated liposomal cytotoxics and albumin-bound drug products, demonstrated that nanoscale formulation design could improve the clinical utility of established anticancer agents. More recently, lipid nanoparticles, RNA therapeutics, individualized neoantigen vaccines, gene-regulatory approaches, and immune-modulating delivery systems have expanded the role of nanoparticles from passive drug carriers to programmable oncology platforms. This narrative review examines the developmental evolution of cancer-focused pharmaceutical nanoparticles, with emphasis on liposomes, lipid nanoparticles (LNPs), albumin-bound systems, polymeric particles, polymeric micelles, nanocrystals, nanoemulsions, solid lipid nanoparticles, inorganic particles, extracellular vesicles, and hybrid delivery technologies. Each platform class is treated systematically, covering representative approved products, formulation characteristics, route of administration, clinical evidence, and the specific development risks that limit it. There view connects platform design with oncology-specific barriers, including tumor heterogeneity, variable enhanced permeability and retention (EPR) effects, dense extracellular matrix, abnormal tumor vasculature, mononuclear phagocyte clearance, protein-corona formation, endosomal escape, immune activation, and the difficulty of translating animal tumor models into clinical benefit. These barriers are organized as a sequential delivery cascade, and the behavior of each platform class is compared step by step rather than described as a set of universal phenomena. Nanoparticle candidates that accumulated well in preclinical tumors but failed in clinical trials are examined alongside approved products, because the contrast between the two is where most of the transferable lessons sit. A product-development perspective is used to discuss critical quality attributes (CQAs), manufacturing scalability, potency testing, sterility strategy, stability, release methods, regulatory expectations, commercial feasibility, and clinical differentiation. A development-to-translation framework is proposed for comparing cancer nanomedicine platforms across formulation maturity, analytical maturity, manufacturing maturity, biological rationale, clinical evidence, regulatory readiness, and commercial feasibility; regulatory and commercial maturity are scored separately, the criteria behind each level are defined explicitly, and the resulting rankings are presented as a heuristic aid to discussion rather than a validated quantitative metric. Future progress in oncology nanomedicine will depend not only on novel materials or targeting claims, but also on disciplined product design, biologically meaningful potency assays, scalable manufacturing, patient-selection strategies, and clear integration with precision oncology.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암 치료용 단백질, 핵산, 면역학, 약물 전달 분야의 연구를 분석하고, 암 치료용 단백질, 핵산, 면역학, 약물 전달 플랫폼의 발전적 진화, 전이성 장벽, 정밀 치료 기회를 다룹니다. 이를 통해 암 치료용 단백질, 핵산, 면역학, 약물 전달 플랫폼의 발전을 이해하고, 이를 통해 암 치료에 대한 새로운 접근법을 제시합니다.",
+      "methods": "논문은 암 치료용 단백질, 핵산, 면역학, 약물 전달 플랫폼의 발전적 진화를 분석하고, 각 플랫폼의 특성, 전이성 장벽, 정밀 치료 기회를 다룹니다. 또한, 플랫폼 설계와 암 치료에 대한 특정 장벽을 이해하고, 플랫폼 간의 비교를 통해 전이성 교육을 제공합니다.",
+      "quantitative_results": "논문에서는 수치나 대조군 비교 결과를 제공하지 않습니다. 하지만, 플랫폼 설계와 암 치료에 대한 특정 장벽을 이해하고, 플랫폼 간의 비교를 통해 전이성 교육을 제공합니다.",
+      "novelty": "이 논문은 암 치료용 단백질, 핵산, 면역학, 약물 전달 플랫폼의 발전적 진화를 분석하고, 각 플랫폼의 특성, 전이성 장벽, 정밀 치료 기회를 다룹니다. 이는 기존 연구와 차별점이 있습니다.",
+      "limitations": "논문은 확인할 수 없는 사항을 명시하지 않습니다. 하지만, 플랫폼 설계와 암 치료에 대한 특정 장벽을 이해하고, 플랫폼 간의 비교를 통해 전이성 교육을 제공합니다.",
+      "future_research": "후속 연구는 암 치료용 단백질, 핵산, 면역학, 약물 전달 플랫폼의 발전을 이해하고, 이를 통해 암 치료에 대한 새로운 접근법을 제시하는 것을 제안합니다."
+    }
+  },
+  {
     "id": "doi:10.64898/2026.10.09.757591",
     "title": "Neonatal Delivery of Exon Skipping Therapeutics Maximizes Brain Dystrophin Rescue in the Mdx52 Mouse Model of Duchenne Muscular Dystrophy",
     "topic": "Nucleic acids",
@@ -92,6 +222,104 @@
       "limitations": "ASO의 한정된 지속성을 이용하여 엑손 51 스퍼싱과 지구단백질 복원이 진행성으로 사라졌습니다. scAAV9-U7-Ex51는 뇌 전체에서 지구단백질 복원이 이루어졌지만, 아직은 뇌의 특정 부분에서 복원이 이루어지지 않았습니다. 또한, 이 연구는 신생아 시기에만 시도되었으며, 다른 나이대의 환자들에게는 어떻게 작동할지에 대한 정보는 아직 확인되지 않았습니다.",
       "future_research": "후속 연구는 scAAV9-U7-Ex51가 다른 나이대의 환자들에게도 효과적인지, 그리고 scAAV9-U7-Ex51가 다른 엑손을 스퍼싱하여 다른 질병의 병리학을 해결할 수 있는지에 대한 연구가 필요합니다."
     }
+  },
+  {
+    "id": "doi:10.1002/pmic.70194",
+    "title": "Meet the Editorial Team. An Interview With Eva Cuypers, Associate Editor, Proteomics and Proteomics Clinical Applications, Maastricht University, Maastricht, Netherlands.",
+    "topic": "Protein",
+    "date": "2026-10-15",
+    "journal": "",
+    "authors": "",
+    "doi": "10.1002/pmic.70194",
+    "pmid": "42878104",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42878104/",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/pmic.70193",
+    "title": "Meet the Editorial Team. An Interview With Laura Elo, Associate Editor, Proteomics and Proteomics Clinical Applications, University of Turku, Turku, Finland.",
+    "topic": "Protein",
+    "date": "2026-10-15",
+    "journal": "",
+    "authors": "",
+    "doi": "10.1002/pmic.70193",
+    "pmid": "42878100",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42878100/",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/pmic.70192",
+    "title": "Meet the Editorial Team. An Interview with Aleksandra Nita-Lazar, Associate Editor, Proteomics and Proteomics Clinical Applications, NIH, Bethesda, MD, USA.",
+    "topic": "Protein",
+    "date": "2026-10-15",
+    "journal": "",
+    "authors": "",
+    "doi": "10.1002/pmic.70192",
+    "pmid": "42878098",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42878098/",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1183/13993003.00866-2026",
+    "title": "A phase 2a study with SPL84: A novel RNA-targeted approach to restore CFTR function in people with CF carrying the 3849+10 kb C→T mutation.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-15",
+    "journal": "",
+    "authors": "Cofta S, Springer D, Malakauskas K, Kalinauskaitė-Žukauskė V, McCoy K, Gramegna A, van der Meer R, Bérešová E, Fernandez AA, Montiel AF, Cagnina R, Mazurek H, Drevinek P, Costa S, Friedman L, Hart G, Cohen A, Ozeri-Galai E, Kerem B, Fiel S, Kerem E, Schwarz C.",
+    "doi": "10.1183/13993003.00866-2026",
+    "pmid": "42880939",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42880939/",
+    "abstract": "Background The 3849+10 kb C→T mutation in the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) gene leads to aberrant splicing and the inclusion of a cryptic exon harboring a premature stop codon, resulting in the production of non-functional CFTR protein. SPL84 is an inhaled antisense oligonucleotide (ASO) designed to correct CFTR splicing and restore functional CFTR expression in people with CF (pwCF) carrying this mutation. Methods This Phase 2a randomized, placebo-controlled, double-blind, multiple ascending dose study evaluated safety, tolerability, pharmacokinetics, and exploratory efficacy of inhaled SPL84 in pwCF carrying the 3849+10 kb C→T mutation. Participants received once-weekly inhalations of SPL84 (25 or 50 mg) or placebo for 9 weeks. Exploratory efficacy measures included changes in ppFEV1, ppFEF25-75, and CFQ-R respiratory symptom score. Results Seventeen participants were included in the analysis, with fifteen completing all treatments. SPL84 was well tolerated with no drug-related serious adverse events. Most adverse events were mild or moderate and consistent with the underlying CF disease. Improvements in lung function, defined as change from baseline in ppFEV1≥5, were observed in up to 70% of the treated participants per cohort, accompanied by improvement of additional efficacy outcomes. Conclusions Inhaled SPL84 demonstrated a favorable safety profile together with encouraging signals of clinical benefit in pwCF carrying the 3849+10 kb C→T mutation. These findings represent, to our knowledge, the first evidence of potential clinical benefit from a nucleic acid-based therapy targeting RNA in a pulmonary disease, supporting further evaluation of SPL84 as a mutation-specific, RNA-targeted treatment.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.amjmed.2026.10.005",
+    "title": "Pelacarsen and Lp(a)HORIZON: Interpreting the Disconnect Between Lipoprotein(a) Lowering and Cardiovascular Outcomes.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-15",
+    "journal": "",
+    "authors": "Sabouret P, Giamundo DM, Asher E, De Rosa S, Andò G, Gragnano F, Blumenthal RS, Atar D, Mamas MA.",
+    "doi": "10.1016/j.amjmed.2026.10.005",
+    "pmid": "42880684",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42880684/",
+    "abstract": "Lipoprotein(a) [Lp(a)] is a genetically determined causal risk factor for atherosclerotic cardiovascular disease and calcific aortic valve stenosis. Pelacarsen, a hepatocyte-directed antisense oligonucleotide targeting apolipoprotein(a), was evaluated in Lp(a)HORIZON, the first large phase 3 cardiovascular outcomes trial specifically designed to test whether pharmacological Lp(a) lowering reduces cardiovascular events. Topline results announced in September 2026 indicated that pelacarsen lowered Lp(a) but did not reduce the primary composite cardiovascular endpoint in patients with established cardiovascular disease. Full trial data are awaited, and the mechanisms underlying this neutral result remain uncertain. We discuss potential explanations, including treatment after prolonged cumulative Lp(a) exposure, advanced vascular disease, intensive background prevention, the magnitude and duration of Lp(a) suppression, patient selection, baseline cardiovascular risk, and biological heterogeneity. We also examine implications for emerging therapies, including olpasiran, zerlasiran, lepodisiran, and muvalaplin, and for the design of ongoing cardiovascular outcome trials.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1021/acschembio.6c00629",
+    "title": "Lipid Chemistry beyond the Bilayer: Roles for Nonbilayer Lipids in Biology, Disease, and Delivery.",
+    "topic": "Drug delivery",
+    "date": "2026-10-15",
+    "journal": "",
+    "authors": "Milshteyn D, Budin I.",
+    "doi": "10.1021/acschembio.6c00629",
+    "pmid": "42874041",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42874041/",
+    "abstract": "Cell membranes are composed of both bilayer and nonbilayer lipids, whose molecular shape and interactions support or oppose their packing into flat bilayer sheets. While the role of the former in maintaining membrane structural integrity is clear, a growing body of data highlights the importance of nonbilayer lipids in membrane function, including fission and fusion processes in trafficking, and the dynamics of membrane-associated proteins. In this review, we provide a comprehensive overview of nonbilayer lipids and their roles in membrane biology, disease, and drug delivery. First, we introduce the lipid chemistry that gives rise to intrinsic curvature and curvature elastic stress (CES), and we survey the chemical diversity of nonbilayer lipids across organelles and cell types. Second, we discuss relevant methodological advances for characterizing the physicochemical properties of nonbilayer lipids, including X-ray scattering, lipidomics, and molecular dynamics. We then examine how nonbilayer lipids contribute to membrane fusion and fission and how the CES they generate modulates membrane protein localization and function. Next, we consider how the biophysical principles governing nonbilayer lipid behavior can inform the rational design of lipid nanoparticle formulations for therapeutic delivery. Finally, we explore how cells regulate lipid intrinsic curvature as a distinct homeostatic parameter and discuss the implications of its dysregulation in liver disease, neurodegeneration, and mitochondrial dysfunction. We highlight developments in methods spanning the interface between chemistry and biology that can help investigate the function and regulation of nonbilayer lipid chemistry, with far-reaching potential to answer questions in human health, disease, and drug delivery.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1177/08853282261496664",
+    "title": "Spatiotemporal controlled delivery of insulin via supramolecular albumin stearate nanoparticles as a growth factor-mimetic system for soft tissue regeneration.",
+    "topic": "Drug delivery",
+    "date": "2026-10-15",
+    "journal": "",
+    "authors": "Shaji SS, Radhakrishnan R, K P A, Kamalasanan K.",
+    "doi": "10.1177/08853282261496664",
+    "pmid": "42880399",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42880399/",
+    "abstract": "Biomimetic growth factor substitutes (BGFSs) can be designed to reproduce selected properties of growth-factor such as; presentation during tissue regeneration and controlled local availability. In this study, nanoparticles are designed in such a way that, the nanoparticle does gradient temporal delivery for chemotaxis followed by residual insulin in the nanoparticles for spatial presentation leading to a regenerative nanoparticle of insulin as a growth factor substitute. FTIR and NMR analyses supported the association of stearate with albumin. The optimized nanoparticles had an average diameter of 210 nm by DLS and a zeta potential of -35.6 mV. SEM and HRTEM analyses showed nanoscale and submicroscopic structures with elongated and higher-order morphologies, wherein insulin loading is associated with changes in particle organization. The BGFS showed sustained insulin release for up to 240 hours, with approximately 40% of the insulin released during this period, while the remaining insulin was retained within the matrix. The nanoparticles showed low hemolysis (<5%), high cellular viability (74-94%), and physical stability under refrigerated conditions. In a full-thickness wound model in rats, the formulation is associated with improved wound healing response from histology, including collagen deposition and neovascularization, without detectable hypoglycemia. Overall, the insulin-albumin stearate system shows potential as a controlled-release nanomedicine for soft-tissue regeneration and accelerated wound healing.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.64898/2026.10.12.757977",
@@ -127,6 +355,48 @@
     "pmcid": "PMC13662511",
     "url": "https://europepmc.org/articles/PMC13662511",
     "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.ijbiomac.2026.154850",
+    "title": "Zein-based hybrid nanocarriers for non-viral gene delivery: A review.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-14",
+    "journal": "",
+    "authors": "Alsinglawi D, Moursy ES, Kasurka B, Al-Quraishi Z, Ho VGS, Dufès C.",
+    "doi": "10.1016/j.ijbiomac.2026.154850",
+    "pmid": "42874942",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42874942/",
+    "abstract": "Gene therapy and RNA-based therapeutics are increasingly limited by the challenge of delivering fragile, anionic nucleic acids to the correct intracellular compartment. Zein, the principal maize prolamin, has attracted interest as a biodegradable, self-assembling carrier that can protect cargo and be combined with polymeric, lipidic, targeted and biomimetic components. This review critically evaluates zein-based systems for plasmid DNA, siRNA, antisense oligonucleotides and related nucleic-acid cargos. Native zein is best regarded as a protective and sustained-release matrix rather than a stand-alone high-efficiency transfection vector. In contrast, hybrid systems can add nucleic-acid condensation, colloidal stabilization, targeting and intracellular-trafficking functions through components such as chitosan, polyethylenimine, dendritic poly(l-lysine), lipids and targeting ligands. Direct evidence of endosomal escape remains limited, with only one reviewed study providing imaging evidence consistent with improved lysosomal escape. Cargo-specific evidence is strongest for plasmid DNA, with functional proof-of-concept also reported for selected siRNA and antisense oligonucleotide systems, whereas robust mRNA translation and CRISPR genome editing have not yet been demonstrated with zein-based carriers. The translational rationale for zein lies not in superior intrinsic transfection efficiency, but in route-specific protection, sustained release, hydrophobic drug co-loading and use as a biodegradable scaffold within multifunctional hybrids. Zein-based gene delivery remains preclinical and requires stronger mechanistic, cargo-specific and route-specific validation.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1038/s41590-026-02685-2",
+    "title": "Compartment-specific PPARδ activity controls the outcome of cancer-immune cell competition and immunotherapy efficacy.",
+    "topic": "Immunity",
+    "date": "2026-10-14",
+    "journal": "",
+    "authors": "Bunk P, Ergin I, Maher T, Shah V, Bonney JR, Kumar LBSS, Chung C, Wellhausen N, Moresco P, Shao S, Habel J, Mandati V, Rubino R, Rivadeneira DE, Wilkinson JE, Herrero L, Westcott PMK, Weinberg SE, Gill SI, Agar NYR, Beyaz S.",
+    "doi": "10.1038/s41590-026-02685-2",
+    "pmid": "42875546",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42875546/",
+    "abstract": "Most patients with solid tumors fail to sustain antitumor immunity, in part because immune cells cannot outcompete cancer cells inside the immunosuppressive tumor microenvironment. Here, we show the lipid-sensing transcription factor PPARδ is a compartment-specific determinant of cancer-immune fitness balance and immunotherapy efficacy. Activating PPARδ in cancer cells promotes their growth and impairs antitumor immunity, whereas activating it in immune cells drives tumor suppression and overrides tumor-promoting effects of cancer-intrinsic activation. Mechanistically, PPARδ enhances CD8 + T cell fitness against cancer through effector-associated chromatin remodeling and Cpt1a-mediated fatty acid oxidation. Therapeutically, PPARδ-activated CD8 + T cells sensitize immunotherapy-resistant microsatellite stable metastatic colorectal cancer to checkpoint blockade in mice, and pharmacological or genetic PPARδ activation enhances human chimeric antigen receptor T cell function. These findings identify compartment-specific PPARδ activity as a targetable driver of immune cell fitness that can be harnessed to improve outcomes in immunotherapy-resistant tumors.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1093/neuonc/noag168",
+    "title": "Hijacking Developmental Immunity: Inflammation and Immune Dysregulation in Pediatric Brain Tumors.",
+    "topic": "Immunity",
+    "date": "2026-10-14",
+    "journal": "",
+    "authors": "Roy R, Kerl K.",
+    "doi": "10.1093/neuonc/noag168",
+    "pmid": "42872492",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42872492/",
+    "abstract": "Pediatric brain tumors (PBTs) remain a leading cause of cancer-related mortality in children, underscoring the need for more effective therapeutic strategies. These tumors arise from disrupted neurodevelopmental programs and evolve within a developmentally constrained immune landscape that is tolerogenic, epigenetically plastic, and susceptible to tumor-mediated co-option. Increasing evidence indicates that, besides molecular heterogeneity, the tumor immune microenvironment critically influences clinical outcomes. Despite its therapeutic promise, immunotherapy has yet to demonstrate consistent clinical benefit in most PBTs, highlighting the need for rational multimodal strategies guided by deeper understanding of tumor-immune interactions in the developing brain. To provide a comprehensive perspective on fetal immune ontogeny and its tumor-driven dysregulation we used medulloblastoma, pediatric gliomas, atypical teratoid/rhabdoid tumors, and ependymoma as representative entities. Drawing on insights from developmental neurobiology, tumor immunology, and emerging multi-omic studies, we outline how PBTs exploit physiological immune maturation programs to establish immune evasion, sustain chronic inflammation, and promote therapy resistance. We further discuss emerging multimodal immunotherapeutic strategies and next-generation CAR T-cell approaches currently under clinical investigation. In addition, we highlight therapeutic avenues such as targeting tumor-associated myeloid populations and key inflammatory regulators that may offer promising opportunities for future clinical translation. We believe this Review will help address current limitations in preclinical models, improve patient stratification and guide rational design of therapeutic strategies.",
     "summary": "초록 기반 요약"
   },
   {
@@ -186,6 +456,34 @@
     }
   },
   {
+    "id": "doi:10.1039/d6cc03557d",
+    "title": "Melanin-like nanoparticles for nanomedicine and drug delivery.",
+    "topic": "Drug delivery",
+    "date": "2026-10-13",
+    "journal": "",
+    "authors": "Mordini D, Pane A, Vicenzi S, Mattioli C, Menichetti A, Montalti M.",
+    "doi": "10.1039/d6cc03557d",
+    "pmid": "42866985",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42866985/",
+    "abstract": "Melanin plays important roles in coloration and photoprotection in living organisms. Because of its intrinsic biocompatibility, melanin and its biomimetic replicates find important applications in nanomedicine. Thanks to their unique optical and electronic properties, melanin-based materials could be used for both diagnostics and therapeutics. Modes of detection include photoacoustic imaging (PAI) and magnetic resonance imaging (MRI). Therapeutic activities include photothermal therapy (PTT), antioxidant (AOX) therapy, and drug delivery. In this review paper, we summarize and discuss the most recent applications of melanin-like nanoparticles (NPs) as multifunctional agents in nanomedicine and drug delivery. Although most of these applications involve the most popular biomimetic form of melanin, polydopamine (PDA, resulting from the oxidative polymerization of dopamine), in the last part of the review, we show that alternative forms of melanin are becoming more and more important for nanomedicine.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.xcrm.2026.103111",
+    "title": "Orally delivered metabolically reprogrammed probiotics for cascade-activated antitumor immunity in colorectal cancer.",
+    "topic": "Immunity",
+    "date": "2026-10-12",
+    "journal": "",
+    "authors": "Wang L, Chen Y, Shang Y, Liu J, Zhao M, Jin L, Shi Y, Zhang R, Chen Z, Yin T, Qiao C, Wang Z.",
+    "doi": "10.1016/j.xcrm.2026.103111",
+    "pmid": "42863469",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42863469/",
+    "abstract": "Immunotherapy for colorectal cancer (CRC) remains limited due to the inherently low tumor immunogenicity and the profoundly immunosuppressive tumor microenvironment (TME). Herein, capitalizing on the metabolic traits and anatomical accessibility of CRC, we propose a broadly applicable oral strategy based on metabolically engineered bacteria (EcN-HlpA-CGL [EHC]) for CRC immunotherapy. Mechanistically, cystathionine γ-lyase expressed by EHC disrupts redox homeostasis, triggering ferroptosis in CRC cells and thereby enhancing tumor immunogenicity. Concurrently, the intrinsic adjuvant activity of the bacteria amplifies the cancer-immunity cycle driven by immunogenic cell death and remodels the immunosuppressive TME. In vivo studies demonstrate that this orally delivered engineered bacterial platform not only suppresses the growth of orthotopic CRC tumors but also inhibits metastatic progression, indicating the induction of a potent systemic immune response. Immune profiling confirms robust systemic and gut mucosal immune activation following oral administration. Collectively, this oral metabolically engineered bacterial platform is precisely tailored to the features of CRC and offers a safe and effective immunotherapeutic strategy for this malignancy.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.64898/2026.10.09.758133",
     "title": "Chain of Structures: Connecting Reasoning and Generation for Protein Design",
     "topic": "Protein",
@@ -206,6 +504,34 @@
       "limitations": "이 연구에서는 논리적 사고와 생성 사이의 연결성을 확인하기 위한 모델을 제시하였지만, 논리적 사고의 정확성과 생성의 정확성에 대한 구체적인 데이터는 제공되지 않았습니다. 또한, 이 모델이 실제 단백질 설계 과정에서 어떻게 작동하는지에 대한 구체적인 데이터도 제공되지 않았습니다.",
       "future_research": "이후 연구에서는 'Chain of Structures' 모델이 실제 단백질 설계 과정에서 어떻게 작동하는지에 대한 더 구체적인 데이터를 제공하는 연구가 필요합니다. 또한, 논리적 사고와 생성 사이의 연결성을 더욱 강화하기 위한 새로운 접근법을 제시하는 연구도 필요할 것입니다."
     }
+  },
+  {
+    "id": "doi:10.1080/08982104.2026.2742362",
+    "title": "Critical factors influencing the precise ultrasound-mediated production of lipid nanoparticles.",
+    "topic": "Drug delivery",
+    "date": "2026-10-11",
+    "journal": "",
+    "authors": "Sánchez-Vega C, Barnadas-Rodríguez R.",
+    "doi": "10.1080/08982104.2026.2742362",
+    "pmid": "42859867",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42859867/",
+    "abstract": "Due to their characteristics, sonicators are widely used in the pharmaceutical and food industries for the preparation of stable suspensions and oil-in-water emulsions. Ultrasound-assisted processing enables the production of lipid nanoparticles, which are of considerable interest as drug delivery systems. However, despite their widespread use, the influence of the numerous parameters governing ultrasound-mediated lipid nanoparticle formation remains insufficiently characterized. In this study, a systematic and comprehensive investigation was conducted to evaluate the effects of key experimental variables on the size distribution of lipid nanoparticles produced via microprobe sonication. Liposomes composed of a natural phospholipid were employed as model systems. Instrument-related parameters, including nominal and effective power, treatment time, and probe positioning, were examined alongside sample characteristics such as temperature, lipid concentration, dispersion volume, and lipid composition. In parallel, the extent of phospholipid degradation induced by sonication was assessed in relation to the formation of reactive species during cavitation. The results provide quantitative relationships describing particle size evolution as a function of the most relevant factors and suggest that sonication exhibits a behavior analogous to that of a continuous stirred-tank reactor and high-pressure homogenizers. They also indicate that, under the studied conditions, phospholipids remain chemically unaltered. Overall, the aim of this work is to develop a coherent predictive framework for ultrasound-mediated lipid nanoparticle synthesis and to offer practical guidance for process optimization. The proposed framework is expected to be broadly applicable to related colloidal systems, including emulsions and suspensions, in pharmaceutical and food applications across both academic and industrial settings.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/advs.78242",
+    "title": "A Dual-Delivery System Designed to Overcome EV-Mediated Ferroptosis Resistance for Efficient Solid Tumor Therapy.",
+    "topic": "Drug delivery",
+    "date": "2026-10-11",
+    "journal": "",
+    "authors": "Shen Y, Cao Z, Wang Z, Chen L, Zhang J, Zeng L, Tan B, Li H, Lai J, Lei J, Chen F, Lin P, Shao Z, Wang Z.",
+    "doi": "10.1002/advs.78242",
+    "pmid": "42860607",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42860607/",
+    "abstract": "Tumor-derived extracellular vesicles (EVs) are emerging as critical mediators of metabolic adaptation, yet their role in orchestrating ferroptosis resistance within the tumor microenvironment remains poorly understood. Here, we show that highly malignant osteosarcoma (OS) cells respond to ferroptotic stress by secreting EVs enriched with Alpha-enolase (ENO1). These EVs-ENO1 not only bolster the antioxidant capacity of tumor cells but also confer widespread ferroptosis resistance to macrophages and neutrophils, fostering an immunosuppressive niche. To disrupt this metabolic defense, we developed an OS-targeting lipid nanoparticle (LNP) system for the synergistic delivery of BAP1 mRNA and ENO1 siRNA. We demonstrate that this dual-delivery platform enhances ferroptosis through two complementary regulatory pathways, BAP1/SLC7A11 and ENO1/GPX4, leading to potent lipid peroxidation and tumor cell death. In syngeneic orthotopic and lung metastasis models, these targeted LNPs significantly suppress tumor progression and catalyze anti-tumor immunity by activating M1-type macrophages and cytotoxic T cells. Our findings identify the secretion of EVs-ENO1 as a key reactive mechanism against ferroptosis and provide a translatable nanomedicine strategy to overcome metabolic and epigenetic resistance in solid tumors.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "PMC:PMC13651604",
@@ -241,6 +567,20 @@
       "limitations": "이 연구는 초음파 투과기를 이용한 유전자 유도 분자의 targeted delivery의 효율성을 확인했다. 그러나 이 연구는 초음파 투과기를 이용한 유전자 유도 분자의 targeted delivery의 실제 적용 가능성에 대한 확인은 불가능하다고 명시했다.",
       "future_research": "이 연구는 초음파 투과기를 이용한 유전자 유도 분자의 targeted delivery를 위한 후속 연구를 제안한다. 이는 초음파 투과기를 이용한 유전자 유도 분자의 targeted delivery의 실제 적용 가능성과 효율성을 확인하는 연구가 될 것이다."
     }
+  },
+  {
+    "id": "doi:10.2147/dddt.s629658",
+    "title": "Proteomics in Antitumor Drug Target Discovery, Toxicity, Resistance, and Precision Oncology.",
+    "topic": "Protein",
+    "date": "2026-10-10",
+    "journal": "",
+    "authors": "Zhong Q, Wu X, Wiechec E, Yang Y, Liao M, Zhou H, Gao S, Li Y, Luo S, Xu L.",
+    "doi": "10.2147/dddt.s629658",
+    "pmid": "42877804",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42877804/",
+    "abstract": "Proteomics, the comprehensive study of protein expression, localization, and modifications, has evolved from a fundamental research tool into a key complementary layer to genomics in antitumor drug development and precision oncology. This review highlights its multi-dimensional applications, including differential, chemical, and post-translational modification proteomics, for drug-target discovery and mechanism-of-action elucidation. It further discusses proteomics strategies, such as mass spectrometry-based quantitative approaches, protein microarray and single-cell proteomics, which enable the profiling of adverse drug reactions, the dissection of resistance mechanisms, and the advancement of precision oncology. To date, the translational maturity of these applications is uneven: proteomic biomarkers have entered prospective trials and informed molecular tumor board recommendations in selected Clinical Laboratory Improvement Amendments (CLIA) certified settings, whereas de novo proteomics-derived drug targets remain largely at the preclinical stage. By bridging basic research and clinical practice, proteomics provides a scientific framework that facilitates drug development and informs clinical translation.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "PMC:PMC13646910",
@@ -803,6 +1143,20 @@
     "summary": "초록 기반 요약"
   },
   {
+    "id": "doi:10.1016/j.biomaterials.2026.124680",
+    "title": "Chemically tailored lipids mediate solid-phase RNA programming of mineralized microenvironments.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-06",
+    "journal": "",
+    "authors": "Liu J, Chen Q, Thussananutiyakul J, Yoon IC, Makkar H, Zhang S, Chen YC, Li Y, Xu J, Xue L, Zhang K, Kim S, Zhang S, Luo Y, Chen K, Mitchell M, Chen C, Vining K.",
+    "doi": "10.1016/j.biomaterials.2026.124680",
+    "pmid": "42868838",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42868838/",
+    "abstract": "The localized delivery of RNA therapeutics to mineralized tissue interfaces is limited by poor retention and rapid clearance at the target site. We report the development of a solid-phase transfection platform that functionalizes mineralized surfaces into bioactive nucleic acid reservoirs. Through the rational design and screening of a library of 21 piperazine-linked bisphosphonate ionizable lipids, we identified a lead formulation of bisphosphonate lipid nanoparticle (BP-LNP) that maximizes hydroxyapatite affinity without compromising transfection potency. Upon adsorption onto mineral substrates, these BP-LNPs resisted fluid removal and maintained surface-mediated, sustained delivery of encapsulated RNA cargo to adjacent cells. We demonstrated the versatility of this Mineralized Tissue-Targeting Expression System (MiTEX) composed of BP-LNPs in two therapeutic contexts: Cre recombinase mRNA-functionalized allogeneic bone grafts to genetically label de novo bone formation in vivo, and STAT3 siRNA delivery to reduce inflammation in human gingival explants. This platform provides a universal strategy for transforming inert calcium phosphate materials and tissues into locally bioactive RNA delivery systems for regenerative and immunomodulatory applications.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "PMC:PMC13652719",
     "title": "Identifying Differentially Expressed Proteins via Plasma Exosomal Proteomics",
     "topic": "Protein",
@@ -856,6 +1210,20 @@
       "limitations": "이 연구는 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다. 이 연구는 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다. 이 연구는 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다.",
       "future_research": "후속 연구는 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다. 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가하기 위해 임상 전임 시험 단계에서의 잠재적인 투자 가능성을 평가합니다."
     }
+  },
+  {
+    "id": "doi:10.3390/nano16191256",
+    "title": "From Nature to Medicine: Overcoming the Limitations of Herbal Therapeutics for Pancreatic Cancer Treatment Based on Nanotechnology.",
+    "topic": "Drug delivery",
+    "date": "2026-10-04",
+    "journal": "",
+    "authors": "Muteeb G, Basem Y, Kotb AA, Magdy NT, Alghuwainem GY, Aatif M, Farhan M, Khafaga DSR.",
+    "doi": "10.3390/nano16191256",
+    "pmid": "42873039",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873039/",
+    "abstract": "Pancreatic ductal adenocarcinoma (PDAC) remains one of the most lethal malignancies worldwide due to late-stage diagnosis, aggressive progression, and limited therapeutic responsiveness. Although herbal-derived bioactive compounds have demonstrated promising anticancer potential, their clinical application is often restricted by poor aqueous solubility, low bioavailability, rapid metabolic degradation, and insufficient tumor targeting. Nanomedicine has emerged as a promising platform to overcome these limitations through enhanced drug delivery, improved pharmacokinetics, and controlled release capabilities. In recent years, the integration of green nanotechnology with herbal therapeutics has gained increasing attention as a sustainable and biocompatible strategy for PDAC management. Green synthesis approaches utilizing plant extracts, microbial systems, and biopolymers provide environmentally friendly alternatives to conventional physicochemical nanoparticle (NP) fabrication methods while simultaneously enhancing biological functionality. This review aims to explore green nanotechnology-based strategies for improving the therapeutic potential of herbal-derived bioactive compounds in PDAC, with particular emphasis on nanoformulation approaches that enhance solubility, bioavailability, tumor targeting, and anticancer efficacy. In addition, the review discusses the advantages of green synthesis approaches, NP characterization strategies, translational barriers, biosafety considerations, and current clinical challenges. Overall, this review highlights the growing potential of green nanomedicine to improve herbal-based therapeutic strategies against PDAC while emphasizing the key obstacles that must be addressed to facilitate successful clinical translation.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1016/j.jconrel.2026.115431",
@@ -979,6 +1347,20 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42841037/",
     "abstract": "The clinical translation of cancer nanomedicine remains constrained by inefficient intracellular delivery, poor subcellular specificity, and limited tumor accumulation, highlighting the need for more precise drug delivery strategies. Organelle-targeted nanocarriers have emerged as a promising platform for enhancing therapeutic efficacy by directing drugs to specific intracellular compartments, including the nucleus, mitochondria, lysosomes, and endoplasmic reticulum. However, the design principles governing efficient organelle-specific delivery and the barriers limiting clinical translation remain incompletely understood. This review provides a mechanistic framework linking nanoparticle physicochemical properties-including size, surface charge, ligand functionalization, and stimuli responsiveness to intracellular trafficking, organelle targeting, and therapeutic performance. We critically discuss the biological barriers encountered during delivery, including cellular uptake, endosomal escape, cytosolic transport, and organelle membrane penetration, together with current engineering strategies to overcome these challenges. Organelle-specific targeting approaches are comparatively evaluated to highlight their therapeutic advantages, limitations, and suitable clinical applications. Beyond summarizing recent advances, this review examines the major translational hurdles that impede clinical implementation, including non-specific biodistribution, manufacturing scalability, regulatory challenges, and the lack of standardized preclinical evaluation models. Emerging solutions such as hierarchical targeting, charge-reversal systems, size-transformable nanocarriers, and multifunctional theranostic platforms are discussed as strategies to improve clinical feasibility. Finally, we propose practical design guidelines and future research priorities that integrate nanomaterial engineering, predictive biological models, and scalable manufacturing to facilitate the development of clinically translatable organelle-targeted nanomedicines.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.2174/0115672026454704261001071449",
+    "title": "Crossing the Blood-brain Barrier: Emerging Nanotechnological Approaches for Neurodegenerative Disease Therapy.",
+    "topic": "Drug delivery",
+    "date": "2026-10-02",
+    "journal": "",
+    "authors": "Alpana, Dewangan HK.",
+    "doi": "10.2174/0115672026454704261001071449",
+    "pmid": "42861801",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42861801/",
+    "abstract": "Neurodegenerative disorders such as Parkinson's Disease (PD), Alzheimer's Disease (AD), Amyotrophic Lateral Sclerosis (ALS), and Huntington's Disease (HD) are characterized by progressive neuronal degeneration and severe therapeutic limitations due to the Blood-Brain Barrier (BBB). Recent advances in nanotechnology have enabled the development of nanoscale drug delivery systems capable of improving BBB penetration and enhancing therapeutic efficacy. This review discusses recent progress in Lipid Nanoparticles (LNPs), polymeric nanoparticles, exosomes, magnetic nanoparticles, gold nanoparticles, graphene quantum dots, and RNAloaded nanocarriers for brain-targeted delivery. Special emphasis is placed on receptor-mediated transcytosis, intranasal delivery, magnetic targeting, and ionizable lipid nanoparticle systems for nucleic acid delivery. Recent nanoformulations including curcumin-loaded nanoparticles, siRNA- loaded lipid nanoparticles, dopamine-loaded liposomes, and lactoferrin-functionalized polymeric nanoparticles are critically compared based on BBB penetration, therapeutic efficacy, toxicity, and translational potential. Furthermore, current clinical challenges including nanotoxicity, pharmacokinetics, large-scale manufacturing, and regulatory barriers are discussed. Nanotechnology- based therapeutics represent a promising strategy for improving diagnosis and treatment of neurodegenerative disorders and may facilitate the future development of precision nanomedicine.",
     "summary": "초록 기반 요약"
   },
   {
@@ -1412,6 +1794,34 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42836272/",
     "abstract": "The p38γ and p38δ mitogen-activated protein kinases (MAPKs) are members of the p38 family that have emerged as important regulators of inflammatory signaling. Initially considered minor or alternative isoforms, accumulating evidence has revealed distinct and overlapping functions for p38γ and p38δ in innate immunity, tissue homeostasis, inflammatory disease, and cancer. These kinases regulate immune responses through diverse mechanisms controlling cytokine production, gene expression, immune-cell activation, and migration. In addition, recent studies suggest that some functions of p38γ and p38δ may occur independently of their catalytic activity, highlighting the complexity of their biological roles. The present review summarizes current knowledge of the molecular features, substrates, immune cell functions, and disease associations of p38γ and p38δ and discusses their potential as therapeutic targets while addressing the challenges associated with their pharmacological modulation.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/jssc.70555",
+    "title": "Affinity Chromatography With Selective Nucleic Acid Hybridization: Direct Coupling With Size Exclusion Chromatography.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Gilar M, Racioppo B, Muriithi B, Wyndham K.",
+    "doi": "10.1002/jssc.70555",
+    "pmid": "42888955",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888955/",
+    "abstract": "Affinity liquid chromatography (aLC) with immobilized oligonucleotides provides high selectivity for nucleic acid targets through on-column hybridization. We describe the preparation and evaluation of prototype 2.1 mm × 20 mm affinity columns packed with a 3.5 µm nonporous polystyrene/divinylbenzene sorbent covalently modified with streptavidin. Two different affinity columns were prepared by immobilizing biotinylated oligonucleotides on-column via biotin-streptavidin bond: (i) biotinylated 25-nt oligodeoxythymidine, dT25 or (ii) biotinylated 21 nt TP53 oligonucleotide. dT25 column was used for poly(A) denylated messenger RNA (mRNA) and adenosine oligonucleotides variants analysis. The TP53 column was applied to single-nucleotide polymorphism analysis. Nucleic acid binding was performed in 0.1 M sodium phosphate buffer (pH 7.4); retained species were eluted with water or 10% acetonitrile solution in water. We demonstrate that dT25 column selectively retains poly(A)-tailed EPO, EGFP, and Cas9 mRNAs, while tailless mRNA is unretained. dT25 column resolved dA14-dA25 oligoadenosine length variants and dA25 variants bearing cytidine substitutions. The TP53 column baseline-separated a fully complementary 21-nt sequence from single-nucleotide mismatches. Direct coupling of the dT25 column with a 250 Å, 1.7 µm size exclusion chromatography (SEC) column enabled improved poly(A) tail sizing after RNase T1 digestion of intact mRNA; mRNA recovery exceeded 98%, and carryover remained below 0.1% after cleanup.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/jssc.70558",
+    "title": "The pH Modifier Moonlighting on the Stationary Phase: HFIP's Unrecognized Role in Oligonucleotide IP-RP Selectivity.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Jones JD, Sorensen MJ, Maloney TD.",
+    "doi": "10.1002/jssc.70558",
+    "pmid": "42888951",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42888951/",
+    "abstract": "Ion-pairing reversed phase (IP-RP) liquid chromatography is the predominant separation mode for characterizing synthetic oligonucleotide therapeutics, offering unique selectivity for small chemical impurities that are difficult to resolve by other techniques. Although not fully understood, the generally accepted mechanism driving retention in IP-RP is a positively charged, hydrophobic alkylamine adsorbing on the stationary phase and the negatively charged oligonucleotide is retained via electrostatic interaction. However, this model does not fully account for the well documented differences in retention and selectivity observed when the mobile phase acid modifier is changed from acetic acid to 1,1,1,3,3,3-hexafluoro-2-propanol (HFIP), suggesting our current mechanistic understanding is incomplete. Here, we perform a systematic evaluation to elucidate how HFIP contributes to IP-RP chromatography for a fully phosphorothioate (PS) modified antisense oligonucleotide. We identified that HFIP interacts directly with C18 stationary phases and has higher retentivity than dibutylamine, providing the first evidence that a mixed mode pseudo-stationary phase comprising both amine and HFIP may exist. We further demonstrate that the protonation state of HFIP affects both alkylamine retentivity and oligonucleotide impurity selectivity. These findings suggest that the IP-RP separation mechanism is more complex than previously appreciated, with HFIP serving as an active, pH-responsive component of the pseudo-stationary phase rather than a passive pH modifier. This mechanistic insight has practical implications for method development, as mobile phase pH near the pKa of HFIP becomes a previously unrecognized parameter for tuning oligonucleotide selectivity.",
     "summary": "초록 기반 요약"
   },
   {
@@ -1970,6 +2380,20 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42835273/",
     "abstract": "Metabolic dysfunction-associated steatotic liver disease (MASLD) is the most prevalent chronic liver disease worldwide. Its progressive inflammatory form, metabolic dysfunction-associated steatohepatitis (MASH), is driven by interacting genetic, metabolic, inflammatory, and fibrogenic processes that complicate therapeutic development. Small interfering RNA (siRNA) is an emerging modality for sequence-specific suppression of genetically supported targets and intracellular proteins that are difficult to modulate with conventional drugs. Chemical modification and liver-directed delivery have improved siRNA stability and hepatic exposure. However, most MASH-directed programs remain preclinical or in early clinical development, and human data have not established consistent histological benefit. Major limitations include delivery to nonparenchymal cells, inefficient endosomal escape, off-target effects, immunogenicity, and uncertain long-term safety. This review critically evaluates target selection, delivery, clinical and preclinical evidence, unsuccessful programs, competing nucleic acid modalities, and combination strategies. The clinical role of siRNA in MASH remains to be established.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.3390/ma19194121",
+    "title": "Zinc Oxide Nanoparticles as Drug Delivery Tools.",
+    "topic": "Drug delivery",
+    "date": "2026-09-26",
+    "journal": "",
+    "authors": "Shirazi AN, Vadlapatla R, Koomer A, Tang K, Parang K.",
+    "doi": "10.3390/ma19194121",
+    "pmid": "42882621",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42882621/",
+    "abstract": "Zinc oxide nanoparticles (ZnO-NPs) have emerged as promising inorganic nanocarriers for drug delivery due to their unique physicochemical properties, pH-responsive biodegradability, high surface area, and intrinsic biological activity. Their dissolution under acidic conditions enables controlled drug release within the tumor microenvironment and intracellular compartments, improving therapeutic selectivity while aiming to reduce off-target exposure. Surface functionalization with polyethylene glycol (PEG), chitosan, hyaluronic acid, and folic acid has further improved nanoparticle stability, prolonged circulation, and promoted receptor-mediated cellular uptake in targeted tissues. Beyond serving as drug carriers, ZnO-NPs exhibit intrinsic anticancer, antimicrobial, and anti-inflammatory activities, primarily through the generation of reactive oxygen species and controlled release of Zn 2+ ions, which can contribute to activity in addition to that of the loaded drug. Despite promising preclinical results, challenges continue to limit clinical translation of ZnO-NP-based drug delivery systems, including reproducible large-scale synthesis, long-term colloidal stability and biosafety, pharmacokinetic behavior, and regulatory requirements. Continued optimization of nanoparticle engineering, functionalization, and in vivo validation is essential for advancing ZnO-NPs toward clinical use. This review summarizes the synthesis methods, physicochemical properties, functionalization strategies, and biomedical applications of ZnO-NPs, and discusses remaining challenges and future clinical perspectives.",
     "summary": "초록 기반 요약"
   },
   {
