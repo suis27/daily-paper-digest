@@ -1,5 +1,27 @@
 [
   {
+    "id": "doi:10.20944/preprints202610.1680.v1",
+    "title": "Resin-Printed Microfluidic Platforms with Validated Geometric Fidelity for Accessible Continuous-Flow Lipid Nanoparticle Synthesis",
+    "topic": "Drug delivery",
+    "date": "2026-10-19",
+    "journal": "",
+    "authors": "Proano S, Wussah C, Wussah C, Zuverza N, Amoako K.",
+    "doi": "10.20944/preprints202610.1680.v1",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.20944/preprints202610.1680.v1",
+    "abstract": "Microfluidic systems enable precise control of fluid transport and nanoscale self-assembly but remain underutilized due to the high cost and complexity of conven-tional microfabrication. Here, we present a low-barrier fabrication and validation workflow for resin-printed microfluidic devices designed for rapid prototyping of na-noparticle synthesis platforms. Using SolidWorks-based design, geometrically distinct Y-shaped and sinusoidal (S-type) microchannels were fabricated via resin-based addi-tive manufacturing and systematically evaluated for dimensional fidelity and hydraulic performance. Measured average channel diameters (196.4 ± 2.4 μm for Y-type and 165.3 ± 3.1 μm for S-type devices) closely matched design specifications with ~5 % deviation. Priming volume measurements confirmed reproducible fluid handling (100 ± 2 μL and 98 ± 3 μL, respectively). Functional validation was performed using continuous-flow mixing of DSPC and DOTAP lipid solutions and water at ethanol: aqueous phase flow rates of 10:14, 10:28, and 10:42 mL/hr. Brightfield microscopy and transmission electron mi-croscopy (TEM) confirmed formation of nanoscale lipid assemblies consistent with mi-crofluidic self-assembly, while larger aggregates were attributed to incomplete mixing under non-optimized flow conditions and pre-filtration state of formulations. This work establishes a rapid, cost-effective, and accessible resin-printed microfluidic platform with validated geometric accuracy and functional capability for nanoparticle synthesis, enabling broader access to microfluidic research in nanomedicine and drug delivery applications.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 리소스가 제한적인 환경에서 효율적인 리소스 사용을 통해 리소스가 비싸고 복잡한 전통적인 미세공정을 대체할 수 있는 리소스 프린팅 미세유동 플랫폼을 개발하고자 함이다.",
+      "methods": "SolidWorks 기반 설계를 사용하여 Y형과 S형 미세 유형의 미세 챔버를 리소스 기반 추가 제조를 통해 제작하고, 챔버의 크기와 유동성 성능을 체계적으로 평가하였다. 또한, 프로동 용량 측정을 통해 유동 처리의 일관성을 확인하였다. 또한, DSPC와 DOTAP 지방산溶液과 수증기의 혼합을 위한 지속적인 유동을 사용하여 실험을 수행하였다.",
+      "quantitative_results": "평균 챔버 직경은 Y형(196.4 ± 2.4 μm)과 S형(165.3 ± 3.1 μm)이 설계 지시를 5% 이내로 충족하였다. 또한, 프로동 용량 측정은 100 ± 2 μL와 98 ± 3 μL로 일관성을 확인하였다.",
+      "novelty": "이 연구는 리소스 프린팅 미세유동 플랫폼을 통해 지방 나노입자 제조에 대한 빠른, 저렴하고 접근 가능한 플랫폼을 제시한다. 이는 미세유동 연구의 확장 및 신약 개발 분야의 응용에 대한 접근성을 향상시킨다.",
+      "limitations": "이 연구는 미세 유형의 챔버 크기와 유동성 성능에 대한 정확한 평가를 제공하지는 못한다. 또한, 실험 조건이 최적화되지 않은 상태에서 생성된 대형聚合물은 미세 유형의 혼합에 대한 미세 유형의 자동화된 조립에 대한 지시를 제공하지 못한다.",
+      "future_research": "후속 연구는 리소스 프린팅 미세유동 플랫폼의 효율성을 향상시키는 새로운 설계와 제조 방법을 개발하는 것이 필요하다. 또한, 미세 유형의 챔버 크기와 유동성 성능에 대한 더 정확한 평가를 위해 실험 조건을 최적화하는 것이 필요하다."
+    }
+  },
+  {
     "id": "doi:10.1002/pmic.70199",
     "title": "Meet the Editorial Team. An Interview With Garry Corthals, Editor-in-Chief, Proteomics and Proteomics Clinical Applications, University of Amsterdam, Amsterdam, Netherlands.",
     "topic": "Protein",
@@ -102,10 +124,18 @@
     "authors": "Chmiela M, Jaroniek P, Manzaneque JCR, Balcerczak E, Brzeziński M, Jeleń A, Mani S, Wosiak A, Gonciarz W.",
     "doi": "10.1007/s10555-026-10388-1",
     "pmid": "42891752",
-    "pmcid": "",
+    "pmcid": "PMC13676513",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42891752/",
     "abstract": "Gastric cancer (GC) remains a major global health problem because of its aggressive behavior and frequent development of therapeutic resistance. In GC, as in other malignancies, blood vessels are essential for Tumor-cell survival and dissemination, thereby facilitating metastasis to distant organs. As tumors grow, they remodel the surrounding microenvironment, generating hypoxic, acidic, nutrient-poor conditions with elevated interstitial fluid pressure. Reactive oxygen species further support tumor growth, glycolytic metabolism, and neovascularization. Highly aggressive cancer cells can also form endothelial cell-independent vascular-like networks defined as vasculogenic mimicry (VM), which may facilitate access to oxygen and nutrients. Many molecular markers and mechanisms underlying VM in GC remain insufficiently defined, while the presence of VM is associated with aggressive tumor behavior, metastatic potential, therapeutic resistance, and poor prognosis. Therefore, new therapeutic strategies are needed that complement conventional treatment and target the heterogeneous vascular compartments of GC. Nanomedicine may contribute to this goal by improving targeted drug delivery, local drug concentration, bioavailability, and controlled release while reducing systemic adverse effects.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 심장암 환경에서 혈관의 유동성에 대해 연구하며, 혈관의 재구성, 분자 표지자, 그리고 치료적 개입에 대한 새로운 전략을 제시하고 있습니다. 심장암은 전 세계적으로 중요한 건강 문제이며, 암세포의 생존과 전이를 돕는 혈관의 역할을 강조하고 있습니다. 또한, 심장암은 혈관을 통해 다른 장기로 전이되는 것을 돕는 혈관 유형의 새로운 네트워크, 즉 벤실럭 비모성(vasculogenic mimicry, VM)을 생성할 수 있습니다. 이 연구는 혈관의 유동성에 대한 새로운 치료 전략을 제시하고, 이를 통해 전통적인 치료법을 보완하고, 심장암의 혈관 구조를 다루는 새로운 접근법을 제시합니다.",
+      "methods": "이 연구는 혈관 유동성에 대한 새로운 치료 전략을 제시하고, 이를 통해 전통적인 치료법을 보완하고, 심장암의 혈관 구조를 다루는 새로운 접근법을 제시합니다. 이 연구는 혈관 유동성에 대한 새로운 치료 전략을 제시하고, 이를 통해 전통적인 치료법을 보완하고, 심장암의 혈관 구조를 다루는 새로운 접근법을 제시합니다. 이 연구는 혈관 유동성에 대한 새로운 치료 전략을 제시하고, 이를 통해 전통적인 치료법을 보완하고, 심장암의 혈관 구조를 다루는 새로운 접근법을 제시합니다.",
+      "quantitative_results": "이 논문에서는 혈관 유동성에 대한 새로운 치료 전략을 제시하고, 이를 통해 전통적인 치료법을 보완하고, 심장암의 혈관 구조를 다루는 새로운 접근법을 제시합니다. 이 연구는 혈관 유동성에 대한 새로운 치료 전략을 제시하고, 이를 통해 전통적인 치료법을 보완하고, 심장암의 혈관 구조를 다루는 새로운 접근법을 제시합니다.",
+      "novelty": "이 논문은 혈관 유동성에 대한 새로운 치료 전략을 제시하고, 이를 통해 전통적인 치료법을 보완하고, 심장암의 혈관 구조를 다루는 새로운 접근법을 제시합니다. 이 연구는 혈관 유동성에 대한 새로운 치료 전략을 제시하고, 이를 통해 전통적인 치료법을 보완하고, 심장암의 혈관 구조를 다루는 새로운 접근법을 제시합니다.",
+      "limitations": "이 논문에서는 혈관 유동성에 대한 새로운 치료 전략을 제시하고, 이를 통해 전통적인 치료법을 보완하고, 심장암의 혈관 구조를 다루는 새로운 접근법을 제시합니다. 이 연구는 혈관 유동성에 대한 새로운 치료 전략을 제시하고, 이를 통해 전통적인 치료법을 보완하고, 심장암의 혈관 구조를 다루는 새로운 접근법을 제시합니다. 이 논문에서는 혈관 유동성에 대한 새로운 치료 전략을 제시하고, 이를 통해 전통적인 치료법을 보완하고, 심장암의 혈관 구조를 다루는 새로운 접근법을 제시합니다.",
+      "future_research": "이 논문은 혈관 유동성에 대한 새로운 치료 전략을 제시하고, 이를 통해 전통적인 치료법을 보완하고, 심장암의 혈관 구조를 다루는 새로운 접근법을 제시합니다. 이 연구는 혈관 유동성에 대한 새로운 치료 전략을 제시하고, 이를 통해 전통적인 치료법을 보완하고, 심장암의 혈관 구조를 다루는 새로운 접근법을 제시합니다."
+    }
   },
   {
     "id": "PMC:PMC13662915",
@@ -277,7 +307,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42880939/",
     "abstract": "Background The 3849+10 kb C→T mutation in the Cystic Fibrosis Transmembrane Conductance Regulator (CFTR) gene leads to aberrant splicing and the inclusion of a cryptic exon harboring a premature stop codon, resulting in the production of non-functional CFTR protein. SPL84 is an inhaled antisense oligonucleotide (ASO) designed to correct CFTR splicing and restore functional CFTR expression in people with CF (pwCF) carrying this mutation. Methods This Phase 2a randomized, placebo-controlled, double-blind, multiple ascending dose study evaluated safety, tolerability, pharmacokinetics, and exploratory efficacy of inhaled SPL84 in pwCF carrying the 3849+10 kb C→T mutation. Participants received once-weekly inhalations of SPL84 (25 or 50 mg) or placebo for 9 weeks. Exploratory efficacy measures included changes in ppFEV1, ppFEF25-75, and CFQ-R respiratory symptom score. Results Seventeen participants were included in the analysis, with fifteen completing all treatments. SPL84 was well tolerated with no drug-related serious adverse events. Most adverse events were mild or moderate and consistent with the underlying CF disease. Improvements in lung function, defined as change from baseline in ppFEV1≥5, were observed in up to 70% of the treated participants per cohort, accompanied by improvement of additional efficacy outcomes. Conclusions Inhaled SPL84 demonstrated a favorable safety profile together with encouraging signals of clinical benefit in pwCF carrying the 3849+10 kb C→T mutation. These findings represent, to our knowledge, the first evidence of potential clinical benefit from a nucleic acid-based therapy targeting RNA in a pulmonary disease, supporting further evaluation of SPL84 as a mutation-specific, RNA-targeted treatment.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "연구는 CFTR 유전자에 대한 3849+10 kb C→Tmutation이 유발하는 CF 환자에서의 CFTR 유전자의 부적절한 스플리딩과 비정상적인 유전자 발현을 치료하기 위한 SPL84의 효과를 평가하는 것을 목표로 합니다.",
+      "methods": "연구는 25mg 또는 50mg의 SPL84를 일주일에 한 번씩吸入한 17명의 환자에게 주사하여 9주 동안 실험을 수행했습니다. 이 연구는 SPL84의 안전성, 흡수성, 생화학적 동작성 및 추가적인 효능 결과를 평가했습니다.",
+      "quantitative_results": "SPL84는 안전하며, 모든 환자 중 약 70%가 이상의 ppFEV1 증가를 보였습니다. 이는 CF 환자의 증상 개선을 나타냅니다.",
+      "novelty": "이 연구는 RNA를 표적으로 한 분자 치료법이 폐 질환에서 잠재적인 임상적 이점을 가질 수 있음을 입증하는 첫 번째 연구입니다. 이는 SPL84가 특정 유전자를 표적으로 한 RNA 표적 치료법으로의 평가를 지원합니다.",
+      "limitations": "초록에서 보고된 결과는 SPL84의 안전성과 효과를 평가하는 데에 제한이 있습니다. 추가적인 연구가 필요합니다.",
+      "future_research": "SPL84의 안전성과 효과를 더 깊이 이해하기 위해, SPL84가 특정 유전자를 표적으로 한 RNA 표적 치료법으로의 평가를 계속하고, 다른 유전자 유전자의 경우에도 이러한 치료법의 잠재적인 임상적 이점을 확인하기 위한 후속 연구를 수행할 필요가 있습니다."
+    }
   },
   {
     "id": "doi:10.1016/j.amjmed.2026.10.005",
@@ -291,7 +329,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42880684/",
     "abstract": "Lipoprotein(a) [Lp(a)] is a genetically determined causal risk factor for atherosclerotic cardiovascular disease and calcific aortic valve stenosis. Pelacarsen, a hepatocyte-directed antisense oligonucleotide targeting apolipoprotein(a), was evaluated in Lp(a)HORIZON, the first large phase 3 cardiovascular outcomes trial specifically designed to test whether pharmacological Lp(a) lowering reduces cardiovascular events. Topline results announced in September 2026 indicated that pelacarsen lowered Lp(a) but did not reduce the primary composite cardiovascular endpoint in patients with established cardiovascular disease. Full trial data are awaited, and the mechanisms underlying this neutral result remain uncertain. We discuss potential explanations, including treatment after prolonged cumulative Lp(a) exposure, advanced vascular disease, intensive background prevention, the magnitude and duration of Lp(a) suppression, patient selection, baseline cardiovascular risk, and biological heterogeneity. We also examine implications for emerging therapies, including olpasiran, zerlasiran, lepodisiran, and muvalaplin, and for the design of ongoing cardiovascular outcome trials.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "Pelacarsen은 Lp(a) 수치를 낮추는 데 성공했지만, 이를 통해 심혈관 사건을 줄이는 데 실패했다는 결과를 분석하고, 이를 설명하고 앞으로의 연구를 제안한다.",
+      "methods": "Pelacarsen은 간세포를 지향하는 아나스엔즈 오리노클로이드 돌연변이를 사용하여 Apolipoprotein(a)를 치료한다. Lp(a)HORIZON은 Lp(a) 수치를 낮추는 치료법이 심혈관 사건을 줄이는 데 효과적인지 검증하는 첫 번째 큰 3단계 심혈관 사건 결과 시험이다.",
+      "quantitative_results": "Pelacarsen은 Lp(a) 수치를 낮추는 데 성공했지만, 심혈관 사건을 줄이는 데 실패했다. 전체 시험 데이터는 아직 확인되지 않았으며, 이 결과를 설명하기 위한 다양한 가능한 해석이 제시되었다.",
+      "novelty": "Pelacarsen은 Lp(a) 수치를 낮추는 데 성공했지만, 이에 따른 심혈관 사건 감소 효과가 없는 결과를 보여준다. 이는 Lp(a) 수치를 낮추는 치료법이 심혈관 질환을 예방하는 데 효과적인지에 대한 의문을 제기한다.",
+      "limitations": "저자는 Pelacarsen의 효과가 Lp(a) 수치를 얼마나 많이 낮추는지, 그리고 이에 따른 심혈관 사건 감소 효과가 얼마나 큰지에 대한 정보를 제공하지 않았다. 또한, Lp(a) 수치를 낮추는 치료법이 심혈관 질환을 예방하는 데 효과적인지에 대한 확실한 증거가 아직 존재하지 않다.",
+      "future_research": "후속 연구는 Pelacarsen과 같은 Lp(a) 수치를 낮추는 치료법이 심혈관 질환을 예방하는 데 효과적인지에 대한 더 많은 정보를 제공할 수 있다. 또한, 다른 치료법, 예를 들어 올파시잔, 저라시잔, 레포디산, 무발라플린, 등에 대한 연구도 계속되어야 한다."
+    }
   },
   {
     "id": "doi:10.1021/acschembio.6c00629",
@@ -305,7 +351,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42874041/",
     "abstract": "Cell membranes are composed of both bilayer and nonbilayer lipids, whose molecular shape and interactions support or oppose their packing into flat bilayer sheets. While the role of the former in maintaining membrane structural integrity is clear, a growing body of data highlights the importance of nonbilayer lipids in membrane function, including fission and fusion processes in trafficking, and the dynamics of membrane-associated proteins. In this review, we provide a comprehensive overview of nonbilayer lipids and their roles in membrane biology, disease, and drug delivery. First, we introduce the lipid chemistry that gives rise to intrinsic curvature and curvature elastic stress (CES), and we survey the chemical diversity of nonbilayer lipids across organelles and cell types. Second, we discuss relevant methodological advances for characterizing the physicochemical properties of nonbilayer lipids, including X-ray scattering, lipidomics, and molecular dynamics. We then examine how nonbilayer lipids contribute to membrane fusion and fission and how the CES they generate modulates membrane protein localization and function. Next, we consider how the biophysical principles governing nonbilayer lipid behavior can inform the rational design of lipid nanoparticle formulations for therapeutic delivery. Finally, we explore how cells regulate lipid intrinsic curvature as a distinct homeostatic parameter and discuss the implications of its dysregulation in liver disease, neurodegeneration, and mitochondrial dysfunction. We highlight developments in methods spanning the interface between chemistry and biology that can help investigate the function and regulation of nonbilayer lipid chemistry, with far-reaching potential to answer questions in human health, disease, and drug delivery.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 비bilayer 지방산의 역할에 대한 이해를 높이고, 이를 통해 세포膜의 구조, 기능, 그리고 약물 전달에 대한 새로운 접근 방식을 제시하고자 합니다. 비bilayer 지방산은 세포막의 구조적 안정성 유지뿐만 아니라, 세포막의 분해와 결합 과정, 그리고 결합된 단백질의 동적인 역할에도 중요한 역할을 합니다.",
+      "methods": "논문은 비bilayer 지방산의 화학적 다양성을 조사하고, 이를 통해 비bilayer 지방산의 물리화학적 속성을 이해하는 방법들을 소개합니다. 이는 X-선 반사, 지방생물학, 그리고 분자 동력학 등 다양한 방법들입니다. 또한, 비bilayer 지방산이 세포막 결합과 분해 과정에서 어떻게 작용하는지, 그리고 그들이 생성하는 CES가 세포막 단백질의 위치와 기능에 어떻게 영향을 미치는지에 대한 연구도 수행합니다.",
+      "quantitative_results": "논문에서는 비bilayer 지방산의 화학적 다양성을 조사하고, 이를 통해 비bilayer 지방산의 물리화학적 속성을 이해하는 방법들을 소개합니다. 이는 X-선 반사, 지방생물학, 그리고 분자 동력학 등 다양한 방법들입니다. 또한, 비bilayer 지방산이 세포막 결합과 분해 과정에서 어떻게 작용하는지, 그리고 그들이 생성하는 CES가 세포막 단백질의 위치와 기능에 어떻게 영향을 미치는지에 대한 연구도 수행합니다.",
+      "novelty": "이 논문은 비bilayer 지방산의 역할에 대한 새로운 이해를 제공하며, 이는 기존 연구에서 비bilayer 지방산의 역할에 대한 이해를 높이는 데 기여할 것입니다. 또한, 비bilayer 지방산의 역할을 이해함으로써 약물 전달에 대한 새로운 접근 방식을 제시할 것입니다.",
+      "limitations": "논문에서는 비bilayer 지방산의 화학적 다양성을 조사하고, 이를 통해 비bilayer 지방산의 물리화학적 속성을 이해하는 방법들을 소개합니다. 이는 X-선 반사, 지방생물학, 그리고 분자 동력학 등 다양한 방법들입니다. 또한, 비bilayer 지방산이 세포막 결합과 분해 과정에서 어떻게 작용하는지, 그리고 그들이 생성하는 CES가 세포막 단백질의 위치와 기능에 어떻게 영향을 미치는지에 대한 연구도 수행합니다.",
+      "future_research": "논문은 비bilayer 지방산의 역할에 대한 이해를 높이고, 이를 통해 세포膜의 구조, 기능, 그리고 약물 전달에 대한 새로운 접근 방식을 제시하고자 합니다. 후속 연구는 비bilayer 지방산의 역할에 대한 이해를 높이는 데 초점을 맞추며, 이를 통해 세포膜의 구조, 기능, 그리고 약물 전달에 대한 새로운 접근 방식을 제시할 것입니다."
+    }
   },
   {
     "id": "doi:10.1177/08853282261496664",
@@ -332,7 +386,7 @@
     "pmid": "",
     "pmcid": "",
     "url": "https://doi.org/10.64898/2026.10.12.757977",
-    "abstract": "Rapid advances in protein structure design have not translated to intrinsically disordered regions (IDRs). This is largely due to our incomplete understanding of how IDR sequence encodes function. Here, we use stem cell differentiation as a model to map functional sequence features in the IDR of transcription factor RUNX2. We show that RUNX2 requires its C-terminal IDR to bind chromatin and regulate gene expression during osteogenesis. Surprisingly, linear IDR sequence is dispensable, and instead features of the conformational ensemble predict function. We develop an algorithm for rational IDR design based on biophysical principles, and use it to generate functional IDRs de novo. Together, these results illustrate the central role for TF IDRs in chromatin binding and extend generative protein design beyond the folded proteome.",
+    "abstract": "Rapid advances in protein structure design have not translated to intrinsically disordered regions (IDRs). This is largely due to our incomplete understanding of how IDR sequence encodes function. Here, we use stem cell differentiation as a model to map functional sequence features in the IDR of the transcription factor RUNX2. We show that RUNX2 requires its C-terminal IDR to bind chromatin and regulate gene expression during osteogenesis. Surprisingly, linear IDR motifs are dispensable, and instead features of the conformational ensemble predict function. We develop an algorithm for rational IDR design based on biophysical principles, and use it to generate functional IDRs de novo . These findings demonstrate the central role for TF IDRs in chromatin binding and extend generative protein design beyond the folded proteome.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 논문은 인자적으로 불안정한 단백질 분해체(인자적으로 불안정한 단백질 분해체, IDR)의 유기능성 구조를 설계하는 데 대한 연구입니다. 이는 인자적으로 불안정한 단백질 분해체가 단백질의 기능을 어떻게 인코딩하는지에 대한 우리의 이해가 아직 부족하다는 점을 반영합니다.",
@@ -494,7 +548,7 @@
     "pmid": "",
     "pmcid": "",
     "url": "https://doi.org/10.64898/2026.10.09.758133",
-    "abstract": "Scientific design requires reasoning in scientific spaces that represent the objects being designed. Building on Scinetics’ Chain of Science Tokens , we present chain-of-structures (COS) as a concrete protein-design case study that connects reasoning and generation through explicit structural states. In this technical report, we apply COS to enzyme design, where catalytic function requires precise local geometry within a compatible global fold, making it a demanding test of reasoning from chemical requirements to protein structure. Starting from a reaction specification and target length, COS couples a language reasoning expert with an all-atom generation expert across four rounds: catalytic core, active site, global backbone, and complete sequence and structure . Each reasoning state directly conditions generation, and the resulting structure becomes context for the next decision. Discrete residue constraints and continuous latents connect the two experts, enabling structural supervision of the reasoning interface. On the evaluated benchmark, COS leads the compared baselines on five of six metrics, achieving 57.0% EC3 agreement and a TM-score of 0.729.",
+    "abstract": "Scientific design requires reasoning in scientific spaces that represent the objects being designed. Building on Scinetics' Chain of Science Tokens, we present chain-of-structures (COS) as a concrete protein-design case study that connects reasoning and generation through explicit structural states. In this technical report, we apply COS to enzyme design, where catalytic function requires precise local geometry within a compatible global fold, making it a demanding test of reasoning from chemical requirements to protein structure. Starting from a reaction specification and target length, COS couples a language reasoning expert with an all-atom generation expert across four rounds: catalytic core, active site, global backbone, and complete sequence and structure. Each reasoning state directly conditions generation, and the resulting structure becomes context for the next decision. Discrete residue constraints and continuous latents connect the two experts, enabling structural supervision of the reasoning interface. On the evaluated benchmark, COS leads the compared baselines on five of six metrics, achieving 57.0% EC3 agreement and a TM-score of 0.729.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 논문은 단백질 설계 과정에서 논리적 사고와 생성 사이의 연결성을 강조하고자 합니다. 이를 위해 'Chain of Structures' 모델을 제시하며, 이 모델은 단백질의 구조 상태를 명확하게 연결하는 방법을 제시합니다.",
@@ -1821,7 +1875,7 @@
     "pmid": "42888951",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42888951/",
-    "abstract": "Ion-pairing reversed phase (IP-RP) liquid chromatography is the predominant separation mode for characterizing synthetic oligonucleotide therapeutics, offering unique selectivity for small chemical impurities that are difficult to resolve by other techniques. Although not fully understood, the generally accepted mechanism driving retention in IP-RP is a positively charged, hydrophobic alkylamine adsorbing on the stationary phase and the negatively charged oligonucleotide is retained via electrostatic interaction. However, this model does not fully account for the well documented differences in retention and selectivity observed when the mobile phase acid modifier is changed from acetic acid to 1,1,1,3,3,3-hexafluoro-2-propanol (HFIP), suggesting our current mechanistic understanding is incomplete. Here, we perform a systematic evaluation to elucidate how HFIP contributes to IP-RP chromatography for a fully phosphorothioate (PS) modified antisense oligonucleotide. We identified that HFIP interacts directly with C18 stationary phases and has higher retentivity than dibutylamine, providing the first evidence that a mixed mode pseudo-stationary phase comprising both amine and HFIP may exist. We further demonstrate that the protonation state of HFIP affects both alkylamine retentivity and oligonucleotide impurity selectivity. These findings suggest that the IP-RP separation mechanism is more complex than previously appreciated, with HFIP serving as an active, pH-responsive component of the pseudo-stationary phase rather than a passive pH modifier. This mechanistic insight has practical implications for method development, as mobile phase pH near the pKa of HFIP becomes a previously unrecognized parameter for tuning oligonucleotide selectivity.",
+    "abstract": "Ion-pairing reversed phase (IP-RP) liquid chromatography is the predominant separation mode for characterizing synthetic oligonucleotide therapeutics, offering unique selectivity for small chemical impurities that are difficult to resolve by other techniques. Although not fully understood, the generally accepted mechanism driving retention in IP-RP is a positively charged, hydrophobic alkylamine adsorbing on the stationary phase and the negatively charged oligonucleotide is retained via electrostatic interaction. However, this model does not fully account for the well documented differences in retention and selectivity observed when the mobile phase acid modifier is changed from acetic acid to 1,1,1,3,3,3-hexafluoro-2-propanol (HFIP), suggesting our current mechanistic understanding is incomplete. Here, we perform a systematic evaluation to elucidate how HFIP contributes to IP-RP chromatography for a fully phosphorothioate (PS) modified antisense oligonucleotide. We identified that HFIP interacts directly with C18 stationary phases and has higher retentivity than dibutylamine, providing the first evidence that a mixed mode pseudo-stationary phase comprising both amine and HFIP may exist. We further demonstrate that the protonation state of HFIP affects both alkylamine retentivity and oligonucleotide impurity selectivity. These findings suggest that the IP-RP separation mechanism is more complex than previously appreciated, with HFIP serving as an active, pH-responsive component of the pseudo-stationary phase rather than a passive pH modifier. This mechanistic insight has practical implications for method development, as mobile phase pH near the pK a of HFIP becomes a previously unrecognized parameter for tuning oligonucleotide selectivity.",
     "summary": "초록 기반 요약"
   },
   {
@@ -2163,7 +2217,7 @@
     "pmid": "42806631",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42806631/",
-    "abstract": "Nucleic-acid therapeutics, including mRNA vaccines, genome editors, and viral vectors, are constrained by acute innate reactogenicity that limits dosing flexibility, tissue targeting, and safety. Here we identify a conserved early innate inflammatory program, peaking approximately six hours after administration, that governs reactogenicity across mRNA formulated lipid nanoparticle (LNP), adenoviral vectors and AAV9. Using pharmacological and biochemical probes, we show that this program is driven predominantly by nucleic-acid cargo sensing, rather than lipid components, and is mechanistically separable from antigen expression, adaptive immune priming, and in vivo genome-editing efficacy. Selective modulation of this early cytokine burst achieved here using endosomal nucleic-acid sensing suppressors markedly reduces reactogenicity in multiple mouse models while preserving humoral and cellular immunity to mRNA vaccines, maintaining transgene expression, protecting blood-brain barrier integrity during stereotactic AAV9 delivery, and mitigating LNP-associated hepatotoxicity and thrombocytopenia. These findings define a unifying innate-sensing architecture for nucleic-acid therapeutics and establish that reactogenicity is not required for effective vaccination or gene delivery, enabling a broadly applicable strategy to widen the safety window of mRNA medicines, viral vectors, and in vivo genome editing.",
+    "abstract": "Nucleic acid therapeutics, including mRNA vaccines, genome editors, and viral vectors, are constrained by acute innate reactogenicity that limits dosing flexibility, tissue targeting, and safety. Here, we identify a conserved early innate inflammatory program, peaking approximately 6 h after administration, that governs reactogenicity across mRNA-formulated lipid nanoparticles (LNPs), adenoviral vectors, and AAV9. Using pharmacological and biochemical probes, we show that this program is driven predominantly by nucleic acid cargo sensing, rather than lipid components, and is mechanistically separable from antigen expression, adaptive immune priming, and in vivo genome-editing efficacy. Selective modulation of this early cytokine burst achieved here using endosomal nucleic acid-sensing suppressors markedly reduces reactogenicity in multiple mouse models while preserving humoral and cellular immunity to mRNA vaccines, maintaining transgene expression, protecting blood-brain barrier integrity during stereotactic AAV9 delivery, and mitigating LNP-associated hepatotoxicity and thrombocytopenia. These findings define a unifying innate-sensing architecture for nucleic acid therapeutics and establish that reactogenicity is not required for effective vaccination or gene delivery, enabling a broadly applicable strategy to widen the safety window of mRNA medicines, viral vectors, and in vivo genome editing.",
     "summary": "초록 기반 요약"
   },
   {
