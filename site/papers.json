@@ -1,5 +1,19 @@
 [
   {
+    "id": "PMC:PMC13682564",
+    "title": "Recent advances in protein extraction methods from bone tissue for proteomics analysis",
+    "topic": "Protein",
+    "date": "2026-10-21",
+    "journal": "",
+    "authors": "Nascimento K, Silva B, Pinotti F, Sánchez-Puetate J, Guimarães-Stabili M, Marcantonio C, Marcantonio R.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13682564",
+    "url": "https://europepmc.org/articles/PMC13682564",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.20944/preprints202610.1680.v1",
     "title": "Resin-Printed Microfluidic Platforms with Validated Geometric Fidelity for Accessible Continuous-Flow Lipid Nanoparticle Synthesis",
     "topic": "Drug delivery",
@@ -19,6 +33,50 @@
       "novelty": "이 연구는 리소스 프린팅 미세유동 플랫폼을 통해 지방 나노입자 제조에 대한 빠른, 저렴하고 접근 가능한 플랫폼을 제시한다. 이는 미세유동 연구의 확장 및 신약 개발 분야의 응용에 대한 접근성을 향상시킨다.",
       "limitations": "이 연구는 미세 유형의 챔버 크기와 유동성 성능에 대한 정확한 평가를 제공하지는 못한다. 또한, 실험 조건이 최적화되지 않은 상태에서 생성된 대형聚合물은 미세 유형의 혼합에 대한 미세 유형의 자동화된 조립에 대한 지시를 제공하지 못한다.",
       "future_research": "후속 연구는 리소스 프린팅 미세유동 플랫폼의 효율성을 향상시키는 새로운 설계와 제조 방법을 개발하는 것이 필요하다. 또한, 미세 유형의 챔버 크기와 유동성 성능에 대한 더 정확한 평가를 위해 실험 조건을 최적화하는 것이 필요하다."
+    }
+  },
+  {
+    "id": "doi:10.1177/10430342261498531",
+    "title": "Novel Technologies and Clinical Breakthroughs: The Evolving Landscape of Gene Therapy in China.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-19",
+    "journal": "",
+    "authors": "Li J, Deng Y, Ma J, Huang M, Deng H.",
+    "doi": "10.1177/10430342261498531",
+    "pmid": "42897856",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42897856/",
+    "abstract": "Gene therapy offers a fundamental approach to treating genetic disorders, malignant tumors, and refractory chronic diseases by directly modifying or replacing defective genes at the molecular level. Driven by policy support, increased investment, and technological innovation, China has achieved remarkable progress in adenoviral and adeno-associated virus (AAV) vectors, gene editing, genetically engineered immune cells, oncolytic microorganisms, and small nucleic acid drugs. This review provides a comprehensive narrative overview of the technical principles, product pipelines, and clinical advances in these fields. Notable achievements include the approval of AAV-based gene therapy products in China, the entry of multiple in vivo and ex vivo gene editing therapies into clinical trials, a leading number of CAR-T trials worldwide with expansion into solid tumors and autoimmune diseases, encouraging efficacy of oncolytic virotherapy in liver cancer and melanoma, and positive clinical data of small interfering RNA/antisense oligonucleotide drugs for chronic hepatitis B and hypercholesterolemia. However, challenges remain including suboptimal tissue specificity, off-target risks, limited cargo capacity, high production costs, and poor accessibility. Future directions should focus on tissue-selective vectors, precise editing tools, off-the-shelf cell products, scalable manufacturing, and improved regulatory frameworks. With abundant clinical resources and strong manufacturing capabilities, China is poised to play a significant role in the global gene therapy landscape.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 중국의 제약 산업에서의 유전자 치료 기술 발전을 조명하고 있으며, 특히 AAV, 유전자 편집, CAR-T 치료, 유전자 치료용 바이러스, 그리고 작은 유전자 분해제 약물 등에 중점을 둔다.",
+      "methods": "이 연구는 중국의 유전자 치료 기술 발전을 위한 정책 지원, 투자 증가, 그리고 기술 혁신의 결과로 분석되었다. 유전자 치료 제품의 임상 시험 진입, 유전자 편집 치료의 임상 시험 진입, CAR-T 치료의 세계 최고 수준의 임상 시험 진입, 유전자 치료용 바이러스의 유방암과 무호흡증성 피부암에 대한 효과, 그리고 작은 유전자 분해제 약물의 지속성 간염 B와 고지혈증에 대한 임상 데이터 등이 주요 내용이다.",
+      "quantitative_results": "이 논문에서는 AAV 기반 유전자 치료 제품의 중국에서의 승인, 유전자 편집 치료의 임상 시험 진입, CAR-T 치료의 세계 최고 수준의 임상 시험 진입, 유전자 치료용 바이러스의 유방암과 무호흡증성 피부암에 대한 효과, 그리고 작은 유전자 분해제 약물의 지속성 간염 B와 고지혈증에 대한 임상 데이터 등이 주요 결과로 제시되었다.",
+      "novelty": "이 연구는 중국의 유전자 치료 기술 발전에 대한 체계적인 분석을 제공하며, 특히 AAV, 유전자 편집, 유전자 치료용 바이러스, 그리고 작은 유전자 분해제 약물 등에 중점을 둔다. 이러한 기술 발전은 유전자 치료 산업의 미래를 예측하는데 중요한 역할을 할 것이다.",
+      "limitations": "이 연구는 정책 지원, 투자 증가, 그리고 기술 혁신의 결과로 유전자 치료 기술 발전을 조명한다. 그러나 정책 지원, 투자 증가, 그리고 기술 혁신의 결과로 유전자 치료 기술 발전을 조명한다. 그러나 정책 지원, 투자 증가, 그리고 기술 혁신의 결과로 유전자 치료 기술 발전을 조명한다. 이러한 결과는 정책 지원, 투자 증가, 그리고 기술 혁신의 결과로 유전자 치료 기술 발전을 조명한다.",
+      "future_research": "후속 연구는 유전자 치료 기술의 향상을 위한 새로운 투자, 정책 지원, 그리고 기술 혁신이 필요하다. 유전자 치료 기술의 향상을 위한 새로운 투자, 정책 지원, 그리고 기술 혁신이 필요하다. 유전자 치료 기술의 향상을 위한 새로운 투자, 정책 지원, 그리고 기술 혁신이 필요하다."
+    }
+  },
+  {
+    "id": "doi:10.1111/cas.70565",
+    "title": "Advances in the Role of Chemokines in Microwave Ablation-Based Combinatorial Immunotherapy.",
+    "topic": "Immunity",
+    "date": "2026-10-19",
+    "journal": "",
+    "authors": "An R, He N, Gu W.",
+    "doi": "10.1111/cas.70565",
+    "pmid": "42897755",
+    "pmcid": "PMC13680724",
+    "url": "https://europepmc.org/articles/PMC13680724",
+    "abstract": "Immunotherapy enhances antitumor immunity to eliminate malignant cells and has great potential to prevent tumor recurrence and distant metastasis. In addition to direct tumor destruction, microwave ablation (MWA) remodels the tumor immune microenvironment (TIME) and induces antitumor immune responses, providing a strong rationale for combination with immunotherapy. As key regulators of immune-cell trafficking and function, chemokines critically mediate the synergy between MWA and immunotherapy. In this review, we summarize the effects of MWA on the TIME, the central role of chemokine networks in this process, and recent advances in MWA-based combinatorial immunotherapy, including clinical progress. We also discuss current challenges and future directions to support the optimization of multimodal cancer therapy and improve clinical outcomes.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 면역치료와 마이크로波 치료의 조합을 통해 암을 치료하는 데 사용되는 체코킨스의 역할에 대해 다룹니다. 체코킨스는 면역세포의 이동과 기능을 조절하는 주요 조절자로, 마이크로波 치료와 면역치료 사이의 조합 치료에 중요한 역할을 합니다. 이 논문은 체코킨스의 역할, 마이크로波 치료가 TIME에 미치는 영향, 그리고 조합 치료의 최신 발전에 대해 소개합니다.",
+      "methods": "이 논문은 체코킨스의 역할, 마이크로波 치료가 TIME에 미치는 영향, 그리고 조합 치료의 최신 발전에 대해 소개합니다. 이는 체코킨스 네트워크가 마이크로波 치료와 면역치료 사이의 조합 치료에 중요한 역할을 한다는 것을 보여줍니다.",
+      "quantitative_results": "이 논문에서는 체코킨스의 역할, 마이크로波 치료가 TIME에 미치는 영향, 그리고 조합 치료의 최신 발전에 대해 소개합니다. 이는 체코킨스 네트워크가 마이크로波 치료와 면역치료 사이의 조합 치료에 중요한 역할을 한다는 것을 보여줍니다.",
+      "novelty": "이 논문은 체코킨스의 역할, 마이크로波 치료가 TIME에 미치는 영향, 그리고 조합 치료의 최신 발전에 대해 소개합니다. 이는 체코킨스 네트워크가 마이크로波 치료와 면역치료 사이의 조합 치료에 중요한 역할을 한다는 것을 보여줍니다.",
+      "limitations": "이 논문은 체코킨스의 역할, 마이크로波 치료가 TIME에 미치는 영향, 그리고 조합 치료의 최신 발전에 대해 소개합니다. 이는 체코킨스 네트워크가 마이크로波 치료와 면역치료 사이의 조합 치료에 중요한 역할을 한다는 것을 보여줍니다.",
+      "future_research": "이 논문은 체코킨스의 역할, 마이크로波 치료가 TIME에 미치는 영향, 그리고 조합 치료의 최신 발전에 대해 소개합니다. 이는 체코킨스 네트워크가 마이크로波 치료와 면역치료 사이의 조합 치료에 중요한 역할을 한다는 것을 보여줍니다."
     }
   },
   {
@@ -77,6 +135,28 @@
       "novelty": "논문은 신경계와 면역계가 암 발달과 진행에 미치는 영향에 대한 새로운 이해를 제공하며, 이는 기존 연구와 차별화됩니다. 이는 신경계와 면역계의 복잡한 상호 작용을 이해하고 이를 활용하여 암 치료 접근법을 개선하는 데 도움이 될 것입니다.",
       "limitations": "논문에서는 신경계와 면역계의 복잡한 상호 작용에 대한 한계를 명시하지 않았습니다. 이는 연구의 한계를 명확히 이해하기 위해 추가 연구가 필요합니다. 또한, 신경계와 면역계의 복잡한 상호 작용을 이해하는 데 필요한 실험 모델의 한계도 명시하지 않았습니다.",
       "future_research": "후속 연구는 신경계와 면역계의 복잡한 상호 작용을 이해하고 이를 활용하여 암 치료 접근법을 개선하는 데 필요한 연구입니다. 이는 신경계와 면역계의 복잡한 상호 작용을 이해하고 이를 활용하여 암 치료 접근법을 개선하는 데 필요한 연구입니다."
+    }
+  },
+  {
+    "id": "doi:10.1002/adma.75408",
+    "title": "Emerging Lipid Nanoparticle Targeting Strategies for Extrahepatic Delivery of RNA Therapeutics.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-18",
+    "journal": "",
+    "authors": "Li J, Liu J, Wang N, Zhang K, Zhang W, Gao M, Lu Z, Chen X, Li Y.",
+    "doi": "10.1002/adma.75408",
+    "pmid": "42894277",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894277/",
+    "abstract": "Lipid nanoparticles (LNPs) have transformed RNA therapeutics through their high delivery efficiency, scalable manufacturing, and favorable safety profiles, as demonstrated by COVID-19 mRNA vaccines and clinically approved small interfering RNA (siRNA) therapeutics. However, extending RNA delivery beyond the liver to extrahepatic tissues, including the spleen, lungs, lymph nodes, brain, and tumors, remains challenging because of the intrinsic hepatotropism of conventional LNPs and their limited cell-type specificity. Recent advances in lipid chemistry, particle engineering, surface functionalization, protein corona modulation, and route-specific administration have enabled new strategies to redirect LNPs toward specific tissues and cell populations. This review systematically examines these approaches and highlights key determinants of LNP tropism, including formulation composition, surface properties, endogenous protein adsorption, and administration route. We further discuss the clinical translation of extrahepatic LNP delivery, covering clinically validated products, emerging therapeutic candidates, and gaps between preclinical models and human applications. Major challenges include cell-resolved biodistribution, long-term safety, repeated-dose immunogenicity, cross-study comparability, and standardized quantitative assessment. Finally, we explore how high-throughput screening, machine learning, and data-driven design can accelerate the rational optimization of next-generation LNPs. These advances may facilitate precise tissue- and cell-selective RNA delivery, expanding the therapeutic potential of RNA medicines beyond the liver.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "본 연구는 뉴클레오티드 마이크로나피트(LNPs)를 이용한 RNA 치료제의 비장 전달 전략을 분석하고 개선하는 데 중점을 둔다. 특히, 비장 외 조직으로의 RNA 전달을 위한 새로운 전략들을 소개하고, 이를 통해 RNA 치료제의 잠재적인 잠재력을 확장할 수 있는지에 대해 검토한다.",
+      "methods": "본 연구는 뉴클레오티드 마이크로나피트의 제형 구성, 표면 속성, 내생 단백질 adsorption, 그리고 전달 경로를 활용한 새로운 전략들을 다루고 있다. 또한, 비장 외 전달의 임상적 적용을 포함하여 다양한 전략들을 살펴보았다.",
+      "quantitative_results": "본 연구에서는 COVID-19 mRNA 백신과 임상 승인된 siRNA 치료제의 성공을 통해 뉴클레오티드 마이크로나피트의 높은 전달 효율성, 스케일업 가능한 제조, 그리고 안전한 프로파일을 확인했다. 그러나 비장 외 전달을 위한 새로운 전략들이 아직 미흡하다는 점을 확인했다.",
+      "novelty": "본 연구는 비장 외 전달을 위한 새로운 전략들을 소개하고, 이를 통해 RNA 치료제의 잠재적인 잠재력을 확장할 수 있는지에 대해 검토한다. 이는 기존 연구에서 보지 못한 새로운 접근법이다.",
+      "limitations": "본 연구는 임상적 데이터를 사용하지 않았기 때문에, 비장 외 전달의 세포-원 단위 분포, 장기 안전성, 반복된 주사로 인한 면역성, 연구 간 비교성, 표준화된 양적 평가 등에 대한 한계를 확인할 수 없다. 또한, 비장 외 전달을 위한 새로운 전략들의 임상적 적용 가능성에 대한 추론만을 제시한다.",
+      "future_research": "후속 연구에서는 뉴클레오티드 마이크로나피트의 전달 효율성, 안전성, 그리고 세포-원 단위 분포를 향상시키기 위한 고속 스クリ닝, 머신 러닝, 그리고 데이터 기반 설계를 활용하여, 다음 세대의 뉴클레오티드 마이크로나피트의 합리적인 최적화를 추구할 것이다."
     }
   },
   {
@@ -373,6 +453,50 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42880399/",
     "abstract": "Biomimetic growth factor substitutes (BGFSs) can be designed to reproduce selected properties of growth-factor such as; presentation during tissue regeneration and controlled local availability. In this study, nanoparticles are designed in such a way that, the nanoparticle does gradient temporal delivery for chemotaxis followed by residual insulin in the nanoparticles for spatial presentation leading to a regenerative nanoparticle of insulin as a growth factor substitute. FTIR and NMR analyses supported the association of stearate with albumin. The optimized nanoparticles had an average diameter of 210 nm by DLS and a zeta potential of -35.6 mV. SEM and HRTEM analyses showed nanoscale and submicroscopic structures with elongated and higher-order morphologies, wherein insulin loading is associated with changes in particle organization. The BGFS showed sustained insulin release for up to 240 hours, with approximately 40% of the insulin released during this period, while the remaining insulin was retained within the matrix. The nanoparticles showed low hemolysis (<5%), high cellular viability (74-94%), and physical stability under refrigerated conditions. In a full-thickness wound model in rats, the formulation is associated with improved wound healing response from histology, including collagen deposition and neovascularization, without detectable hypoglycemia. Overall, the insulin-albumin stearate system shows potential as a controlled-release nanomedicine for soft-tissue regeneration and accelerated wound healing.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 인슐린을 포함한 성장因子를 재생 조직에 대한 재생 과정에서 시간과 공간적으로 제어하여 배출하는 새로운 백미비 성장因子 대체물(NBGFS)을 개발하기 위한 것입니다. 이를 통해 인슐린이 재생 과정에서 적절한 시간과 공간에서 제거되는 것을 방지하고, 이를 성장因子 대체물로 사용할 수 있습니다.",
+      "methods": "연구진은 인슐린을 포함하는 소프타일과 알부민을 결합한 입자(NP)를 설계하여, 인슐린의 시간적 배출을 제어하고, 남은 인슐린은 입자 내부에서 공간적으로 배출되도록 설계하였습니다. 이를 위해, FTIR과 NMR 분석을 통해 소프타일과 알부민의 결합을 확인하였으며, 입자의 크기를 210nm로 제어하였습니다. 또한, 세마과 고해상도 전자 망원경(SEM과 HRTEM)을 통해 입자의 구조와 인슐린의 배출을 확인하였습니다.",
+      "quantitative_results": "연구진은 인슐린의 지속적인 배출이 240시간 동안 유지되었으며, 이 기간 동안 약 40%의 인슐린이 배출되었고, 남은 인슐린은 입자 내부에서 유지되었습니다. 또한, 이 입자들은 냉장 조건에서 혈청 희화율이 5% 이하였으며, 세포 생존율은 74-94%였으며, 입자들의 물리적 안정성이 유지되었습니다. 또한, 이 입자들은 레티로이드 모델에서의 완전한 두피 모델에서의 치유 응답이 개선되었으며, 이는 세포 내의 콜라겐 세포의 형성과 신생 혈관의 형성에 대한 증가를 나타내었습니다.",
+      "novelty": "이 연구는 인슐린을 포함한 성장因子 대체물(NBGFS)을 설계하여, 인슐린의 시간과 공간적 배출을 제어하는 새로운 방법을 제시하였습니다. 이는 기존 연구에서 보다 정확하고 효율적인 성장因子 대체물의 제조를 가능하게 하였습니다.",
+      "limitations": "이 연구에서는 인슐린의 시간과 공간적 배출을 제어하는 입자 설계 방법을 제시하였지만, 실제 환경에서의 성능을 확인하기 위해서는 추가적인 연구가 필요합니다. 또한, 이 연구에서는 인슐린의 시간과 공간적 배출을 제어하는 입자 설계 방법을 제시하였지만, 이 입자들이 실제 환경에서의 성능을 확인하기 위해서는 추가적인 연구가 필요합니다.",
+      "future_research": "이 연구는 인슐린을 포함한 성장因子 대체물(NBGFS)을 설계하여, 인슐린의 시간과 공간적 배출을 제어하는 새로운 방법을 제시하였습니다. 그러나, 이 입자들이 실제 환경에서의 성능을 확인하기 위해서는 추가적인 연구가 필요합니다. 이러한 연구는 인슐린을 포함한 성장因子 대체물(NBGFS)을 설계하여, 인슐린의 시간과 공간적 배출을 제어하는 새로운 방법을 개발하는 후속 연구를 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.1016/j.bbrc.2026.154762",
+    "title": "Two active components, derived from dragon's blood, elicit a synergistic antitumor immune response in hepatocellular carcinoma.",
+    "topic": "Immunity",
+    "date": "2026-10-15",
+    "journal": "",
+    "authors": "Zhang S, Yan J, Tang X, Liu X, Gao S, Wang J, Wei Y, Li H.",
+    "doi": "10.1016/j.bbrc.2026.154762",
+    "pmid": "42896431",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42896431/",
+    "abstract": "Hepatocellular carcinoma (HCC) remains a serious public health concern worldwide, and conventional therapies exert limited efficacy. In situ vaccination (ISV) activates antitumor immunity by inducing immunogenic cell death (ICD), making it a promising immunotherapy. Unfortunately, in HCC, a scarcity of mature DCs and dysfunctional vasculature collectively restrict ISV efficacy. Dragon's blood, a traditional Chinese medicine, is reported to exert potent antitumor effects. In particular, it contains anti-angiogenic agents (e.g., pterostilbene (PS) and ICD-inducing components (e.g., resveratrol (Res)). Therefore, we hypothesized that its antitumor activity may stem from synergistic stimulation of the antitumor immune response by its active components. However, the associated antitumor mechanisms of dragon's blood in HCC remain largely unknown. In this study, we first systematically screened active components with anti-tumor proliferation and ICD-inducing activities in H22 cells from several major components of dragon's blood in vitro. Res, identified as an ICD-active component, in combination with anti-angiogenic PS, was further evaluated in a murine HCC model to determine its antitumor effects and underlying mechanisms. Res induced ICD in H22 cells, and the combination treatment of Res and PS elicited a potent antitumor immune response in HCC. Further mechanistic research revealed that the synergistic efficacy of the combination therapy was associated with Res-induced ICD and PS-increased tumor hemoperfusion, which substantially promoted DC maturation and CTL infiltration, respectively. Overall, the synergistic stimulation of the antitumor immune response by Res and PS suggests their potential as an ISV-related strategy for HCC.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 담배의 성분 중에서 항암 효과가 있는 두 가지 활성 성분이 간세포암(HCC)에서 항암 면역 반응을 강화하는 것을 확인하고자 함을 목표로 하고 있습니다. 이는 담배가 간세포암에서 항암 효과가 떨어지는 상황에서 새로운 치료 방법을 찾기 위한 것입니다.",
+      "methods": "이 연구에서는 담배의 성분 중에서 항암 효과가 있는 두 가지 활성 성분인 리스와 피트로스테인을 H22 세포에서 시험하였으며, 이들 성분이 HCC 모델에서의 항암 효과와 그 박동을 조사하였습니다. 이 연구에서는 이들 성분이 항암 면역 반응을 강화하는 것을 확인하였습니다.",
+      "quantitative_results": "이 연구에서는 리스와 피트로스테인의 조합이 HCC에서 강력한 항암 면역 반응을 일으켰으며, 이는 리스의 항암 효과와 피트로스테인의 혈관 확장 효과가 조합으로 작용하여 DC의 발달과 CTL의 투여를 증가시켰기 때문입니다.",
+      "novelty": "이 연구는 담배의 성분 중에서 항암 효과가 있는 두 가지 활성 성분이 간세포암에서 항암 면역 반응을 강화하는 것을 처음으로 보여주며, 이는 담배의 항암 효과를 개선하는 새로운 치료 방법을 제시합니다.",
+      "limitations": "이 연구에서는 이들 성분이 HCC에서의 항암 효과와 그 박동을 조사하였으나, 이들 성분이 다른 암 종류에서의 효과는 확인되지 않았습니다. 또한, 이 연구는 실험 조건과 실험 대상 세포의 종류에 따라 결과가 달라질 수 있습니다.",
+      "future_research": "이 연구는 이들 성분이 HCC에서의 항암 효과와 그 박동을 조사하였으므로, 이들 성분이 다른 암 종류에서의 효과를 확인하고, 이들 성분이 담배의 다른 성분과의 조합 효과를 조사하여 새로운 치료 방법을 개발하는데 사용될 수 있습니다."
+    }
+  },
+  {
+    "id": "doi:10.2147/ijn.s625117",
+    "title": "Nanoparticle-Mediated Brain-Targeted Drug Delivery for Methamphetamine Use Disorder: Advances, Challenges and Translational Perspectives.",
+    "topic": "Drug delivery",
+    "date": "2026-10-15",
+    "journal": "",
+    "authors": "Zhang X, Xu R, Wang M, Du Y, Zhang M, Li L, Yang G, Hong S.",
+    "doi": "10.2147/ijn.s625117",
+    "pmid": "42899172",
+    "pmcid": "PMC13679526",
+    "url": "https://europepmc.org/articles/PMC13679526",
+    "abstract": "Methamphetamine use disorder (MUD) poses a significant global health challenge, lacking FDA-approved pharmacotherapies. Despite extensive exploration of therapeutic targets and interventions, effective treatment remains scarce due to challenges in delivering therapeutic agents to relevant brain regions at effective concentrations. Nanoparticle-mediated delivery offers a promising approach for transporting various therapeutic cargos to the central nervous system, including small molecules, nucleic acids, peptides, proteins, and gene-editing systems. However, the application of nanomedicine strategies in addressing the unique pathophysiological characteristics of MUD has not been systematically assessed. This review presents a problem-focused analysis of how lipid-based, polymeric, inorganic, biological, and hybrid nanocarriers tackle successive delivery obstacles such as systemic stability, blood-brain barrier (BBB) penetration, brain region-specific distribution, and controlled release of intracellular cargo. We compare preclinical nanotherapeutic approaches encompassing small-molecule neuroprotective agents, anti-METH vaccines, gene-silencing RNAs, neurotrophic proteins, and emerging gene-editing methods, outlining their respective benefits, limitations, and design considerations. Additionally, we explore key factors influencing nanomedicine performance in MUD, including protein corona formation, the impact of METH-related BBB dysfunction and neuroinflammation on nanoparticle distribution, and the disparity between acute animal models and chronic human MUD with relapse tendencies. In conclusion, we present a systematic framework for aligning nanocarrier characteristics with distinct delivery obstacles and therapeutic needs. We also emphasize forthcoming avenues such as disease-triggered nanocarriers, targeted delivery to specific regions, combined nanomedical approaches, theranostic strategies, and standardized assessments of biodistribution, effectiveness, safety, and translational potential.",
     "summary": "초록 기반 요약"
   },
   {
@@ -451,6 +575,20 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42872492/",
     "abstract": "Pediatric brain tumors (PBTs) remain a leading cause of cancer-related mortality in children, underscoring the need for more effective therapeutic strategies. These tumors arise from disrupted neurodevelopmental programs and evolve within a developmentally constrained immune landscape that is tolerogenic, epigenetically plastic, and susceptible to tumor-mediated co-option. Increasing evidence indicates that, besides molecular heterogeneity, the tumor immune microenvironment critically influences clinical outcomes. Despite its therapeutic promise, immunotherapy has yet to demonstrate consistent clinical benefit in most PBTs, highlighting the need for rational multimodal strategies guided by deeper understanding of tumor-immune interactions in the developing brain. To provide a comprehensive perspective on fetal immune ontogeny and its tumor-driven dysregulation we used medulloblastoma, pediatric gliomas, atypical teratoid/rhabdoid tumors, and ependymoma as representative entities. Drawing on insights from developmental neurobiology, tumor immunology, and emerging multi-omic studies, we outline how PBTs exploit physiological immune maturation programs to establish immune evasion, sustain chronic inflammation, and promote therapy resistance. We further discuss emerging multimodal immunotherapeutic strategies and next-generation CAR T-cell approaches currently under clinical investigation. In addition, we highlight therapeutic avenues such as targeting tumor-associated myeloid populations and key inflammatory regulators that may offer promising opportunities for future clinical translation. We believe this Review will help address current limitations in preclinical models, improve patient stratification and guide rational design of therapeutic strategies.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.2147/jir.s638869",
+    "title": "TOX -Related T-Cell Exhaustion as a Link Between Chronic Inflammation, Tumor Immunity, and Immunotherapy A Bibliometric and Mechanism-Oriented Review.",
+    "topic": "Immunity",
+    "date": "2026-10-14",
+    "journal": "",
+    "authors": "Cong Y, Ma Z, Zhong K, Bao Y, Lei S, Qiao P, Aji T, Shao Y.",
+    "doi": "10.2147/jir.s638869",
+    "pmid": "42894622",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894622/",
+    "abstract": "Background Chronic inflammation and persistent antigen stimulation reshape T-cell fate and contribute to immune dysfunction in cancer, chronic infection, and inflammatory liver disease. TOX ( TOX1 ) has emerged as a key transcriptional regulator linking these inflammatory contexts to T-cell exhaustion, immune checkpoint signaling, and immunotherapy response. However, existing reviews have mainly summarized molecular mechanisms and have not systematically connected the evolution of the field with its collaboration patterns, research hotspots, and emerging translational questions. A synthesis that combines bibliometric mapping with biological interpretation is needed to clarify how the field has evolved and where translational uncertainties remain. Methods Web of Science Core Collection, PubMed, and Embase were searched for TOX -related T-cell exhaustion studies published from 2010 to 2026. After deduplication and relevance screening, 180 publications were included. Bibliometric analyses were performed with bibliometrix, VOSviewer, and CiteSpace, and the resulting knowledge structures were interpreted through a mechanism-oriented narrative review. Results Annual output increased markedly after the landmark TOX studies of 2019, reaching a peak in 2025. The field was highly concentrated: Frontiers in Immunology was the most productive venue, whereas Nature, Immunity, and Nature Immunology contained the most influential foundational papers. The USA and China dominated publication output, and their centrality scores were comparable (0.12 vs 0.13). However, their collaboration structures differed by partner distribution, with the USA more connected to high-output European partners and China contributing strongly to recent disease-focused translational work. Keyword and co-citation analyses converged on four themes: transcriptional programming, immune-checkpoint-associated dysfunction, tissue microenvironmental regulation, and translational intervention. Conclusion TOX -related T-cell exhaustion should not be interpreted only as a binary marker of dysfunctional immunity. Instead, it represents a context-dependent regulatory interface between chronic inflammation, antigen persistence, tumor immune suppression, and therapeutic resistance. This perspective is essential for developing next-generation immunotherapies that modulate, rather than simply reverse, T-cell exhaustion in inflammatory and malignant microenvironments.",
     "summary": "초록 기반 요약"
   },
   {
@@ -956,6 +1094,20 @@
     "summary": "초록 기반 요약"
   },
   {
+    "id": "doi:10.1016/j.ijpx.2026.100680",
+    "title": "Application of nanozyme-based drug delivery systems in the treatment of ROS-related ophthalmic diseases.",
+    "topic": "Drug delivery",
+    "date": "2026-10-08",
+    "journal": "",
+    "authors": "Li Z, Yan K, Rong N, Sun S, Liu X, Xiu Y, Zheng Q, Sun Y, Wu J.",
+    "doi": "10.1016/j.ijpx.2026.100680",
+    "pmid": "42898393",
+    "pmcid": "PMC13677962",
+    "url": "https://europepmc.org/articles/PMC13677962",
+    "abstract": "ROS-related ophthalmic diseases span the ocular surface as well as the anterior and posterior segments of the eye. Dry eye disease (DED), glaucoma, diabetic retinopathy (DR) and age-related macular degeneration (AMD) have distinct anatomical targets but share common pathophysiological features, including oxidative stress, inflammation, vascular dysfunction, epithelial injury or neurodegeneration. Conventional ocular drug delivery and therapeutic modalities are hindered by severe limitations, including low bioavailability in the posterior segment of the eye and the requirement for frequent invasive administration. Nanozymes, an emerging class of therapeutic agents that integrate the properties of nanomaterials with natural enzyme-like catalytic activity, can efficiently scavenge excess reactive oxygen species (ROS) in focal lesions, modulate inflammatory factors, and remodel the pathological microenvironment, thereby providing a novel approach to the treatment of ROS-related ophthalmic diseases. This review systematically elucidates the core characteristics and therapeutic mechanisms of four major categories of nanozymes, namely metal-based, metal oxide-based, carbon-based, and composite nanozymes. To overcome physiological barriers in ocular drug delivery, such as the cornea and the blood-retinal barrier (BRB), we discuss active targeted delivery strategies based on mucin-binding retention, biomimetic cell membrane coating, and molecular ligand-mediated targeting. Furthermore, we summarize the development of intelligent and controlled-release systems in response to specific pathological microenvironments, such as ROS, pH values, and others. Additionally, this review details the latest cutting-edge applications and therapeutic efficacies of nanozymes in specific ophthalmic diseases, including AMD, DR, dry eye disease, and glaucoma. Finally, we highlight the challenges of long-term biosafety evaluation in the bench-to-bedside clinical translation of nanozymes and provide perspectives on future research directions for developing multi-stimuli-responsive synergistic nanodelivery systems.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.64898/2026.10.06.756934",
     "title": "Generalizing Protein Fitness Prediction Across Distribution Shifts via Structural and Co-evolutionary Priors",
     "topic": "Protein",
@@ -1085,6 +1237,20 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42758143/",
     "abstract": "Repairing critical-sized bone defects is still difficult in clinical practice. Current strategies increasingly rely on bone tissue engineering to reconstruct defect sites while reducing donor-site injury associated with autografts and immunological concerns related to allografts. Parathyroid hormone (PTH) and parathyroid hormone-related protein (PTHrP) have been acknowledged for their ability to promote skeletal repair and bone production. However, systemic administration may result in limited drug accumulation within the defect area and may also cause unwanted systemic effects. In situ drug delivery is an effective way to help bone regeneration. In addition to growth factors, physical stimuli, especially mild photothermal therapy (PTT), have emerged as outstanding strategies to promote tissue regeneration. Meanwhile, drug release can be triggered by mild PTT. As a result, abaloparatide (ABL)-encapsulated poly(lactic- co -glycolic acid) (PLGA) nanoparticles were prepared. The nanoparticles were then incorporated into hydrogels for local delivery. GO-BPEI endowed the hydrogel with mild photothermal responsiveness and heat-triggered drug-release capability. In the cranial bone defect model, the synergistic effect of ABL and mild PTT promoted neovascularization and bone regeneration, ultimately achieving significant bone repair. Overall, the micro/nanoparticle hybrid hydrogel platform with localized, controlled release of ABL provides a potentially effective new method for repairing bone defects.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.mtbio.2026.103737",
+    "title": "Engineering immune cell engagers: From molecular constructs to biomaterial platforms.",
+    "topic": "Immunity",
+    "date": "2026-10-07",
+    "journal": "",
+    "authors": "Park HW, Kim S.",
+    "doi": "10.1016/j.mtbio.2026.103737",
+    "pmid": "42898667",
+    "pmcid": "PMC13678006",
+    "url": "https://europepmc.org/articles/PMC13678006",
+    "abstract": "Immune cell engagers (ICEs) are emerging therapeutic platforms that redirect immune effector cells toward cancer cells by physically bridging immune-cell receptors with tumor-associated targets. This cell-bridging mechanism converts molecular recognition into localized immune activation, immune synapse formation, cytotoxic killing, or phagocytic clearance. Such contact-centered immune redirection complements immune checkpoint blockade, which can restore antitumor immunity but does not directly promote the physical immune cell-tumor cell contact required for productive effector functions. Building on this principle, advances in molecular and biomaterial engineering have expanded ICE design beyond conventional molecular formats, enabling programmable molecular bridges, engineered living cell surfaces, and material-scaffolded systems that coordinate tumor targeting, immune-cell recruitment, and functional modulation. In this review, we organized these approaches according to three levels of ICE engineering: (1) molecular ICEs such as engineered antibodies and aptamers, (2) living cell engagers based on cell surface engineering using molecular constructs or biomaterials and (3) nanoparticle platforms. Across these platforms, we discuss molecular architecture, tumor-targeting specificity, immune cell recruitment, and functional modulation as key factors governing direct immune-tumor cell interactions. By connecting diverse strategies through a common cell-engagement perspective, this review highlights how these approaches can provide functional and spatial advantages for next-generation cancer immunotherapy.",
     "summary": "초록 기반 요약"
   },
   {
@@ -1222,6 +1388,48 @@
     "pmcid": "PMC13652719",
     "url": "https://europepmc.org/articles/PMC13652719",
     "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.3389/fbioe.2026.1857362",
+    "title": "Advances and applications of engineered protein therapeutics and their role in precision medicine.",
+    "topic": "Protein",
+    "date": "2026-10-05",
+    "journal": "",
+    "authors": "Aldossary W, Alqahtani N, Asiri L, Alkhurayef N, Alagl S, Alturki S, Saad D, Al Yahya M, Al-Harthi S.",
+    "doi": "10.3389/fbioe.2026.1857362",
+    "pmid": "42898688",
+    "pmcid": "PMC13678489",
+    "url": "https://europepmc.org/articles/PMC13678489",
+    "abstract": "Proteins are a vital class of biomolecules. They play essential roles in biological processes, including building cellular structures, forming cellular channels and receptors, catalyzing biological reactions, transporting molecules, and contributing to immune defense mechanisms. Advances in protein engineering have enabled the genetic modification of naturally occurring proteins, using recombinant deoxyribonucleic acid (DNA) technology, leading to the development of therapeutic proteins with enhanced specificity, stability, and clinical performance. Despite the rapid growth of engineered biologics, a comprehensive understanding of how these innovations intersect with precision medicine remains limited. This review addresses this gap by summarizing the major contemporary approaches used in therapeutic protein engineering, including directed evolution, rational design, and de novo protein design, and by analyzing their roles in enabling patient-tailored interventions. It provides an integrated overview of the clinical applications of engineered therapeutic proteins across key medical fields, supported by a list of U.S. Food and Drug Administration- and European Medicines Agency-approved protein therapeutics from 2020 to 2025. The review further provides a comparative perspective on major protein engineering strategies, highlighting their relative advantages and limitations, while examining differences in clinical translation across major disease areas. By combining technological advances with disease-specific applications, this review offers a perspective that has not been fully developed in the literature. Finally, the review discusses the current challenges affecting the implementation of precision medicine, including immunogenicity, regulatory constraints, and ethical considerations, and outlines future directions, such as artificial intelligence-guided protein design, targeted protein degradation, and personalized vaccine development. Collectively, these insights highlight the expanding role of engineered proteins in shaping the next-generation of precision therapeutics and emphasize the growing importance of integrating multidisciplinary approaches to advance therapeutic innovation in modern clinical practice.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.3389/fimmu.2026.1950465",
+    "title": "RNA therapeutics in rheumatoid arthritis, systemic lupus erythematosus, and systemic sclerosis: a compartment-aware translational framework.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-05",
+    "journal": "",
+    "authors": "Afandizada Y, Memmedov H, Orujov M, Eyvazova S, Amikishiyev S.",
+    "doi": "10.3389/fimmu.2026.1950465",
+    "pmid": "42899094",
+    "pmcid": "PMC13678641",
+    "url": "https://europepmc.org/articles/PMC13678641",
+    "abstract": "Rheumatoid arthritis (RA), systemic lupus erythematosus/lupus nephritis (SLE/LN), and systemic sclerosis (SSc) remain major causes of chronic inflammation, disability, organ damage, and treatment burden despite therapeutic advances. RNA therapeutics offer programmable transcript suppression, network-level microRNA modulation, transient restoration of protective proteins, and targeting-ligand functions. Existing reviews largely catalogue modalities or individual delivery systems; this review instead asks whether a candidate forms an interpretable translational program across target biology, disease compartment, intended cell, productive intracellular access, direct target engagement, pathway pharmacodynamics, repeat-dose safety, and manufacturing feasibility. RA is primarily a synovial immune-stromal delivery problem in which RNA programs must also demonstrate an advantage over effective biologic or targeted synthetic therapies. SLE/LN offers interferon, B-cell, co-stimulatory, microRNA, messenger RNA (mRNA), and complement opportunities, but therapeutic nucleic acids and carriers must not intensify nucleic-acid sensing, interferon activity, or complement-associated injury. SSc combines strong antifibrotic RNA biology with an accessible skin proof-of-mechanism window, whereas lung, vascular, and internal-organ programs remain more delivery-limited. We separate human pathway validation, RNA-platform evidence outside the target disease, disease-specific RNA evidence, and patient efficacy. Recent human complement-factor-B pharmacodynamic data strengthen the platform-level evidence but do not establish efficacy in RA or LN. The most informative early trials will therefore be biomarker-enriched and mechanism-rich, with prespecified criteria that distinguish target failure from delivery, dose, endotype, or safety failure.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.3389/fimmu.2026.1923822",
+    "title": "Innate immune cells in tumor immunity: dual roles, mechanistic insights, and therapeutic opportunities.",
+    "topic": "Immunity",
+    "date": "2026-10-05",
+    "journal": "",
+    "authors": "Xing S, Zhang J, Wang S, Hao Y, Huang D, Hao M, Bao W, Qu X, Chi Y, Li X.",
+    "doi": "10.3389/fimmu.2026.1923822",
+    "pmid": "42899013",
+    "pmcid": "PMC13678532",
+    "url": "https://europepmc.org/articles/PMC13678532",
+    "abstract": "The tumor microenvironment (TME) is a complex ecosystem that dynamically regulates tumor progression and therapeutic responses. Within this environment, innate immune cells play prominent dual roles, acting as both critical mediators of anti-tumor surveillance and facilitators of tumor immune escape. This review comprehensively synthesizes the phenotypic plasticity and functional heterogeneity of key innate immune cell subsets in tumor immunity, including tumor-associated macrophages (TAMs), natural killer (NK) cells, tumor-associated neutrophils (TANs), dendritic cells (DCs), as well as emerging players such as γδ T cells and innate lymphoid cells (ILCs). Mechanistically, we dissect core pathways governing innate immune cell function in the TME: the cGAS-STING pathway regulates type I interferon responses and immunogenicity; the NF-κB/STAT3 network coordinates inflammation and immunosuppression; the PD-1/PD-L1 axis mediates T cell exhaustion and innate cell dysfunction. Additionally, tumor-driven metabolic reprogramming and extracellular vesicles (EVs) intercellular communication collectively shape the immunosuppressive TME. We further evaluate emerging therapeutic strategies targeting innate immunity. This narrative review provides a comprehensive mechanistic framework and theoretical basis for developing precise, innate immunity-targeted cancer immunotherapies.",
     "summary": "초록 기반 요약"
   },
   {
@@ -1876,6 +2084,20 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42888951/",
     "abstract": "Ion-pairing reversed phase (IP-RP) liquid chromatography is the predominant separation mode for characterizing synthetic oligonucleotide therapeutics, offering unique selectivity for small chemical impurities that are difficult to resolve by other techniques. Although not fully understood, the generally accepted mechanism driving retention in IP-RP is a positively charged, hydrophobic alkylamine adsorbing on the stationary phase and the negatively charged oligonucleotide is retained via electrostatic interaction. However, this model does not fully account for the well documented differences in retention and selectivity observed when the mobile phase acid modifier is changed from acetic acid to 1,1,1,3,3,3-hexafluoro-2-propanol (HFIP), suggesting our current mechanistic understanding is incomplete. Here, we perform a systematic evaluation to elucidate how HFIP contributes to IP-RP chromatography for a fully phosphorothioate (PS) modified antisense oligonucleotide. We identified that HFIP interacts directly with C18 stationary phases and has higher retentivity than dibutylamine, providing the first evidence that a mixed mode pseudo-stationary phase comprising both amine and HFIP may exist. We further demonstrate that the protonation state of HFIP affects both alkylamine retentivity and oligonucleotide impurity selectivity. These findings suggest that the IP-RP separation mechanism is more complex than previously appreciated, with HFIP serving as an active, pH-responsive component of the pseudo-stationary phase rather than a passive pH modifier. This mechanistic insight has practical implications for method development, as mobile phase pH near the pK a of HFIP becomes a previously unrecognized parameter for tuning oligonucleotide selectivity.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1021/acs.biochem.6c00108",
+    "title": "Discovery and Modulation of an Unusual Terminal Mismatch Bypass Activity Involving 3'-Phosphorothioated Primers and Commercial Strand Displacement DNA Polymerases.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Kumar S, Gariya HS, Sharma C, Parveen S, Nair VK, Sengupta M, Gurnani C, Ghosh S.",
+    "doi": "10.1021/acs.biochem.6c00108",
+    "pmid": "42899599",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42899599/",
+    "abstract": "Phosphorothioated (PST) oligonucleotides are extensively used in RNA therapeutics and biosensing applications. PST-modified linkages remain part of 13 approved oligonucleotide drug backbones (out of 23 total approved drugs). Despite the widespread utilization of PST linkages in oligonucleotide therapeutics, the full spectrum of their interactions with nontarget nucleic acids and DNA polymerases remains inadequately characterized. In this study, we report a novel discovery and the modalities (sequence dependence and length) of an unusual 3'-mismatch bypass activity involving 3'-PST primers, circular DNA (CD) template, and strand displacement DNA polymerases. We demonstrate that this activity persists for at least 24 nt of mismatch, is sequence-independent, and occurs when processed by three major commercially available strand displacement DNA polymerases commonly used in molecular diagnostics (phi29, BST large fragment (LF), BSU large fragment (LF)) with operational conditions spanning a large temperature range and buffer conditions. The 3'-terminal mismatch bypass activity of these three polymerases additionally extended to therapeutically relevant modifications such as locked nucleic acid (LNA) and 2'-O-methyl (2'-OMe). We also found that this mismatch bypass activity could be regulated by oligonucleotides complementary to the mismatch region. The significance of this study lies not only in the discovery and analytical investigation of the novel observation but also in its ramifications for biosensing and the nonspecific interactions of PST oligonucleotides in RNA therapeutics.",
     "summary": "초록 기반 요약"
   },
   {
