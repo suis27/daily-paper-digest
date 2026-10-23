@@ -14,6 +14,28 @@
     "summary": "초록 기반 요약"
   },
   {
+    "id": "doi:10.20944/preprints202610.1944.v1",
+    "title": "Lipid Nanoparticle-mRNA Vaccines for Infectious Diseases: Making A Potent Platform Predictable",
+    "topic": "Drug delivery",
+    "date": "2026-10-20",
+    "journal": "",
+    "authors": "Zhao Y, Cheng H, Zhou S, He L, Xiu C, Huang B, Lu X.",
+    "doi": "10.20944/preprints202610.1944.v1",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.20944/preprints202610.1944.v1",
+    "abstract": "Lipid nanoparticle (LNP)-mRNA vaccines compressed the path from pathogen sequence to licensed product into less than a year and are now approved for two diseases, with more than twenty indications in clinical development. The platform's potency is no longer in doubt; its predictability is. We argue that progress is now limited by three interfaces that are engineered largely independently: the lipid-RNA interface, which sets encapsulation, internal structure and storage stability; the particle-cell interface, which sets tropism and the efficiency of endosomal escape; and the particle-immune interface, which sets the balance between adjuvanticity and reactogenicity. Quantitative design rules exist for the first interface, remain empirical for the second, and are almost absent for the third, which is why formulation development still proceeds by screening rather than by calculation. We review the molecular design of the mRNA payload, the chemistry, manufacture and intracellular trafficking of LNPs, the immunological chain that links innate activation to germinal-centre output, and the clinical evidence across COVID-19, respiratory syncytial virus, influenza, cytomegalovirus, HIV and other targets. We conclude by identifying the measurements and design rules that would make the next generation of LNP-mRNA vaccines predictable rather than empirical.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 lipid nanoparticle (LNP)-mRNA 백신의 설계와 제조 과정에서의 문제점을 이해하고, 이를 해결하기 위한 수단을 제시합니다. 특히, LNP-mRNA 백신이 질병에 대한 효과와 안전성을 예측할 수 있는 방법을 찾기 위한 연구입니다.",
+      "methods": "논문은 mRNA의 분자 설계, LNP의 화학적, 제조적 특성, LNP의 세포 내 이동성, 면역 반응의 연결성, 그리고 다양한 질병에 대한 백신 개발의 임상 데이터를 다룹니다. 이 데이터를 바탕으로 LNP-mRNA 백신의 설계와 제조 과정에서의 문제점을 분석하고, 이를 해결하기 위한 수단을 제시합니다.",
+      "quantitative_results": "논문에서는 LNP-mRNA 백신의 설계와 제조 과정에서의 문제점에 대한 수치적 결과를 제공하지 않습니다. 그러나 이 문제점들이 백신의 예측 가능성에 영향을 미치는 것으로 보입니다.",
+      "novelty": "이 논문은 LNP-mRNA 백신의 설계와 제조 과정에서의 문제점에 대한 새로운 관점을 제시하며, 이를 해결하기 위한 수단을 제시합니다. 특히, LNP-mRNA 백신의 설계와 제조 과정에서의 세 가지 주요 인터페이스에 대한 이해를 강조합니다.",
+      "limitations": "논문에서는 LNP-mRNA 백신의 설계와 제조 과정에서의 문제점에 대한 수치적 결과를 제공하지 않습니다. 또한, 이 문제점들이 백신의 예측 가능성에 영향을 미치는지에 대한 확인은 현재까지 이루어지지 않았습니다. 그러나 이 문제점들이 백신의 예측 가능성에 영향을 미칠 수 있다는 추론을 제시합니다.",
+      "future_research": "논문은 LNP-mRNA 백신의 설계와 제조 과정에서의 문제점을 해결하기 위한 수단을 제시하며, 이를 위해 다음 세대의 LNP-mRNA 백신의 설계와 제조 과정에서의 예측 가능성에 대한 연구가 필요합니다."
+    }
+  },
+  {
     "id": "doi:10.20944/preprints202610.1680.v1",
     "title": "Resin-Printed Microfluidic Platforms with Validated Geometric Fidelity for Accessible Continuous-Flow Lipid Nanoparticle Synthesis",
     "topic": "Drug delivery",
@@ -77,6 +99,28 @@
       "novelty": "이 논문은 체코킨스의 역할, 마이크로波 치료가 TIME에 미치는 영향, 그리고 조합 치료의 최신 발전에 대해 소개합니다. 이는 체코킨스 네트워크가 마이크로波 치료와 면역치료 사이의 조합 치료에 중요한 역할을 한다는 것을 보여줍니다.",
       "limitations": "이 논문은 체코킨스의 역할, 마이크로波 치료가 TIME에 미치는 영향, 그리고 조합 치료의 최신 발전에 대해 소개합니다. 이는 체코킨스 네트워크가 마이크로波 치료와 면역치료 사이의 조합 치료에 중요한 역할을 한다는 것을 보여줍니다.",
       "future_research": "이 논문은 체코킨스의 역할, 마이크로波 치료가 TIME에 미치는 영향, 그리고 조합 치료의 최신 발전에 대해 소개합니다. 이는 체코킨스 네트워크가 마이크로波 치료와 면역치료 사이의 조합 치료에 중요한 역할을 한다는 것을 보여줍니다."
+    }
+  },
+  {
+    "id": "doi:10.1177/18796397261499360",
+    "title": "Huntington's disease clinical trials update: August 2026.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-19",
+    "journal": "",
+    "authors": "Farag M, Kinyomi O, Tabrizi SJ, Wild EJ.",
+    "doi": "10.1177/18796397261499360",
+    "pmid": "42895253",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42895253/",
+    "abstract": "In this edition, we highlight several important developments across the Huntington's disease therapeutic pipeline. We discuss the launch and subsequent discontinuation of POINT-HD, the first-in-human phase I study of RG6496 (Hoffmann-La Roche), an allele-selective antisense oligonucleotide designed to selectively lower mutant huntingtin while largely preserving wild-type huntingtin expression. We also discuss the launch of two phase III efficacy trials: INVEST-HD, evaluating votoplam (Novartis Pharmaceuticals), and PRECISE-HD, evaluating pridopidine (Prilenia). In addition, we summarise recent advances across the field, including preclinical updates for LQT-23 (LoQus23), SRP-1005 (Sarepta Therapeutics) and HRN001 (Harness Therapeutics); interim 12-month clinical results from SKY-0515 (Skyhawk Therapeutics); the announcement by uniQure that 3-year data from the phase I/II AMT-130 study may support a Biologics License Application seeking accelerated approval and Roche's discontinuation of the phase II GENERATION HD2 study of tominersen. Finally, we provide an updated listing of registered and ongoing clinical trials in Huntington's disease.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 환자 건강을 개선하기 위한 환우성 질환 치료제 시험의 최신 발전을 소개합니다. 특히, RG6496, RG6496, votoplam, pridopidine, LQT-23, SRP-1005, HRN001, SKY-0515, AMT-130, tominersen 등 다양한 치료제의 시험 결과와 앞으로의 연구 방향을 다룹니다.",
+      "methods": "논문은 임상 시험의 출시와 중단, 임상 시험의 시작과 결과, 임상 시험의 중간 결과, 임상 시험의 종료, 임상 시험의 진행 상황 등 다양한 방법을 사용하여 환우성 질환 치료제 시험의 최신 발전을 보여줍니다.",
+      "quantitative_results": "논문에서는 임상 시험의 결과를 수치로 제공하지 않았습니다. 그러나 시험의 출시와 중단, 시험의 시작과 결과, 시험의 중간 결과, 시험의 종료, 시험의 진행 상황 등 다양한 정보를 제공했습니다.",
+      "novelty": "논문은 기존 연구에서 보지 못한 새로운 임상 시험의 출시와 중단, 임상 시험의 시작과 결과, 임상 시험의 중간 결과, 임상 시험의 종료, 임상 시험의 진행 상황 등 다양한 정보를 제공하여 환우성 질환 치료제 시험의 최신 발전을 보여줍니다.",
+      "limitations": "논문은 임상 시험의 출시와 중단, 임상 시험의 시작과 결과, 임상 시험의 중간 결과, 임상 시험의 종료, 임상 시험의 진행 상황 등 다양한 정보를 제공하지만, 일부 정보는 확인할 수 없는 사항으로 간주됩니다.",
+      "future_research": "논문은 환우성 질환 치료제 시험의 최신 발전을 보여주며, 앞으로의 연구 방향을 제안합니다. 이를 통해 환우성 질환 치료제 시험의 발전을 촉진하고, 환우성 질환 치료의 새로운 기회를 찾을 수 있습니다."
     }
   },
   {
@@ -278,7 +322,7 @@
     "pmid": "",
     "pmcid": "",
     "url": "https://doi.org/10.64898/2026.10.15.759489",
-    "abstract": "KRAS mutations, including G12D, G12V and G13D, are major oncogenic drivers in colorectal cancer (CRC) and are associated with therapeutic resistance. However, approved KRAS inhibitors remain focused on G12C subtype, leaving these prevalent variants without approved targeted therapies. Here, we developed a lipid nanoparticle (LNP)-based RNA interference (RNAi) strategy to target these three KRAS variants using a single small interfering RNA (siRNA) sequence. The developed siRNA-LNPs reduced KRAS mRNA and protein expression in HCT116 (G13D), SW620 (G12V) and LS180 (G12D) cells, but not in KRAS wild-type HT29 cells, suppressing the cellular proliferation, clonogenic survival and migration. Transcriptomic profiling revealed changes in KRAS associated signalling, including suppression of cell-cycle and DNA repair programmes, providing a rationale for combining siRNA silencing with the fluoropyrimidine chemotherapeutic agent 5-fluorouracil (5-FU). The combination produced synergistic effects across all three KRAS-mutant CRC cell models and enhanced the apoptosis in both monolayer cultures and 3D spheroids. Collectively, these findings provide proof of concept for this combination strategy and support its further investigation as a potential therapeutic approach for KRAS-mutant CRC.",
+    "abstract": "KRAS mutations, including G12D, G12V and G13D, are major oncogenic drivers in colorectal cancer (CRC) and are associated with therapeutic resistance. However, approved KRAS inhibitors remain focused on G12C subtype, leaving these prevalent variants without approved targeted therapies. Here, we developed a lipid nanoparticle (LNP)-based RNA interference (RNAi) strategy to target these three KRAS variants using a single small interfering RNA (siRNA) sequence. The developed siRNA-LNPs reduced KRAS mRNA and protein expression in HCT116 (G13D), SW620 (G12V) and LS180 (G12D) cells, but not in KRAS wild-type HT29 cells, suppressing the cellular proliferation, clonogenic survival and migration. Transcriptomic profiling revealed changes in KRAS associated signalling, including suppression of cell-cycle and DNA repair programmes, providing a rationale for combining siRNA silencing with the fluoropyrimidine chemotherapeutic agent 5-fluorouracil (5-FU). The combination produced synergistic effects across all three KRAS-mutant CRC cell models and enhanced the apoptosis in both monolayer cultures and 3D spheroids. Collectively, these findings provide proof of concept for this combination strategy and support its further investigation as a potential therapeutic approach for KRAS-mutant CRC. Abstract Figure",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 연구는 KRAS 유전자 변이가 암세포에 대한 치료 저항을 일으키는 것을 해결하기 위해 RNA干扰 (RNAi) 기술을 사용하여 KRAS 유전자 변이를 치료하는 방법을 검토합니다. 이 연구는 KRAS 유전자 변이를 치료하는 약물이 아직 충분히 개발되지 않았기 때문에 이 연구가 KRAS 유전자 변이를 가진 암세포에 대한 치료 접근 방식으로의 가능성을 제공할 수 있음을 입증하기 위해 수행되었습니다.",
@@ -497,7 +541,15 @@
     "pmcid": "PMC13679526",
     "url": "https://europepmc.org/articles/PMC13679526",
     "abstract": "Methamphetamine use disorder (MUD) poses a significant global health challenge, lacking FDA-approved pharmacotherapies. Despite extensive exploration of therapeutic targets and interventions, effective treatment remains scarce due to challenges in delivering therapeutic agents to relevant brain regions at effective concentrations. Nanoparticle-mediated delivery offers a promising approach for transporting various therapeutic cargos to the central nervous system, including small molecules, nucleic acids, peptides, proteins, and gene-editing systems. However, the application of nanomedicine strategies in addressing the unique pathophysiological characteristics of MUD has not been systematically assessed. This review presents a problem-focused analysis of how lipid-based, polymeric, inorganic, biological, and hybrid nanocarriers tackle successive delivery obstacles such as systemic stability, blood-brain barrier (BBB) penetration, brain region-specific distribution, and controlled release of intracellular cargo. We compare preclinical nanotherapeutic approaches encompassing small-molecule neuroprotective agents, anti-METH vaccines, gene-silencing RNAs, neurotrophic proteins, and emerging gene-editing methods, outlining their respective benefits, limitations, and design considerations. Additionally, we explore key factors influencing nanomedicine performance in MUD, including protein corona formation, the impact of METH-related BBB dysfunction and neuroinflammation on nanoparticle distribution, and the disparity between acute animal models and chronic human MUD with relapse tendencies. In conclusion, we present a systematic framework for aligning nanocarrier characteristics with distinct delivery obstacles and therapeutic needs. We also emphasize forthcoming avenues such as disease-triggered nanocarriers, targeted delivery to specific regions, combined nanomedical approaches, theranostic strategies, and standardized assessments of biodistribution, effectiveness, safety, and translational potential.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 메타파인(Amethphetamine) 중독(MUD)을 치료하는 FDA 승인된 약물이 부족한 상황에서, 나노입자 기반의 뇌 targeting 약물 전달 방법의 발전과 도전에 대해 조명하고 있습니다. 메타파인 중독은 세계적으로 중요한 건강 문제이며, 현재까지 효과적인 치료법이 부족합니다. 나노입자 기반의 약물 전달은 다양한 치료 콘보를 뇌의 관련 뇌 구역으로 안전하게 전달할 수 있습니다.",
+      "methods": "논문은 다양한 나노입자 카버리어를 사용하여 나노입자 기반의 약물 전달이 메타파인 중독에 대한 다양한 문제를 해결하는 방법을 분석합니다. 이들 카버리어는 시스템적 안정성, 뇌-혈관 장벽(BBB) 통과, 뇌 구역별 분포, 인자 내부 콘보의 제어된 분리 등 여러 문제를 해결합니다. 또한, 메타파인 중독에 대한 다양한 치료법을 비교하고, 각 치료법의 장단점을 설명합니다.",
+      "quantitative_results": "논문에서는 시스템적 안정성, BBB 통과, 뇌 구역별 분포, 인자 내부 콘보의 제어된 분리 등 여러 문제를 해결하는 나노입자 카버리어의 성능을 비교합니다. 이들 카버리어는 메타파인 중독에 대한 다양한 치료법을 비교하고, 각 치료법의 장단점을 설명합니다.",
+      "novelty": "이 논문은 나노입자 기반의 약물 전달이 메타파인 중독에 대한 다양한 문제를 해결하는 방법을 분석하고, 이에 대한 새로운 접근 방식을 제안합니다. 또한, 나노입자 카버리어의 성능에 영향을 미치는 여러 요인을 분석하고, 이를 통해 나노입자 카버리어의 성능을 개선하는 방법을 제안합니다.",
+      "limitations": "논문에서는 나노입자 카버리어의 성능에 영향을 미치는 여러 요인을 분석하고, 이를 통해 나노입자 카버리어의 성능을 개선하는 방법을 제안합니다. 그러나, 이 연구는 아직 시험대상 동물 모델과 인간의 중독 상황을 비교하는 데 한계가 있습니다. 또한, 나노입자 카버리어의 성능에 영향을 미치는 여러 요인을 분석하고, 이를 통해 나노입자 카버리어의 성능을 개선하는 방법을 제안합니다.",
+      "future_research": "이 논문은 나노입자 카버리어의 성능을 개선하는 방법을 제안하고, 이를 통해 나노입자 카버리어의 성능을 개선하는 방법을 제안합니다. 후속 연구에서는 나노입자 카버리어의 성능을 개선하는 방법을 실험적으로 검증하고, 이를 통해 나노입자 카버리어의 성능을 개선하는 방법을 제안합니다."
+    }
   },
   {
     "id": "doi:10.64898/2026.10.12.757977",
@@ -547,7 +599,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42874942/",
     "abstract": "Gene therapy and RNA-based therapeutics are increasingly limited by the challenge of delivering fragile, anionic nucleic acids to the correct intracellular compartment. Zein, the principal maize prolamin, has attracted interest as a biodegradable, self-assembling carrier that can protect cargo and be combined with polymeric, lipidic, targeted and biomimetic components. This review critically evaluates zein-based systems for plasmid DNA, siRNA, antisense oligonucleotides and related nucleic-acid cargos. Native zein is best regarded as a protective and sustained-release matrix rather than a stand-alone high-efficiency transfection vector. In contrast, hybrid systems can add nucleic-acid condensation, colloidal stabilization, targeting and intracellular-trafficking functions through components such as chitosan, polyethylenimine, dendritic poly(l-lysine), lipids and targeting ligands. Direct evidence of endosomal escape remains limited, with only one reviewed study providing imaging evidence consistent with improved lysosomal escape. Cargo-specific evidence is strongest for plasmid DNA, with functional proof-of-concept also reported for selected siRNA and antisense oligonucleotide systems, whereas robust mRNA translation and CRISPR genome editing have not yet been demonstrated with zein-based carriers. The translational rationale for zein lies not in superior intrinsic transfection efficiency, but in route-specific protection, sustained release, hydrophobic drug co-loading and use as a biodegradable scaffold within multifunctional hybrids. Zein-based gene delivery remains preclinical and requires stronger mechanistic, cargo-specific and route-specific validation.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 zein을 기반으로 한 합성 nanocarriers가 plasmid DNA, siRNA, antisense oligonucleotides와 같은 안전하지 않은 분자들을 안전하게 전달하는 데 사용될 수 있는 가능성을 검토합니다. 이는 현재의 비유전성 분자 전달 방법이 안전한 분자 전달을 위한 제한적이라는 현실을 고려한 것입니다.",
+      "methods": "이 연구는 zein을 기반으로 한 합성 nanocarriers의 효능을 평가하기 위해 plasmid DNA, siRNA, antisense oligonucleotides와 같은 다양한 분자들을 사용했습니다. 이 합성 nanocarriers는 zein, chitosan, polyethylenimine, dendritic poly(l-lysine), lipids와 같은 다양한 구성 요소를 포함했습니다.",
+      "quantitative_results": "이 연구는 zein을 기반으로 한 합성 nanocarriers가 plasmid DNA, siRNA, antisense oligonucleotides와 같은 다양한 분자들을 안전하게 전달하는 데 사용될 수 있는 가능성을 검토했습니다. 이 연구는 direct evidence of endosomal escape가 아직 제한적이라는 점을 확인했습니다.",
+      "novelty": "이 연구는 zein을 기반으로 한 합성 nanocarriers가 plasmid DNA, siRNA, antisense oligonucleotides와 같은 다양한 분자들을 안전하게 전달하는 데 사용될 수 있는 가능성을 검토했습니다. 이는 기존 연구에서 보고되지 않은 새로운 측면을 포함하고 있습니다.",
+      "limitations": "이 연구는 direct evidence of endosomal escape가 아직 제한적이라는 점을 확인했습니다. 또한, robust mRNA translation과 CRISPR genome editing에 대한 zein 기반 carriers의 효과는 아직 확인되지 않았습니다. 이 연구는 아직 전파를 위한 내재적인 전달 효율성의 향상을 목표하지 않았습니다.",
+      "future_research": "후속 연구는 zein 기반 합성 nanocarriers가 plasmid DNA, siRNA, antisense oligonucleotides와 같은 다양한 분자들을 안전하게 전달하는 데 사용될 수 있는 가능성을 더 강력하게 증명하는 데 중점을 두어야 합니다. 또한, zein 기반 carriers가 사용 가능한 다양한 분자들에 대한 효율성을 확인하는 것이 중요합니다."
+    }
   },
   {
     "id": "doi:10.1038/s41590-026-02685-2",
@@ -561,7 +621,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42875546/",
     "abstract": "Most patients with solid tumors fail to sustain antitumor immunity, in part because immune cells cannot outcompete cancer cells inside the immunosuppressive tumor microenvironment. Here, we show the lipid-sensing transcription factor PPARδ is a compartment-specific determinant of cancer-immune fitness balance and immunotherapy efficacy. Activating PPARδ in cancer cells promotes their growth and impairs antitumor immunity, whereas activating it in immune cells drives tumor suppression and overrides tumor-promoting effects of cancer-intrinsic activation. Mechanistically, PPARδ enhances CD8 + T cell fitness against cancer through effector-associated chromatin remodeling and Cpt1a-mediated fatty acid oxidation. Therapeutically, PPARδ-activated CD8 + T cells sensitize immunotherapy-resistant microsatellite stable metastatic colorectal cancer to checkpoint blockade in mice, and pharmacological or genetic PPARδ activation enhances human chimeric antigen receptor T cell function. These findings identify compartment-specific PPARδ activity as a targetable driver of immune cell fitness that can be harnessed to improve outcomes in immunotherapy-resistant tumors.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 암과 면역 세포 간의 경쟁에서 PPARδ 활성의 분 compartment 특이성에 대한 이해를 제공하고, 이를 이용하여 면역 치료의 효과를 향상시키는 새로운 접근법을 제시합니다.",
+      "methods": "이 연구에서는 암 세포와 면역 세포에서 PPARδ의 활성화를 조절하여 암 치료의 효과를 향상시키는 방법을 실험적으로 확인했습니다. 이 실험은 야생 동물 모델을 사용하여 수행되었으며, 면역 치료에 저항하는 암 세포의 치료에 대한 효과를 평가했습니다.",
+      "quantitative_results": "이 연구에서는 PPARδ 활성화가 암 세포와 면역 세포 간의 균형을 조절하는 데 중요한 역할을 한다는 것을 입증했습니다. 또한, PPARδ 활성화가 면역 치료에 저항하는 암 세포의 치료에 효과적인 것으로 나타났습니다.",
+      "novelty": "이 연구는 PPARδ의 compartment-specific 활성화가 암과 면역 세포 간의 경쟁에서 중요한 역할을 한다는 새로운 개념을 제시하며, 이는 기존 연구와는 다른 관점에서 접근한 것입니다.",
+      "limitations": "이 연구에서는 야생 동물 모델을 사용하여 결과를 확인하였으며, 이는 인간 환경에서의 적용성을 확인하기 어렵다는 한계가 있습니다. 또한, 이 연구에서는 PPARδ의 활성화가 암 치료에 효과적인지에 대한 확실한 증거가 제공되지 않았습니다.",
+      "future_research": "이 연구는 PPARδ의 compartment-specific 활성화가 암 치료에 대한 새로운 접근법을 제시하였으므로, 이를 인간 환경에서 확인하기 위한 후속 연구가 필요합니다. 또한, PPARδ의 활성화가 암 치료에 효과적인지에 대한 추가적인 연구가 필요합니다."
+    }
   },
   {
     "id": "doi:10.1093/neuonc/noag168",
