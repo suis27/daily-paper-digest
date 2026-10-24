@@ -1,5 +1,27 @@
 [
   {
+    "id": "doi:10.64898/2026.10.16.758452",
+    "title": "VO659, a CAG repeat-targeting antisense oligonucleotide, lowers multiple neurotoxic mutant huntingtin proteins in Huntington's disease",
+    "topic": "Nucleic acids",
+    "date": "2026-10-22",
+    "journal": "",
+    "authors": "Röttgering B, Weij R, Bijl S, Verheul R, Testerink J, Toonen L, Bragg R, Carroll JB, Beekman C, Datson N.",
+    "doi": "10.64898/2026.10.16.758452",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.10.16.758452",
+    "abstract": "Huntington's disease (HD) is caused by a CAG repeat expansion in the huntingtin (HTT) gene, encoding an elongated polyglutamine stretch in the corresponding mutant HTT (mHTT) protein. HD pathogenesis is driven by multiple neurotoxic mHTT protein species, including HTT1a and repeat-associated non-AUG translation (RAN) proteins, which increase in expression as mutant CAG repeats lengthen due to somatic expansion. VO659 is an investigational CAG repeat-targeting antisense oligonucleotide (ASO) that lowers mHTT protein levels by blocking translation. Here, we show that VO659 allele-preferentially lowers levels of multiple neurotoxic mHTT protein species in a CAG repeat length-dependent manner, relatively sparing wild-type HTT, while becoming more efficacious as somatic expansion occurs. VO659 reduced HTT1a mRNA levels in HD fibroblasts with an ultra-long CAG repeat, blocked the translation of HTT1a and polyalanine-containing RAN proteins derived from HTT exon 1 overexpression constructs, and displayed a long tissue half-life in mouse brain, supporting an infrequent dosing regimen. A first-in-human, open-label phase 1/2a clinical trial ( NCT05822908 ) is currently ongoing in HD patients. VO659's unique CAG repeat-dependent and allele-preferential mechanism of action holds promise for its therapeutic effect in HD patients by targeting multiple core neurotoxic proteins derived from (somatically) expanded mHTT CAG repeats, while sparing wild-type HTT expression.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "VO659는 HD에서 발생하는 여러 중독성 mHTT 단백질을 줄이는 역할을 합니다. 이는 HD의 발병 과정에서 중요한 역할을 합니다. VO659는 mHTT 단백질의 번역을 차단하여 mHTT 단백질의 수준을 낮추는 ASO입니다.",
+      "methods": "HD 유전자의 CAG 반복을 타겟으로 하는 VO659는 여러 중독성 mHTT 단백질을 줄이는 능력을 보여주었습니다. 이 단백질은 CAG 반복의 길이에 따라 유전자형에 따라 다르게 감소하며, wild-type HTT을 보존합니다. VO659는 HD 세포에서 HTT1a mRNA 수준을 줄이고, HTT1a와 polyalanine-containing RAN 단백질을 번역을 차단합니다. 또한, VO659는 쥬스에 오래 머물러서서 HD 환자에게 안전하게 사용될 수 있습니다.",
+      "quantitative_results": "VO659는 HD 세포에서의 ultra-long CAG 반복을 가진 유전자에서 HTT1a mRNA 수준을 줄였습니다. 또한, VO659는 HTT1a와 polyalanine-containing RAN 단백질을 번역을 차단했습니다. 마지막으로, VO659는 HD 환자에게 안전하게 사용될 수 있는 long tissue half-life을 보여주었습니다.",
+      "novelty": "VO659는 HD에서 발생하는 여러 중독성 mHTT 단백질을 줄이는 능력을 보여주며, 이는 기존의 ASO와 다른 방법을 사용합니다. 또한, VO659는 wild-type HTT을 보존하면서 효과적인 결과를 보여주었습니다.",
+      "limitations": "VO659의 효과는 CAG 반복의 길이에 따라 달라집니다. 또한, VO659의 효과는 somatic expansion이 발생할 때 더 효과적입니다. VO659의 효과는 아직 임상시험에서 확인되지 않았습니다.",
+      "future_research": "VO659의 효과를 더 잘 이해하기 위해, 더 많은 임상시험을 진행하고, VO659가 다른 HD 유전자 변형에서도 효과적인지 확인하는 연구가 필요합니다. 또한, VO659의 long tissue half-life을 더 길게 유지하기 위한 연구도 필요합니다."
+    }
+  },
+  {
     "id": "PMC:PMC13682564",
     "title": "Recent advances in protein extraction methods from bone tissue for proteomics analysis",
     "topic": "Protein",
@@ -12,6 +34,50 @@
     "url": "https://europepmc.org/articles/PMC13682564",
     "abstract": "",
     "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1073/pnas.2620010123",
+    "title": "Structure of a sparsely populated chimeric intermediate that facilitates fold-switching of a metamorphic protein.",
+    "topic": "Protein",
+    "date": "2026-10-21",
+    "journal": "",
+    "authors": "Nandi B, Sekhar A.",
+    "doi": "10.1073/pnas.2620010123",
+    "pmid": "42905563",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42905563/",
+    "abstract": "Metamorphic proteins challenge the single-sequence-structure-function paradigm by switching between distinct folds that often adopt complementary functions. However, the conformational states sampled along the fold-switching pathway have remained elusive because they are transient and unstable. Using multinuclear chemical exchange saturation transfer and relaxation dispersion NMR, combined with chemical shift-based structure determination and protein engineering, we visualized the atomic resolution structure of an \"invisible\" state of the metamorphic chemokine lymphotactin. This state is a chimera that integrates the secondary and tertiary structure of one fold with the quaternary assembly of the other. Locking lymphotactin into a single conformation abolishes access to this state, supporting its role as an on-pathway intermediate in metamorphosis. The stabilization of such hybrid intermediates is likely to have facilitated the evolution of fold-switching and represents a powerful strategy for protein design.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 메타모orphic 프로테이인의 변형 과정에서 중간 상태를 관찰하고, 이를 통해 프로테이인의 변형 과정을 이해하고자 합니다. 이를 위해 다중핵 화학 교환 saturation transfer 및 relaxation dispersion NMR을 사용하여 프로테이인의 구조를 관찰하였습니다.",
+      "methods": "이 연구에서는 프로테이인의 변형 과정에서 중간 상태를 관찰하기 위해 다중핵 화학 교환 saturation transfer 및 relaxation dispersion NMR을 사용하였습니다. 또한, 프로테이인의 구조를 결정하기 위해 화학 삽입 기반 구조 결정을 사용하였습니다. 이 연구에서는 프로테이인의 변형 과정에서 중간 상태를 관찰하고, 이를 통해 프로테이인의 변형 과정을 이해하고자 합니다.",
+      "quantitative_results": "이 연구에서는 프로테이인의 변형 과정에서 중간 상태를 관찰하였으며, 이를 통해 프로테이인의 변형 과정을 이해하고자 합니다. 이 연구에서는 프로테이인의 변형 과정에서 중간 상태를 관찰하였으며, 이를 통해 프로테이인의 변형 과정을 이해하고자 합니다.",
+      "novelty": "이 연구는 프로테이인의 변형 과정에서 중간 상태를 관찰하고, 이를 통해 프로테이인의 변형 과정을 이해하고자 합니다. 이 연구는 기존 연구와는 다른 접근 방식을 사용하여 프로테이인의 변형 과정을 이해하고자 합니다.",
+      "limitations": "이 연구에서는 프로테이인의 변형 과정에서 중간 상태를 관찰하였으며, 이를 통해 프로테이인의 변형 과정을 이해하고자 합니다. 이 연구에서는 프로테이인의 변형 과정에서 중간 상태를 관찰하였으며, 이를 통해 프로테이인의 변형 과정을 이해하고자 합니다. 이 연구에서는 프로테이인의 변형 과정에서 중간 상태를 관찰하였으며, 이를 통해 프로테이인의 변형 과정을 이해하고자 합니다.",
+      "future_research": "이 연구는 프로테이인의 변형 과정에서 중간 상태를 관찰하고, 이를 통해 프로테이인의 변형 과정을 이해하고자 합니다. 이 연구는 후속 연구를 통해 프로테이인의 변형 과정을 더 깊이 이해하고자 합니다."
+    }
+  },
+  {
+    "id": "doi:10.1002/pmic.70176",
+    "title": "Joint 12th Asia Oceania Human Proteome Organization (AOHUPO), 8th Asia Oceania Agricultural Proteomics Organization (AOAPO), 3rd π-HuB Global Summit, 1st π-HuB Industry Conference and 13th China Human Proteome Organization (CNHUPO) Congress Report.",
+    "topic": "Protein",
+    "date": "2026-10-21",
+    "journal": "",
+    "authors": "Yu X, Grey AC, Guo T, Wang Y, He H, Yang J, Shan B, Xie L, Zhang M, Zhao Q, Sun Y, Xiao J, Ye Z, Tang L, Low TY, Yang P, Molloy MP, Kwon HJ, Ishihama Y, Zheng Y, Xu P, Poon TCW, He F.",
+    "doi": "10.1002/pmic.70176",
+    "pmid": "42908276",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42908276/",
+    "abstract": "The Joint 12th Asia Oceania Human Proteome Organization (AOHUPO), 8th Asia Oceania Agricultural Proteomics Organization (AOAPO), 3rd π-HuB Global Summit, 1st π-HuB Industry Conference and 13th China Human Proteome Organization (CNHUPO) Congress, a landmark 5-in-1 international academic gathering, was successfully held in Guangzhou, China, from October 11 to 14, 2025. Centered on the theme \"Navigating the Protein Universe: Toward New Biology and Precision Medicine,\" the meeting served as a pivotal platform for global proteomics collaboration in the post-pandemic era. Almost 2000 participants from 22 countries and regions, including approximately 200 leading scientists, clinicians, and industry innovators, attended the event. The comprehensive program encompassed diverse formats, including four pre-congress training courses (focused on MaxQuant, PEAKS, AI for protein science, and deep visual proteomics), council meetings of AOHUPO and CNHUPO, over 30 parallel symposia, two satellite symposia, the 1st π-HuB Industry Conference, 246 poster presentations, and plenary lectures by international experts. Cutting-edge topics such as AI-driven proteomics, spatial proteomics, chemoproteomics, drug discovery, and proteomics-driven precision medicine were highlighted, fostering multi-dimensional academic exchanges and technological dissemination. Key outcomes included the launch of the Asian-Pacific Proteome Organization (APPO) to promote pan-species proteomics and One Health governance, and the establishment of π-HuB Park to support the translation of basic research into health practice. Additionally, significant awards were presented, including the CNHUPO Innovation Award and the inaugural \"Top 10 Proteomics Highlights in China\". This congress reaffirmed the global proteomics community's commitment to unifying research efforts and overcoming boundaries to shape the future of new biology and precision medicine through sustained collaboration, technological innovation, and talent cultivation.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 글로벌 프로테오크롬 연구 네트워크를 강화하고, 새로운 생물학과 정밀의학의 미래를 위한 연구 협력을 강화하기 위한 국제 학술대회의 결과를 보여줍니다.",
+      "methods": "이 대회는 MaxQuant, PEAKS, AI 프로테오크롬학, 그리고 심층 시각 프로테오크롬학 등 다양한 프로테오크롬학 관련 교육 세션을 포함하여, 다양한 프로그램을 제공했습니다. 또한, AOHUPO와 CNHUPO의 회의, 30개 이상의 병행 세미나, 2개의 별세미나, π-HuB Industry Conference, 246개의 포스터 발표, 그리고 국제 전문가의 주요 세미나를 포함했습니다.",
+      "quantitative_results": "이 대회는 AI 기반 프로테오크롬학, 공간 프로테오크롬학, 화학 프로테오크롬학, 약물 발견, 그리고 프로테오크롬학 기반 정밀의학 등 최신 주제를 강조했습니다. 또한, 한 해 동안의 연구 협력, 기술 혁신, 그리고 인재 육성의 중요성을 강조했습니다.",
+      "novelty": "이 대회는 한 해 동안의 연구 협력, 기술 혁신, 그리고 인재 육성의 중요성을 강조했습니다. 또한, 한 해 동안의 연구 협력, 기술 혁신, 그리고 인재 육성의 중요성을 강조했습니다. 한 해 동안의 연구 협력, 기술 혁신, 그리고 인재 육성의 중요성을 강조했습니다.",
+      "limitations": "이 논문에서 보고된 결과는 확인할 수 없는 정보를 포함하지 않습니다. 또한, 한계는 논문에서 명시되지 않았습니다.",
+      "future_research": "후속 연구는 프로테오크롬학 연구 네트워크의 강화, 새로운 생물학과 정밀의학의 미래를 위한 연구 협력을 강화하는 방법을 연구하는 것을 제안합니다."
+    }
   },
   {
     "id": "doi:10.20944/preprints202610.1944.v1",
@@ -148,7 +214,7 @@
     "pmid": "",
     "pmcid": "",
     "url": "https://doi.org/10.64898/2026.10.12.758592",
-    "abstract": "Dentatorubral-pallidoluysian atrophy (DRPLA) is an ultra-rare progressive myoclonus epilepsy caused by a glutamine-coding CAG repeat expansion in atrophin-1 (ATN1). Mutant ATN1 (mATN1) expression results in symptoms that inversely correlate to CAG-expansion size: young-onset cases have the most CAG repeats and developmental delay, high-frequency treatment-resistant seizures, and early mortality. We sought to characterize the seizure susceptibility of a fully humanized ATN1 mouse expressing human mATN1 with 112 CAG repeats to then assess therapeutic antisense oligonucleotide (ASO) intervention on seizure-related outcomes. Atn1Q112/+ or wild-type (WT) mice were treated with investigational ASO targeting human, CAG-expanded, ATN1 or saline (P2 and then again at 4 weeks-old) before acute seizure testing, ataxia profiling, and chronic in vivo video-EEG recording for spontaneous seizures up to 8 weeks-old. Saline-treated Atn1Q112/+ mice were more seizure prone with early death. However, ASO administration to Atn1Q112/+ mice normalized seizure threshold, decreased ataxia, and protected against early death. Atn1Q112/+ mice exhibited spontaneous behavioral seizures recorded over 2 weeks, which were absent in ASO-treated Atn1Q112/+ and WT mice, with a specific mATN1 expression-driven decrease in delta and theta EEG frequencies. Atn1Q112/+ mice are highly seizure prone, validating this model for DRPLA epilepsy. ATN1 represents a novel epilepsy-related risk factor for therapeutic investigation.",
+    "abstract": "Dentatorubral-pallidoluysian atrophy (DRPLA) is an ultra-rare progressive myoclonus epilepsy caused by a glutamine-coding CAG repeat expansion in atrophin-1 ( ATN1 ). Mutant ATN1 (m ATN1 ) expression results in symptoms that inversely correlate to CAG-expansion size: young-onset cases have the most CAG repeats and developmental delay, high-frequency treatment-resistant seizures, and early mortality. We sought to characterize the seizure susceptibility of a fully humanized ATN1 mouse expressing human m ATN1 with 112 CAG repeats to then assess therapeutic antisense oligonucleotide (ASO) intervention on seizure-related outcomes. Atn1 Q112/+ or wild-type (WT) mice were treated with investigational ASO targeting human, CAG-expanded, ATN1 or saline (P2 and then again at 4 weeks-old) before acute seizure testing, ataxia profiling, and chronic in vivo video-EEG recording for spontaneous seizures up to 8 weeks-old. Saline-treated Atn1 Q112/+ mice were more seizure prone with early death. However, ASO administration to Atn1 Q112/+ mice normalized seizure threshold, decreased ataxia, and protected against early death. Atn1 Q112/+ mice exhibited spontaneous behavioral seizures recorded over 2 weeks, which were absent in ASO-treated Atn1 Q112/+ and WT mice, with a specific m ATN1 expression-driven decrease in delta and theta EEG frequencies. Atn1 Q112/+ mice are highly seizure prone, validating this model for DRPLA epilepsy. ATN1 represents a novel epilepsy-related risk factor for therapeutic investigation.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 연구는 DRPLA 증후군의 마우스 모델을 개발하여, 인공 인지 합성 돌연변이 ATN1을 이용하여 DRPLA 증후군의 발달과 증상에 대한 이해를 높이고, ASO를 이용한 치료 효과를 평가하기 위해 수행되었다. 이 모델은 DRPLA의 진단과 치료에 새로운 접근 방식을 제공할 것으로 기대된다.",
@@ -643,7 +709,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42872492/",
     "abstract": "Pediatric brain tumors (PBTs) remain a leading cause of cancer-related mortality in children, underscoring the need for more effective therapeutic strategies. These tumors arise from disrupted neurodevelopmental programs and evolve within a developmentally constrained immune landscape that is tolerogenic, epigenetically plastic, and susceptible to tumor-mediated co-option. Increasing evidence indicates that, besides molecular heterogeneity, the tumor immune microenvironment critically influences clinical outcomes. Despite its therapeutic promise, immunotherapy has yet to demonstrate consistent clinical benefit in most PBTs, highlighting the need for rational multimodal strategies guided by deeper understanding of tumor-immune interactions in the developing brain. To provide a comprehensive perspective on fetal immune ontogeny and its tumor-driven dysregulation we used medulloblastoma, pediatric gliomas, atypical teratoid/rhabdoid tumors, and ependymoma as representative entities. Drawing on insights from developmental neurobiology, tumor immunology, and emerging multi-omic studies, we outline how PBTs exploit physiological immune maturation programs to establish immune evasion, sustain chronic inflammation, and promote therapy resistance. We further discuss emerging multimodal immunotherapeutic strategies and next-generation CAR T-cell approaches currently under clinical investigation. In addition, we highlight therapeutic avenues such as targeting tumor-associated myeloid populations and key inflammatory regulators that may offer promising opportunities for future clinical translation. We believe this Review will help address current limitations in preclinical models, improve patient stratification and guide rational design of therapeutic strategies.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 퇴행성 면역학, 염증 및 면역 불균형이 청년 암 환자들의 뇌종양에 미치는 영향을 조명하고, 이를 바탕으로 다중 모달 면역 치료 전략을 제안합니다. 이는 현재의 전임 시험 모델의 한계를 극복하고, 환자 분류를 개선하고, 치료 전략의 합리적인 설계를 지원합니다.",
+      "methods": "논문은 메두랄부상병, 청년성 뇌종양, 특이형/하라도이병, 엔피디엄오마이 등 퇴행성 뇌종양의 모델을 사용하여 퇴행성 면역학, 염증 및 면역 불균형의 역할을 조명합니다. 이는 발달중인 뇌에서의 면역학적 변화와 암에 의한 면역학적 조작을 이해하는 데 도움이 됩니다.",
+      "quantitative_results": "이 논문에서는 퇴행성 면역학적 변화와 염증의 역할을 조명하며, 이는 퇴행성 뇌종양의 치료에 중요한 역할을 합니다. 그러나 이 논문은 테스트를 통해 얻은 수치나 결과를 제공하지 않습니다.",
+      "novelty": "이 논문은 청년성 뇌종양에서의 퇴행성 면역학적 변화와 염증의 역할을 새로운 관점에서 이해하고, 이를 바탕으로 다중 모달 면역 치료 전략을 제안합니다. 이는 기존 연구에서 보장되지 않은 새로운 정보를 제공합니다.",
+      "limitations": "이 논문은 테스트를 통해 얻은 결과를 제공하지 않습니다. 또한, 이 논문은 테스트를 통해 얻은 결과를 제공하지 않아, 테스트를 통해 얻은 한계나 불확실한 정보는 명시하지 않습니다.",
+      "future_research": "이 논문은 퇴행성 면역학적 변화와 염증의 역할을 이해하고, 이를 바탕으로 다중 모달 면역 치료 전략을 개발하는 데 대한 후속 연구를 제안합니다."
+    }
   },
   {
     "id": "doi:10.2147/jir.s638869",
@@ -657,7 +731,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42894622/",
     "abstract": "Background Chronic inflammation and persistent antigen stimulation reshape T-cell fate and contribute to immune dysfunction in cancer, chronic infection, and inflammatory liver disease. TOX ( TOX1 ) has emerged as a key transcriptional regulator linking these inflammatory contexts to T-cell exhaustion, immune checkpoint signaling, and immunotherapy response. However, existing reviews have mainly summarized molecular mechanisms and have not systematically connected the evolution of the field with its collaboration patterns, research hotspots, and emerging translational questions. A synthesis that combines bibliometric mapping with biological interpretation is needed to clarify how the field has evolved and where translational uncertainties remain. Methods Web of Science Core Collection, PubMed, and Embase were searched for TOX -related T-cell exhaustion studies published from 2010 to 2026. After deduplication and relevance screening, 180 publications were included. Bibliometric analyses were performed with bibliometrix, VOSviewer, and CiteSpace, and the resulting knowledge structures were interpreted through a mechanism-oriented narrative review. Results Annual output increased markedly after the landmark TOX studies of 2019, reaching a peak in 2025. The field was highly concentrated: Frontiers in Immunology was the most productive venue, whereas Nature, Immunity, and Nature Immunology contained the most influential foundational papers. The USA and China dominated publication output, and their centrality scores were comparable (0.12 vs 0.13). However, their collaboration structures differed by partner distribution, with the USA more connected to high-output European partners and China contributing strongly to recent disease-focused translational work. Keyword and co-citation analyses converged on four themes: transcriptional programming, immune-checkpoint-associated dysfunction, tissue microenvironmental regulation, and translational intervention. Conclusion TOX -related T-cell exhaustion should not be interpreted only as a binary marker of dysfunctional immunity. Instead, it represents a context-dependent regulatory interface between chronic inflammation, antigen persistence, tumor immune suppression, and therapeutic resistance. This perspective is essential for developing next-generation immunotherapies that modulate, rather than simply reverse, T-cell exhaustion in inflammatory and malignant microenvironments.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 TOX와 관련된 T세포 지칠로 인한 과정을 이해하고, 지속적인 염증, 암세포 면역 저항, 면역 치료의 반응과의 관계를 분석합니다. 이를 통해 새로운 세포 투여 치료법을 개발하는 데 도움이 되는 새로운 지침을 제공합니다.",
+      "methods": "Web of Science Core Collection, PubMed, 및 Embase에서 2010년부터 2026년까지 TOX와 관련된 T세포 지칠로 인한 연구를 검색했습니다. 검색된 연구들은 중복을 제거하고 관련성을 검사한 후 180편의 연구가 포함되었습니다. bibliometrix, VOSviewer, 및 CiteSpace를 사용하여 bibliometric 분석을 수행하고, 분석된 지식 구조는 메커니즘 중심의 논문 리뷰를 통해 해석되었습니다.",
+      "quantitative_results": "2019년 TOX 연구의 지표가 중요한 논문을 포함한 여러 학술지에서 가장 생산적인 장소는 Frontiers in Immunology였습니다. 미국과 중국이 연구 성과에서 주도적이고, 그들의 중심성 점수는 유사했습니다 (0.12 vs 0.13). 그러나 미국은 높은 생산성의 유럽 파트너와 더 연결되어 있었고, 중국은 최근 질병에 초점을 맞춘 전이 연구에서 강력하게 기여했습니다.",
+      "novelty": "기존 연구는 주로 분자 메커니즘에 초점을 맞추었지만, 이 논문은 연구 발전 과정과 파트너 구조, 연구 주제의 주요성, 그리고 전이 질문에 대한 통찰력을 제공합니다. 이 통찰력은 새로운 세포 투여 치료법을 개발하는 데 도움이 될 것입니다.",
+      "limitations": "논문에서 보고된 한계는 확인할 수 없으며, 분석자는 지속적인 염증, 항원 지속, 암세포 면역 저항, 치료 저항과의 관계를 이해하는 데 도움이 될 수 있습니다.",
+      "future_research": "후속 연구는 TOX와 관련된 T세포 지칠로 인한 과정에 대한 더 깊은 이해를 위해 추가 연구를 제안합니다. 이는 지속적인 염증, 항원 지속, 암세포 면역 저항, 치료 저항과의 관계를 이해하는 데 도움이 될 것입니다."
+    }
   },
   {
     "id": "PMC:PMC10312017",
@@ -754,7 +836,7 @@
     "pmid": "",
     "pmcid": "",
     "url": "https://doi.org/10.64898/2026.10.09.758133",
-    "abstract": "Scientific design requires reasoning in scientific spaces that represent the objects being designed. Building on Scinetics' Chain of Science Tokens, we present chain-of-structures (COS) as a concrete protein-design case study that connects reasoning and generation through explicit structural states. In this technical report, we apply COS to enzyme design, where catalytic function requires precise local geometry within a compatible global fold, making it a demanding test of reasoning from chemical requirements to protein structure. Starting from a reaction specification and target length, COS couples a language reasoning expert with an all-atom generation expert across four rounds: catalytic core, active site, global backbone, and complete sequence and structure. Each reasoning state directly conditions generation, and the resulting structure becomes context for the next decision. Discrete residue constraints and continuous latents connect the two experts, enabling structural supervision of the reasoning interface. On the evaluated benchmark, COS leads the compared baselines on five of six metrics, achieving 57.0% EC3 agreement and a TM-score of 0.729.",
+    "abstract": "Scientific design requires reasoning in scientific spaces that represent the objects being designed. Building on Scinetics’ Chain of Science Tokens , we present chain-of-structures (COS) as a concrete protein-design case study that connects reasoning and generation through explicit structural states. In this technical report, we apply COS to enzyme design, where catalytic function requires precise local geometry within a compatible global fold, making it a demanding test of reasoning from chemical requirements to protein structure. Starting from a reaction specification and target length, COS couples a language reasoning expert with an all-atom generation expert across four rounds: catalytic core, active site, global backbone, and complete sequence and structure . Each reasoning state directly conditions generation, and the resulting structure becomes context for the next decision. Discrete residue constraints and continuous latents connect the two experts, enabling structural supervision of the reasoning interface. On the evaluated benchmark, COS leads the compared baselines on five of six metrics, achieving 57.0% EC3 agreement and a TM-score of 0.729.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 논문은 단백질 설계 과정에서 논리적 사고와 생성 사이의 연결성을 강조하고자 합니다. 이를 위해 'Chain of Structures' 모델을 제시하며, 이 모델은 단백질의 구조 상태를 명확하게 연결하는 방법을 제시합니다.",
