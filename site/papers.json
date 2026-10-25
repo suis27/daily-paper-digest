@@ -1,5 +1,41 @@
 [
   {
+    "id": "PMC:PMC13693265",
+    "title": "From Discovery Proteomics to Process-Informed Monitoring in Biomanufacturing Chassis Development",
+    "topic": "Protein",
+    "date": "2026-10-24",
+    "journal": "",
+    "authors": "Russell M, Brownridge P, Windo J, Scrutton N, Eyers C, Barran P.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13693265",
+    "url": "https://europepmc.org/articles/PMC13693265",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1126/sciadv.aeh6590",
+    "title": "In situ CAR-M engineered by liposomal mRNA nanomedicine remodels fibrotic microenvironment for ameliorating liver fibrosis.",
+    "topic": "Drug delivery",
+    "date": "2026-10-23",
+    "journal": "",
+    "authors": "Xiao H, Li X, Cai K, Leng Y, Miao X, Yin T, Shuai X, Ren J.",
+    "doi": "10.1126/sciadv.aeh6590",
+    "pmid": "42913010",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913010/",
+    "abstract": "Liver fibrosis is a severe complication of diverse chronic liver diseases characterized by a dysregulated hepatic microenvironment, and effective clinical therapeutic strategies for this condition remain lacking to date. Chimeric antigen receptor macrophages (CAR-Ms) hold considerable therapeutic potential for liver fibrosis via antigen-specific recognition and efferocytotic activity, yet their clinical translation is largely hindered by the sophisticated ex vivo preparation procedures. Herein, we report an in situ CAR-M engineering strategy that uses a phosphatidylserine (PS)-incorporated, macrophage-targeted lipid nanoparticle (LNP) for the codelivery of CAR messenger RNA (mRNA) and Cas9 mRNA in vivo. Our findings demonstrate that this engineered LNP achieves efficient targeting of liver-resident macrophages. Transfection with fibroblast activation protein α (FAPα)-CAR mRNA equips macrophages with the capacity to specifically target activated hepatic stellate cells (aHSCs), whereas Cas9-mediated follistatin-like protein 1 (FSTL-1) gene editing enhances the efferocytotic function of macrophages in liver tissues. Consequently, functional CAR-Ms are generated in situ, which elicits robust antifibrotic effects, including reduced collagen deposition, restored sinusoidal architecture and enhanced immune-mediated antifibrotic activity. Collectively, our customized LNP-mediated in situ engineering of liver macrophages into CAR-Ms enables precise antifibrotic intervention for liver fibrosis and circumvents the cumbersome ex vivo CAR-M preparation process.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 다양한 만성 간질환으로 인한 간 기능성 손상의 중증 병변인 간 기저질환을 개선하기 위한 효과적인 치료 전략이 아직 충분히 존재하지 않는 상황에서, 간 기저질환을 개선하기 위한 카이로마이그레이션(CAR-M) 세포를 현장에서 설계하는 방법을 제시합니다.",
+      "methods": "이 연구에서는 포 phosphatidylserine (PS)를 포함한 매크로포테이트(Targeted lipid nanoparticle)를 사용하여 인 vivo에서 카이로메그레이션(CAR-M) mRNA와 카스9 mRNA를 코 deliveries합니다. 이 설계는 현장에서 간 기저질환을 개선하는 간 기저질환 카이로메그레이션(CAR-M) 세포를 설계하는 데 사용됩니다.",
+      "quantitative_results": "이 연구는 현장에서 설계된 카이로메그레이션(CAR-M) 세포가 간 기저질환을 개선하는 데 효과적인 것으로 나타났습니다. 이 세포는 간 기저질환을 개선하는 데 필요한 여러 효과를 보였습니다.",
+      "novelty": "이 연구는 현장에서 간 기저질환을 개선하는 간 기저질환 카이로메그레이션(CAR-M) 세포를 설계하는 데 사용되는 새로운 방법을 제시합니다. 이 방법은 간 기저질환 카이로메그레이션(CAR-M) 세포의 현장에서 설계를 가능하게 합니다.",
+      "limitations": "이 연구는 간 기저질환 카이로메그레이션(CAR-M) 세포의 현장에서 설계를 가능하게 하는 방법을 제시했습니다. 그러나 이 연구는 간 기저질환 카이로메그레이션(CAR-M) 세포의 현장에서 설계를 가능하게 하는 방법을 실험적으로 확인하지 않았습니다. 또한, 이 연구는 간 기저질환 카이로메그레이션(CAR-M) 세포의 현장에서 설계를 가능하게 하는 방법의 효과를 확인하기 위한 추가 연구가 필요합니다.",
+      "future_research": "이 연구는 간 기저질환 카이로메그레이션(CAR-M) 세포의 현장에서 설계를 가능하게 하는 방법을 실험적으로 확인하기 위한 추가 연구가 필요합니다. 이 연구는 간 기저질환 카이로메그레이션(CAR-M) 세포의 현장에서 설계를 가능하게 하는 방법을 실험적으로 확인하기 위한 추가 연구가 필요합니다."
+    }
+  },
+  {
     "id": "doi:10.64898/2026.10.16.758452",
     "title": "VO659, a CAG repeat-targeting antisense oligonucleotide, lowers multiple neurotoxic mutant huntingtin proteins in Huntington's disease",
     "topic": "Nucleic acids",
@@ -19,6 +55,50 @@
       "novelty": "VO659는 HD에서 발생하는 여러 중독성 mHTT 단백질을 줄이는 능력을 보여주며, 이는 기존의 ASO와 다른 방법을 사용합니다. 또한, VO659는 wild-type HTT을 보존하면서 효과적인 결과를 보여주었습니다.",
       "limitations": "VO659의 효과는 CAG 반복의 길이에 따라 달라집니다. 또한, VO659의 효과는 somatic expansion이 발생할 때 더 효과적입니다. VO659의 효과는 아직 임상시험에서 확인되지 않았습니다.",
       "future_research": "VO659의 효과를 더 잘 이해하기 위해, 더 많은 임상시험을 진행하고, VO659가 다른 HD 유전자 변형에서도 효과적인지 확인하는 연구가 필요합니다. 또한, VO659의 long tissue half-life을 더 길게 유지하기 위한 연구도 필요합니다."
+    }
+  },
+  {
+    "id": "doi:10.64898/2026.10.21.760837",
+    "title": "MutaStruct: Revisiting Benchmarks for Single-Site Mutation-Induced Structural Change Prediction",
+    "topic": "Protein",
+    "date": "2026-10-22",
+    "journal": "",
+    "authors": "Huynh T, Ho D, Nguyen VTD, Kha Q, Pham N, Lai K, Hy T.",
+    "doi": "10.64898/2026.10.21.760837",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.10.21.760837",
+    "abstract": "Predicting the structural consequences of single-site mutations is fundamental to understanding protein function, disease mechanisms, and protein engineering. However, existing benchmarks for mutation-induced structural change prediction are often affected by duplicate mutation events, highly similar structural pairs, and experimental-state confounders, which can inflate reported performance. We introduce MutaStruct, a curated benchmark of experimentally observed single-mutation protein structure pairs designed for rigorous evaluation of mutation-induced structural changes. MutaStruct combines residue-level sequence validation, coordinate-level quality control, context-aware filtering, event-level deduplication, and leakage-aware data splitting to improve dataset reliability and evaluation rigor. We benchmark sequence-only structure prediction, physics-based refinement, and learning-based refinement methods together with a Copy-WT diagnostic control. Copy-WT remains highly competitive on backbone-based metrics, while method rankings change substantially across local and mutation-site measures. These results show that overall structural fidelity does not necessarily imply accurate modeling of mutation-associated structural change, underscoring the need for further methodological development beyond current paradigms. The benchmark dataset is currently undergoing further curation and expansion and will be released in a future journal-version update. The codebase, trained models, and evaluation pipeline are publicly available at https://github.com/HySonLab/MutaStruct",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 단백질의 단일 위치mutation이 어떻게 구조적으로 변화하는지 예측하는 기존의 평가지표가 문제점을 가지고 있음을 보여줍니다. 이를 해결하기 위해, 저자는 MutaStruct라는 새로운 평가지표를 제안하였습니다.",
+      "methods": "MutaStruct는 단백질의 단일 위치mutation이 어떻게 구조적으로 변화하는지 예측하는 기존 평가지표의 문제점을 해결하기 위해, 단백질의 단일 위치mutation에 대한 실험적으로 관찰된 구조 쌍을 사용하여 개발되었습니다. 이 평가지표는 단백질 단위의 시퀀스 검증, 좌표 단위의 품질 제어, 상황에 따른 필터링, 이벤트 단위의 중복 제거, 그리고 떠난 데이터 분할을 결합하였습니다.",
+      "quantitative_results": "MutaStruct는 단일 위치mutation이 어떻게 구조적으로 변화하는지 예측하는 기존 평가지표의 문제점을 해결하였음을 보여주었습니다. Copy-WT는 backbone 기반의 지표에서 여전히 우위를 점하였지만, local 및 mutation-site 지표에서는 방법의 순위가 크게 바뀌었습니다. 이 결과는 단일 위치mutation이 어떻게 구조적으로 변화하는지 예측하는 것이 항상 정확한 모델을 생성하는 것은 아니라는 것을 보여줍니다.",
+      "novelty": "기존 연구 대비, MutaStruct는 단백질의 단일 위치mutation이 어떻게 구조적으로 변화하는지 예측하는 기존 평가지표의 문제점을 해결하기 위해, 새로운 평가지표를 제안하였습니다. 이는 단백질의 단일 위치mutation이 어떻게 구조적으로 변화하는지 예측하는 기존 방법을 개선하는 데 중요한 역할을 할 것입니다.",
+      "limitations": "저자는 현재의 연구에서 한계를 명시하지 않았으며, 이러한 한계는 논문에서 확인할 수 없는 사항입니다. 그러나 저자는 이러한 한계를 고려하여 더 많은 연구가 필요하다는 점을 강조하였습니다.",
+      "future_research": "저자는 MutaStruct를 더 잘 활용하기 위해, 더 많은 데이터를 수집하고, 더 다양한 방법을 시험해 보는 등의 후속 연구를 제안하였습니다."
+    }
+  },
+  {
+    "id": "doi:10.1172/jci.insight.196154",
+    "title": "Characterizing NaV1.7 antisense analgesia through antagonist binding, mRNA expression, and neuraxial distribution.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-22",
+    "journal": "",
+    "authors": "Malange K, Borges Paes Lemes J, Noble B, Anchondo Y, Morado-Urbina CE, Jadhav S, Yadav S, Ma J, Augustine V, Dochnal SA, Kambalimath C, Duong M, Alvarez P, Fitzsimmons B, Mazur C, Kordasiewicz HB, Dore K, Zhao HT, Yaksh T.",
+    "doi": "10.1172/jci.insight.196154",
+    "pmid": "42910517",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42910517/",
+    "abstract": "Genome-targeting strategies to address NaV1.7-mediated signaling in nociceptive afferents are of great clinical interest given its high selectivity and persistent analgesic outcomes. In the present work, we analyze concentration-dependent effects of suppressing primary afferent NaV1.7 using the intrathecal delivery of an antisense oligonucleotide (ASO) on pain behaviors and demonstrate that NaV1.7 ASOs are likely to modulate pain traffic by blocking afferent signaling at the dorsal root ganglion (DRG) level. Intrathecal NaV1.7 ASOs induced a concentration-dependent gradient of knockdown in DRGs (lumbar to cervical) of Scn9a mRNA and ATTO488-ProTx-II binding in small DRG neurons, and a suppression of pain behaviors initiated by mechanical compression, inflammation, and the NaV1.7 agonist OD-1. The rostro-caudal reduction in mRNA correlated with ASO distribution, with implications for dose-related analgesic profiles. Marked reduction in DRG NaV1.7 binding was seen after intrathecal delivery of an ASO optimal dose, with high selectivity for small DRG neurons. Changes in sciatic nerve NaV1.7 binding were not detected, indicating a pain traffic modulation likely happening due to a block of afferent signaling at the DRG level.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 NaV1.7 신경세포의 활성화를 통제하는 새로운 전략을 개발하기 위해, 인두 경로를 통해 아나스센트 오리노클로이드核酸를 사용하여 뇌하수체 ganglion (DRG)에서 NaV1.7 mRNA의 감소 효과를 분석하고자 함이다. 이는 NaV1.7이 인두 경로를 통해 전달되는 압통, 염증, 및 NaV1.7 약물 오가니스트 OD-1에 대한 반응을 줄이는 것으로 예상된다.",
+      "methods": "실험은 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입하여 뇌하수체 ganglion (DRG)에서 NaV1.7 mRNA의 감소 효과를 조절하는 방법을 분석하였다. 실험 결과는 DRG에서 Scn9a mRNA의 감소 및 ATTO488-ProTx-II의 농도에 따라 감소하는 뇌하수체 ganglion (DRG)에서의 NaV1.7 암호화물질의 감소를 보여주었다. 또한, 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입한 최적의 농도로 NaV1.7 암호화물질이 감소하는 것을 확인하였다.",
+      "quantitative_results": "보고된 결과는 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입한 뇌하수체 ganglion (DRG)에서의 NaV1.7 암호화물질의 감소와, 뇌하수체 ganglion (DRG)에서의 Scn9a mRNA의 감소와 뇌하수체 ganglion (DRG)에서의 ATTO488-ProTx-II의 감소를 보여주었다. 또한, 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입한 최적의 농도로 NaV1.7 암호화물질이 감소하는 것을 확인하였다.",
+      "novelty": "이 연구는 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입하여 뇌하수체 ganglion (DRG)에서의 NaV1.7 mRNA의 감소 효과를 조절하는 새로운 방법을 제시하였다. 이는 기존 연구에서 보고되지 않은 새로운 효과를 보여주며, 뇌하수체 ganglion (DRG)에서의 NaV1.7 암호화물질의 감소와 뇌하수체 ganglion (DRG)에서의 Scn9a mRNA의 감소와 뇌하수체 ganglion (DRG)에서의 ATTO488-ProTx-II의 감소를 보여주었다.",
+      "limitations": "이 연구는 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입하여 뇌하수체 ganglion (DRG)에서의 NaV1.7 mRNA의 감소 효과를 조절하는 방법을 분석하였다. 그러나, 이 연구는 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입한 뇌하수체 ganglion (DRG)에서의 NaV1.7 암호화물질의 감소와 뇌하수체 ganglion (DRG)에서의 Scn9a mRNA의 감소와 뇌하수체 ganglion (DRG)에서의 ATTO488-ProTx-II의 감소를 확인하였다. 또한, 이 연구는 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입한 최적의 농도로 NaV1.7 암호화물질이 감소하는 것을 확인하였다. 이 연구는 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입하여 뇌하수체 ganglion (DRG)에서의 NaV1.7 mRNA의 감소 효과를 조절하는 방법을 분석하였다.",
+      "future_research": "후속 연구는 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입하여 뇌하수체 ganglion (DRG)에서의 NaV1.7 mRNA의 감소 효과를 조절하는 방법을 더 깊이 분석하고, 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입하여 뇌하수체 ganglion (DRG)에서의 NaV1.7 mRNA의 감소 효과를 조절하는 방법의 효과를 확인하는 것이 필요하다."
     }
   },
   {
@@ -809,7 +889,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42866985/",
     "abstract": "Melanin plays important roles in coloration and photoprotection in living organisms. Because of its intrinsic biocompatibility, melanin and its biomimetic replicates find important applications in nanomedicine. Thanks to their unique optical and electronic properties, melanin-based materials could be used for both diagnostics and therapeutics. Modes of detection include photoacoustic imaging (PAI) and magnetic resonance imaging (MRI). Therapeutic activities include photothermal therapy (PTT), antioxidant (AOX) therapy, and drug delivery. In this review paper, we summarize and discuss the most recent applications of melanin-like nanoparticles (NPs) as multifunctional agents in nanomedicine and drug delivery. Although most of these applications involve the most popular biomimetic form of melanin, polydopamine (PDA, resulting from the oxidative polymerization of dopamine), in the last part of the review, we show that alternative forms of melanin are becoming more and more important for nanomedicine.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 멜라닌과 비모피탄소산물의 특성을 활용한 멜라닌 유사 나노입자(NPs)가 nanomedicine 및 약물 전달 분야에서의 최신 응용 사례를 조망하고 있습니다. 멜라닌은 생물학적 편향성 및 햇빛 보호 기능을 수행하며, 이는 멜라닌과 비슷한 나노입자(NPs)가 nanomedicine 및 약물 전달 분야에서의 다양한 활동을 수행할 수 있음을 보여줍니다.",
+      "methods": "이 연구에서는 멜라닌과 비모피탄소산물의 특성을 활용하여 멜라닌 유사 나노입자(NPs)가 nanomedicine 및 약물 전달 분야에서의 다양한 활동을 수행할 수 있음을 보여줍니다. 이는 사진 acoustic 이미징 (PAI) 및 자기 자기 이미징 (MRI)을 포함한 다양한 모드의 검출과, 사진 휘도 치료 (PTT), 항산화 치료 (AOX) 및 약물 전달을 포함한 다양한 치료 활동을 수행할 수 있음을 보여줍니다.",
+      "quantitative_results": "보고된 수치와 대조군 비교는 없으며, 이는 초록에서 확인할 수 없다고 명시되었습니다.",
+      "novelty": "이 논문의 주요 기존 연구 대비 차별점은 멜라닌 유사 나노입자(NPs)가 nanomedicine 및 약물 전달 분야에서의 다양한 활동을 수행할 수 있음을 보여줍니다. 또한, 이 연구는 멜라닌 유사 나노입자(NPs)가 가장 일반적으로 사용되는 비모피탄소산물(PDA) 외에도 다른 형태의 멜라닌이 nanomedicine에서 중요한 역할을 할 수 있음을 보여줍니다.",
+      "limitations": "저자가 명시한 한계와 확인 불가능한 정보는 초록에서 확인할 수 없다고 명시되었습니다. 이는 멜라닌 유사 나노입자(NPs)가 nanomedicine 및 약물 전달 분야에서의 다양한 활동을 수행할 수 있음을 보여주는 한계와, 멜라닌 유사 나노입자(NPs)가 nanomedicine 및 약물 전달 분야에서의 다양한 활동을 수행할 수 있음을 보여주는 한계를 명시합니다.",
+      "future_research": "후속 연구 제안은 멜라닌 유사 나노입자(NPs)가 nanomedicine 및 약물 전달 분야에서의 다양한 활동을 수행할 수 있음을 보여주는 멜라닌 유사 나노입자(NPs)의 다른 형태와 그들의 특성을 연구하는 것에 대해 제안합니다."
+    }
   },
   {
     "id": "doi:10.1016/j.xcrm.2026.103111",
@@ -823,6 +911,28 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42863469/",
     "abstract": "Immunotherapy for colorectal cancer (CRC) remains limited due to the inherently low tumor immunogenicity and the profoundly immunosuppressive tumor microenvironment (TME). Herein, capitalizing on the metabolic traits and anatomical accessibility of CRC, we propose a broadly applicable oral strategy based on metabolically engineered bacteria (EcN-HlpA-CGL [EHC]) for CRC immunotherapy. Mechanistically, cystathionine γ-lyase expressed by EHC disrupts redox homeostasis, triggering ferroptosis in CRC cells and thereby enhancing tumor immunogenicity. Concurrently, the intrinsic adjuvant activity of the bacteria amplifies the cancer-immunity cycle driven by immunogenic cell death and remodels the immunosuppressive TME. In vivo studies demonstrate that this orally delivered engineered bacterial platform not only suppresses the growth of orthotopic CRC tumors but also inhibits metastatic progression, indicating the induction of a potent systemic immune response. Immune profiling confirms robust systemic and gut mucosal immune activation following oral administration. Collectively, this oral metabolically engineered bacterial platform is precisely tailored to the features of CRC and offers a safe and effective immunotherapeutic strategy for this malignancy.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 대장癌의 암 면역 반응을 향상시키는 새로운 기술을 개발하기 위해 설립되었습니다. 현재 대장癌 치료는 암 면역성 저하와 암 조직 내 환경(TME)의 저항성으로 인해 제한적입니다. 이 연구는 대장癌의 유기물 분해 특성과 구조적 접근성을 활용하여 대장癌 치료를 위한 일반적이고 적용 가능한 입안 전략을 제안합니다.",
+      "methods": "연구진은 대장癌 유기물 분해 효소 γ-락테아제를 가진 입안 가능한 균주(EcN-HlpA-CGL [EHC])를 개발하여 대장癌의 암 면역 반응을 향상시키는 입안 전략을 제시했습니다. 이 균주는 암 세포의 균형 잡힌 반응을 유도하고 암-면역 순환을 강화하며, 이는 암 면역성 저하를 수정하는 TME를 재구성합니다.",
+      "quantitative_results": "연구는 입안 가능한 균주를 통해 대장癌의 암 세포 성장과 전이를 억제하는 효과를 보였습니다. 또한, 이 연구는 입안 가능한 균주를 통해 대장癌의 암 면역 반응을 강화하는 효과를 보였으며, 이는 대장癌 치료의 새로운 전략으로 여겨집니다.",
+      "novelty": "이 연구는 대장癌의 유기물 분해 특성과 구조적 접근성을 활용한 입안 가능한 균주를 제시하여, 대장癌의 암 면역 반응을 향상시키는 새로운 기술을 개발했습니다. 이 연구는 기존 연구 대비 차별점이 있습니다.",
+      "limitations": "이 연구는 입안 가능한 균주를 통해 대장癌의 암 면역 반응을 향상시키는 효과를 보였으며, 이는 대장癌의 암 면역 반응을 향상시키는 새로운 기술을 개발한 것입니다. 이 연구는 아직 확인되지 않은 사항이 있습니다.",
+      "future_research": "이 연구는 입안 가능한 균주를 통해 대장癌의 암 면역 반응을 향상시키는 효과를 보였으며, 이는 대장癌의 암 면역 반응을 향상시키는 새로운 기술을 개발한 것입니다. 이 연구는 후속 연구를 통해 입안 가능한 균주를 통해 대장癌의 암 면역 반응을 향상시키는 효과를 보다 확실하게 확인할 수 있습니다."
+    }
+  },
+  {
+    "id": "doi:10.1016/j.coph.2026.102682",
+    "title": "Nanomedicines and drug delivery systems for modulating immune training in cancer and infectious diseases.",
+    "topic": "Drug delivery",
+    "date": "2026-10-12",
+    "journal": "",
+    "authors": "Shishira PS, Gore S, Biswas S, Ghosh B.",
+    "doi": "10.1016/j.coph.2026.102682",
+    "pmid": "42913306",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42913306/",
+    "abstract": "Immunity training is the epigenetic and metabolic remodulation of the innate immune system in response to primary stimuli, ultimately enhancing or attenuating secondary immune responses. Modulating immune training has emerged as a revolutionary approach to treating cancer and infectious diseases through nanomedicines and drug delivery systems. Nanomedicines and drug delivery systems offer effective strategies to overcome the limitations of conventional therapies by enhancing safety, biocompatibility, and targeted delivery of immunomodulators within a patient-oriented framework. In this mini-review, we discuss the immune training modulating mechanism through epigenetic reprogramming and metabolic remodeling. We have highlighted recent preclinical approaches to modulate immune training using nanomedicine and drug delivery systems, and have finally addressed their challenges and future perspectives.",
     "summary": "초록 기반 요약"
   },
   {
@@ -1110,6 +1220,20 @@
       "limitations": "연구자들은 새로운 플랫폼을 통해 리 tinoblastoma를 치료하기 위한 mRNA와 소재를 함께 전달할 수 있는 플랫폼을 개발했습니다. 그러나, 새로운 플랫폼의 효과를 확인하기 위해 추가적인 연구가 필요합니다. 또한, 새로운 플랫폼의 장단점에 대한 더 깊은 이해가 필요합니다.",
       "future_research": "후속 연구는 새로운 플랫폼의 효과를 더 깊이 이해하고, 새로운 플랫폼의 장단점을 더 잘 이해하기 위한 연구입니다. 또한, 새로운 플랫폼을 통해 리 tinoblastoma를 치료하기 위한 mRNA와 소재를 함께 전달할 수 있는 새로운 플랫폼을 개발하기 위한 연구도 필요합니다."
     }
+  },
+  {
+    "id": "PMC:PMC13692341",
+    "title": "Integrated Top-Down Proteomics for Comprehensive Proteome Analysis at the Proteoform Level",
+    "topic": "Protein",
+    "date": "2026-10-09",
+    "journal": "",
+    "authors": "Farrell L, Woodland B, Brennan A, Coorssen J, O’Rourke M, Padula M.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13692341",
+    "url": "https://europepmc.org/articles/PMC13692341",
+    "abstract": "",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.64898/2026.10.07.757460",
@@ -2248,6 +2372,20 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42899599/",
     "abstract": "Phosphorothioated (PST) oligonucleotides are extensively used in RNA therapeutics and biosensing applications. PST-modified linkages remain part of 13 approved oligonucleotide drug backbones (out of 23 total approved drugs). Despite the widespread utilization of PST linkages in oligonucleotide therapeutics, the full spectrum of their interactions with nontarget nucleic acids and DNA polymerases remains inadequately characterized. In this study, we report a novel discovery and the modalities (sequence dependence and length) of an unusual 3'-mismatch bypass activity involving 3'-PST primers, circular DNA (CD) template, and strand displacement DNA polymerases. We demonstrate that this activity persists for at least 24 nt of mismatch, is sequence-independent, and occurs when processed by three major commercially available strand displacement DNA polymerases commonly used in molecular diagnostics (phi29, BST large fragment (LF), BSU large fragment (LF)) with operational conditions spanning a large temperature range and buffer conditions. The 3'-terminal mismatch bypass activity of these three polymerases additionally extended to therapeutically relevant modifications such as locked nucleic acid (LNA) and 2'-O-methyl (2'-OMe). We also found that this mismatch bypass activity could be regulated by oligonucleotides complementary to the mismatch region. The significance of this study lies not only in the discovery and analytical investigation of the novel observation but also in its ramifications for biosensing and the nonspecific interactions of PST oligonucleotides in RNA therapeutics.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1021/acs.jcim.5c02688",
+    "title": "GDEE: A Structure-Based Platform for Gene Discovery and Enzyme Engineering.",
+    "topic": "Protein",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Souza CS, Correia JPG, Rocha I, Lousa D, Soares CM.",
+    "doi": "10.1021/acs.jcim.5c02688",
+    "pmid": "42912922",
+    "pmcid": "PMC13663853",
+    "url": "https://europepmc.org/articles/PMC13663853",
+    "abstract": "Enzymes are extensively utilized for catalyzing the production of value-added compounds in diverse sectors with significant economic impact. However, challenges such as poor protein expression, low catalytic activity, substrate/co-factor limitations, and toxicity of final products limit the efficiency of these biocatalysts. Protein engineering offers a solution by redesigning enzyme catalytic properties to enhance biosynthetic pathways. In this study, we present an automated platform for gene discovery and enzyme engineering, aimed at overcoming these bottlenecks. The GDEE platform finds and optimizes enzymes responsible for rate-limiting steps in biosynthetic pathways, with objectives ranging from improving catalytic efficiency to enabling novel transformations. The platform operates through four key steps: an initial sequence step that either sources natural enzyme sequences or generates mutant variants, followed by an atomistic protein structure prediction step, a docking step, and a binding energy evaluator, obtaining a set of variant enzyme sequences that are prioritized for experimental validation. Additionally, machine learning-based re-scoring of binding poses to improve binding affinities significantly enhances the accuracy of predicting the effect of mutations on binding, highlighting its potential in metabolic engineering applications.",
     "summary": "초록 기반 요약"
   },
   {
