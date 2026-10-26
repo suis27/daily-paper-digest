@@ -14,6 +14,28 @@
     "summary": "초록 기반 요약"
   },
   {
+    "id": "doi:10.4103/nrr.nrronline-d-26-00924",
+    "title": "Plant-derived extracellular vesicles in cell-free therapeutics for neurological diseases.",
+    "topic": "Drug delivery",
+    "date": "2026-10-24",
+    "journal": "",
+    "authors": "Gu C, Chen M, Li Y, Lai Y, Xu Y, Dong Q, Wang Z, Wei M, Li X, Yun C, Chen X.",
+    "doi": "10.4103/nrr.nrronline-d-26-00924",
+    "pmid": "42925512",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42925512/",
+    "abstract": "Plant-derived extracellular vesicles offer a promising frontier in nanomedicine for managing neurological diseases. This review systematically addresses their classification, botanical sources, isolation techniques, and biogenesis pathways. Comprehensive compositional analyses reveal a diverse cargo of proteins, lipids, nucleic acids, and metabolites that support their biological activity. Plant-derived extracellular vesicles possess intrinsic anti-inflammatory, antioxidant, antineoplastic, and regenerative properties, while also serving as efficient natural drug-delivery systems. We then summarize their therapeutic applications in nervous system tumors, traumatic neurological injuries, neurodegenerative diseases, and neuropsychiatric disorders. Although substantial challenges remain in standardizing isolation protocols and optimizing targeted delivery, plant-derived extracellular vesicles offer a sustainable, highly biocompatible, and scalable alternative to mammalian-derived extracellular vesicles. Future research should focus on harnessing their unique characteristics to improve cargo engineering and facilitate transport across physiological barriers, including the blood-brain barrier. Addressing these challenges and further optimizing the functionality of plant-derived extracellular vesicles could profoundly reshape the landscape of neurological therapeutics.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 플랜트 기반 외상성 베실러스가 신경계 질환 치료에 대한 새로운 접근 방식으로 연구됩니다. 이 연구는 플랜트 기반 외상성 베실러스의 분류, 식물적 원료, 추출 기술, 그리고 생물학적 활성화 경로에 대한 체계적인 분석을 포함합니다. 또한, 플랜트 기반 외상성 베실러스가 신경계 종양, 외상성 신경계 손상, 신경학적 질환 및 신경-psychiatric 질환에 대한 치료에 대한 잠재적인 잠재력을 다룹니다.",
+      "methods": "이 연구에서는 플랜트 기반 외상성 베실러스의 분류, 식물적 원료, 추출 기술, 그리고 생물학적 활성화 경로에 대한 체계적인 분석을 수행했습니다. 또한, 플랜트 기반 외상성 베실러스의 다양한 단백질, 지방산,核酸, 그리고 메tabolites의 구성 분석을 수행했습니다. 이 연구는 플랜트 기반 외상성 베실러스가 플라스마머리 기반 외상성 베실러스보다 더 안전하고 지속 가능하며, 이는 플랜트 기반 외상성 베실러스가 신경계 질환 치료에 대한 새로운 접근 방식으로 사용될 수 있음을 보여줍니다.",
+      "quantitative_results": "이 연구에서는 플랜트 기반 외상성 베실러스가 플라스마머리 기반 외상성 베실러스보다 더 안전하고 지속 가능하며, 이는 플랜트 기반 외상성 베실러스가 신경계 질환 치료에 대한 새로운 접근 방식으로 사용될 수 있음을 보여줍니다.",
+      "novelty": "이 연구는 플랜트 기반 외상성 베실러스가 플라스마머리 기반 외상성 베실러스보다 더 안전하고 지속 가능하며, 이는 플랜트 기반 외상성 베실러스가 신경계 질환 치료에 대한 새로운 접근 방식으로 사용될 수 있음을 보여줍니다. 이 연구는 플랜트 기반 외상성 베실러스가 플라스마머리 기반 외상성 베실러스보다 더 안전하고 지속 가능하며, 이는 플랜트 기반 외상성 베실러스가 신경계 질환 치료에 대한 새로운 접근 방식으로 사용될 수 있음을 보여줍니다.",
+      "limitations": "이 연구는 플랜트 기반 외상성 베실러스의 추출 기술과 생물학적 활성화 경로에 대한 체계적인 분석을 수행하지 않았으며, 이는 플랜트 기반 외상성 베실러스의 효과적인 치료 적용에 대한 한계를 보여줍니다. 또한, 이 연구는 플랜트 기반 외상성 베실러스의 치료 적용에 대한 잠재적인 잠재력을 다루지 않았으며, 이는 플랜트 기반 외상성 베실러스의 치료 적용에 대한 잠재적인 잠재력을 다루지 않았습니다.",
+      "future_research": "이 연구는 플랜트 기반 외상성 베실러스의 치료 적용에 대한 잠재적인 잠재력을 다루지 않았으며, 이는 플랜트 기반 외상성 베실러스의 치료 적용에 대한 잠재적인 잠재력을 다루지 않았습니다. 그러나, 이 연구는 플랜트 기반 외상성 베실러스의 치료 적용에 대한 잠재적인 잠재력을 다루지 않았으며, 이는 플랜트 기반 외상성 베실러스의 치료 적용에 대한 잠재적인 잠재력을 다루지 않았습니다. 후속 연구는 플랜트 기반 외상성 베실러스의 치료 적용에 대한 잠재적인 잠재력을 다루는 것이 중요합니다."
+    }
+  },
+  {
     "id": "doi:10.1126/sciadv.aeh6590",
     "title": "In situ CAR-M engineered by liposomal mRNA nanomedicine remodels fibrotic microenvironment for ameliorating liver fibrosis.",
     "topic": "Drug delivery",
@@ -33,6 +55,28 @@
       "novelty": "이 연구는 현장에서 간 기저질환을 개선하는 간 기저질환 카이로메그레이션(CAR-M) 세포를 설계하는 데 사용되는 새로운 방법을 제시합니다. 이 방법은 간 기저질환 카이로메그레이션(CAR-M) 세포의 현장에서 설계를 가능하게 합니다.",
       "limitations": "이 연구는 간 기저질환 카이로메그레이션(CAR-M) 세포의 현장에서 설계를 가능하게 하는 방법을 제시했습니다. 그러나 이 연구는 간 기저질환 카이로메그레이션(CAR-M) 세포의 현장에서 설계를 가능하게 하는 방법을 실험적으로 확인하지 않았습니다. 또한, 이 연구는 간 기저질환 카이로메그레이션(CAR-M) 세포의 현장에서 설계를 가능하게 하는 방법의 효과를 확인하기 위한 추가 연구가 필요합니다.",
       "future_research": "이 연구는 간 기저질환 카이로메그레이션(CAR-M) 세포의 현장에서 설계를 가능하게 하는 방법을 실험적으로 확인하기 위한 추가 연구가 필요합니다. 이 연구는 간 기저질환 카이로메그레이션(CAR-M) 세포의 현장에서 설계를 가능하게 하는 방법을 실험적으로 확인하기 위한 추가 연구가 필요합니다."
+    }
+  },
+  {
+    "id": "doi:10.1038/s41388-026-04025-y",
+    "title": "Cancer cell-specific FOXP3 licenses MMP19-dependent matrix remodeling and metastatic dissemination in pancreatic ductal adenocarcinoma.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-23",
+    "journal": "",
+    "authors": "Wang J, Lan C, Xing Y, Jing Y, Wang X, Gao C, Gong R, Ren H.",
+    "doi": "10.1038/s41388-026-04025-y",
+    "pmid": "42919853",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42919853/",
+    "abstract": "Pancreatic ductal adenocarcinoma (PDAC) is characterized by a dense desmoplastic stroma and early metastatic dissemination, both of which contribute to its poor prognosis. While forkhead box protein 3 (FOXP3) is best known as a lineage-defining transcription factor in regulatory T cells (Tregs), its aberrant expression in cancer cell-specific FOXP3 (c-FOXP3) may also support tumor-cell-intrinsic progression. Our findings suggest that high c-FOXP3 expression is closely linked to aggressive disease behavior and metastatic progression in PDAC. c-FOXP3 enhanced migration, invasion within three-dimensional collagen-rich matrices, and dissemination in orthotopic models. Integrated transcriptomic analysis, chromatin immunoprecipitation, and wild-type versus binding-site-mutant promoter assays identified matrix metalloproteinase 19 (MMP19) as a direct transcriptional target of c-FOXP3. MMP19 silencing significantly attenuated c-FOXP3-driven migration, matrix invasion, and metastasis. Single-cell sequencing further showed that MMP19 is abundant in cancer-associated fibroblasts but also defines a distinct epithelial pool that is reduced after epithelial Foxp3 deletion. Pharmacological profiling did not identify a validated MMP19-selective inhibitor, whereas the FOXP3-targeting antisense oligonucleotide AZD8701 reduced FOXP3 together with MMP19 mRNA and was accompanied by lower PDAC-cell migration and invasion in vitro. Together, these findings extend the known functions of FOXP3 beyond its classical role in immune tolerance and define a tumor-cell-intrinsic c-FOXP3-MMP19 program that supports matrix-invasive behavior in PDAC and provide preliminary evidence that c-FOXP3 is pharmacologically accessible.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 pancreatic ductal adenocarcinoma (PDAC)에서 FOXP3의 역할을 조사하고, 특히 c-FOXP3가 세포 내부에서 암을 지원하는 역할을 밝히기 위해 수행되었다. 이는 PDAC의 악성 진행과 전이에 대한 이해를 높이는 데 기여할 것으로 기대된다.",
+      "methods": "이 연구에서는 통합 탄산화제 분석, chromatin immunoprecipitation, 그리고 wild-type versus binding-site-mutant promoter assays를 사용하여 MMP19가 c-FOXP3의 직접적인 탄산화제 표적임을 확인했다. 또한, 세포 단위 sequencing을 통해 MMP19가 암 관련 세포질에서 주로 발견되며, 이는 epithelial Foxp3 삭제 후에 나타나는 다른 세포 집합을 정의한다.",
+      "quantitative_results": "MMP19 silencing은 c-FOXP3가 압도적으로 조장하는 세포 이동, 세포 내부의 탄성막 침입, 그리고 전이를 억제했다. 또한, FOXP3-targeting antisense oligonucleotide AZD8701은 c-FOXP3와 MMP19 mRNA를 동시에 줄이고, PDAC 세포의 이동과 침입을 감소시켰다.",
+      "novelty": "이 연구는 FOXP3의 역할을 암 세포 내부에서의 역할로 확장시키는 것이 새로운 발견이다. 또한, c-FOXP3와 MMP19가 PDAC에서의 암 세포 내부의 침입적 행동을 지원한다는 것을 처음으로 밝혔다. 이는 c-FOXP3가 약물로 접근 가능하다는 것을 제안한다.",
+      "limitations": "초록에서 보고된 결과는 통합 탄산화제 분석, chromatin immunoprecipitation, 그리고 wild-type versus binding-site-mutant promoter assays를 사용한 것이다. 또한, 이 연구는 약물 선택적 억제제가 아직 존재하지 않는다는 한계가 있다. 이는 AZD8701이 c-FOXP3와 MMP19 mRNA를 줄이는 데만 효과적인지 여부를 확인하기 위해 추가 연구가 필요하다는 것을 의미한다.",
+      "future_research": "후속 연구는 c-FOXP3와 MMP19 억제제의 효과를 더 깊이 연구하고, 약물 선택적 억제제의 존재 여부를 확인하는 것이 필요하다. 또한, c-FOXP3와 MMP19가 PDAC에서의 암 세포 내부의 침입적 행동을 어떻게 지원하는지에 대한 세부적인 이해를 제공하는 연구도 필요하다."
     }
   },
   {
@@ -99,6 +143,28 @@
       "novelty": "이 연구는 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입하여 뇌하수체 ganglion (DRG)에서의 NaV1.7 mRNA의 감소 효과를 조절하는 새로운 방법을 제시하였다. 이는 기존 연구에서 보고되지 않은 새로운 효과를 보여주며, 뇌하수체 ganglion (DRG)에서의 NaV1.7 암호화물질의 감소와 뇌하수체 ganglion (DRG)에서의 Scn9a mRNA의 감소와 뇌하수체 ganglion (DRG)에서의 ATTO488-ProTx-II의 감소를 보여주었다.",
       "limitations": "이 연구는 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입하여 뇌하수체 ganglion (DRG)에서의 NaV1.7 mRNA의 감소 효과를 조절하는 방법을 분석하였다. 그러나, 이 연구는 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입한 뇌하수체 ganglion (DRG)에서의 NaV1.7 암호화물질의 감소와 뇌하수체 ganglion (DRG)에서의 Scn9a mRNA의 감소와 뇌하수체 ganglion (DRG)에서의 ATTO488-ProTx-II의 감소를 확인하였다. 또한, 이 연구는 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입한 최적의 농도로 NaV1.7 암호화물질이 감소하는 것을 확인하였다. 이 연구는 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입하여 뇌하수체 ganglion (DRG)에서의 NaV1.7 mRNA의 감소 효과를 조절하는 방법을 분석하였다.",
       "future_research": "후속 연구는 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입하여 뇌하수체 ganglion (DRG)에서의 NaV1.7 mRNA의 감소 효과를 조절하는 방법을 더 깊이 분석하고, 인두 경로를 통해 아나스센트 오리노클로이드核酸를 주입하여 뇌하수체 ganglion (DRG)에서의 NaV1.7 mRNA의 감소 효과를 조절하는 방법의 효과를 확인하는 것이 필요하다."
+    }
+  },
+  {
+    "id": "doi:10.1002/advs.78308",
+    "title": "Precision Nanomedicine for Traumatic Neural Injury: Functional Paradigms and Translational Frameworks.",
+    "topic": "Drug delivery",
+    "date": "2026-10-22",
+    "journal": "",
+    "authors": "Sun M, Li S, He Z, Xie J, Luo Y, Fan X, Zhang J, Qin L, Peng L, Qiu T, Zhang T, Wang H, Yu M.",
+    "doi": "10.1002/advs.78308",
+    "pmid": "42919461",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42919461/",
+    "abstract": "Traumatic neural injuries, including traumatic brain injury (TBI), spinal cord injury (SCI), and peripheral nerve injury (PNI), impose a substantial global burden. These injuries converge on oxidative stress, neuroinflammation, regulated cell death, demyelination, and extracellular matrix remodeling, while diverging in timing, cellular effectors, and regenerative capacity. Current management still fails to arrest secondary injury or restore functional neural circuitry. Nanomedicine integrates targeted delivery, microenvironmental regulation, and regenerative support, yet existing strategies and reviews remain compartmentalized by injury type or material class. Such fragmentation constrains the integration of shared mechanisms with injury-specific requirements. To address this gap, we develop a cross-injury framework for nanoparticle-based intervention. Separate reanalysis of three single-cell datasets suggests recurrent myeloid involvement and injury-specific within-dataset patterns. We compare lipid-based, polymeric, inorganic, carbon-based, biomimetic, and hybrid platforms in relation to physicochemical properties and biological fate. Six paradigms are organized by pathological need: scaffold construction and microenvironment remodeling, topographical guidance, biomimetic targeting, endogenous stimulus-responsive release, external physical-field activation, and intracellular reprogramming. We trace evolution from passive encapsulation to multi-omics-guided and artificial intelligence (AI)-assisted precision design and examine barriers to manufacturing, biodistribution, safety, protein-corona control, and regulatory evaluation. This framework connects injury mechanisms, functional needs, and material selection to guide translation.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "당신들은 전기적 신경 손상, 척추 신경 손상, 외周 신경 손상 등으로 인한 심각한 세계적 부담을 가진 골격 신경 손상에 대한 정확한 난소의학을 개발하고자 합니다. 이 연구는 기존의 관리 방법이 중도 손상이나 신경 회로를 복원하는 데 실패하고 있다는 점을 고려합니다. 또한, 당신들은 난소의학이 타겟 전달, 미생물 환경 조절, 재생 지원을 포함한 복합적인 접근 방식을 활용한다는 점을 고려합니다. 그러나 현재의 전략과 리뷰는 손상 유형이나 재료 클래스에 따라 분리되어 있습니다. 이러한 분리가 공유 메커니즘과 손상에 대한 특정 요구 사항을 통합하는 것을 방해합니다.",
+      "methods": "당신들은 세 개의 단일 세포 데이터 세트를 재분석하여 재발되는 백혈종 참여와 손상 유형 내에서의 내재 패턴을 확인했습니다. 당신들은 콘스탈라인, 폴리머, 인organic, 콜라보, 바이미비, 그리고 혼합 플랫폼 간의 물리화학적 속성과 생물학적 운명을 비교했습니다. 당신들은 6개의 패러다임을 구성하여 질병적 필요성: 구조화 및 미생물 환경 재조정, 토마스가이드, 바이미비 타겟, 내생적 자극-응답 발사, 외부 물리적 필드 활성화, 그리고 인터클로즈 리프로그래밍을 조직했습니다. 당신들은 패널리제이션에서 패널리제이션으로의 진화를 추적하고 제조, 생물 분포, 안전성, 단백질 코로나 제어, 그리고 규제 평가에 대한 장벽을 조사했습니다.",
+      "quantitative_results": "보고된 수치와 대조군 비교는 없지만, 당신들은 세 개의 단일 세포 데이터 세트를 재분석하여 재발하는 백혈종 참여와 손상 유형 내에서의 내재 패턴을 확인했습니다. 또한, 당신들은 세 가지 플랫폼 간의 물리화학적 속성과 생물학적 운명을 비교했습니다.",
+      "novelty": "당신들은 손상 유형과 재료 클래스를 고려하지 않고, 복합적인 접근 방식을 통해 손상 유형에 대한 공유 메커니즘과 손상에 대한 특정 요구 사항을 통합하는 새로운 전략을 개발했습니다. 또한, 당신들은 제조, 생물 분포, 안전성, 단백질 코로나 제어, 그리고 규제 평가에 대한 장벽을 조사했습니다.",
+      "limitations": "당신들은 확인할 수 없는 정보를 명시하지 않았습니다. 또한, 당신들은 단일 세포 데이터 세트를 재분석하여 재발하는 백혈종 참여와 손상 유형 내에서의 내재 패턴을 확인했습니다. 그리고 세 가지 플랫폼 간의 물리화학적 속성과 생물학적 운명을 비교했습니다. 그러나, 당신들은 손상 유형과 재료 클래스에 대한 장벽을 조사했습니다.",
+      "future_research": "당신들은 손상 유형과 재료 클래스를 고려하지 않고, 복합적인 접근 방식을 통해 손상 유형에 대한 공유 메커니즘과 손상에 대한 특정 요구 사항을 통합하는 새로운 전략을 개발했습니다. 그리고, 당신들은 제조, 생물 분포, 안전성, 단백질 코로나 제어, 그리고 규제 평가에 대한 장벽을 조사했습니다. 후속 연구는 손상 유형과 재료 클래스에 대한 장벽을 조사하고, 복합적인 접근 방식을 통해 손상 유형에 대한 공유 메커니즘과 손상에 대한 특정 요구 사항을 통합하는 새로운 전략을 개발하는 것을 제안합니다."
     }
   },
   {
@@ -933,7 +999,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42913306/",
     "abstract": "Immunity training is the epigenetic and metabolic remodulation of the innate immune system in response to primary stimuli, ultimately enhancing or attenuating secondary immune responses. Modulating immune training has emerged as a revolutionary approach to treating cancer and infectious diseases through nanomedicines and drug delivery systems. Nanomedicines and drug delivery systems offer effective strategies to overcome the limitations of conventional therapies by enhancing safety, biocompatibility, and targeted delivery of immunomodulators within a patient-oriented framework. In this mini-review, we discuss the immune training modulating mechanism through epigenetic reprogramming and metabolic remodeling. We have highlighted recent preclinical approaches to modulate immune training using nanomedicine and drug delivery systems, and have finally addressed their challenges and future perspectives.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암과 감염 질환 치료를 위한 면역 학습(modulation)을 통한 새로운 접근법을 다룹니다. 면역 학습은 기존 치료법의 제한성을 극복하고, 치료제의 안전성, 생물학적 유연성, 면역 조절제의 정확한 전달을 향상시키는 데 초점을 맞춥니다.",
+      "methods": "논문은 면역 학습을 통한 면역 조절제의 epigenetic reprogramming과 metabolic remodeling을 통해 면역 학습을 조절하는 방법을 설명합니다. 최근의 임상 시험을 통해 면역 학습을 조절하는 방법을 소개하고, 이에 대한 제약과 미래의 연구 방향을 논의합니다.",
+      "quantitative_results": "논문에서는 면역 학습을 조절하는 방법에 대한 연구 결과를 보고하지 않았습니다. 이는 임상 시험 결과가 아직 공개되지 않았기 때문입니다.",
+      "novelty": "이 논문은 면역 학습을 조절하는 새로운 방법을 소개하며, 기존 연구보다 더 정확하고 효과적인 치료법을 제시합니다. 특히, 면역 학습을 조절하는 방법을 nanomedicines와 drug delivery systems을 활용한 임상 시험을 통해 보여주었습니다.",
+      "limitations": "논문에서는 기존 연구 대비 더 많은 데이터가 필요하다는 한계를 제시했습니다. 또한, 아직 임상 시험 결과가 발표되지 않았기 때문에, 이에 대한 확인은 아직 불가능합니다.",
+      "future_research": "논문은 면역 학습을 조절하는 방법에 대한 후속 연구를 제안하며, 이는 기존 연구보다 더 정확하고 효과적인 치료법을 개발하기 위한 중요한 단계입니다. 임상 시험 결과가 발표되면, 이에 대한 더 깊이 있는 연구가 필요할 것입니다."
+    }
   },
   {
     "id": "doi:10.64898/2026.10.09.758133",
@@ -969,7 +1043,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42859867/",
     "abstract": "Due to their characteristics, sonicators are widely used in the pharmaceutical and food industries for the preparation of stable suspensions and oil-in-water emulsions. Ultrasound-assisted processing enables the production of lipid nanoparticles, which are of considerable interest as drug delivery systems. However, despite their widespread use, the influence of the numerous parameters governing ultrasound-mediated lipid nanoparticle formation remains insufficiently characterized. In this study, a systematic and comprehensive investigation was conducted to evaluate the effects of key experimental variables on the size distribution of lipid nanoparticles produced via microprobe sonication. Liposomes composed of a natural phospholipid were employed as model systems. Instrument-related parameters, including nominal and effective power, treatment time, and probe positioning, were examined alongside sample characteristics such as temperature, lipid concentration, dispersion volume, and lipid composition. In parallel, the extent of phospholipid degradation induced by sonication was assessed in relation to the formation of reactive species during cavitation. The results provide quantitative relationships describing particle size evolution as a function of the most relevant factors and suggest that sonication exhibits a behavior analogous to that of a continuous stirred-tank reactor and high-pressure homogenizers. They also indicate that, under the studied conditions, phospholipids remain chemically unaltered. Overall, the aim of this work is to develop a coherent predictive framework for ultrasound-mediated lipid nanoparticle synthesis and to offer practical guidance for process optimization. The proposed framework is expected to be broadly applicable to related colloidal systems, including emulsions and suspensions, in pharmaceutical and food applications across both academic and industrial settings.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 초음파를 이용한 세포질 나노입자 생산에 영향을 미치는 주요 변수들을 정확하게 이해하고, 이를 통해 세포질 나노입자 제조의 예측 가능한 패러다임을 개발하고, 제조 과정 최적화에 대한 실용적인 지침을 제공하기 위한 목적이 있습니다.",
+      "methods": "이 연구에서는 초음파를 이용한 세포질 나노입자 생산을 위한 모델 시스템으로 자연 phospholipid을 사용했습니다. 실험 변수들인 초음파 관련 파라미터와 샘플 특성들, 즉 온도, 지방량, 분산량, 지방 구성 등이 초음파가 세포질 나노입자 생산에 미치는 영향을 평가했습니다. 또한 초음파가 세포질 나노입자 생산 과정에서 발생하는 화학적 변화에 대한 평가도 수행했습니다.",
+      "quantitative_results": "보고된 결과들은 세포질 나노입자의 크기 분포가 주요 변수에 따라 어떻게 변화하는지에 대한 수치적 관계를 제공합니다. 이 결과들은 초음파가 연속 유동 탱크 반응기와 고압 혼합기와 비슷한 행동을 보이는지, 그리고 지방이 초음파에 의해 화학적으로 변형되는지에 대한 정보를 제공합니다.",
+      "novelty": "이 연구는 초음파를 이용한 세포질 나노입자 생산에 대한 연구에서 아직 충분히 이해되지 않은 주요 변수들을 정확하게 이해하는 데 기여할 것입니다. 이 연구는 초음파를 이용한 세포질 나노입자 생산에 대한 예측 가능한 패러다임을 개발하고, 이를 통해 세포질 나노입자 제조의 효율성을 향상시키는 데 도움이 될 것입니다.",
+      "limitations": "이 연구에서 확인할 수 없는 사항은 초음파가 세포질 나노입자 생산에 미치는 영향에 대한 세부적인 이해를 제공하지 못한다는 것입니다. 또한, 초음파가 세포질 나노입자 생산에 미치는 영향에 대한 세부적인 이해를 제공하지 못한다는 것입니다.",
+      "future_research": "이 연구는 초음파를 이용한 세포질 나노입자 생산에 대한 예측 가능한 패러다임을 개발하고, 이를 통해 세포질 나노입자 제조의 효율성을 향상시키는 데 도움이 될 것입니다. 이를 위해, 더 많은 실험 조건과 변수들을 연구해야 합니다."
+    }
   },
   {
     "id": "doi:10.1002/advs.78242",
@@ -2386,6 +2468,62 @@
     "pmcid": "PMC13663853",
     "url": "https://europepmc.org/articles/PMC13663853",
     "abstract": "Enzymes are extensively utilized for catalyzing the production of value-added compounds in diverse sectors with significant economic impact. However, challenges such as poor protein expression, low catalytic activity, substrate/co-factor limitations, and toxicity of final products limit the efficiency of these biocatalysts. Protein engineering offers a solution by redesigning enzyme catalytic properties to enhance biosynthetic pathways. In this study, we present an automated platform for gene discovery and enzyme engineering, aimed at overcoming these bottlenecks. The GDEE platform finds and optimizes enzymes responsible for rate-limiting steps in biosynthetic pathways, with objectives ranging from improving catalytic efficiency to enabling novel transformations. The platform operates through four key steps: an initial sequence step that either sources natural enzyme sequences or generates mutant variants, followed by an atomistic protein structure prediction step, a docking step, and a binding energy evaluator, obtaining a set of variant enzyme sequences that are prioritized for experimental validation. Additionally, machine learning-based re-scoring of binding poses to improve binding affinities significantly enhances the accuracy of predicting the effect of mutations on binding, highlighting its potential in metabolic engineering applications.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1021/acssynbio.6c00206",
+    "title": "Effective Sequence-to-Expression Prediction for a Model Membrane Protein Using Machine Learning and Computational Protein Design.",
+    "topic": "Protein",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Shen Y, Lewis M, Underhill J, Mulholland AJ, Oyarzún DA, Curnow P.",
+    "doi": "10.1021/acssynbio.6c00206",
+    "pmid": "42916580",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42916580/",
+    "abstract": "The recombinant expression of integral membrane proteins is notoriously challenging. One way to address this challenge is via computational genotype-to-phenotype models that determine how particular sequence features correlate with protein expression levels. However, the potential of such approaches is yet to be fully realized, at least partly because so few expression datasets are available. Here, we study the sequence-to-expression relationships of a variant library originally derived from combinatorial computational design. The controlled sequence diversity of this library makes this new dataset directly compatible with lightweight off-the-shelf bioinformatic tools. The expression phenotype of the entire library was first assessed in the widely used recombinant host Escherichia coli. We selected a relatively small and balanced dataset of 2055 protein sequences assigned to binary classes of either \"high\" or \"low\" expression and used these sequences to train a sequence-to-expression classifier using supervised machine learning. This trained model was then used to infer the expression of >10,000 unmeasured sequences, and experimental validation of these predictions for 12 test variants achieved a 100% success rate. Using tools from explainable AI, we identified specific sequence positions and substitutions that are most important in dictating cellular expression levels. This analysis was validated by model-guided protein engineering that achieved an 8-fold increase in the purification yield of a poorly expressing variant. Our results show that computational protein design in tandem with supervised learning leads to effective models for the discovery of protein variants with improved expression phenotypes and can decode the molecular basis of membrane protein expression.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1021/jasms.6c00268",
+    "title": "Where Do Proteomics People Come from?",
+    "topic": "Protein",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Orsburn BC.",
+    "doi": "10.1021/jasms.6c00268",
+    "pmid": "42916770",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42916770/",
+    "abstract": "The field of proteomics is one of the fastest-growing scientific disciplines in the world today. Beginning in 2020, ambitious market predictions anticipated proteomics to more than double in market size in 4-6 years and to even surpass the well-established genomic sciences industry in 8-12 years. While the market is still growing, it has not come close to matching the initial projections. To better understand the root cause of this, the author has collected field surveys and direct interviews of over 200 scientists actively involved in proteomics research today. While ultimately incomplete, it is worth noting that over 68% of respondents received their technical training in proteomics during either their doctoral or postdoctoral training. In stark contrast, only 4.3% of students obtained training during their undergraduate education. Given the 5.7-to-9.4-year average cycle for traditional doctoral and postdoctoral training in the life sciences, it appears the limiting factor in growing the proteomics field may be linked directly to current practices in training a qualified workforce.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1021/acsnano.6c08783",
+    "title": "Strand-Resolved Mapping of siRNA Trafficking in Cells by Nanoscale Secondary Ion Mass Spectrometry.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Chen K, Nikan M, Li X, Hu S, Migawa MT, Guo J, Guagliardo P, Iyer KS, Bennett CF, Seth PP, Young SG, Jiang H.",
+    "doi": "10.1021/acsnano.6c08783",
+    "pmid": "42915640",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42915640/",
+    "abstract": "Small interfering RNAs (siRNAs) are double-stranded nucleic acid therapeutics (NATs) that silence target mRNAs and have emerged as a useful therapeutic modality for treating human disease. However, their intracellular trafficking, strand separation, and organelle-specific distribution remain poorly understood. Here, we introduce a nanoscale secondary ion mass spectrometry (NanoSIMS)-based imaging platform for high-resolution, strand-resolved visualization of chemically labeled siRNA duplexes in mammalian cells. By incorporating nuclease-stable 2'-O-methyl-modified halogenated nucleotides into single-stranded overhangs, we achieved orthogonal labeling of antisense and sense strands with bromine and iodine, respectively, or in reverse, enabling simultaneous mapping of each strand at organelle-level resolution. NanoSIMS imaging revealed that endolysosomes serve as major accumulation sites for both strands, with heterogeneous signal intensities and partial strand dissociation in the cytoplasm. In addition, siRNA localization was observed in nuclear bodies and filopodia, suggesting complex trafficking beyond canonical RNA-induced silencing complex (RISC) pathways. Comparative analysis of antisense oligonucleotides (ASOs) exhibited a markedly different subcellular distribution from siRNAs, showing significantly greater accumulation in the nucleus when delivered under the same conditions. These findings establish the utility of NanoSIMS analyses and imaging for strand-specific profiling of RNA therapeutics, providing insights for guiding the design and intracellular delivery of NATs.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1021/acsnano.6c11865",
+    "title": "Lipid Nanoparticle Surface Engineering with Heparosan Polysaccharides Enhances mRNA Efficacy via Reduced Endosomal Retention.",
+    "topic": "Drug delivery",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "He Y, Wang L, Williams AP, Valerio TI, Sun Y, Bowman J, Ricketts SD, Hammond S, Sison A, Alexandre J, Niastor Z, Chen WR, Green DE, Fung KM, DeAngelis PL, Wilhelm S.",
+    "doi": "10.1021/acsnano.6c11865",
+    "pmid": "42915664",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42915664/",
+    "abstract": "In this study, we developed a library of mRNA lipid nanoparticles (LNPs) containing clinically used ionizable lipids. We surface-modified these nanoparticles with heparosan polysaccharides and systematically compared their performance with conventional poly(ethylene glycol) (PEG)-modified formulations. Our heparosan (HEP)-coated LNPs increased mRNA expression in dendritic and macrophage cell lines by up to ∼10-fold. Mechanistic studies using live-cell imaging and intracellular nanoparticle trafficking analysis revealed that HEP-modified LNPs exhibited reduced colocalization with late endosomal (Rab7+) and lysosomal (LAMP1+) compartments. These findings are consistent with enhanced endosomal escape of HEP-modified formulations. Repeated subcutaneous administrations of HEP-modified firefly luciferase mRNA-LNPs demonstrated sustained expression and distinct response dynamics in mice. We further observed significantly enhanced humoral anti-spike protein immune responses in mice after subcutaneous administration of HEP-modified LNPs containing SARS-CoV-2 spike S-2P mRNA. Histopathological evaluation and spleen immune cell profiling showed no observable toxicity or adverse effects. Overall, these results demonstrate the effects of HEP surface modification on mRNA LNP expression, intracellular trafficking, and in vivo activity, and support HEP-based surface engineering as a PEG-free approach for nucleic acid delivery and potential future applications in nanomedicine.",
     "summary": "초록 기반 요약"
   },
   {
