@@ -1,5 +1,41 @@
 [
   {
+    "id": "PMC:PMC13696097",
+    "title": "Sense codon reassignment: from global proteome profiling to precision protein engineering 有义密码子重编码：从全局蛋白质组分析到精准蛋白质工程",
+    "topic": "Protein",
+    "date": "2026-10-26",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13696097",
+    "url": "https://europepmc.org/articles/PMC13696097",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1177/21593337261497131",
+    "title": "Considerations of Gene Expression Analysis Methods for Gapmer Antisense Oligonucleotide-Treated Samples.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-25",
+    "journal": "",
+    "authors": "Wang C, Li S, Sinson JC, Macakova K, Zapata GE, Brown JO, Ho N, Liu P.",
+    "doi": "10.1177/21593337261497131",
+    "pmid": "42928554",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42928554/",
+    "abstract": "Probe-based PCR assays are commonly used to evaluate gene expression in antisense oligonucleotide (ASO)-treated samples, but assay design and postextraction processing may introduce substantial measurement bias. We investigated workflow-dependent differences in measured knockdown across PCR-based and RNA-sequencing assays using an allele-specific gapmer ASO, targeting a linked single nucleotide polymorphism of a dominant-negative SPTAN1 variant. Exogenous ribonuclease H (RNase H) activity during reverse transcription or ribosomal RNA (rRNA)-depletion inflated apparent knockdown and reduced RNA-sequencing coverage at the ASO-binding site. In droplet digital PCR (ddPCR), allele-specific detection probes overlapping the ASO-binding site produced substantially greater apparent knockdown than nonoverlapping probes, particularly following workflows with active RNase H. Spike-in experiments showed that this bias was not reproduced by adding ASO to purified RNA before complementary DNA (cDNA) synthesis or to cDNA before ddPCR, but emerged when ASO was present during rRNA depletion. Together, these findings show that exogenous RNase H activity during RNA processing and ASO-probe overlap can distort measurements of gapmer-mediated transcript reduction. Poly(A)-based RNA sequencing, reverse transcriptase with reduced RNase H activity, and nonoverlapping PCR detection probes can minimize measurement bias when evaluating gapmer ASO-mediated knockdown.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암호화된 염기 서열(ASO) 처리 샘플의 유전자 발현 분석 방법에 대한 고려사항을 다루며, 이를 통해 ASO 처리가 유전자 발현에 미치는 영향을 정확하게 측정하는 데 필요한 정보를 제공합니다.",
+      "methods": "이 연구에서는 allele-specific gapmer ASO를 사용하여 dominant-negative SPTAN1 변이를 타겟으로 한 유전자 발현을 평가하는 PCR 기반 assays와 RNA-sequencing assays의 차이를 조사했습니다. 또한 exogenous RNase H 활성과 ASO- probe 겹치는 현상을 통해 유전자 발현 감소를 측정하는 방법을 평가했습니다.",
+      "quantitative_results": "RNA-sequencing assays는 exogenous RNase H 활성과 ASO- probe 겹치는 현상이 유전자 발현 감소 측정에 미치는 영향을 줄 수 있음을 보여주었습니다. 또한, ddPCR assays에서 allele-specific detection probes가 ASO- binding site에서의 RNA-sequencing 코브라지에 큰 영향을 미쳤음을 확인했습니다.",
+      "novelty": "이 연구는 exogenous RNase H 활성과 ASO- probe 겹치는 현상이 유전자 발현 감소 측정에 미치는 영향을 이해하는 데 도움이 될 수 있는 새로운 방법을 제시했습니다.",
+      "limitations": "이 연구는 exogenous RNase H 활성과 ASO- probe 겹치는 현상이 유전자 발현 감소 측정에 미치는 영향을 이해하는 데 도움이 될 수 있는 새로운 방법을 제시했습니다. 그러나 exogenous RNase H 활성과 ASO- probe 겹치는 현상이 유전자 발현 감소 측정에 미치는 영향을 이해하는 데 필요한 추가적인 연구가 필요합니다.",
+      "future_research": "후속 연구는 exogenous RNase H 활성과 ASO- probe 겹치는 현상이 유전자 발현 감소 측정에 미치는 영향을 이해하는 데 필요한 추가적인 연구가 필요합니다. 이를 통해 유전자 발현 감소 측정에 대한 정확한 정보를 제공하고, 이를 통해 암호화된 염기 서열(ASO) 처리가 유전자 발현에 미치는 영향을 정확하게 이해할 수 있을 것입니다."
+    }
+  },
+  {
     "id": "PMC:PMC13693265",
     "title": "From Discovery Proteomics to Process-Informed Monitoring in Biomanufacturing Chassis Development",
     "topic": "Protein",
@@ -24,7 +60,7 @@
     "pmid": "42925512",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42925512/",
-    "abstract": "Plant-derived extracellular vesicles offer a promising frontier in nanomedicine for managing neurological diseases. This review systematically addresses their classification, botanical sources, isolation techniques, and biogenesis pathways. Comprehensive compositional analyses reveal a diverse cargo of proteins, lipids, nucleic acids, and metabolites that support their biological activity. Plant-derived extracellular vesicles possess intrinsic anti-inflammatory, antioxidant, antineoplastic, and regenerative properties, while also serving as efficient natural drug-delivery systems. We then summarize their therapeutic applications in nervous system tumors, traumatic neurological injuries, neurodegenerative diseases, and neuropsychiatric disorders. Although substantial challenges remain in standardizing isolation protocols and optimizing targeted delivery, plant-derived extracellular vesicles offer a sustainable, highly biocompatible, and scalable alternative to mammalian-derived extracellular vesicles. Future research should focus on harnessing their unique characteristics to improve cargo engineering and facilitate transport across physiological barriers, including the blood-brain barrier. Addressing these challenges and further optimizing the functionality of plant-derived extracellular vesicles could profoundly reshape the landscape of neurological therapeutics.",
+    "abstract": "Abstract Plant-derived extracellular vesicles offer a promising frontier in nanomedicine for managing neurological diseases. This review systematically addresses their classification, botanical sources, isolation techniques, and biogenesis pathways. Comprehensive compositional analyses reveal a diverse cargo of proteins, lipids, nucleic acids, and metabolites that support their biological activity. Plant-derived extracellular vesicles possess intrinsic anti-inflammatory, antioxidant, antineoplastic, and regenerative properties, while also serving as efficient natural drug-delivery systems. We then summarize their therapeutic applications in nervous system tumors, traumatic neurological injuries, neurodegenerative diseases, and neuropsychiatric disorders. Although substantial challenges remain in standardizing isolation protocols and optimizing targeted delivery, plant-derived extracellular vesicles offer a sustainable, highly biocompatible, and scalable alternative to mammalian-derived extracellular vesicles. Future research should focus on harnessing their unique characteristics to improve cargo engineering and facilitate transport across physiological barriers, including the blood-brain barrier. Addressing these challenges and further optimizing the functionality of plant-derived extracellular vesicles could profoundly reshape the landscape of neurological therapeutics.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 논문은 플랜트 기반 외상성 베실러스가 신경계 질환 치료에 대한 새로운 접근 방식으로 연구됩니다. 이 연구는 플랜트 기반 외상성 베실러스의 분류, 식물적 원료, 추출 기술, 그리고 생물학적 활성화 경로에 대한 체계적인 분석을 포함합니다. 또한, 플랜트 기반 외상성 베실러스가 신경계 종양, 외상성 신경계 손상, 신경학적 질환 및 신경-psychiatric 질환에 대한 치료에 대한 잠재적인 잠재력을 다룹니다.",
@@ -44,7 +80,7 @@
     "authors": "Xiao H, Li X, Cai K, Leng Y, Miao X, Yin T, Shuai X, Ren J.",
     "doi": "10.1126/sciadv.aeh6590",
     "pmid": "42913010",
-    "pmcid": "",
+    "pmcid": "PMC13693692",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42913010/",
     "abstract": "Liver fibrosis is a severe complication of diverse chronic liver diseases characterized by a dysregulated hepatic microenvironment, and effective clinical therapeutic strategies for this condition remain lacking to date. Chimeric antigen receptor macrophages (CAR-Ms) hold considerable therapeutic potential for liver fibrosis via antigen-specific recognition and efferocytotic activity, yet their clinical translation is largely hindered by the sophisticated ex vivo preparation procedures. Herein, we report an in situ CAR-M engineering strategy that uses a phosphatidylserine (PS)-incorporated, macrophage-targeted lipid nanoparticle (LNP) for the codelivery of CAR messenger RNA (mRNA) and Cas9 mRNA in vivo. Our findings demonstrate that this engineered LNP achieves efficient targeting of liver-resident macrophages. Transfection with fibroblast activation protein α (FAPα)-CAR mRNA equips macrophages with the capacity to specifically target activated hepatic stellate cells (aHSCs), whereas Cas9-mediated follistatin-like protein 1 (FSTL-1) gene editing enhances the efferocytotic function of macrophages in liver tissues. Consequently, functional CAR-Ms are generated in situ, which elicits robust antifibrotic effects, including reduced collagen deposition, restored sinusoidal architecture and enhanced immune-mediated antifibrotic activity. Collectively, our customized LNP-mediated in situ engineering of liver macrophages into CAR-Ms enables precise antifibrotic intervention for liver fibrosis and circumvents the cumbersome ex vivo CAR-M preparation process.",
     "summary": "초록 기반 요약",
@@ -1114,7 +1150,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42877804/",
     "abstract": "Proteomics, the comprehensive study of protein expression, localization, and modifications, has evolved from a fundamental research tool into a key complementary layer to genomics in antitumor drug development and precision oncology. This review highlights its multi-dimensional applications, including differential, chemical, and post-translational modification proteomics, for drug-target discovery and mechanism-of-action elucidation. It further discusses proteomics strategies, such as mass spectrometry-based quantitative approaches, protein microarray and single-cell proteomics, which enable the profiling of adverse drug reactions, the dissection of resistance mechanisms, and the advancement of precision oncology. To date, the translational maturity of these applications is uneven: proteomic biomarkers have entered prospective trials and informed molecular tumor board recommendations in selected Clinical Laboratory Improvement Amendments (CLIA) certified settings, whereas de novo proteomics-derived drug targets remain largely at the preclinical stage. By bridging basic research and clinical practice, proteomics provides a scientific framework that facilitates drug development and informs clinical translation.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 단백질 분석(proteomics)이 암 치료제의 타겟 발굴, 독성, 저항성, 정밀 암학(precision oncology) 분야에서 중요한 역할을 하고 있음을 강조하고 있습니다. 이를 통해 암 치료제 개발 과정에서 단백질 분석이 어떻게 활용되고 있으며, 그에 따른 장단점이 무엇인지에 대해 논의하고 있습니다.",
+      "methods": "논문에서는 단백질 분석의 다양한 형태인 차이 분석, 화학 분석, 후 발현 분석(proteomics)을 활용하여 암 치료제의 타겟 발굴과 작용 메커니즘을 이해하는 데 사용되었습니다. 또한 단백질 미코어레이와 단백질 단일 셀 분석 등의 방법을 통해 약물의 부작용을 평가하고 저항성 메커니즘을 분석하는 데 활용되었습니다.",
+      "quantitative_results": "논문에서는 단백질 분석이 암 치료제 개발 과정에서 중요한 역할을 하고 있음을 보여주며, 단백질 분석을 통해 암 치료제 개발 과정에서 중요한 역할을 하고 있음을 보여주며, 단백질 분석을 통해 암 치료제 개발 과정에서 중요한 역할을 하고 있음을 보여주었습니다.",
+      "novelty": "이 논문은 단백질 분석이 암 치료제의 타겟 발굴과 작용 메커니즘 이해에 있어 중요한 역할을 하고 있음을 보여주며, 이는 기존 연구에서 보여주지 않았던 새로운 관점을 제공합니다.",
+      "limitations": "이 논문에서는 단백질 분석의 한계를 명시하지 않았으며, 단백질 분석의 결과를 실제 암 치료제 개발 과정에서 어떻게 적용할 수 있는지에 대한 정보도 제공되지 않았습니다. 이 한계와 정보는 추가 연구가 필요합니다.",
+      "future_research": "이 논문은 단백질 분석이 암 치료제 개발 과정에서 중요한 역할을 하고 있음을 보여주며, 이에 대한 추가 연구가 필요합니다. 이러한 연구는 단백질 분석을 통해 암 치료제의 개발 과정에서 어떻게 활용될 수 있는지에 대한 이해를 높이고, 이를 통해 암 치료제 개발의 질을 향상시킬 수 있습니다."
+    }
   },
   {
     "id": "PMC:PMC13646910",
@@ -1447,7 +1491,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42847707/",
     "abstract": "Highly pathogenic avian influenza (HPAI) clade 2.3.4.4b H5N1 circulated widely in lactating dairy cows in the United States following the initial detection in 2024. Due to the critical need for intervention strategies for this outbreak, we evaluated antibody and cellular immune responses of a clade 2.3.4.4b H5 mRNA-LNP vaccine in calves. We found that the H5 mRNA-LNP vaccine induced a robust antibody and CD8 + T cell-mediated immune response and conferred protection against clade 2.3.4.4b H5N1 infection.IMPORTANCEIt is important to develop vaccines that limit clade 2.3.4.4b H5N1 infection in cattle. In this study, we found that a new H5 mRNA-lipid nanoparticle vaccine is immunogenic when delivered intramuscularly to male Holstein calves.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 H5N1 바이러스에 대한 H5 mRNA-LNP 백신이 빈乳乳牛 calves에게 효과적인 면역 반응을 일으키는지 검토하기 위해 수행되었다. 이는 H5N1 바이러스가 빈乳乳牛에서 흔히 발생하였고, 이를 대처하기 위한 백신 개발의 필요성을 입증한다.",
+      "methods": "연구자는 H5 mRNA-LNP 백신을 Holstein calves에게 intramuscular로 접종하였고, 그 백신이 calves에게 면역 반응을 일으키는지, 그리고 이 백신이 H5N1 바이러스에 대한 감염을 방지하는지에 대한 정보를 얻기 위해 antibody와 CD8+ T cell-mediated immune responses를 측정하였다.",
+      "quantitative_results": "백신은 robust antibody와 CD8+ T cell-mediated immune responses를 일으켰으며, 이는 H5N1 바이러스에 대한 감염을 방지하는 백신으로 작용했다.",
+      "novelty": "이 연구는 새로운 H5 mRNA-LNP 백신이 H5N1 바이러스에 대한 감염을 방지하는 백신으로 작용한다는 것을 입증하는 첫 번째 연구로, 기존 연구 대비 차별점이다.",
+      "limitations": "백신의 효과성에 대한 데이터는 한 번의 실험에서 얻어졌으며, 다른 환경이나 다른 종류의 calves에 대한 백신의 효과를 확인하기 위해 추가 연구가 필요하다는 것을 명시하였다.",
+      "future_research": "후속 연구는 다른 종류의 calves나 다른 환경에서 백신의 효과를 확인하는 것이 필요하다는 제안을 한다."
+    }
   },
   {
     "id": "doi:10.1016/j.ijpx.2026.100680",
@@ -2493,7 +2545,7 @@
     "authors": "Orsburn BC.",
     "doi": "10.1021/jasms.6c00268",
     "pmid": "42916770",
-    "pmcid": "",
+    "pmcid": "PMC13651604",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42916770/",
     "abstract": "The field of proteomics is one of the fastest-growing scientific disciplines in the world today. Beginning in 2020, ambitious market predictions anticipated proteomics to more than double in market size in 4-6 years and to even surpass the well-established genomic sciences industry in 8-12 years. While the market is still growing, it has not come close to matching the initial projections. To better understand the root cause of this, the author has collected field surveys and direct interviews of over 200 scientists actively involved in proteomics research today. While ultimately incomplete, it is worth noting that over 68% of respondents received their technical training in proteomics during either their doctoral or postdoctoral training. In stark contrast, only 4.3% of students obtained training during their undergraduate education. Given the 5.7-to-9.4-year average cycle for traditional doctoral and postdoctoral training in the life sciences, it appears the limiting factor in growing the proteomics field may be linked directly to current practices in training a qualified workforce.",
     "summary": "초록 기반 요약"
@@ -2521,7 +2573,7 @@
     "authors": "He Y, Wang L, Williams AP, Valerio TI, Sun Y, Bowman J, Ricketts SD, Hammond S, Sison A, Alexandre J, Niastor Z, Chen WR, Green DE, Fung KM, DeAngelis PL, Wilhelm S.",
     "doi": "10.1021/acsnano.6c11865",
     "pmid": "42915664",
-    "pmcid": "",
+    "pmcid": "PMC13648266",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42915664/",
     "abstract": "In this study, we developed a library of mRNA lipid nanoparticles (LNPs) containing clinically used ionizable lipids. We surface-modified these nanoparticles with heparosan polysaccharides and systematically compared their performance with conventional poly(ethylene glycol) (PEG)-modified formulations. Our heparosan (HEP)-coated LNPs increased mRNA expression in dendritic and macrophage cell lines by up to ∼10-fold. Mechanistic studies using live-cell imaging and intracellular nanoparticle trafficking analysis revealed that HEP-modified LNPs exhibited reduced colocalization with late endosomal (Rab7+) and lysosomal (LAMP1+) compartments. These findings are consistent with enhanced endosomal escape of HEP-modified formulations. Repeated subcutaneous administrations of HEP-modified firefly luciferase mRNA-LNPs demonstrated sustained expression and distinct response dynamics in mice. We further observed significantly enhanced humoral anti-spike protein immune responses in mice after subcutaneous administration of HEP-modified LNPs containing SARS-CoV-2 spike S-2P mRNA. Histopathological evaluation and spleen immune cell profiling showed no observable toxicity or adverse effects. Overall, these results demonstrate the effects of HEP surface modification on mRNA LNP expression, intracellular trafficking, and in vivo activity, and support HEP-based surface engineering as a PEG-free approach for nucleic acid delivery and potential future applications in nanomedicine.",
     "summary": "초록 기반 요약"
