@@ -1,5 +1,27 @@
 [
   {
+    "id": "doi:10.1039/d6bm01033d",
+    "title": "Targeted immunomodulation with CD44-targeting nanovaccine enhances antitumor immunity in melanoma through TLR7/8 and TLR3 agonists.",
+    "topic": "Immunity",
+    "date": "2026-10-27",
+    "journal": "",
+    "authors": "Pillarisetti S, Sathiyamoorthy P, Jung TY, Uthaman S, Park IK.",
+    "doi": "10.1039/d6bm01033d",
+    "pmid": "42723591",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42723591/",
+    "abstract": "Cancer is a leading cause of death. Melanoma, a highly metastatic and aggressive skin cancer, has seen rising mortality rates despite advancements in chemotherapy. Recently, immunotherapy has emerged as a promising approach to address the limitations of conventional treatments. This study developed a tumor microenvironment-sensitive nanoparticle (HA-NPs) for a nanovaccine. The nanoparticle is composed of CD44-targeting hyaluronic acid, pH-responsive ammonium bicarbonate, resiquimod (a TLR-7/8 agonist), Poly I:C (a TLR-3 agonist), and the tumor-specific antigen ovalbumin (OVA), ensuring a targeted and effective approach to treatment. The combination of dual adjuvants (R848 and Poly I:C) enhances the immune response, while ammonium bicarbonate ensures pH sensitivity, improving targeted delivery and effectiveness in the tumor microenvironment. The antitumor efficacy of the nanovaccine was evaluated in a highly immunogenic, OVA-expressing B16F10 murine tumor model. The intratumoral administration of HA-NPs harnessed the adjuvant potency of R848 and Poly IC, thus enhancing antitumor immunity. Additionally, immune cell profiling revealed elevated levels of mature dendritic cells in vitro , as well as CD8 + T cells, and reduced levels of tumor-associated immunosuppressive cells (TAICs), such as regulatory T (Treg) cells, within the tumors. Overall, this study demonstrated the potential of HA-NPs to elicit antitumor solid immunity through the targeted immunomodulation of antigen-presenting cells and the reduction of tumor-associated immune cells (TAICs), offering a promising avenue for melanoma treatment.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 멜라노마 치료를 위한 새로운 방식을 개발하고자 합니다. 멜라노마는 전통적인 치료법으로 인해 치명적인 수준의 사망률을 보입니다. 이 연구는 멜라노마의 암세포를 직접적으로 공격하는 면역 치료법을 개발하기 위해 노력합니다.",
+      "methods": "연구자는 멜라노마 암세포를 공격하는 면역 반응을 촉진하기 위해 면역 치료법을 개발했습니다. 이 연구에서는 면역 치료법을 위해 멜라노마 암세포를 공격하는 면역 반응을 촉진하기 위해 면역 치료법을 개발했습니다. 이 연구에서는 멜라노마 암세포를 공격하는 면역 반응을 촉진하기 위해 면역 치료법을 개발했습니다.",
+      "quantitative_results": "연구 결과, 멜라노마 암세포를 공격하는 면역 반응을 촉진하는 면역 치료법이 효과적으로 작동한다는 것을 보여주었습니다. 이 연구는 멜라노마 암세포를 공격하는 면역 반응을 촉진하는 면역 치료법이 효과적으로 작동한다는 것을 보여주었습니다.",
+      "novelty": "이 연구는 멜라노마 암세포를 공격하는 면역 치료법을 개발하는 데 있어 새로운 접근법을 제공합니다. 이 연구는 멜라노마 암세포를 공격하는 면역 치료법을 개발하는 데 있어 새로운 접근법을 제공합니다.",
+      "limitations": "이 연구는 멜라노마 암세포를 공격하는 면역 치료법의 효과를 확인하기 위해 추가 연구가 필요합니다. 이 연구는 멜라노마 암세포를 공격하는 면역 치료법의 효과를 확인하기 위해 추가 연구가 필요합니다.",
+      "future_research": "추가 연구는 멜라노마 암세포를 공격하는 면역 치료법의 효과를 확인하고, 이 치료법이 다른 종류의 암에 효과적인지 확인하는 것이 필요합니다. 추가 연구는 멜라노마 암세포를 공격하는 면역 치료법의 효과를 확인하고, 이 치료법이 다른 종류의 암에 효과적인지 확인하는 것이 필요합니다."
+    }
+  },
+  {
     "id": "PMC:PMC13696097",
     "title": "Sense codon reassignment: from global proteome profiling to precision protein engineering 有义密码子重编码：从全局蛋白质组分析到精准蛋白质工程",
     "topic": "Protein",
@@ -12,6 +34,50 @@
     "url": "https://europepmc.org/articles/PMC13696097",
     "abstract": "",
     "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.bbi.2026.107081",
+    "title": "Design priorities for clinical trials of immunotherapy in psychiatry: What, how, and for whom?",
+    "topic": "Immunity",
+    "date": "2026-10-26",
+    "journal": "",
+    "authors": "Foley ÉM, Treadway MT, Miller AH, Khandaker GM.",
+    "doi": "10.1016/j.bbi.2026.107081",
+    "pmid": "42933583",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42933583/",
+    "abstract": "Decades of research into the immunology of depression is now translating into clinical trials, yet variability in study design, intervention target, and chosen endpoints limit comparability and slows translation into clinical practice. This Viewpoint outlines design priorities for immunotherapy trials in psychiatry, centred on a triad of considerations: the right target, the right patient, and the right outcome. Drawing upon findings from the latest clinical trials and existing literature, the novelty of this Viewpoint includes its emphasis on (i) target selection grounded on robust causal evidence from multi-method evidence triangulation; (ii) rigorous immune-based patient selection using repeat testing of blood biomarkers, such as C-reactive protein, to exclude transient immune activation, alongside inflammation-related clinical features; and (iii) prioritisation of clinically relevant and functionally meaningful outcomes that are mechanistically aligned with the target, alongside general severity scales. Together, these elements provide a pragmatic, mechanistically grounded approach to trial design. Strategic alignment across this triad will enhance precision, improve comparability and replication across studies, and accelerate translation of immunotherapy into clinical practice for patients with inflammation-linked depression and other psychiatric disorders.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 정신의학 분야의 면역학 연구를 통해 임상 임상 시험을 개선하고, 임상 적용을 가속화하기 위한 설계 우선순위를 제시합니다. 이는 면역 치료법을 사용한 임상 시험에서 사용되는 적절한 표적, 적절한 환자, 그리고 적절한 결과를 중심으로 합니다.",
+      "methods": "이 논문은 면역학적 표적을 선택하기 위한 강력한 유전적 증거를 사용하고, 혈액 바이오마커를 반복적으로 사용하여 임시적인 면역 활성화와 관련된 염증 관련 임상 특징을 배제하는 방법을 제시합니다. 또한, 적절한 유의 결과를 선택하고, 이 결과가 표적과 유사한 메커니즘을 따르는 것과 일반적인 심리적 증상 평가를 포함합니다.",
+      "quantitative_results": "이 논문은 이전 임상 시험과 관련된 연구에서 발견된 결과를 사용하여, 적절한 표적, 적절한 환자, 그리고 적절한 결과를 중심으로 한 설계 우선순위를 제시합니다.",
+      "novelty": "이 논문의 차별점은 면역학적 표적을 선택하는 데 사용되는 강력한 유전적 증거, 혈액 바이오마커를 사용하여 임시적인 면역 활성화와 관련된 염증 관련 임상 특징을 배제하는 방법, 그리고 적절한 유의 결과를 선택하는 방법입니다.",
+      "limitations": "이 논문은 이전 연구에서 발견된 결과를 사용하여 설계 우선순위를 제시했지만, 이전 연구에서 확인할 수 없는 정보가 포함되어 있습니다. 이는 이전 연구의 결과를 기반으로 한 설계 우선순위가 전체적인 연구 결과를 반영하지 않을 수 있다는 한계를 포함합니다.",
+      "future_research": "이 논문은 이전 연구에서 발견된 결과를 기반으로 한 설계 우선순위를 제시했습니다. 그러나 이전 연구에서 확인할 수 없는 정보가 포함되어 있으므로, 이전 연구의 결과를 기반으로 한 설계 우선순위가 전체적인 연구 결과를 반영하지 않을 수 있다는 한계가 있습니다. 이에 대한 후속 연구는 이전 연구의 결과를 더 깊이 분석하고, 새로운 연구 방법을 도입하여 이전 연구의 한계를 극복하는 것을 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.1016/j.addr.2026.115980",
+    "title": "Nanoparticles for cardiovascular diseases: identifying and overcoming barriers in translating preclinical success to clinical applications.",
+    "topic": "Drug delivery",
+    "date": "2026-10-26",
+    "journal": "",
+    "authors": "Ahmadi A, Refaat A, Miao K, Vidallon MLP, McFadyen JD, Wang X, Peter K.",
+    "doi": "10.1016/j.addr.2026.115980",
+    "pmid": "42933662",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42933662/",
+    "abstract": "Nanoparticles (NPs) have emerged as versatile platforms for drug delivery in cardiovascular diseases (CVDs), demonstrating robust efficacy in preclinical models by stabilizing atherosclerotic plaques, promoting safe and efficient thrombolysis, and mitigating ischemia-reperfusion injury. These advances highlight the maturation of cardiovascular nanomedicine; however, translation to clinical practice remains limited. This gap between laboratory success and clinical adoption reflects broader challenges in nanomedicine design, including suboptimal delivery to diseased tissues, limited efficacy of single therapeutic payload-based strategies in addressing the multifaceted inflammatory pathways driving CVDs, NPs' immunogenicity, and scale-up feasibility. Addressing these barriers is particularly critical in CVDs, where therapeutic success depends on precise engagement with multiple molecular and cellular drivers of disease. This review discusses the evolving landscape of cardiovascular nanomedicine, focusing on four aspects. First, we highlight advances in NPs bioengineering strategies, such as refined targeting moieties, optimized physicochemical properties, and responsiveness to endogenous and external stimuli that enhance organ- and cell-specific delivery in atherosclerosis, myocardial infarction, and stroke. Second, we discuss analytical innovations that improve characterization and control of NPs' biodistribution, enabling more rational targeting. Third, we evaluate therapeutic payloads, emphasizing how RNA-based and immunomodulatory agents represent a meaningful step toward clinical translation. Fourth, we outline approaches to addressing persistent challenges in safety and scalable manufacturing. Together, these developments establish a foundation for translating NP design principles into practical cardiovascular therapies. With continued progress in targeted delivery, clinical safety, and production scalability, cardiovascular nanomedicine is increasingly well-positioned to translate preclinical advances to transformative patient outcomes.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 카디벌바이오메디컬 질환 치료를 위한 나노입자(NPs)의 잠재력을 강조하고, 그들이 임상 적용으로 이동하는 데 걸림돌을 극복하는 방법을 분석한다. 이는 나노의학의 발전을 보여주는 카디벌바이오메디컬 나노의학의 발전을 강조한다. 그러나 임상 적용으로의 이동은 아직 제한적이다. 이 연구는 나노입자 설계에 대한 더 많은 이해를 제공하여 나노입자 디자인 원칙을 카디벌바이오메디컬 치료법으로 실용화하는 데 기여할 것이다.",
+      "methods": "논문은 나노입자 설계를 개선하는 데 중점을 둔다. 이는 타겟화된 물질, 물리화학적 성질, 그리고 내부 및 외부 자극에 대한 반응을 개선하는 것이다. 분석은 나노입자의 생물학적 분포를 개선하고, 더 합리적인 타겟팅을 가능하게 하는 분석법을 포함한다. 또한 RNA 기반과 면역 조절 약물의 임상 적용 가능성을 강조한다. 마지막으로, 안전성과 대량 생산에 대한 해결책을 제안한다.",
+      "quantitative_results": "논문에서는 나노입자 설계를 개선하는 데 중점을 둔다. 이는 타겟화된 물질, 물리화학적 성질, 그리고 내부 및 외부 자극에 대한 반응을 개선하는 것이다. 분석은 나노입자의 생물학적 분포를 개선하고, 더 합리적인 타겟팅을 가능하게 하는 분석법을 포함한다. 또한 RNA 기반과 면역 조절 약물의 임상 적용 가능성을 강조한다.",
+      "novelty": "이 논문은 나노입자 설계를 개선하는 데 중점을 둔다. 이는 타겟화된 물질, 물리화학적 성질, 그리고 내부 및 외부 자극에 대한 반응을 개선하는 것이다. 분석은 나노입자의 생물학적 분포를 개선하고, 더 합리적인 타겟팅을 가능하게 하는 분석법을 포함한다. 또한 RNA 기반과 면역 조절 약물의 임상 적용 가능성을 강조한다.",
+      "limitations": "논문에서는 나노입자 설계를 개선하는 데 중점을 둔다. 이는 타겟화된 물질, 물리화학적 성질, 그리고 내부 및 외부 자극에 대한 반응을 개선하는 것이다. 분석은 나노입자의 생물학적 분포를 개선하고, 더 합리적인 타겟팅을 가능하게 하는 분석법을 포함한다. 또한 RNA 기반과 면역 조절 약물의 임상 적용 가능성을 강조한다. 그러나 이 연구는 아직 임상 적용으로의 이동이 제한적이라는 한계를 명시한다.",
+      "future_research": "후속 연구는 나노입자 설계를 더욱 개선하고, 임상 적용 가능성을 높이는 데 중점을 둘 것이다. 이는 타겟화된 물질, 물리화학적 성질, 그리고 내부 및 외부 자극에 대한 반응을 개선하는 것이다. 분석은 나노입자의 생물학적 분포를 개선하고, 더 합리적인 타겟팅을 가능하게 하는 분석법을 포함한다. 또한 RNA 기반과 면역 조절 약물의 임상 적용 가능성을 강조한다."
+    }
   },
   {
     "id": "doi:10.1177/21593337261497131",
@@ -116,6 +182,28 @@
     }
   },
   {
+    "id": "doi:10.1016/j.prp.2026.156716",
+    "title": "Immune profile dysregulation of high grade- compared to low grade-pseudomyxomas.",
+    "topic": "Immunity",
+    "date": "2026-10-23",
+    "journal": "",
+    "authors": "Bourgin C, Golias M, Ollivier E, Levergeois R, Cochonneau D, Thibaudeau E, Dumont F, Vignaud T, Heymann MF, Heymann D.",
+    "doi": "10.1016/j.prp.2026.156716",
+    "pmid": "42933311",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42933311/",
+    "abstract": "Pseudomyxoma peritonei is a rare and poorly understood cancer. The histological characteristics that classify pseudomyxoma as either low-grade or high-grade are major prognostic factors. The present study aimed to identify differentially expressed genes in low-grade and high-grade pseudomyxomas using transcriptomic analysis, in order to improve our understanding of their pathophysiology. Two cohorts of pseudomyxoma peritonei FFPE samples composed by 13 low grade and 11 high grade tumours respectively were selected. The expression of several biomarkers (CK7, CK20, MUC2, MUC5AC, Ki67) were analysed by immunohistochemistry. Gene expression profiles were studied using Nanostring™ technology and included the tumour signalling 360™ panel (760 tumour signalling related genes and 20 internal reference controls) and the inflammation v2 panel (249 inflammation-related human genes and 6 internal reference controls). The study revealed distinct transcriptomic profiles of the immune response in low grade and high grade, indicating dysregulation of immune cell migration and/or chemotaxis, as well as modulation of cellular metabolic activities and cell signalling. In addition, in high grade pseudomyxoma peritonei, there are genes and signalling pathways linked to the response to lipopolysaccharides and bacterial molecules were also downregulated. Our results strengthen both the role of immune response and the role of bacterial involvement in pseudomyxoma peritonei pathophysiology.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 고급형과 저급형 페스티아모사(peritonei)의 면역 반응을 분석하여, 그 차이를 이해하고자 함으로써, 페스티아모사의 병리학적 이해를 향상시키려고 합니다.",
+      "methods": "저자들은 페스티아모사의 저급형과 고급형 두 페널 코호트를 선택하여, 여러 표적 바이오마커의 면역호출을 분석하고, 페스티아모사의 세포 신호 경로를 연구하기 위한 Nanostring™ 테크놀로지를 사용했습니다. 이 연구는 페스티아모사의 저급형과 고급형의 면역 반응의 분포 유전자 프로파일을 확인하고, 면역 세포 이동 및/또는 체질추구, 그리고 세포 대사 활동 및 세포 신호 경로의 조절을 확인했습니다.",
+      "quantitative_results": "저자들은 페스티아모사의 저급형과 고급형의 유전자 발현 프로파일이 다르다는 것을 확인했습니다. 이는 저급형과 고급형의 면역 세포 이동 및/또는 체질추구, 그리고 세포 대사 활동 및 세포 신호 경로의 조절을 나타내는 면역 반응의 불균형을 보여주었습니다. 또한, 고급형 페스티아모사에서는 리보플라스틱산-글루코산(LPS) 및 세균 분자에 대한 응답을 가진 유전자와 세포 신호 경로가 저해되었습니다.",
+      "novelty": "이 연구는 저급형과 고급형 페스티아모사의 면역 반응의 차이를 처음으로 확인하고, 이는 페스티아모사의 병리학적 이해를 향상시키는 데 기여할 수 있습니다.",
+      "limitations": "저자는 면역 반응과 세균 관련성에 대한 연구 결과를 보고했습니다. 그러나 이 연구는 면역 세포 이동 및/또는 체질추구, 그리고 세포 대사 활동 및 세포 신호 경로의 조절을 포함한 면역 반응의 다른 부분에 대한 정보를 제공하지 않았습니다. 또한, 이 연구는 페스티아모사의 병리학적 이해를 향상시키는 데 기여할 수 있는 추가 연구가 필요하다는 것을 명시했습니다.",
+      "future_research": "저자는 페스티아모사의 병리학적 이해를 향상시키기 위해, 면역 세포 이동 및/또는 체질추구, 그리고 세포 대사 활동 및 세포 신호 경로의 조절에 대한 추가 연구가 필요하다는 것을 제안했습니다."
+    }
+  },
+  {
     "id": "doi:10.64898/2026.10.16.758452",
     "title": "VO659, a CAG repeat-targeting antisense oligonucleotide, lowers multiple neurotoxic mutant huntingtin proteins in Huntington's disease",
     "topic": "Nucleic acids",
@@ -126,7 +214,7 @@
     "pmid": "",
     "pmcid": "",
     "url": "https://doi.org/10.64898/2026.10.16.758452",
-    "abstract": "Huntington's disease (HD) is caused by a CAG repeat expansion in the huntingtin (HTT) gene, encoding an elongated polyglutamine stretch in the corresponding mutant HTT (mHTT) protein. HD pathogenesis is driven by multiple neurotoxic mHTT protein species, including HTT1a and repeat-associated non-AUG translation (RAN) proteins, which increase in expression as mutant CAG repeats lengthen due to somatic expansion. VO659 is an investigational CAG repeat-targeting antisense oligonucleotide (ASO) that lowers mHTT protein levels by blocking translation. Here, we show that VO659 allele-preferentially lowers levels of multiple neurotoxic mHTT protein species in a CAG repeat length-dependent manner, relatively sparing wild-type HTT, while becoming more efficacious as somatic expansion occurs. VO659 reduced HTT1a mRNA levels in HD fibroblasts with an ultra-long CAG repeat, blocked the translation of HTT1a and polyalanine-containing RAN proteins derived from HTT exon 1 overexpression constructs, and displayed a long tissue half-life in mouse brain, supporting an infrequent dosing regimen. A first-in-human, open-label phase 1/2a clinical trial ( NCT05822908 ) is currently ongoing in HD patients. VO659's unique CAG repeat-dependent and allele-preferential mechanism of action holds promise for its therapeutic effect in HD patients by targeting multiple core neurotoxic proteins derived from (somatically) expanded mHTT CAG repeats, while sparing wild-type HTT expression.",
+    "abstract": "Huntington’s disease (HD) is caused by a CAG repeat expansion in the huntingtin ( HTT ) gene, encoding an elongated polyglutamine stretch in the corresponding mutant HTT (mHTT) protein. HD pathogenesis is driven by multiple neurotoxic mHTT protein species, including HTT1a and repeat-associated non-AUG translation (RAN) proteins, which increase in expression as mutant CAG repeats lengthen due to somatic expansion. VO659 is an investigational CAG repeat-targeting antisense oligonucleotide (ASO) that lowers mHTT protein levels by blocking translation. Here, we show that VO659 allele-preferentially lowers levels of multiple neurotoxic mHTT protein species in a CAG repeat length-dependent manner, relatively sparing wild-type HTT, while becoming more efficacious as somatic expansion occurs. VO659 reduced HTT1a mRNA levels in HD fibroblasts with an ultra-long CAG repeat, blocked the translation of HTT1a and polyalanine-containing RAN proteins derived from HTT exon 1 overexpression constructs, and displayed a long tissue half-life in mouse brain, supporting an infrequent dosing regimen. A first-in-human, open-label phase 1/2a clinical trial ( NCT05822908 ) is currently ongoing in HD patients. VO659’s unique CAG repeat-dependent and allele-preferential mechanism of action holds promise for its therapeutic effect in HD patients by targeting multiple core neurotoxic proteins derived from (somatically) expanded mHTT CAG repeats, while sparing wild-type HTT expression.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "VO659는 HD에서 발생하는 여러 중독성 mHTT 단백질을 줄이는 역할을 합니다. 이는 HD의 발병 과정에서 중요한 역할을 합니다. VO659는 mHTT 단백질의 번역을 차단하여 mHTT 단백질의 수준을 낮추는 ASO입니다.",
@@ -148,7 +236,7 @@
     "pmid": "",
     "pmcid": "",
     "url": "https://doi.org/10.64898/2026.10.21.760837",
-    "abstract": "Predicting the structural consequences of single-site mutations is fundamental to understanding protein function, disease mechanisms, and protein engineering. However, existing benchmarks for mutation-induced structural change prediction are often affected by duplicate mutation events, highly similar structural pairs, and experimental-state confounders, which can inflate reported performance. We introduce MutaStruct, a curated benchmark of experimentally observed single-mutation protein structure pairs designed for rigorous evaluation of mutation-induced structural changes. MutaStruct combines residue-level sequence validation, coordinate-level quality control, context-aware filtering, event-level deduplication, and leakage-aware data splitting to improve dataset reliability and evaluation rigor. We benchmark sequence-only structure prediction, physics-based refinement, and learning-based refinement methods together with a Copy-WT diagnostic control. Copy-WT remains highly competitive on backbone-based metrics, while method rankings change substantially across local and mutation-site measures. These results show that overall structural fidelity does not necessarily imply accurate modeling of mutation-associated structural change, underscoring the need for further methodological development beyond current paradigms. The benchmark dataset is currently undergoing further curation and expansion and will be released in a future journal-version update. The codebase, trained models, and evaluation pipeline are publicly available at https://github.com/HySonLab/MutaStruct",
+    "abstract": "Predicting the structural consequences of single-site mutations is fundamental to understanding protein function, disease mechanisms, and protein engineering. However, existing benchmarks for mutation-induced structural change prediction are often affected by duplicate mutation events, highly similar structural pairs, and experimental-state confounders, which can inflate reported performance. We introduce M uta S truct , a curated benchmark of experimentally observed single-mutation protein structure pairs designed for rigorous evaluation of mutation-induced structural changes. M uta S truct combines residue-level sequence validation, coordinate-level quality control, context-aware filtering, event-level deduplication, and leakage-aware data splitting to improve dataset reliability and evaluation rigor. We benchmark sequence-only structure prediction, physics-based refinement, and learning-based refinement methods together with a Copy-WT diagnostic control. Copy-WT remains highly competitive on backbone-based metrics, while method rankings change substantially across local and mutation-site measures. These results show that overall structural fidelity does not necessarily imply accurate modeling of mutation-associated structural change, underscoring the need for further methodological development beyond current paradigms. The benchmark dataset is currently undergoing further curation and expansion and will be released in a future journal-version update. The codebase, trained models, and evaluation pipeline are publicly available at https://github.com/HySonLab/MutaStruct .",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 논문은 단백질의 단일 위치mutation이 어떻게 구조적으로 변화하는지 예측하는 기존의 평가지표가 문제점을 가지고 있음을 보여줍니다. 이를 해결하기 위해, 저자는 MutaStruct라는 새로운 평가지표를 제안하였습니다.",
@@ -1101,7 +1189,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42860607/",
     "abstract": "Tumor-derived extracellular vesicles (EVs) are emerging as critical mediators of metabolic adaptation, yet their role in orchestrating ferroptosis resistance within the tumor microenvironment remains poorly understood. Here, we show that highly malignant osteosarcoma (OS) cells respond to ferroptotic stress by secreting EVs enriched with Alpha-enolase (ENO1). These EVs-ENO1 not only bolster the antioxidant capacity of tumor cells but also confer widespread ferroptosis resistance to macrophages and neutrophils, fostering an immunosuppressive niche. To disrupt this metabolic defense, we developed an OS-targeting lipid nanoparticle (LNP) system for the synergistic delivery of BAP1 mRNA and ENO1 siRNA. We demonstrate that this dual-delivery platform enhances ferroptosis through two complementary regulatory pathways, BAP1/SLC7A11 and ENO1/GPX4, leading to potent lipid peroxidation and tumor cell death. In syngeneic orthotopic and lung metastasis models, these targeted LNPs significantly suppress tumor progression and catalyze anti-tumor immunity by activating M1-type macrophages and cytotoxic T cells. Our findings identify the secretion of EVs-ENO1 as a key reactive mechanism against ferroptosis and provide a translatable nanomedicine strategy to overcome metabolic and epigenetic resistance in solid tumors.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 암세포가 발생하는 외상성 물질을 통해 발생하는 ferroptosis에 대한 저항성을 극복하여 효율적인 암세포 치료를 위한 새로운 플랫폼을 개발하고자 합니다. 이는 암세포의 생화학적 저항을 극복하고, 암세포의 생존을 방해하는 외상성 물질에 대한 저항성을 향상시키는 것을 목표로 합니다.",
+      "methods": "연구팀은 암세포가 ferroptosis에 대처하기 위해 외상성 물질을 분비하는 방식을 이해하고 이를 극복하기 위한 새로운 플랫폼을 개발했습니다. 이 플랫폼은 암세포를 표적으로하는 리소스를 사용하여 BAP1 mRNA와 Alpha-enolase (ENO1) siRNA를 동시에 분비하는 OS-특이적인 리소스 입자(LNP)를 개발했습니다. 이 플랫폼은 두 가지 서로 다른 조절 경로를 통해 ferroptosis를 강화하고 암세포의 죽음을 유도했습니다.",
+      "quantitative_results": "연구 결과, 이 새로운 플랫폼은 암세포의 죽음을 유도하고, 암세포의 생존을 방해하는 외상성 물질에 대한 저항성을 향상시키는 것을 입증했습니다. 이 플랫폼은 암세포의 진행을 억제하고, 암세포의 면역을 활성화하여 암세포의 죽음을 유도했습니다.",
+      "novelty": "이 연구는 암세포가 외상성 물질에 대한 저항성을 극복하는 새로운 플랫폼을 개발하고, 이 플랫폼이 암세포의 생화학적 저항을 극복하는 것을 입증했습니다. 이 연구는 기존 연구와 비교하여 새로운 접근법을 제공하며, 이는 암세포의 생화학적 저항을 극복하는 새로운 전략을 제공합니다.",
+      "limitations": "연구팀은 암세포가 외상성 물질에 대한 저항성을 극복하는 새로운 플랫폼을 개발하고, 이 플랫폼이 암세포의 생화학적 저항을 극복하는 것을 입증했습니다. 그러나 이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼의 실제 적용 가능성에 대한 추가 연구가 필요합니다. 또한, 이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼의 효과성과 안전성에 대한 추가 연구가 필요합니다.",
+      "future_research": "이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼을 개발하고, 이 플랫폼이 암세포의 생화학적 저항을 극복하는 것을 입증했습니다. 그러나, 이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼의 실제 적용 가능성에 대한 추가 연구가 필요합니다. 이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼의 효과성과 안전성에 대한 추가 연구가 필요합니다. 이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼의 실제 적용 가능성에 대한 추가 연구가 필요합니다. 이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼의 효과성과 안전성에 대한 추가 연구가 필요합니다."
+    }
   },
   {
     "id": "PMC:PMC13651604",
@@ -2579,6 +2675,90 @@
     "summary": "초록 기반 요약"
   },
   {
+    "id": "PMC:PMC13705844",
+    "title": "Acyl-Carrier-Protein-Engineering Rewires the Fatty Acid Profile in the Oleaginous Yeast Rhodotorula toruloides",
+    "topic": "Protein",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Wang S, Chen Q, Lyu L, Zhao Z.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13705844",
+    "url": "https://europepmc.org/articles/PMC13705844",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13703286",
+    "title": "Immune Cell Engagers and “Masking Immunotherapy” for Solid Tumors: Focus on Head and Neck Cancers",
+    "topic": "Immunity",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Nardo G, Lenoci D, Lucchetta M, Licitra L, De Cecco L, Cavalieri S.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13703286",
+    "url": "https://europepmc.org/articles/PMC13703286",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1111/aji.70340",
+    "title": "Certainty of Evidence and Strength of Recommendations for Immunotherapy in the 2025 American Society for Reproductive Immunology Guideline on Recurrent Pregnancy Loss.",
+    "topic": "Immunity",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Behrendt-Møller I, Nielsen HS, Vomstein K.",
+    "doi": "10.1111/aji.70340",
+    "pmid": "42934092",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42934092/",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13702138",
+    "title": "Lipid Nanoparticle Delivery of CAR276 mRNA Enables Antigen-Specific Cytotoxicity in T Cells Against Glioblastoma Cells",
+    "topic": "Drug delivery",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Zahedipour F, Sadeghianfard S, Wisser S, Dinarvand M, Steiner D, Ramesh A, Trosien P, Leibold J, Mezger M, Mohammadian Gol T.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13702138",
+    "url": "https://europepmc.org/articles/PMC13702138",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13705949",
+    "title": "Encapsulation of Annona muricata Acetogenins in Self-Nanoemulsifying Drug Delivery Systems (SNEDDSs): Controlled Release and Antiproliferative Activity in MC-38 Colon Cancer Cells",
+    "topic": "Drug delivery",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Córdova-Espíritu R, Bravo-Alfaro D, Mendoza-Galván A, García H, Aguilar-Hernández G, Montalvo-González E, Palmerín-Carreño D, Hernández-Guzman C, Rios-Ortiz M, García-Gasca T, Pérez-Ortega H, Luna-Bárcenas G, Villaseñor-Ortega F.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13705949",
+    "url": "https://europepmc.org/articles/PMC13705949",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13708101",
+    "title": "Nanoparticle-Based Drug Delivery Systems for Anticancer Therapy: Microenvironment-Driven Strategies, Advances, and Challenges",
+    "topic": "Drug delivery",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Ban M, Zhao S, Liu Z, Zhao L.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13708101",
+    "url": "https://europepmc.org/articles/PMC13708101",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.1038/s41586-026-10965-y",
     "title": "Function-preserving watermarking of AI-generated proteins.",
     "topic": "Protein",
@@ -2878,6 +3058,20 @@
     "pmcid": "",
     "url": "https://doi.org/10.64898/2026.09.24.753692",
     "abstract": "This study evaluated the Delayed C max Drug Delivery System (DCMax), an erosion-based controlled-release formulation designed to delay peak plasma concentration (Cmax) and sustain drug release. The tablet matrix contained hydroxypropyl methylcellulose, hydroxypropyl methylcellulose acetate succinate, and polyethylene oxide. In-vitr o dissolution and erosion studies confirmed the delayed release profile. In-vivo performance was assessed in six healthy volunteers by measuring salivary caffeine concentrations after administration of immediate-release caffeine tablets and DCMax tablets. DCMax induced a delayed C max of 5 hours compared with 1 hour for the immediate-release formulation, while peak concentrations were lower compared to immediate release. These findings demonstrate that erosion-based drug delivery can achieve delayed release, with potential application in chronotherapy for endocrine disorders. Highlights Erosion-based controlled release tablet may enable chronotherapy dosing Chronotherapeutically-relevant release rate achieved for molecules including thyroid hormone T3 and caffeine in-vitro Drug release rate largely independent of molecule type when the drug load is ≤20% Pharmacokinetic modelling predicts API release profile matching circadian rhythm Clinical study shows delayed Cmax and reduced peak during release",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13708484",
+    "title": "Nanoparticle-Mediated and Nanoengineered Drug Delivery for Glaucoma: Preclinical Evidence, Early Human Feasibility, and Translational Challenges",
+    "topic": "Drug delivery",
+    "date": "2026-09-29",
+    "journal": "",
+    "authors": "Capobianco M, Zeppieri M, Salvetat M, Pellegrini F, Pizzo A, Gattazzo I, D’Esposito F, Cappellani F, Gagliano C.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13708484",
+    "url": "https://europepmc.org/articles/PMC13708484",
+    "abstract": "",
     "summary": "초록 기반 요약"
   },
   {
