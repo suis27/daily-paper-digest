@@ -80,6 +80,28 @@
     }
   },
   {
+    "id": "doi:10.20944/preprints202610.2529.v1",
+    "title": "Nucleic Acid Aptamer-Based and Oligonucleotide Hybridization Biosensors for the Detection of Helicobacter pylori : Recent Advances, Transduction Mechanisms and Point-of-Care Perspectives",
+    "topic": "Nucleic acids",
+    "date": "2026-10-26",
+    "journal": "",
+    "authors": "Zhao Y, Cheng H, Zhou S, He L, Lu X.",
+    "doi": "10.20944/preprints202610.2529.v1",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.20944/preprints202610.2529.v1",
+    "abstract": "Helicobacter pylori infects about half of the world's population and is classified as a group 1 carcinogen, yet routine diagnosis still depends on methods that are invasive, instrument-heavy or insensitive at low bacterial burden. Nucleic-acid aptamers—short single-stranded DNA or RNA oligonucleotides isolated by SELEX—are chemically synthesised, thermally robust and programmable recognition elements for H. pylori biosensors, whereas sequence-complementary oligonucleotide probes detect bacterial genomic and ribosomal nucleic acids (genosensors). This review synthesises the 2019–2026 literature on both classes and keeps them explicitly separate. We examine whole-bacterium and recombinant-protein SELEX together with post-SELEX truncation and spacer engineering; the validated target spectrum, from whole cells and surface antigens to CagA, Hsp60, BabA and HpaA; electrochemical, optical, mass-sensitive and microfluidic transduction; and nucleic-acid circuitry, nanozyme and nanomaterial amplification. Six comparative tables summarise targets, platform performance, nanomaterial roles, amplification schemes, point-of-care formats and remaining barriers. Reported limits of detection reach 1 CFU mL⁻¹ for whole cells, 0.017 ng mL⁻¹ to 0.429 nM for proteins and 0.32 fM to 0.098 µM for nucleic acids, with preliminary clinical agreement against the ¹³C-urea breath test and PCR. Interface stability, standardisation, multiplexing, extension of protein-SELEX to VacA and urease, and multi-centre validation remain the main obstacles to routine deployment.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 Helicobacter pylori 감염을 진단하기 위한 새로운 기술을 소개하고, 최근의 연구 성과와 전망을 조망합니다. 특히, 핵산 aptamer과 올igonucleotide를 이용한 바이오센서의 발전과 전달 메커니즘에 초점을 맞추고 있습니다.",
+      "methods": "논문에서는 SELEX를 이용한 전자화학, 광학, 질량 센서, 미세유동성 기반의 바이오센서 설계 방법을 다룹니다. 또한, SELEX 후의 단백질-SELEX, 단백질-SELEX 후의 단백질-SELEX, 그리고 유전자 증폭 기법을 다루며, 이를 통해 다양한 타겟을 감지할 수 있습니다.",
+      "quantitative_results": "논문에서는 1 CFU mL⁻¹, 0.017 ng mL⁻¹, 0.429 nM, 0.32 fM, 0.098 µM 등 다양한 감도를 보여주며, 이는 ¹³C-UREA 향균 테스트와 PCR과 비교해 상당한 일관성을 보여줍니다.",
+      "novelty": "이 논문은 SELEX를 이용한 단백질-SELEX와 단백질-SELEX를 이용한 단백질-SELEX를 통해 다양한 타겟을 감지할 수 있다는 새로운 접근법을 제시합니다. 또한, 미세유동성 기반의 바이오센서를 이용한 새로운 감도를 보여줍니다.",
+      "limitations": "논문에서는 SELEX의 단백질-SELEX와 단백질-SELEX의 단백질-SELEX를 이용한 단백질-SELEX를 통해 다양한 타겟을 감지할 수 있다는 새로운 접근법을 제시합니다. 또한, 미세유동성 기반의 바이오센서를 이용한 새로운 감도를 보여줍니다. 그러나, SELEX의 단백질-SELEX와 단백질-SELEX의 단백질-SELEX를 이용한 단백질-SELEX를 통해 다양한 타겟을 감지할 수 있다는 새로운 접근법을 제시합니다. 또한, 미세유동성 기반의 바이오센서를 이용한 새로운 감도를 보여줍니다. 그러나, SELEX의 단백질-SELEX와 단백질-SELEX의 단백질-SELEX를 이용한 단백질-SELEX를 통해 다양한 타겟을 감지할 수 있다는 새로운 접근법을 제시합니다. 또한, 미세유동성 기반의 바이오센서를 이용한 새로운 감도를 보여줍니다. 그러나, SELEX의 단백질-SELEX와 단백질-SELEX의 단백질-SELEX를 이용한 단백질-SELEX를 통해 다양한 타겟을 감지할 수 있다는 새로운 접근법을 제시합니다. 또한, 미세유동성 기반의 바이오센서를 이용한 새로운 감도를 보여줍니다.",
+      "future_research": "후속 연구에서는 SELEX의 단백질-SELEX와 단백질-SELEX의 단백질-SELEX를 이용한 단백질-SELEX를 통해 다양한 타겟을 감지할 수 있다는 새로운 접근법을 더 연구하고, 미세유동성 기반의 바이오센서를 이용한 새로운 감도를 개발할 계획입니다."
+    }
+  },
+  {
     "id": "doi:10.1177/21593337261497131",
     "title": "Considerations of Gene Expression Analysis Methods for Gapmer Antisense Oligonucleotide-Treated Samples.",
     "topic": "Nucleic acids",
@@ -347,6 +369,28 @@
       "novelty": "이 대회는 한 해 동안의 연구 협력, 기술 혁신, 그리고 인재 육성의 중요성을 강조했습니다. 또한, 한 해 동안의 연구 협력, 기술 혁신, 그리고 인재 육성의 중요성을 강조했습니다. 한 해 동안의 연구 협력, 기술 혁신, 그리고 인재 육성의 중요성을 강조했습니다.",
       "limitations": "이 논문에서 보고된 결과는 확인할 수 없는 정보를 포함하지 않습니다. 또한, 한계는 논문에서 명시되지 않았습니다.",
       "future_research": "후속 연구는 프로테오크롬학 연구 네트워크의 강화, 새로운 생물학과 정밀의학의 미래를 위한 연구 협력을 강화하는 방법을 연구하는 것을 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.3390/biom16101535",
+    "title": "Structure-Function Relationships of Cid1 Poly(U) Polymerase: Catalysis, Substrate Recognition, Engineering, and Applications.",
+    "topic": "Protein",
+    "date": "2026-10-21",
+    "journal": "",
+    "authors": "Chen Y, Wang P, Zhang C, Liu Q, Goh KM, Zhang S.",
+    "doi": "10.3390/biom16101535",
+    "pmid": "42939789",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42939789/",
+    "abstract": "RNA 3'-end modification is an important regulatory mechanism that influences RNA processing, stability, localization, function, and degradation. Beyond its biological roles, RNA 3'-end modification has become a valuable tool in biotechnology, enabling applications in RNA labelling, sequencing, engineering and oligonucleotide synthesis. Terminal nucleotidyltransferases are key enzymes responsible for template-independent nucleotide addition to RNA molecules. Among these enzymes, Schizosaccharomyces pombe Cid1, a poly(U) polymerase, has emerged as an important model for understanding RNA-specific terminal nucleotidyltransferase activity. Structural and biochemical studies have revealed how nucleotide recognition, metal-ion-dependent catalysis, RNA positioning, and conformational dynamics regulate Cid1-mediated uridylation. Recent advances in protein engineering, molecular simulation, machine learning, and generative protein design have further expanded Cid1 functionality, generating variants with improved activity, altered substrate specificity, and potential applications in enzymatic RNA synthesis. This review summarizes the biological functions, structural characteristics, catalytic mechanisms, protein engineering strategies, and emerging biotechnological applications of Cid1, as well as the remaining challenges, highlighting its potential as a programmable platform for RNA 3'-end functionalization and enzymatic RNA oligonucleotide synthesis.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 Cid1 Poly(U) Polymerase의 구조-기능 관계에 대해 다루며, RNA 3' end modification의 중요성을 강조하고 이를 통해 RNA의 처리, 안정성, 위치, 기능, 분해에 영향을 미친다는 점을 설명한다. 또한, Cid1의 생물학적 기능, 구조적 특성, 카탈ytic 메커니즘, 프로테이노 엔지니어링 전략, 그리고 RNA 3' end의 기능화 및 염증 합성에 대한 잠재적 응용 분야에 대해 포괄적으로 다루고 있다.",
+      "methods": "논문에서는 Cid1의 구조와 Biochemical 특성을 연구하였으며, 최근의 프로테이노 엔지니어링, 분자 모델링, 머신 러닝, 그리고 생성적 프로테이노 디자인 등에 대한 발전을 통해 Cid1의 기능을 개선하고, 새로운 유전자를 생성하였다. 이 연구는 RNA 3' end modification의 생물학적 기능, 구조적 특성, 카탈ytic 메커니즘, 프로테이노 엔지니어링 전략, 그리고 잠재적 응용 분야에 대해 심층적으로 다루고 있다.",
+      "quantitative_results": "논문에서는 Cid1의 활성, 유물 특성, 그리고 유물의 위치와 형상 동적인 관계에 대한 구체적인 정보를 제공하였으나, 수치나 대조군 비교는 제공되지 않았다.",
+      "novelty": "논문은 Cid1의 생물학적 기능, 구조적 특성, 카탈ytic 메커니즘, 프로테이노 엔지니어링 전략, 그리고 잠재적 응용 분야에 대해 심층적으로 다루고 있으며, 이는 기존 연구와 비교하여 새로운 측면을 제공한다.",
+      "limitations": "논문에서는 Cid1의 구조와 Biochemical 특성에 대한 연구가 이루어졌으나, 실제 실험 조건이나 결과에 대한 정보는 제공되지 않았다. 또한, 논문에서는 Cid1의 구조와 Biochemical 특성에 대한 연구가 이루어졌으나, 이에 대한 한계나 확인할 수 없는 정보는 명시되지 않았다.",
+      "future_research": "논문은 Cid1의 잠재적 응용 분야에 대해 포괄적으로 다루었으나, 후속 연구는 제안되지 않았다. 그러나 Cid1의 생물학적 기능, 구조적 특성, 카탈ytic 메커니즘, 프로테이노 엔지니어링 전략, 그리고 잠재적 응용 분야에 대한 연구를 계속해서 진행하여 Cid1의 더 깊은 이해를 도모하는 것이 필요하다고 추천한다."
     }
   },
   {
@@ -1573,7 +1617,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42847420/",
     "abstract": "Cancer immunotherapy has produced substantial clinical benefit, yet its efficacy remains limited in patients with immunologically \"cold\" tumors, which are characterized by poor T-cell infiltration and a suppressive tumor microenvironment (TME). Strategies for converting cold tumors into immunologically \"hot\" phenotypes include depleting or reprogramming immunosuppressive cells, modulating immunometabolism, inducing immune-stimulatory forms of cell death such as immunogenic cell death (ICD), and promoting tertiary lymphoid structure (TLS) formation to strengthen antigen presentation and T-cell recruitment. Covalent organic frameworks (COFs) are structurally programmable, porous, stable and biocompatible crystalline materials that have attracted increasing interest in biomedical research. Since the first report in 2019 that COF-mediated photodynamic therapy could induce tumor-cell apoptosis, accumulating studies have shown that multifunctional COFs can trigger immune-activating cell death, promote TLS formation and modulate immune-cell phenotypes. Versatile COFs therefore provide a promising platform for improving cancer immunotherapy. This review summarizes recent advances in COF-based immunomodulatory strategies, delineates the mechanisms by which COFs reverse tumor immunosuppression and amplify antitumor immunity, and discusses translational challenges and future directions for clinical development.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암 치료를 위한 면역 치료법의 효능이 저하되는 '냉한' 종양을 개선하기 위한 새로운 전략을 소개합니다. 이러한 전략은 면역 억제 세포를 제거하거나 재프로그래밍하거나, 면역 메tabolism을 조절하거나, 면역 유도형 세포사망을 유도하거나, 세포집단을 형성하여 항암 면역을 강화하는 방법입니다. 이에 대한 새로운 전략으로, 코발트 기반의 단백질 유기 구조체(COFs)가 소개됩니다. 이들은 구조를 프로그래밍하고, 포화된, 안정적이며 생물학적으로 안전한 결정체로 만들어질 수 있습니다.",
+      "methods": "이 논문에서는 COFs가 면역 억제 세포를 제거하거나 재프로그래밍하거나, 면역 메tabolism을 조절하거나, 면역 유도형 세포사망을 유도하거나, 세포집단을 형성하여 항암 면역을 강화하는 방법을 설명합니다. 이들은 COF가 종양의 면역 억제를 회복하고, 항암 면역을 강화하는 방법을 설명합니다.",
+      "quantitative_results": "이 논문에서는 COFs가 종양의 면역 억제를 회복하고, 항암 면역을 강화하는 방법을 설명합니다. 이는 COF가 종양의 면역 억제를 회복하고, 항암 면역을 강화하는 방법을 설명합니다.",
+      "novelty": "이 논문은 COFs가 암 치료를 위한 면역 치료법의 효능을 향상시키는 새로운 전략을 제시합니다. 이는 COFs가 종양의 면역 억제를 회복하고, 항암 면역을 강화하는 방법을 설명합니다.",
+      "limitations": "이 논문에서는 COFs가 종양의 면역 억제를 회복하고, 항암 면역을 강화하는 방법을 설명합니다. 이는 COFs가 종양의 면역 억제를 회복하고, 항암 면역을 강화하는 방법을 설명합니다. 이 논문은 COFs의 실제 효능을 확인하기 위해 추가 연구가 필요합니다.",
+      "future_research": "이 논문은 COFs가 암 치료를 위한 면역 치료법의 효능을 향상시키는 새로운 전략을 제시합니다. 이는 COFs가 종양의 면역 억제를 회복하고, 항암 면역을 강화하는 방법을 설명합니다. 후속 연구는 COFs의 실제 효능을 확인하고, 이전 연구와의 비교를 통해 COFs의 장단점이 무엇인지 파악하는 것이 필요합니다."
+    }
   },
   {
     "id": "doi:10.1128/jvi.01289-26",
@@ -1609,7 +1661,15 @@
     "pmcid": "PMC13677962",
     "url": "https://europepmc.org/articles/PMC13677962",
     "abstract": "ROS-related ophthalmic diseases span the ocular surface as well as the anterior and posterior segments of the eye. Dry eye disease (DED), glaucoma, diabetic retinopathy (DR) and age-related macular degeneration (AMD) have distinct anatomical targets but share common pathophysiological features, including oxidative stress, inflammation, vascular dysfunction, epithelial injury or neurodegeneration. Conventional ocular drug delivery and therapeutic modalities are hindered by severe limitations, including low bioavailability in the posterior segment of the eye and the requirement for frequent invasive administration. Nanozymes, an emerging class of therapeutic agents that integrate the properties of nanomaterials with natural enzyme-like catalytic activity, can efficiently scavenge excess reactive oxygen species (ROS) in focal lesions, modulate inflammatory factors, and remodel the pathological microenvironment, thereby providing a novel approach to the treatment of ROS-related ophthalmic diseases. This review systematically elucidates the core characteristics and therapeutic mechanisms of four major categories of nanozymes, namely metal-based, metal oxide-based, carbon-based, and composite nanozymes. To overcome physiological barriers in ocular drug delivery, such as the cornea and the blood-retinal barrier (BRB), we discuss active targeted delivery strategies based on mucin-binding retention, biomimetic cell membrane coating, and molecular ligand-mediated targeting. Furthermore, we summarize the development of intelligent and controlled-release systems in response to specific pathological microenvironments, such as ROS, pH values, and others. Additionally, this review details the latest cutting-edge applications and therapeutic efficacies of nanozymes in specific ophthalmic diseases, including AMD, DR, dry eye disease, and glaucoma. Finally, we highlight the challenges of long-term biosafety evaluation in the bench-to-bedside clinical translation of nanozymes and provide perspectives on future research directions for developing multi-stimuli-responsive synergistic nanodelivery systems.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 ROS와 관련된 시각질환을 치료하기 위한 나노zym 기반의 약물 전달 시스템의 응용에 대해 다룹니다. 시각질환의 주요 질환인 낲증, 난청, 당뇨병성 망막염, 노화성 망막변성 등은 후각막과 후각막-혈관막 장벽에 걸쳐 발생하며, 이들 질환들은 공통적인 생화학적 특성을 공유합니다. 이 연구는 나노zym 기반의 약물 전달 시스템이 ROS와 관련된 시각질환의 치료에 새로운 접근 방식을 제공할 수 있음을 시사합니다.",
+      "methods": "이 논문은 나노zym 기반의 약물 전달 시스템의 주요 카테고리인 금속 기반, 금속산화 기반, 콘스 탑 기반, 그리고 복합 나노zym 기반의 특성과 치료 메커니즘을 체계적으로 설명합니다. 또한, 시각질환 약물 전달을 방해하는 후각막과 후각막-혈관막 장벽을 극복하기 위한 활성 targeting 전략을 다룹니다. 또한, 특정 질환 환경에 대한 반응형 및 제어 가능한 시스템의 개발을 요약합니다.",
+      "quantitative_results": "이 논문은 나노zym 기반의 약물 전달 시스템이 ROS와 관련된 시각질환 치료에 대한 최신 최첨단 응용과 치료 효능을 상세히 설명합니다. 이는 낲증, 난청, 난시증, 그리고 난청 등 특정 시각질환에 대한 나노zym 기반의 약물 전달 시스템의 응용과 효능을 보여줍니다.",
+      "novelty": "이 논문은 나노zym 기반의 약물 전달 시스템이 ROS와 관련된 시각질환의 치료에 대한 새로운 접근 방식을 제시합니다. 이는 기존 연구와 비교하여 나노zym 기반의 약물 전달 시스템이 시각질환의 치료에 더 효과적일 수 있음을 시사합니다.",
+      "limitations": "이 논문은 나노zym 기반의 약물 전달 시스템의 장기적인 생물학적 안전성 평가에 대한 한계를 명시하고, 후속 연구를 제안합니다. 이는 나노zym 기반의 약물 전달 시스템의 생물학적 안전성 평가를 위한 bench-to-bedside 임상 전환의 한계를 설명하며, 나노zym 기반의 약물 전달 시스템의 다중 반응형 및 조화 가능한 nanodelivery 시스템의 미래 연구 방향을 제안합니다.",
+      "future_research": "이 논문은 나노zym 기반의 약물 전달 시스템의 생물학적 안전성 평가에 대한 후속 연구를 제안합니다. 이는 나노zym 기반의 약물 전달 시스템의 생물학적 안전성 평가를 위한 bench-to-bedside 임상 전환의 한계를 설명하며, 나노zym 기반의 약물 전달 시스템의 다중 반응형 및 조화 가능한 nanodelivery 시스템의 미래 연구 방향을 제안합니다."
+    }
   },
   {
     "id": "doi:10.64898/2026.10.06.756934",
@@ -1699,7 +1759,15 @@
     "pmcid": "",
     "url": "https://doi.org/10.64898/2026.10.06.757127",
     "abstract": "ABSTRACT Pancreatic ductal adenocarcinoma (PDAC) remains one of the deadliest malignancies. Dysregulated RNA splicing has emerged as a critical mechanism contributing to PDAC progression. However, whether structural components of the spliceosome regulate oncogenic alternative splicing was not known. Here, we identify the nineteen complex (NTC) component BCAS2/SPF27 as a critical regulator of PDAC progression. Elevated expression of BCAS2 in PDAC is associated with poor patient outcomes. Transcriptomic analyses revealed that BCAS2 specifically regulates alternative exons with weak splice sites. In particular, BCAS2 promotes SOS1 exon 21 inclusion and consequently RAC-signaling activation. Furthermore, splice-switching antisense oligonucleotide (ASO)-mediated skipping of SOS1 exon 21 suppressed PDAC proliferation and migration. Our findings uncover a role of BCAS2 in the regulation of weak splice-site usage and identify the BCAS2–SOS1–RAC signaling axis as a potential therapeutic vulnerability in pancreatic cancer.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 박테리아 유전자 분해체(Spliceosome)의 구성 요소 중 하나인 BCAS2가 당뇨병 암(Pancreatic Ductal Adenocarcinoma, PDAC)의 진행을 촉진하는 메커니즘을 규명하는 데 초점을 맞추고 있습니다. 이는 BCAS2가 PDAC 진행에 중요한 역할을 한다는 사실을 처음으로 밝혀냈습니다.",
+      "methods": "BCAS2의 발현 수준이 PDAC 환자의 생존 예측에 중요한 역할을 한다는 것을 확인하기 위해, 박테리아 유전자 분해체의 구성 요소인 BCAS2의 발현을 조사했습니다. 이 연구에서는 BCAS2가 PDAC에서 암적 대립 스플리딩을 조절하는 것으로 밝혀졌습니다.",
+      "quantitative_results": "BCAS2는 PDAC에서 암적 대립 스플리딩을 조절하는 것으로 나타났습니다. BCAS2는 특히 SOS1의 exon 21을 포함시키는 것을 촉진하며, 이는 RAC 신호 경로의 활성화를 촉진합니다. 또한, BCAS2가 SOS1의 exon 21을 스플리딩하는 ASO를 사용하여 PDAC의 성장과 이동을 억제하는 것을 보여주었습니다.",
+      "novelty": "이 연구는 BCAS2가 PDAC에서 암적 대립 스플리딩을 조절하는 것으로 밝혀졌으며, 이는 BCAS2가 PDAC의 진행을 촉진하는 메커니즘을 규명하는 데 중요한 역할을 했습니다. 이는 BCAS2가 PDAC에서 암적 대립 스플리딩을 조절하는 것으로 알려진 것은 처음입니다.",
+      "limitations": "이 연구는 BCAS2가 PDAC에서 암적 대립 스플리딩을 조절하는 것으로 밝혀졌지만, 이는 BCAS2가 PDAC에서 암적 대립 스플리딩을 조절하는 것으로 알려진 것은 처음입니다. 이 연구는 BCAS2가 PDAC에서 암적 대립 스플리딩을 조절하는 것으로 밝혀졌으며, 이는 BCAS2가 PDAC에서 암적 대립 스플리딩을 조절하는 것으로 알려진 것은 처음입니다.",
+      "future_research": "BCAS2가 PDAC에서 암적 대립 스플리딩을 조절하는 것으로 밝혀졌으므로, BCAS2가 PDAC에서 암적 대립 스플리딩을 조절하는 메커니즘을 더 깊이 이해하기 위한 후속 연구가 필요합니다. 또한, BCAS2가 PDAC에서 암적 대립 스플리딩을 조절하는 것으로 밝혀졌으므로, BCAS2를 타겟으로 한 치료법을 개발하는 데 대한 후속 연구도 필요합니다."
+    }
   },
   {
     "id": "doi:10.1002/btm2.70183",
