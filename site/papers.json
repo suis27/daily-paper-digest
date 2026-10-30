@@ -1,5 +1,49 @@
 [
   {
+    "id": "doi:10.1002/mas.70051",
+    "title": "Quantitative Top-Down Proteomics: A Review.",
+    "topic": "Protein",
+    "date": "2026-10-29",
+    "journal": "",
+    "authors": "Cupp-Sutton KA, Atallah MA, Zhao Z, Anjum S, Chowdhury T, Sunny AT, Szamweber P, Wu S.",
+    "doi": "10.1002/mas.70051",
+    "pmid": "42952329",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42952329/",
+    "abstract": "Top-down proteomics approaches have emerged as powerful strategies for investigating the effects of proteoform modifications, such as amino acid substitutions, truncation, and post-translational modifications (PTMs), on protein function and activity in biological systems. In addition to proteoform structure, proteoform abundance also influences cellular biochemistry by regulating signaling pathways and altering protein-protein interaction dynamics. Thus, accurate measurement of proteoform abundance is critical for examining cellular phenotypes and disease states. The application of quantitative proteomics strategies to top-down proteomics, however, has been challenging due to difficulties in extracting and solubilizing intact proteins, the wide dynamic range in proteoform abundance, limited sensitivity for low‑abundance species, and the need for advanced separations and robust deconvolution algorithms. Recent advances in top-down proteomics strategies, including methods to improve proteoform mass spectrometry data collection, sample preparation, and data analysis, have laid the groundwork for quantitative top-down proteomics. Here, we provide a comprehensive review of current quantitative top-down proteomics strategies and examine the applications, advantages, and challenges, including label-free, metabolic labeling, chemical tag labeling, and targeted quantification strategies.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 단백질의 변형에 따른 단백질 기능과 활동에 대한 이해를 향상시키기 위한 퀀트리네이션 투탑 프로테오미кс 방법론을 조명하고 있습니다. 이 방법론은 단백질의 구조뿐만 아니라 단백질의 양에 대한 정확한 측정이 생물학적 시스템에서 단백질 기능과 활동에 미치는 영향을 이해하는 데 중요하다는 점을 강조합니다.",
+      "methods": "이 연구는 퀀트리네이션 투탑 프로테오미кс 방법론의 다양한 전략을 검토합니다. 이 방법론은 단백질의 질량 분석, 샘플 준비, 그리고 데이터 분석에 대한 최신 진보를 소개합니다. 이 방법론은 단백질의 변형에 따른 단백질 기능과 활동에 대한 이해를 향상시키는 데 도움이 될 수 있습니다.",
+      "quantitative_results": "이 논문은 단백질의 변형에 따른 단백질 기능과 활동에 대한 이해를 향상시키는 데 도움이 될 수 있는 퀀트리네이션 투탑 프로테오미ックス 방법론의 다양한 전략을 소개합니다. 이 방법론은 단백질의 변형에 따른 단백질 기능과 활동에 대한 이해를 향상시키는 데 도움이 될 수 있습니다.",
+      "novelty": "이 연구는 퀀트리네이션 투탑 프로테오미ックス 방법론의 다양한 전략을 소개하고, 이 방법론이 단백질의 변형에 따른 단백질 기능과 활동에 대한 이해를 향상시키는 데 도움이 될 수 있음을 보여줍니다. 이 연구는 기존 연구와 비교하여 새로운 접근법을 제시합니다.",
+      "limitations": "이 연구는 샘플 준비, 데이터 분석, 그리고 분석의 복잡성에 대한 한계를 제시합니다. 이 한계는 이 방법론이 실제 생물학적 시스템에서 어떻게 작동하는지에 대한 확인이 불가능합니다. 이 한계는 이 방법론이 실제 생물학적 시스템에서 어떻게 작동하는지에 대한 확인이 불가능합니다.",
+      "future_research": "후속 연구는 퀀트리네이션 투탑 프로테오미ックス 방법론의 실제 생물학적 시스템에서의 작동을 확인하고, 이 방법론이 단백질의 변형에 따른 단백질 기능과 활동에 대한 이해를 향상시키는 데 어떻게 도움이 되는지를 조사하는 데 중점을 두어야 합니다."
+    }
+  },
+  {
+    "id": "doi:10.1038/s41587-026-03343-6",
+    "title": "An mRNA-lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection.",
+    "topic": "Drug delivery",
+    "date": "2026-10-28",
+    "journal": "",
+    "authors": "Santos JJS, Souza CK, Zanella GC, Goulart DB, Arruda B, Boggiatto P, Palmer MV, Snyder CA, Kristula MA, Dickens C, Webb TL, Atkinson RK, Dadonaite B, Dwivedi G, Alameh MG, Hunter CA, Murphy LA, Bloom JD, Weissman D, Althouse GC, Baker AL, Hensley SE.",
+    "doi": "10.1038/s41587-026-03343-6",
+    "pmid": "42951950",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42951950/",
+    "abstract": "Highly pathogenic avian influenza (HPAI) clade 2.3.4.4b H5N1 virus has recently emerged in dairy cattle in the USA, leading to mastitis and sharp reductions in milk production. The main site of H5N1 viral replication is the mammary tissue rather than the respiratory tract and viral transmission between animals is thought to occur through viral shedding in milk. Here, we generate an mRNA-lipid nanoparticle (mRNA-LNP) vaccine encoding the hemagglutinin (HA) of A/dairy cattle/Texas/24-008749-002/2024, representative of circulating bovine H5N1 viruses, and assess its immunogenicity and efficacy in lactating dairy cows. Eight cows were divided into vaccinated and control groups, receiving two intramuscular doses of the vaccine or saline, followed by intramammary viral challenge. Vaccination elicited HA-reactive and neutralizing antibodies in serum and HA-reactive antibodies in milk. Following viral challenge, vaccinated cows had ~1,000-fold lower peak viral RNA in milk and a lower occurrence of mastitis and mammary fibrosis.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 빈乳牛에서 발생한 H5N1 바이러스에 대한 mRNA-리플로리트 나노입자 백신의 효과를 평가하기 위해 수행되었다. 이는 빈乳牛에서 H5N1 바이러스가 주로 유두 조직에서 복제되고, 유두에서의 바이러스 전파가 유두에서의 분비를 통해 발생하는 것으로 알려져 있다.",
+      "methods": "연구자는 빈乳牛용 H5N1 바이러스의 HA를 포함하는 mRNA-리플로리트 나노입자 백신을 제작하고, 8마리의 빈乳牛을 대상으로 두 번의 근육 주사 백신 또는 생리식염을 주사한 후, 유두에 바이러스를 투여하여 백신의 효과를 평가하였다.",
+      "quantitative_results": "백신 접종 후, 백신 접종된 빈乳牛의 유두에서의 바이러스 RNA의 최고치는 대조군 대비 약 1,000배 낮아졌으며, 백신 접종된 빈乳牛의 유두염과 유두 조직의 근육화가 더 적게 발생하였다.",
+      "novelty": "이 연구는 빈乳牛에서 H5N1 바이러스에 대한 mRNA-리플로리트 나노입자 백신의 효과를 처음으로 확인하였으며, 이는 빈乳牛에서 H5N1 바이러스에 대한 백신 접종의 효과를 개선하는 데 중요한 역할을 할 수 있을 것으로 기대된다.",
+      "limitations": "이 연구는 빈乳牛의 특성에 대한 충분한 정보가 없어, 이 연구의 결과가 다른 유형의 농산물 생산 동물에 대한 백신의 효과에 대한 일반성을 확보하는 데 제한이 있을 수 있다. 또한, 이 연구는 백신의 효과를 평가하기 위해 유두에 바이러스를 투여하였으므로, 실제 백신의 효과를 평가하기 위해서는 더 많은 연구가 필요하다.",
+      "future_research": "이 연구의 결과를 바탕으로, 빈乳牛에서 H5N1 바이러스에 대한 mRNA-리플로리트 나노입자 백신의 효과를 더 깊이 연구하고, 다른 유형의 농산물 생산 동물에 대한 백신의 효과를 평가하는 연구가 필요하다."
+    }
+  },
+  {
     "id": "doi:10.1039/d6bm01033d",
     "title": "Targeted immunomodulation with CD44-targeting nanovaccine enhances antitumor immunity in melanoma through TLR7/8 and TLR3 agonists.",
     "topic": "Immunity",
@@ -19,6 +63,28 @@
       "novelty": "이 연구는 멜라노마 암세포를 공격하는 면역 치료법을 개발하는 데 있어 새로운 접근법을 제공합니다. 이 연구는 멜라노마 암세포를 공격하는 면역 치료법을 개발하는 데 있어 새로운 접근법을 제공합니다.",
       "limitations": "이 연구는 멜라노마 암세포를 공격하는 면역 치료법의 효과를 확인하기 위해 추가 연구가 필요합니다. 이 연구는 멜라노마 암세포를 공격하는 면역 치료법의 효과를 확인하기 위해 추가 연구가 필요합니다.",
       "future_research": "추가 연구는 멜라노마 암세포를 공격하는 면역 치료법의 효과를 확인하고, 이 치료법이 다른 종류의 암에 효과적인지 확인하는 것이 필요합니다. 추가 연구는 멜라노마 암세포를 공격하는 면역 치료법의 효과를 확인하고, 이 치료법이 다른 종류의 암에 효과적인지 확인하는 것이 필요합니다."
+    }
+  },
+  {
+    "id": "doi:10.1080/02770903.2026.2751851",
+    "title": "The application of proteomics in asthma research: A bibliometric analysis.",
+    "topic": "Protein",
+    "date": "2026-10-27",
+    "journal": "",
+    "authors": "Li J, Song W, Li Z, Liu X, Shi Z, Xi Q, Lin J, Jia W, Li G.",
+    "doi": "10.1080/02770903.2026.2751851",
+    "pmid": "42947468",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42947468/",
+    "abstract": "Background Asthma is a common inflammatory disease of the respiratory system. Following the advent of genomics, proteomics has emerged as a valuable research approach. This study aimed to pinpoint key research areas and trends in the use of proteomics for asthma through bibliometric analysis, offering insights into future research paths. Methods Articles related to asthma and proteomics published between 2000 and 2024 were retrieved from the Web of Science Core Collection. The data were analyzed and visualized using the bibliometric software CiteSpace (version number: v.6.1 R6). Results A total of 520 articles were included in this study, and a gradual increase in the annual publication volume was observed. The USA, China, and Sweden ranked as the top three countries in terms of publication output. The USA exhibited the highest centrality (0.42), indicating its influence in this field. At the institutional level, the Karolinska Institute had the highest number of publications. The keyword clustering analysis revealed that the research focuses on airway inflammation mechanisms, proteomics methodologies, precision medicine applications, and clinical phenotype characterization. Keywords like \"proteomics,\" \"mass spectrometry,\" and \"precision medicine\" have seen significant citation increases recently, highlighting proteomics' role in advancing asthma research, biomarker discovery, and personalized therapies. Conclusion By systematically examining the application and development of proteomics in the field of asthma research via a bibliometric analysis, we have generated a comprehensive knowledge framework for researchers. Future studies should place greater emphasis on the clinical application of biomarkers, multi-omics integration, and the development of personalized treatment strategies.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 단백질 분야에서 폐기능 장애 질환인 기관지염에 대한 연구와 분석을 통해 새로운 연구 방향을 제시하고자 한다. 이를 위해 2000년부터 2024년까지 웹오브스테이크 코어 컬렉션에서 공개된 기관지염과 단백질 관련 논문을 분석하였다.",
+      "methods": "단백질 분야의 기관지염 연구를 위한 빌리메트릭 분석을 수행하였다. 웹오브스테이크 코어 컬렉션에서 기관지염과 단백질 관련 논문을 검색하였으며, CiteSpace(버전: v.6.1 R6)를 사용하여 데이터를 분석하고 시각화하였다.",
+      "quantitative_results": "총 520편의 논문이 포함되었으며, 연간 출판량이 점진적으로 증가하는 것을 관찰하였다. 미국, 중국, 스웨덴이 출판량에서 최고 순위를 차지하였다. 미국의 중심도가 가장 높았으며, 기관지염 연구에 대한 영향력을 나타냈다. 기관지염 연구의 주요 주제는 기관지염 메커니즘, 단백질 분석 방법, 정밀의학 응용, 그리고 임상 phenotype의 특성화에 중점을 두고 있다.",
+      "novelty": "최근 '단백질 분석', '질량 분광법', '정밀의학' 등 주요 키워드의 인용이 증가하였으며, 이는 단백질 분야의 연구가 기관지염 진단 바이오마커의 발견과 개인화된 치료 전략의 개발에 중요한 역할을 할 수 있음을 보여준다.",
+      "limitations": "이 연구는 웹오브스테이크 코어 컬렉션에서만 데이터를 수집하였으며, 다른 데이터 소스를 포함하지 않았다. 또한, 이 연구는 단백질 분야의 기관지염 연구에 대한 빌리메트릭 분석을 수행하였으나, 기관지염의 진단 및 치료에 대한 실제 데이터는 제공하지 않았다.",
+      "future_research": "후속 연구는 기관지염의 임상 바이오마커의 활용, 다량의학 통합, 그리고 개인화된 치료 전략의 개발에 중점을 두고 수행될 수 있다."
     }
   },
   {
@@ -1781,7 +1847,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42851665/",
     "abstract": "Messenger RNA (mRNA) therapeutics formulated in lipid nanoparticles (LNPs) have transformed the field of nucleic acid medicine by enabling transient, programmable protein expression for vaccination, protein replacement, immunotherapy, and genome engineering. Extending their clinical success beyond vaccines requires a mechanistic understanding of where LNP components and mRNA travel, which cells they enter, where cargo is translated, and how each component is cleared. Such biodistribution outcomes are governed by a complex interplay between nanoparticle physicochemical properties, administration route, protein corona formation, host physiology, intracellular trafficking, and degradation. Importantly, the biodistribution of lipid components, intact mRNA, degraded RNA fragments, and translated proteins represents distinct yet interconnected biological processes that should not be interpreted interchangeably. Advances in molecular imaging, quantitative nucleic acid analysis, mass spectrometry, spatial and single-cell technologies, and pharmacokinetic modeling are improving their resolution across tissues and time. In parallel, rational lipid engineering, selective organ targeting, biodegradable ionizable lipids, ligand-directed delivery, and artificial intelligence-assisted design are expanding opportunities for tissue-specific delivery beyond the liver and lymphoid organs. However, interpretation remains constrained by assay heterogeneity, incomplete understanding of protein corona dynamics and endosomal escape, species-dependent differences, and the absence of harmonized regulatory standards. This review examines the mechanisms governing mRNA-LNP disposition, evaluates what current analytical methods detect and miss, synthesizes preclinical and clinical evidence, and considers the strategies needed to achieve predictable, tissue-selective, and clinically translatable mRNA delivery.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 mRNA-LNP의 분포 메커니즘과 결정 요인에 대한 이해를 통해, mRNA-LNP의 임상적 적용을 향한 전진을 촉진하고자 합니다. 이를 위해, mRNA-LNP의 구성 요소와 mRNA가 어디로 이동하고, 어떤 세포에서 들어가고, 어떤 물질이 번역되고, 각 구성 요소가 어떻게 제거되는지에 대한 이해가 필요합니다.",
+      "methods": "이 연구는 분자 영상, 정량적核酸分석, 질량 분석법, 공간적 및 단일 세포 기술, 전기학적 모델링 등 다양한 분석법을 사용하여 mRNA-LNP의 분포를 이해하고 있습니다. 또한, 유전공학적 설계, 선택적 조직 targeting, 생분해성 이온화 lipids, 리간드 기반 전달, 인공지능-assisted 디자인 등을 통해 mRNA-LNP의 조직 선택적 전달을 확장하고 있습니다.",
+      "quantitative_results": "이 논문에서는 mRNA-LNP의 분포를 이해하고, 현재 분석 방법이 무엇을 감지하고 무엇을 놓친지, 임상 전임상 데이터를 통합하고, mRNA-LNP의 임상적 적용을 위한 전략을 제안합니다.",
+      "novelty": "이 논문은 mRNA-LNP의 분포를 이해하는 데 필요한 다양한 분석법을 소개하고, mRNA-LNP의 임상적 적용을 위한 전략을 제안합니다. 이는 기존 연구에서 확인할 수 없는 사항을 포함합니다.",
+      "limitations": "이 연구는 assay의 heterogeneity, 단백질 코르ona 동역학과 엔돌로마 escape의 이해, 유전체적 차이, 및 harmonized regulatory standards의 존재를 명시적으로 확인할 수 없습니다. 이 한계를 고려하여 후속 연구가 필요합니다.",
+      "future_research": "이 논문은 mRNA-LNP의 임상적 적용을 위한 전략을 제안하며, 이를 위해 후속 연구가 필요합니다. 이는 mRNA-LNP의 조직 선택적 전달을 확장하고, assay의 heterogeneity를 줄이고, 단백질 코르ona 동역학과 엔돌로마 escape의 이해를 향상시키는 방향으로 연구가 이어질 것입니다."
+    }
   },
   {
     "id": "doi:10.1016/j.celrep.2026.118100",
@@ -1795,7 +1869,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42842371/",
     "abstract": "Mammalian heart regeneration is restricted to a brief postnatal period during which neonatal-specific mechanisms, including a tightly regulated immune response, enable tissue repair. Here, we show that cardiac injury during the regenerative window induces the accumulation of a distinct γδ T cell population that is absent from older, non-regenerative hearts. Following injury, these cells serve as a rapid source of IL-17A, which shapes the timing and composition of the neonatal immune response. Genetic ablation of γδ T cells or disruption of IL-17 signaling limits heart regeneration and results in dysregulated immune cell infiltration and impaired cardiac function. Mechanistically, our data suggest that γδ T cell-derived IL-17A acts on myeloid cells to initiate a rapid, self-limited inflammatory response that facilitates apoptotic cell clearance and limits sustained inflammation. Our study identifies a developmentally restricted immune axis that supports heart regeneration and advances our understanding of how neonatal-specific immune circuits shape tissue repair.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 마름모 심장 재생이 임산기 기간 동안만 가능하다는 사실을 입증하고, 이 기간 동안 γδ T 세포와 IL-17A가 심장 재생을 지원한다는 사실을 밝혔습니다. 이 연구는 γδ T 세포와 IL-17A가 임산기 동안 심장 재생 과정에서 중요한 역할을 한다는 것을 입증하는 핵심적인 발견을 제시합니다.",
+      "methods": "연구자들은 γδ T 세포와 IL-17A가 심장 재생 과정에서 어떤 역할을 하는지에 대한 세부적인 이해를 위해 실험 동물 모델을 사용했습니다. 이들은 임산기 동안 심장이 손상되면 γδ T 세포가 심장 조직을 치유하는 데 도움이 된다는 것을 입증했습니다.",
+      "quantitative_results": "연구자들은 γδ T 세포가 임산기 동안 심장 재생 과정에서 중요한 역할을 한다는 것을 입증했습니다. 이 세포는 심장 손상 후 빠른 시간 내에 IL-17A를 생성하여 임산기 동안의 신생 동물의 특이적인 면역 반응을 조절하는 데 도움이 됩니다.",
+      "novelty": "이 연구는 γδ T 세포와 IL-17A가 임산기 동안 심장 재생 과정에서 중요한 역할을 한다는 사실을 처음으로 입증했습니다. 이 발견은 심장 재생 연구의 새로운 이해를 제공하며, 이는 심장 질환 치료법 개발에 중요한 역할을 할 수 있습니다.",
+      "limitations": "이 연구는 γδ T 세포와 IL-17A가 심장 재생 과정에서 어떤 역할을 하는지에 대한 세부적인 이해를 제공하지는 못했습니다. 이 세포의 작용 메커니즘에 대한 더 깊은 이해를 위해서는 추가 연구가 필요합니다.",
+      "future_research": "이 연구는 γδ T 세포와 IL-17A가 심장 재생 과정에서 어떤 역할을 하는지에 대한 추가 연구를 제안합니다. 이 연구는 γδ T 세포와 IL-17A가 심장 재생 과정에서 중요한 역할을 한다는 것을 입증하는 새로운 발견을 제공합니다."
+    }
   },
   {
     "id": "doi:10.1039/d6tb00934d",
@@ -2824,6 +2906,20 @@
     "pmcid": "PMC13708101",
     "url": "https://europepmc.org/articles/PMC13708101",
     "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1093/jpp/rgag131",
+    "title": "Bioengineered multifunctional nanomedicine for cancer theranostics: integrating targeted drug delivery, molecular imaging, and precision medicine.",
+    "topic": "Drug delivery",
+    "date": "2026-10-01",
+    "journal": "",
+    "authors": "Dubey S, Prakash S, Deshwal RK, Dwivedi M.",
+    "doi": "10.1093/jpp/rgag131",
+    "pmid": "42945283",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42945283/",
+    "abstract": "Objectives Cancer remains a major global health challenge despite significant advances in diagnosis and treatment. Conventional therapies, including chemotherapy, radiotherapy, and surgery, are frequently constrained by non-specific drug distribution, systemic toxicity, multidrug resistance (MDR), and limitations in early tumor detection. This review aims to critically examine recent advances in nanomedicine for targeted cancer therapy and diagnostic imaging, with particular emphasis on nanocarrier platforms, tumor-targeting strategies, stimuli-responsive drug delivery, and nanoparticle-based imaging. Methods A comprehensive review of the recent literature was undertaken to evaluate the application of diverse nanomedicine platforms in oncology. Major nanocarrier systems, including liposomes, polymeric nanoparticles, dendrimers, metallic nanoparticles, and quantum dots, were assessed with respect to their physicochemical properties, drug-loading capacity, controlled-release characteristics, targeting potential, and therapeutic applications. Passive and active targeting approaches, including the enhanced permeability and retention (EPR) effect and ligand-mediated targeting, were examined. The applications of stimuli-responsive nanocarriers triggered by tumor-associated pH, temperature, and enzymatic conditions were also evaluated. In addition, the role of nanomedicine in MRI, CT, PET, and fluorescence imaging was reviewed. Key findings Nanomedicine provides substantial opportunities for improving the precision and efficacy of cancer treatment by enhancing drug stability, bioavailability, tumor accumulation, and controlled drug release while potentially reducing exposure of healthy tissues. Active and passive targeting strategies can improve the selective delivery of therapeutic agents to tumor sites, whereas stimuli-responsive systems offer additional spatial and temporal control over drug release. Nanoparticle-based contrast and imaging agents have demonstrated considerable potential for enhancing imaging sensitivity, facilitating earlier tumor detection, and enabling real-time assessment of therapeutic responses. Importantly, several nanomedicine platforms also show promise in overcoming MDR and improving overall therapeutic efficiency. However, challenges related to nanotoxicity, pharmacokinetics, manufacturing scalability, regulatory requirements, and long-term clinical safety continue to limit widespread clinical translation. Conclusions Nanomedicine represents a rapidly advancing and potentially transformative approach to cancer diagnosis and treatment. Integration of targeted drug delivery, stimuli-responsive nanocarriers, advanced imaging, and theranostic strategies may contribute to more precise and personalized oncology. Continued investigation into safety, manufacturing, regulatory standardization, and clinical validation will be essential for translating promising nanomedicine platforms from experimental studies into routine cancer care.",
     "summary": "초록 기반 요약"
   },
   {
