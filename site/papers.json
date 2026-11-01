@@ -1,5 +1,27 @@
 [
   {
+    "id": "doi:10.1002/pro.70809",
+    "title": "MONDE·T: A database and interactive webserver for non-standard amino acids and peptide components in the PDB.",
+    "topic": "Protein",
+    "date": "2026-11-01",
+    "journal": "",
+    "authors": "Waldherr A, Freimann GL, Lupas AN.",
+    "doi": "10.1002/pro.70809",
+    "pmid": "42867160",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42867160/",
+    "abstract": "Non-standard amino acids (ncAAs) together with synthetic additions (like caps and linkers) are of wide interest for protein design and pharmaceutical optimization, as they can improve physicochemical properties and possibly reshape protein structure. Their inclusion in experimental structures has not been explored systematically. It remains elusive which components are those most impactful for protein design. We therefore collected all non-standard components present in the Protein Data Bank (PDB) into MONDE·T: A database of 1,210 unique ncAAs and 724 other synthetic components present in 23,149 PDB structures with a corresponding webserver. Analyses can focus on a single component or a single structure, illustrated here by example applications. MONDE·T allows for download of the data, visualization of a structure, identification of unusual backbone angles, and comparison of chemical similarities. The webserver is hosted at the Max Planck Institute Tübingen, accessible online via https://mondet.tuebingen.mpg.de/. MONDE·T is freely available under the Creative Commons 4.0 License.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 단백질 설계와 약물 개발을 위한 비표준 아미노산과 합성 부가물질을 포함하는 Protein Data Bank (PDB)의 데이터를 수집하고 분석하는 MONDE·T 데이터베이스와 웹 서버를 개발하기 위한 목적이었습니다.",
+      "methods": "MONDE·T는 PDB에 포함된 23,149개의 단백질 구조에서 발견된 1,210개의 비표준 아미노산과 724개의 합성 부가물질을 포함한 데이터베이스를 생성했습니다. 이를 통해 단백질 설계에 영향을 미치는 특정 부가물질을 식별하고, 단백질 구조를 시각화하고, 비정상적인 backbone 각도를 식별할 수 있습니다.",
+      "quantitative_results": "MONDE·T는 비표준 아미노산과 합성 부가물질이 단백질 설계에 미치는 영향을 이해하는 데 도움이 될 수 있는 데이터를 제공합니다. 이 웹 서버는 Max Planck Institute Tübingen에서 제공되며, https://mondet.tuebingen.mpg.de/로 온라인으로 액세스할 수 있습니다.",
+      "novelty": "MONDE·T는 PDB에 포함된 비표준 아미노산과 합성 부가물질을 처음으로 systematic으로 분석한 데이터베이스입니다. 이 웹 서버는 단백질 설계에 영향을 미치는 비표준 아미노산과 합성 부가물질을 식별하고, 그들의 구조를 시각화하고, 그들의 화학적 유사성을 비교할 수 있는 기능을 제공합니다.",
+      "limitations": "MONDE·T는 PDB에 포함된 모든 비표준 아미노산과 합성 부가물질을 포함하는 데이터베이스를 생성했습니다. 이 연구는 단백질 구조의 특정 단백질에 대한 연구를 초과하는 범위를 가집니다. 또한, 이 웹 서버는 현재까지 확인되지 않은 정보를 제공하지 않습니다.",
+      "future_research": "MONDE·T는 단백질 설계와 약물 개발을 위한 비표준 아미노산과 합성 부가물질의 영향을 이해하는 데 사용될 수 있습니다. 이 데이터베이스와 웹 서버를 더 많은 단백질 구조에 적용하여 비표준 아미노산과 합성 부가물질이 단백질 구조에 미치는 영향을 식별하고, 그들의 화학적 유사성을 비교하는 새로운 연구를 제안합니다."
+    }
+  },
+  {
     "id": "PMC:PMC13717768",
     "title": "Enhancing Drug Delivery and Efficacy in Stroke via Supramolecular Nanoparticle Systems",
     "topic": "Drug delivery",
@@ -12,6 +34,64 @@
     "url": "https://europepmc.org/articles/PMC13717768",
     "abstract": "",
     "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.64898/2026.10.26.761768",
+    "title": "PHENOMS: Open-Source Software for Rust-Accelerated Hydrogen-Bond Analysis in Molecular Dynamics Simulations",
+    "topic": "Protein",
+    "date": "2026-10-30",
+    "journal": "",
+    "authors": "Novy B, Lin S, Dey R, Temple B, Hajicek N, Petrotchenko EV, Borchers CH, Sondek J, Popov KI.",
+    "doi": "10.64898/2026.10.26.761768",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.10.26.761768",
+    "abstract": "Hydrogen-deuterium exchange mass spectrometry (HDX-MS) provides powerful insight into protein structure and dynamics, but interpretation of protection patterns at atomic resolution often requires complementary computational modeling. We present PHENOMS, an open-source Python package that integrates molecular dynamics trajectories with HDX-MS data to analyze backbone hydrogen-bond networks by tracking how individual hydrogen bonds and residue-residue contacts form, break, and reorganize throughout the simulations. This residue-level analysis can reveal local structural changes that may be missed by conventional global trajectory metrics. PHENOMS employs a multithreaded, Rust-accelerated computational engine that achieved an average 16-fold speedup (up to 100-fold) over widely used Python-based MD analysis packages in our benchmarks, while retaining individual hydrogen-bond resolution in every trajectory frame. We demonstrate PHENOMS through multiple retrospective case studies using published and in-house datasets, showing that it can recapitulate HDX-MS protection patterns, identify key residues that drive coordinated structural changes, and benchmark the computational efficiency of the approach. With automated quality-control workflows, PHENOMS provides a framework for integrating hydrogen-bond analysis with HDX-MS data or serves as a standalone, high-throughput tool for analyzing MD trajectories for broader applications in protein engineering, drug discovery, and structural biology.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 HDX-MS 데이터와 분자동역학 모델을 통합하여 단백질의 구조와 동작을 해석하는 방법을 개발하고자 합니다. 이를 통해 단백질의 구조 변화를 식별하고, 이를 통해 새로운 약물 개발과 단백질 기반 의약품의 발견에 활용할 수 있습니다.",
+      "methods": "PHENOMS는 Python 패키지로, 분자동역학 트라젝토리와 HDX-MS 데이터를 통합하여 단백질의 구조를 분석합니다. 이를 위해 Rust 언어를 활용하여 효율성을 높였습니다. 이 패키지는 각 프레임에서 단백질의 각 화합물에 대한 정보를 유지합니다.",
+      "quantitative_results": "PHENOMS는 평균적으로 16배의 속도 향상을 보였으며, 최대 100배의 속도 향상을 보였습니다. 이는 기존의 Python 기반 MD 분석 패키지보다 훨씬 빠릅니다. 이 패키지는 HDX-MS의 보호 패턴을 재현하고, 구조 변화를 일관되게 식별하는 등 다양한 역할을 수행합니다.",
+      "novelty": "PHENOMS는 단백질의 구조 변화를 식별하고, 이를 통해 새로운 약물 개발과 단백질 기반 의약품의 발견에 활용할 수 있습니다. 기존 연구와 비교하여, 이는 단백질의 구조 변화를 더욱 정확하게 분석할 수 있는 새로운 방법을 제공합니다.",
+      "limitations": "기존 연구와 비교하여, 이 연구는 단백질의 구조 변화를 식별하는 데 필요한 정보를 제공하지 않습니다. 또한, 이 연구는 단백질의 구조 변화를 식별하는 데 필요한 정보를 제공하지 않습니다. 그러나 이 연구는 단백질의 구조 변화를 식별하고, 이를 통해 새로운 약물 개발과 단백질 기반 의약품의 발견에 활용할 수 있는 새로운 방법을 제공합니다.",
+      "future_research": "후속 연구는 단백질의 구조 변화를 식별하고, 이를 통해 새로운 약물 개발과 단백질 기반 의약품의 발견에 활용할 수 있는 방법을 더 확장하고 개선하는 것을 제안합니다."
+    }
+  },
+  {
+    "id": "PMC:PMC13721973",
+    "title": "A dual-targeting lipid nanoparticle delivery system for precision phage therapy against multidrug-resistant Gram-negative bacteria",
+    "topic": "Drug delivery",
+    "date": "2026-10-30",
+    "journal": "",
+    "authors": "Chen Z, Hu W, Nie H, Zhang Y, Tang W, Yu Z, Cao J, Zhu X, Liu X, Chen M, Qimron U, Pich A, Peng H, Liu J.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13721973",
+    "url": "https://europepmc.org/articles/PMC13721973",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1126/sciadv.aeh7105",
+    "title": "A dual-targeting lipid nanoparticle delivery system for precision phage therapy against multidrug-resistant Gram-negative bacteria.",
+    "topic": "Drug delivery",
+    "date": "2026-10-30",
+    "journal": "",
+    "authors": "Chen Z, Hu W, Nie H, Zhang Y, Tang W, Yu Z, Cao J, Zhu X, Liu X, Chen M, Qimron U, Pich A, Peng H, Liu J.",
+    "doi": "10.1126/sciadv.aeh7105",
+    "pmid": "42962024",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42962024/",
+    "abstract": "The escalating crisis of antimicrobial resistance, particularly among Gram-negative bacteria, demands innovative therapeutic strategies. Here, we present a dual-targeting lipid nanoparticle-chimeric phage (AbLCP) system engineered to combat multidrug-resistant (MDR) Gram-negative bacteria. Our design integrates a genetically modified M13 phage displaying anti-lipopolysaccharide (LPS) antibodies with polymyxin B conjugation, which is further encapsulated within anti-LPS antibody-functionalized lipid nanoparticles. This system overcomes the fundamental limitations of conventional phage therapy, enabling efficient cellular internalization, endosomal escape, and potent intracellular bactericidal activity. In murine models of Pseudomonas aeruginosa infection, AbLCP achieved superior bacterial clearance and up to 103-fold reduction in bacterial burden at a 103-fold lower effective dose than free polymyxin B, with 67-fold selective accumulation at infection sites, and attenuated systemic inflammation and preservation of gut microbiota. Mechanistically, AbLCP neutralized LPS to suppress inflammation and induced a lethal bacterial stress response. This work establishes a transformative nanophage platform that merges synthetic biology with nanomedicine, offering a promising strategy against MDR bacterial infections.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 면역학적 요인을 이용한 면역항균제의 전달 시스템을 개발하여 면역저항성 근처균(Pseudomonas aeruginosa)에 대한 정밀 phage 치료법을 개선하고자 함을 목표로 한다.",
+      "methods": "이 연구에서는 genetically modified M13 phage를 사용하여 anti-lipopolysaccharide (LPS) 항원을 표시하고 polymyxin B을 결합한 후, anti-LPS 항원을 가진 리조스나트 나노입자로 감싸는 방법으로 새로운 전달 시스템을 설계하였다. 이 시스템은 전통적인 phage 치료법의 기본적인 한계를 극복하여 효율적인 세포 내내식, 엔돌린 탈출, 그리고 강력한 내부 세균 파괴 활성을 가능하게 한다.",
+      "quantitative_results": "이 시스템은 실험 모델에서 Pseudomonas aeruginosa 감염을 일으키는 모델 동물에서 균의 Clearance가 훨씬 더 뛰어나며, free polymyxin B보다 103배 낮은 효과적인 용량에서 103배 감소한 균량을 얻을 수 있었다. 또한, 감염 장소에서 균량이 67배 높게 집중되었다. 또한, 이 시스템은 감염 후 심부전증을 감소시키고 장내 미생물을 보존하는 데 기여하였다.",
+      "novelty": "이 연구는 리조스나트 나노입자 기반의 nanophage 플랫폼을 제시하며, 생물학적 제조와 nanomedicine을 결합하여 면역저항성 근처균에 대한 정밀 phage 치료법을 개선하는 새로운 전략을 제시한다. 이는 기존 연구에서 확인할 수 없는 면역항균제의 효과를 높이는 데 기여한다.",
+      "limitations": "이 연구는 실험 모델에서의 결과를 일반화하기 위해 추가 연구가 필요하다는 한계를 명시하였다. 또한, 이 연구는 실험 조건, 물질, 모델 등에 대한 확인이 불가능한 정보를 포함하고 있다.",
+      "future_research": "이 연구는 면역저항성 근처균에 대한 정밀 phage 치료법의 효과를 증명하기 위해 추가 연구가 필요하다는 후속 연구 제안을 제시하였다."
+    }
   },
   {
     "id": "doi:10.1002/mas.70051",
@@ -46,7 +126,7 @@
     "pmid": "42955746",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42955746/",
-    "abstract": "Guanidine-bridged nucleic acid (GuNA) is a bridged nucleic acid analog with high binding affinity toward complementary strands along with high nuclease resistance. GuNA has been developed to improve pharmacokinetics and safety profiles of phosphorothioate modified gapmers. Here, we evaluated antisense oligonucleotides (ASOs) modified with combination of GuNA and 2'-O-methoxyethyl (MOE) and found that the dual-modification strategy could significantly improve knockdown activity in vitro and in vivo. Long-term efficacy evaluation showed that intracerebroventricularly administered GuNA-modified gapmers stayed active for over 24 weeks in mouse brain. Furthermore, we observed that GuNA-modified gapmers could evade lymphocyte-derived immune responses and kept ASO-induced toxicity in check. Taken together, the results of this study demonstrate that GuNA modification can improve the functional potential of ASOs, especially in the central nervous system.",
+    "abstract": "Guanidine-bridged nucleic acid (GuNA) is a bridged nucleic acid analog with high binding affinity toward complementary strands along with high nuclease resistance. GuNA has been developed to improve pharmacokinetics and safety profiles of phosphorothioate modified gapmers. Here, we evaluated antisense oligonucleotides (ASOs) modified with combination of GuNA and 2'- O -methoxyethyl (MOE) and found that the dual-modification strategy could significantly improve knockdown activity in vitro and in vivo . Long-term efficacy evaluation showed that intracerebroventricularly administered GuNA-modified gapmers stayed active for over 24 weeks in mouse brain. Furthermore, we observed that GuNA-modified gapmers could evade lymphocyte-derived immune responses and kept ASO-induced toxicity in check. Taken together, the results of this study demonstrate that GuNA modification can improve the functional potential of ASOs, especially in the central nervous system.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 연구는 GuNA와 MOE를 결합하여 antisense oligonucleotide의 효능과 안전성을 향상시키는 새로운 접근법을 개발하고자 함으로써, 약물 전달 분야에서 중요한 발전을 이룰 것으로 예상된다.",
@@ -134,7 +214,7 @@
     "pmid": "42956275",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42956275/",
-    "abstract": "Apolipoprotein E (apoE) plays a context-dependent role in nanomedicine for central nervous system drug delivery. It can facilitate cerebral endothelial recognition and increase brain exposure in nanoparticle systems while simultaneously promoting hepatic uptake, challenging its traditional interpretation as a brain-specific targeting ligand. This review critically evaluates evidence from classical polysorbate-coated poly(butyl cyanoacrylate) (PBCA) and apoE-coupled albumin nanoparticles, apoE-derived peptide systems, solid lipid nanoparticles, and ionizable lipid nanoparticles (LNPs). Attention is given to apoE presentation and isoform biology, protein-corona dynamics, LDL receptor family interactions, hepatic clearance, blood-brain barrier (BBB) status, route-dependent disposition, and blood-cell interactions. Advances in BBB models, LNP engineering, and translational strategies are also considered. ApoE should be regarded as a tunable regulator of nanoparticle biodistribution rather than a universal BBB shuttle. Development should focus on therapeutically active drug exposure in the relevant brain compartment rather than apoE binding, endothelial uptake, or total brain-associated signal. This requires assessment of whole-blood interactions, hepatic partitioning, receptor dependence, compartment-resolved brain disposition, payload release, pharmacodynamic activity, disease-specific BBB biology, and potentially apoE genotype. ApoE-based systems should be advanced only when they demonstrate a reproducible therapeutic advantage over comparable unmodified carriers and alternative brain-delivery strategies.",
+    "abstract": "Introduction Apolipoprotein E (apoE) plays a context-dependent role in nanomedicine for central nervous system drug delivery. It can facilitate cerebral endothelial recognition and increase brain exposure in nanoparticle systems while simultaneously promoting hepatic uptake, challenging its traditional interpretation as a brain-specific targeting ligand. Areas covered This review critically evaluates evidence from classical polysorbate-coated poly(butyl cyanoacrylate) (PBCA) and apoE-coupled albumin nanoparticles, apoE-derived peptide systems, solid lipid nanoparticles, and ionizable lipid nanoparticles (LNPs). Attention is given to apoE presentation and isoform biology, protein-corona dynamics, LDL receptor family interactions, hepatic clearance, blood-brain barrier (BBB) status, route-dependent disposition, and blood-cell interactions. Advances in BBB models, LNP engineering, and translational strategies are also considered. Expert opinion ApoE should be regarded as a tunable regulator of nanoparticle biodistribution rather than a universal BBB shuttle. Development should focus on therapeutically active drug exposure in the relevant brain compartment rather than apoE binding, endothelial uptake, or total brain-associated signal. This requires assessment of whole-blood interactions, hepatic partitioning, receptor dependence, compartment-resolved brain disposition, payload release, pharmacodynamic activity, disease-specific BBB biology, and potentially apoE genotype. ApoE-based systems should be advanced only when they demonstrate a reproducible therapeutic advantage over comparable unmodified carriers and alternative brain-delivery strategies.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "apoE는 뇌 주입용 나노입자 기반 약물 전달 시스템에서 뇌 전용 타겟링크로 여겨져 왔으나, 다양한 시스템에서 뇌와 간의 복잡한 상호작용을 보여주고 있습니다. 이 논문은 이러한 복잡성을 이해하고, 새로운 전달 전략을 개발하기 위한 근거를 마련하기 위해 다양한 시스템의 연구 결과를 분석합니다.",
@@ -157,7 +237,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42956359/",
     "abstract": "Cannabidiol (CBD), a non-psychoactive phytocannabinoid derived from Cannabis sativa L. has gained significant attention in biomedical research due to its broad spectrum of therapeutic properties, including anti-inflammatory, antimicrobial, antioxidant, neuroprotective, and anticancer activities. However, its clinical translation remains limited by poor aqueous solubility, low bioavailability, rapid metabolism, and instability under physiological conditions. To overcome these challenges, advanced drug delivery platforms based on 3D bioprinting technologies have emerged as promising strategies for controlled and site-specific delivery of CBD. This review provides a comprehensive overview of state-of-the-art CBD delivery systems, including polymeric biomaterials such as PLGA, PEG derivatives, chitosan, alginate, and cellulose-based hybrids, which enhance drug stability and enable sustained release profiles. Nano- and microstructured systems, including liposomes, nanoparticles, nanoemulsions, microspheres, and electrospun nanofibers, are discussed for their ability to improve bioavailability and facilitate targeted delivery at the cellular level. Hydrogel-based platforms, particularly injectable and stimuli-responsive systems, are highlighted for their role in localised therapy and tissue engineering applications. Furthermore, the integration of 3D bioprinting technologies enables the fabrication of patient-specific scaffolds and implantable constructs for precision medicine and regenerative therapies. Stimuli-responsive systems, including pH-, temperature-, enzyme-, and externally triggered release platforms, further enhance on-demand drug release in diseased microenvironments. The biomedical applications of CBD-based systems are critically evaluated in antimicrobial therapy, wound healing, tumour-targeted cancer therapy, immunomodulation, microbiome regulation, and regenerative medicine. Finally, this review addresses current translational challenges such as drug loading efficiency, stability issues, scalability, and regulatory barriers, while highlighting future perspectives involving artificial intelligence-guided design, personalised nanomedicine, and advanced biomanufacturing technologies. Overall, CBD-based smart biomaterial platforms represent a highly promising approach for next-generation therapeutic systems with improved efficacy, safety, and clinical potential.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 캐나다비디올 (CBD)의 전달 플랫폼을 개선하고, 이를 통해 CBD의 잠재적인 임상 활용을 향상시키는 방법을 소개합니다. 이를 위해 3D bioprinting 기술을 활용한 다양한 전달 시스템이 검토됩니다. 이 연구는 CBD의 잠재적인 임상 활용을 위한 새로운 접근법을 제시하고, 이를 통해 더 높은 효능, 안전성 및 임상 잠재력을 갖춘 미래의 치료 시스템을 개발할 수 있을 것입니다.",
+      "methods": "논문에서는 다양한 플랫폼을 통해 CBD를 전달하는 방법을 다룹니다. 이들 플랫폼에는 플라스틱, 폴리머, 카히스탄, 알감산 등 다양한 물질이 포함됩니다. 또한, 나노 및 미크로 구조 시스템, 화학 물질, 전기 분사 nanofibers, 화학적, 생물학적, 외부적으로 유도되는 분리 시스템 등이 포함됩니다. 이들 시스템은 CBD의 전달 효율을 향상시키고, 세포 수준에서의 지정된 전달을 가능하게 합니다.",
+      "quantitative_results": "논문에서는 CBD의 전달 효율과 지정된 전달을 위한 다양한 플랫폼의 성능을 비교합니다. 그러나 수치와 대조군 비교는 논문에서 제공되지 않았습니다.",
+      "novelty": "이 논문은 3D bioprinting 기술을 활용한 CBD 전달 플랫폼의 새로운 접근법을 제시합니다. 이는 기존 연구에서 볼 수 없는 차별점입니다. 또한, 이론적이고 미래의 연구를 위한 AI 기반 디자인, 개인화된 나노의학, 그리고 전문적인 생물 제조 기술의 활용을 제안합니다.",
+      "limitations": "논문에서는 현재의 제약, 제조, 규제 문제를 제시합니다. 그러나 이는 논문에서 확인할 수 없는 정보입니다. 또한, 이 연구는 아직 임상적 활용이 가능하지 않을 수 있습니다.",
+      "future_research": "이 논문은 AI 기반 디자인, 개인화된 나노의학, 그리고 전문적인 생물 제조 기술을 활용한 후속 연구를 제안합니다. 이는 CBD 전달 플랫폼의 잠재적인 임상 활용을 향상시키는 데 도움이 될 것입니다."
+    }
   },
   {
     "id": "doi:10.1038/s41587-026-03343-6",
@@ -193,7 +281,15 @@
     "pmcid": "PMC13714371",
     "url": "https://europepmc.org/articles/PMC13714371",
     "abstract": "A Liouville-based framework is developed for optimizing treatment strategies in oesophageal cancer (OC) while accounting for inter-patient heterogeneity. Variability within a patient cohort is represented through uncertain initial cancer and immune cell populations, whose probability distribution is propagated by a Liouville partial differential equation while the underlying individual dynamics remains deterministic. Two optimization problems are considered. First, model parameters are estimated from population-level data using an adjoint-based projected nonlinear conjugate-gradient (NCG) method. Second, optimal time-dependent combinations of chemotherapy and immunotherapy are determined using a sequential quadratic Hamiltonian (SQH) scheme based on Pontryagin's maximum principle (PMP). The Liouville equation is discretized using a finite-volume method designed to preserve positivity and conservation of the probability density. Numerical experiments with synthetic population data are used to demonstrate the parameter-estimation framework and the ability of the proposed optimal control strategy to determine treatment protocols that effectively modify the population-level cancer-immune response while limiting treatment exposure.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 오스테오초세포암(Oesophageal Cancer, OC)이 유발하는 면역반응을 최적화하는 치료 전략을 개발하고자 합니다. 이를 위해 Liouville 기반 모델을 활용하여, 각 환자 간의 다양성을 고려한 치료 전략을 개발하고자 합니다.",
+      "methods": "이 연구에서는 Liouville 부분 미분 방정식을 사용하여 환자 측정의 확률 분포를 추적하고, 이에 대한 확률 분포는 초기 암과 면역 세포의 확률 분포를 통해 결정됩니다. 두 가지 최적화 문제를 고려합니다. 첫 번째로, 정의된 adjoint 기반 프로젝트 nonlinear conjugate-gradient (NCG) 방법을 사용하여 정의된 모델 파라미터를 추정합니다. 두 번째로, Pontryagin의 최대 원칙(PMP)을 기반으로 한 순차 제곱 호몰론 (SQH) 방법을 사용하여 최적의 시간에 따른 치료법의 조합을 결정합니다.",
+      "quantitative_results": "이 연구는 Liouville 방정식을 유한 부호화 방법을 사용하여 양성성을 유지하고 확률 밀도를 conserve하도록 디지털화합니다. 이 연구는 동의어 데이터를 사용하여 추정된 파라미터 기반의 프레임워크와 최적의 제어 전략이 효과적으로 수정된 환자 수준의 암-면역 반응을 조정하고 치료에 대한 노출을 최소화하는 치료 계획을 결정하는 능력을 입증했습니다.",
+      "novelty": "이 연구는 Liouville 기반 모델을 활용하여 환자 간의 다양성을 고려한 치료 전략을 개발하는 것은 처음입니다. 이는 Liouville 기반 모델을 활용하여 환자 간의 다양성을 고려하는 치료 전략을 개발하는 것은 처음입니다.",
+      "limitations": "이 연구는 정량적인 결과를 보여주지 않았습니다. 또한, 이 연구는 환자 간의 다양성을 고려하는 치료 전략을 개발하는 것은 처음입니다.",
+      "future_research": "후속 연구는 이 연구에서 보여준 결과를 더 많은 환자 데이터를 사용하여 확인하고, 다양한 치료 조합을 시험하는 것이 필요합니다."
+    }
   },
   {
     "id": "doi:10.1039/d6bm01033d",
@@ -388,7 +484,21 @@
     "pmid": "42953814",
     "pmcid": "PMC13715856",
     "url": "https://europepmc.org/articles/PMC13715856",
-    "abstract": "Metabolic reprogramming of tumor cells interacts with functional alterations of immune cells to establish an immunosuppressive tumor microenvironment, which constrains the efficacy of immunotherapy. Nanomedicine provides technical approaches for targeted delivery and controlled release of metabolic modulators. This review outlines major nanocarriers and their design principles, dissects the crosstalk among glucose, amino acid and lipid metabolism, and illustrates how nutrient competition and metabolic byproducts shape antitumor immune responses. It focuses on summarizing advances in nanodelivery strategies targeting these metabolic pathways and their combinatorial application with immunotherapy. Nanomedicine-mediated metabolic intervention holds promise for remodeling the tumor immune microenvironment. However, tumor cells and effector T cells share partial metabolic requirements, and nonselective inhibition may impair antitumor immunity. Improving the cell selectivity of interventions and validating long-term safety and clinical benefits represent key considerations for future translational research.",
+    "abstract": "Background Metabolic reprogramming of tumor cells interacts with functional alterations of immune cells to establish an immunosuppressive tumor microenvironment, which constrains the efficacy of immunotherapy. Nanomedicine provides technical approaches for targeted delivery and controlled release of metabolic modulators. Main text This review outlines major nanocarriers and their design principles, dissects the crosstalk among glucose, amino acid and lipid metabolism, and illustrates how nutrient competition and metabolic byproducts shape antitumor immune responses. It focuses on summarizing advances in nanodelivery strategies targeting these metabolic pathways and their combinatorial application with immunotherapy. Conclusion Nanomedicine-mediated metabolic intervention holds promise for remodeling the tumor immune microenvironment. However, tumor cells and effector T cells share partial metabolic requirements, and nonselective inhibition may impair antitumor immunity. Improving the cell selectivity of interventions and validating long-term safety and clinical benefits represent key considerations for future translational research.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.2147/jir.s637035",
+    "title": "Mapping the Intellectual Architecture of Inflammation-Centered Macrophage Research in Hepatocellular Carcinoma: A Dual-Database Bibliometric and Scientometric Analysis, 2005-2025.",
+    "topic": "Immunity",
+    "date": "2026-10-24",
+    "journal": "",
+    "authors": "Chai K, Chen C, Wu K, Zhao X.",
+    "doi": "10.2147/jir.s637035",
+    "pmid": "42959746",
+    "pmcid": "PMC13717499",
+    "url": "https://europepmc.org/articles/PMC13717499",
+    "abstract": "Background Chronic liver inflammation provides a major biological context for hepatocarcinogenesis, and macrophages link innate immune sensing, fibrogenesis, immune suppression and therapeutic resistance in hepatocellular carcinoma (HCC). Tumor-associated macrophages (TAMs), Kupffer cells and inflammation-associated myeloid populations have been extensively investigated in HCC; however, the intellectual structure and thematic connectivity of this inflammation-centered research field remain incompletely defined. Objective This study aimed to map the intellectual architecture, evolutionary trajectory and inter-module connectivity of inflammation-centered macrophage research in HCC using bibliometric and scientometric methods. Methods A total of 9218 English-language articles and reviews on macrophage-related HCC from 2005 to 2025 were retrieved from the Web of Science Core Collection and Scopus after systematic deduplication. CiteSpace, VOSviewer and bibliometrix were used to perform co-citation clustering, reference historiographic mapping, keyword co-occurrence analysis, publication-volume-adjusted keyword correlation analysis, citation burst detection, journal dual-map overlay and multi-level collaboration profiling. Results Annual publication output increased from 84 articles in 2005 to 1129 in 2025. Co-citation analysis resolved 13 well-defined clusters (modularity Q = 0.744; mean silhouette S = 0.884), and historiographic mapping identified four sequential stages: foundational inflammation and hepatocarcinogenesis, mechanistic expansion of TAM function, immune-regulatory convergence and spatial immunology. Keyword dynamics showed a transition from viral hepatitis, innate immunity, Kupffer cells and fibroinflammatory terminology toward TAM-mediated immune suppression, immunotherapy, single-cell analysis, SPP1-positive macrophage-associated spatial immune barriers and computational precision oncology. After annual publication-volume adjustment, the foundational viral-innate module and the contemporary computational-precision oncology module showed a negative inter-module Pearson correlation (mean r = -0.383), lower than expected under label-permutation and temporal-succession null models (both p Conclusion Macrophage-related HCC research has evolved from inflammation-centered hepatocarcinogenesis toward spatially resolved and computationally assisted immunology. The low-connectivity interfaces identified in this study should be interpreted as hypothesis-generating bibliometric signals rather than as evidence of biological or clinical disconnection or as stand-alone research priorities derived from network structure alone. Their potential translational relevance should be considered alongside published mechanistic and clinical evidence and requires future mechanistic, spatial and prospective clinical validation.",
     "summary": "초록 기반 요약"
   },
   {
@@ -446,7 +556,7 @@
     "pmid": "42933311",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42933311/",
-    "abstract": "Pseudomyxoma peritonei is a rare and poorly understood cancer. The histological characteristics that classify pseudomyxoma as either low-grade or high-grade are major prognostic factors. The present study aimed to identify differentially expressed genes in low-grade and high-grade pseudomyxomas using transcriptomic analysis, in order to improve our understanding of their pathophysiology. Two cohorts of pseudomyxoma peritonei FFPE samples composed by 13 low grade and 11 high grade tumours respectively were selected. The expression of several biomarkers (CK7, CK20, MUC2, MUC5AC, Ki67) were analysed by immunohistochemistry. Gene expression profiles were studied using Nanostring™ technology and included the tumour signalling 360™ panel (760 tumour signalling related genes and 20 internal reference controls) and the inflammation v2 panel (249 inflammation-related human genes and 6 internal reference controls). The study revealed distinct transcriptomic profiles of the immune response in low grade and high grade, indicating dysregulation of immune cell migration and/or chemotaxis, as well as modulation of cellular metabolic activities and cell signalling. In addition, in high grade pseudomyxoma peritonei, there are genes and signalling pathways linked to the response to lipopolysaccharides and bacterial molecules were also downregulated. Our results strengthen both the role of immune response and the role of bacterial involvement in pseudomyxoma peritonei pathophysiology.",
+    "abstract": "Background Pseudomyxoma peritonei is a rare and poorly understood cancer. The histological characteristics that classify pseudomyxoma as either low-grade or high-grade are major prognostic factors. The present study aimed to identify differentially expressed genes in low-grade and high-grade pseudomyxomas using transcriptomic analysis, in order to improve our understanding of their pathophysiology. Methods Two cohorts of pseudomyxoma peritonei FFPE samples composed by 13 low grade and 11 high grade tumours respectively were selected. The expression of several biomarkers (CK7, CK20, MUC2, MUC5AC, Ki67) were analysed by immunohistochemistry. Gene expression profiles were studied using Nanostring™ technology and included the tumour signalling 360™ panel (760 tumour signalling related genes and 20 internal reference controls) and the inflammation v2 panel (249 inflammation-related human genes and 6 internal reference controls). Results The study revealed distinct transcriptomic profiles of the immune response in low grade and high grade, indicating dysregulation of immune cell migration and/or chemotaxis, as well as modulation of cellular metabolic activities and cell signalling. In addition, in high grade pseudomyxoma peritonei, there are genes and signalling pathways linked to the response to lipopolysaccharides and bacterial molecules were also downregulated. Our results strengthen both the role of immune response and the role of bacterial involvement in pseudomyxoma peritonei pathophysiology.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 연구는 고급형과 저급형 페스티아모사(peritonei)의 면역 반응을 분석하여, 그 차이를 이해하고자 함으로써, 페스티아모사의 병리학적 이해를 향상시키려고 합니다.",
@@ -646,6 +756,20 @@
       "limitations": "논문에서는 LNP-mRNA 백신의 설계와 제조 과정에서의 문제점에 대한 수치적 결과를 제공하지 않습니다. 또한, 이 문제점들이 백신의 예측 가능성에 영향을 미치는지에 대한 확인은 현재까지 이루어지지 않았습니다. 그러나 이 문제점들이 백신의 예측 가능성에 영향을 미칠 수 있다는 추론을 제시합니다.",
       "future_research": "논문은 LNP-mRNA 백신의 설계와 제조 과정에서의 문제점을 해결하기 위한 수단을 제시하며, 이를 위해 다음 세대의 LNP-mRNA 백신의 설계와 제조 과정에서의 예측 가능성에 대한 연구가 필요합니다."
     }
+  },
+  {
+    "id": "doi:10.20944/preprints202610.1792.v1",
+    "title": "The Antibody Is Not the Lesion: Neuropathological Discordance in Autoimmune GFAP Astrocytopathy",
+    "topic": "Immunity",
+    "date": "2026-10-20",
+    "journal": "",
+    "authors": "Biswa B.",
+    "doi": "10.20944/preprints202610.1792.v1",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.20944/preprints202610.1792.v1",
+    "abstract": "Autoimmune glial fibrillary acidic protein (GFAP) astrocytopathy is an increasingly recognised inflammatory neurological syndrome whose serological definition has advanced more rapidly than its neuropathological characterisation. Although GFAP-IgG identifies an immune response directed against an astrocytic intermediate filament, the corresponding human tissue findings remain heterogeneous. Earlier biopsies documented reduced GFAP and aquaporin-4 immunoreactivity, sometimes in the presence of competing astrocyte-directed antibodies, whereas subsequent investigations demonstrated prominent lymphocytic inflammation, cytotoxic T-cell engagement and variable complement C4d deposition without consistently extensive astrocytic destruction. This discordance exposes three unresolved questions: whether detected immunoreactivity establishes antigen identity, whether antigen-specific antibodies identify a reproducible tissue lesion, and whether that lesion demonstrates a causal mechanism of injury. This critical narrative review evaluates the available human biopsy and autopsy evidence, examines the interpretative limitations of astrocytic immunohistochemistry, and distinguishes observed immune-cell interactions from demonstrated antigen-specific cytotoxicity. Particular attention is directed towards specimen selection, lesion chronology, immunotherapy exposure, overlapping autoimmune disorders and alternative inflammatory or neoplastic diagnoses. A pathology-centred framework is developed that separates established observations, plausible mechanisms and falsifiable hypotheses without introducing an unsupported disease taxonomy. Current evidence supports substantial cell-mediated neuroinflammation and heterogeneous astrocytic responses but does not establish a uniform destructive mechanism or pathognomonic histological signature. GFAP-IgG is diagnostically informative in an appropriate clinicobiological context; its detection cannot independently determine the nature or causation of tissue injury.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.20944/preprints202610.1680.v1",
@@ -1164,6 +1288,20 @@
     }
   },
   {
+    "id": "doi:10.1002/smll.76306",
+    "title": "A Nanodelivery Platform Harnessing Synthetic Lethality and Efferocytosis Inhibition for Synergistically Enhanced Immunotherapy of Triple-Negative Breast Cancer.",
+    "topic": "Immunity",
+    "date": "2026-10-15",
+    "journal": "",
+    "authors": "Liu H, Wu S, Zhou H, Yin M, He C, Zhang H, Hua S, Xiao K, Zhu Y, Ji H, Wang Y.",
+    "doi": "10.1002/smll.76306",
+    "pmid": "42878202",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42878202/",
+    "abstract": "Triple-negative breast cancer (TNBC), defined by the absence of specific therapeutic targets, shows poor clinical benefit and readily develops chemoresistance, underscoring the need for therapies that couple precise tumor cell killing with robust antitumor immunity. Drug-induced immunogenic cell death (ICD) is a promising approach. However, its efficacy is curtailed by limited tumor-cell targeting with collateral immune-cell damage and by overactive efferocytosis that rapidly removes ICD-associated danger signals, thereby restricting antitumor immunity. Herein, we develop a microenvironment-responsive nanocarrier co-delivering both PLK1 inhibitor (BI6727) and TIM-3 inhibitor (ML-T7). It integrates dual-bioeffect of synthetic lethal selective ICD and whole-immuno system remodelling initiated by effective macrophage efferocytosis inhibition. In detail, the molecular hallmark differences between tumor and immune cells was utilized to provide high-quality antigens. Meanwhile, the nanotherapeutic enables serial phagocyte regulations, such as, suppressed macrophage phagocytosis, enhanced antigen recognition and phagocytosis by dendritic cells (DCs), and then alleviated T cell exhaustion. The underlying mechanism of nanotherapeutics-mediated overall immune system reprogramming was explored by transcriptional profile analyses. These findings indicate that precise molecularly targeted ICD combined with coordinated immune activation enables efficient primary tumor suppression and promotes T-cell phenotypes associated with antitumor immune memory, providing a novel paradigm for cancer immunotherapy.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.64898/2026.10.12.757977",
     "title": "Generative design of functional disordered regions in a developmental transcription factor",
     "topic": "Protein",
@@ -1298,7 +1436,7 @@
     "pmid": "42952829",
     "pmcid": "PMC13713810",
     "url": "https://europepmc.org/articles/PMC13713810",
-    "abstract": "Chronic inflammation and metabolic dysregulation are increasingly recognized as interconnected drivers of tumorigenesis and immune evasion, yet their combined prognostic and mechanistic relevance in lung adenocarcinoma (LUAD) remains poorly defined. A curated 117-gene set representing systemic inflammation-metabolism dysregulation was obtained from MSigDB. Core prognostic genes were identified through differential expression analysis and univariate Cox regression. Using TCGA-LUAD as the training cohort and six independent GEO cohorts for external validation, 101 machine learning algorithm combinations were systematically evaluated to construct a robust prognostic model. Model performance was assessed by C-index, time-dependent ROC, and PCA. Immune characteristics were analyzed using TCIA, ESTIMATE, and TIMER-based deconvolution. ATP2A2, identified as the gene most strongly correlated with risk score, underwent multi-cohort transcriptomic and immunohistochemical validation, in vitro functional characterization, and mechanistic investigation via IOBR-integrated immune profiling. Single-cell RNA sequencing and multiplex immunofluorescence provided cellular-resolution verification of microenvironmental associations. The RSF + SuperPC model achieved optimal performance and effectively stratified patients into high- and low-risk groups with significantly divergent survival across all seven cohorts. High-risk tumors showed reduced immune/stromal infiltration and elevated tumor purity. ATP2A2 was consistently overexpressed in tumor tissue, correlated with poor differentiation, advanced stage, and shorter survival, and predicted immunotherapy resistance. Mechanistically, high ATP2A2 expression was associated with suppressed immune cell infiltration, attenuated chemokine signaling, impaired cancer-immunity cycle activity, and an \"immune-desert\" phenotype confirmed by single-cell and spatial analyses. This study establishes a validated inflammation-metabolism-based prognostic signature in LUAD and identifies ATP2A2 as a key driver linking tumor aggressiveness to immunosuppressive microenvironment remodeling, positioning it as a promising prognostic biomarker and potential therapeutic target for overcoming immunotherapy resistance.",
+    "abstract": "Background Chronic inflammation and metabolic dysregulation are increasingly recognized as interconnected drivers of tumorigenesis and immune evasion, yet their combined prognostic and mechanistic relevance in lung adenocarcinoma (LUAD) remains poorly defined. Methods A curated 117-gene set representing systemic inflammation-metabolism dysregulation was obtained from MSigDB. Core prognostic genes were identified through differential expression analysis and univariate Cox regression. Using TCGA-LUAD as the training cohort and six independent GEO cohorts for external validation, 101 machine learning algorithm combinations were systematically evaluated to construct a robust prognostic model. Model performance was assessed by C-index, time-dependent ROC, and PCA. Immune characteristics were analyzed using TCIA, ESTIMATE, and TIMER-based deconvolution. ATP2A2, identified as the gene most strongly correlated with risk score, underwent multi-cohort transcriptomic and immunohistochemical validation, in vitro functional characterization, and mechanistic investigation via IOBR-integrated immune profiling. Single-cell RNA sequencing and multiplex immunofluorescence provided cellular-resolution verification of microenvironmental associations. Results The RSF + SuperPC model achieved optimal performance and effectively stratified patients into high- and low-risk groups with significantly divergent survival across all seven cohorts. High-risk tumors showed reduced immune/stromal infiltration and elevated tumor purity. ATP2A2 was consistently overexpressed in tumor tissue, correlated with poor differentiation, advanced stage, and shorter survival, and predicted immunotherapy resistance. Mechanistically, high ATP2A2 expression was associated with suppressed immune cell infiltration, attenuated chemokine signaling, impaired cancer-immunity cycle activity, and an \"immune-desert\" phenotype confirmed by single-cell and spatial analyses. Conclusion This study establishes a validated inflammation-metabolism-based prognostic signature in LUAD and identifies ATP2A2 as a key driver linking tumor aggressiveness to immunosuppressive microenvironment remodeling, positioning it as a promising prognostic biomarker and potential therapeutic target for overcoming immunotherapy resistance.",
     "summary": "초록 기반 요약"
   },
   {
@@ -1932,6 +2070,20 @@
     }
   },
   {
+    "id": "doi:10.1016/j.isci.2026.117807",
+    "title": "OGT regulates RNA-binding protein nucleocytoplasmic partitioning, but this fails in amyotrophic lateral sclerosis.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-08",
+    "journal": "",
+    "authors": "Wang Y, Fournier L, Wymann B, Talbot K, Luisier R, Patani R.",
+    "doi": "10.1016/j.isci.2026.117807",
+    "pmid": "42894639",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42894639/",
+    "abstract": "O-linked N-acetylglucosamine transferase (OGT) catalyzes the O-linked β-N-acetylglucosamine (O-GlcNAc) modification to proteins and has been implicated in a range of diseases, including amyotrophic lateral sclerosis (ALS), a rapidly progressive and currently incurable neurodegenerative disorder. However, the precise mechanisms by which OGT influences ALS pathogenesis remain largely unresolved. In this study, we used human-induced pluripotent stem cell (hiPSC)-derived spinal motor neurons (hiPSC-MNs), the principal cell type that undergoes degeneration in ALS, to systematically reveal that OGT-related mechanisms regulate RNA-binding protein (RBP) nucleocytoplasmic compartmentalization. Using a combination of antisense oligonucleotide (ASO) technology and small molecular pharmacology, we reveal two distinct regulatory mechanisms of RBP compartmentalization, including by intron-retaining transcript-mediated sequestration and O-linked N-acetylglucosaminylation (O-GlcNAcylation)-mediated nuclear transport. We finally examine the tractability of manipulating OGT activity in the ALS context but demonstrate that the OGT-related mechanisms governing RBP localization in healthy hiPSC-MNs are impaired in the context of ALS-causing VCP and TARDBP mutations.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.64898/2026.10.06.756934",
     "title": "Generalizing Protein Fitness Prediction Across Distribution Shifts via Structural and Co-evolutionary Priors",
     "topic": "Protein",
@@ -2060,7 +2212,7 @@
     "authors": "Vargas Aguilar S, Dos Santos M, Tan W, Sanchez-Ortiz E, Chen K, Li H, Xu L, Liu N, Olson EN.",
     "doi": "10.1016/j.celrep.2026.118100",
     "pmid": "42842371",
-    "pmcid": "",
+    "pmcid": "PMC13714242",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42842371/",
     "abstract": "Mammalian heart regeneration is restricted to a brief postnatal period during which neonatal-specific mechanisms, including a tightly regulated immune response, enable tissue repair. Here, we show that cardiac injury during the regenerative window induces the accumulation of a distinct γδ T cell population that is absent from older, non-regenerative hearts. Following injury, these cells serve as a rapid source of IL-17A, which shapes the timing and composition of the neonatal immune response. Genetic ablation of γδ T cells or disruption of IL-17 signaling limits heart regeneration and results in dysregulated immune cell infiltration and impaired cardiac function. Mechanistically, our data suggest that γδ T cell-derived IL-17A acts on myeloid cells to initiate a rapid, self-limited inflammatory response that facilitates apoptotic cell clearance and limits sustained inflammation. Our study identifies a developmentally restricted immune axis that supports heart regeneration and advances our understanding of how neonatal-specific immune circuits shape tissue repair.",
     "summary": "초록 기반 요약",
