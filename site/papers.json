@@ -22,6 +22,42 @@
     }
   },
   {
+    "id": "doi:10.1016/j.vaccine.2026.129302",
+    "title": "Exercise and vaccine immune response: A scoping review exploring the underlying immunological mechanisms.",
+    "topic": "Immunity",
+    "date": "2026-10-31",
+    "journal": "",
+    "authors": "Byrne C, Doran C.",
+    "doi": "10.1016/j.vaccine.2026.129302",
+    "pmid": "42966038",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966038/",
+    "abstract": "The precise mechanisms by which exercise modulates the immune response to vaccination remain largely unelucidated in the existing literature. This scoping review aims to compile and critically analyse the available evidence pertaining to the underlying mechanisms responsible for the enhancing effect of exercise on vaccine-induced immunity. The study was planned in line with the PRISMA-ScR guidelines. A comprehensive and structured scoping review of the literature was conducted to investigate the effect of exercise on vaccine immune response. Three key electronic databases-PubMed, Web of Science, and Google Scholar-were systematically searched for relevant studies published from January 1, 1990, to June 30, 2025. Strict inclusion and exclusion criteria were established and rigorously applied to the identified studies. Both animal and human studies were included to ensure a broad and comprehensive assessment of all proposed mechanisms. The initial literature search yielded 4314 study titles, from which 199 papers were identified as potentially relevant and subsequently subjected to abstract-level examination. Following this screening, 38 studies met the predefined inclusion criteria and were incorporated into this review, comprising 26 human studies (68.42%) and 12 animal studies. The publication dates of the included studies ranged from 1999 to 2025. Overall, 14 distinct mechanisms were identified as potential explanations for the observed effect of exercise on vaccine immune response. The most compelling mechanisms identified in this review for exercise's enhancing effect on vaccine immune response include: upregulated Interleukin-6 (IL-6) expression, enhanced Interferon-gamma (IFN-γ) expression, immune stimulation resulting from myocyte damage, prolonged antibody persistence, and enhanced immune cell metabolic efficiency in physically active individuals. This review highlights the critical need to identify the optimal \"golden zone\" of exercise intensity and to further elucidate sex-related dimorphisms to maximise clinical efficacy.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 운동이 백신 접종 후 면역 반응을 개선하는 정확한 메커니즘에 대해 조사하고 분석하는 것을 목표로 합니다. 이는 현재의 연구 자료에서 대부분 해답을 찾지 못한 문제입니다.",
+      "methods": "이 연구는 PubMed, Web of Science, Google Scholar 등 3개의 전문적인 학술 데이터베이스에서 백신 접종 후 운동의 면역 반응에 영향을 미치는 연구를 검색했습니다. 검색된 연구들은 1990년 1월 1일부터 2025년 6월 30일까지의 연구였습니다. 이 연구는 PRISMA-ScR 지침을 따르며, 심층적인 분석을 위해 정확한 기준을 설정하고 적용했습니다.",
+      "quantitative_results": "검색된 4314개의 연구 제목 중 199개의 논문이 백신 접종 후 운동의 효과에 대해 관련성이 높다고 판단되어 추가적으로 검토되었습니다. 그 중 38개의 연구가 정의된 포함 기준을 충족하고 이 논문에 포함되었습니다. 이들 연구들은 1999년부터 2025년까지 출판되었습니다.",
+      "novelty": "이 연구는 운동이 백신 접종 후 면역 반응을 개선하는 14개의 가능한 메커니즘을 식별했습니다. 이들 중 가장 강력한 메커니즘은 IL-6, IFN-γ의 증가, 운동 후 근육 손상으로 인한 면역 자극, 장기적인 항체 지속, 운동을 통해 효율적으로 면역 세포의 기능이 개선된 것입니다.",
+      "limitations": "이 연구는 운동이 백신 접종 후 면역 반응을 개선하는 메커니즘에 대한 정확한 이해를 제공하지는 못했습니다. 이는 백신 접종 후 운동의 효과에 대한 연구가 충분하지 않기 때문입니다. 또한, 이 연구는 백신 접종 후 운동의 효과에 대한 정확한 이해를 제공하지는 못했습니다. 이는 백신 접종 후 운동의 효과에 대한 연구가 충분하지 않기 때문입니다.",
+      "future_research": "이 연구는 운동의 최적의 강도와 성별에 따른 차이를 식별하고, 이를 통해 백신 접종 후 운동의 효과를 최대화하는 데 대한 후속 연구를 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.1002/smll.76488",
+    "title": "Asymptotic r 2 Enhancement in Formulation-Optimized Lipid-Iron Oxide Nanoparticles for Assessing Glioblastoma Heterogeneity at Ultrahigh-Field MRI.",
+    "topic": "Drug delivery",
+    "date": "2026-10-31",
+    "journal": "",
+    "authors": "Bazarra-Barreiros M, Abengoza-Bello MT, Fernández-Rodicio S, Ortega-Espina S, García-Astray L, Castillo J, Iglesias-Rey R, García-Acevedo P, Hervella P.",
+    "doi": "10.1002/smll.76488",
+    "pmid": "42966823",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966823/",
+    "abstract": "Glioblastoma (GBM) remains a major challenge for nanomedicine because heterogeneous tumor vascularization and the blood-brain barrier cause variable nanoparticle accumulation. Here, we developed lipid-coated superparamagnetic iron oxide nanoparticles (LSPIONs) as MRI-visible lipid nanocarriers and established a formulation-based strategy to control their transverse relaxivity (r2). Hydrophobic iron oxide nanoparticles (IO@OA) were incorporated into a DSPC/cholesterol/DSPE-PEG lipid matrix via solvent displacement, enabling systematic control of nanoparticle size, polydispersity, and SPION loading, with r2 values ranging from 13 to 418 mm-1 s-1 at 9.4 T. The relaxivity showed an asymptotic dependence on nanoparticle size (54-184 nm) and estimated iron oxide nanoparticles per lipid nanoparticle (237-9284), revealing a saturation regime. The optimized formulation, obtained at a lipid-to-IO@OA molar ratio of 8.3 (DH = 98 nm, PDI = 0.14), was evaluated in a syngeneic GL261-GFP GBM mouse model. Intravenous administration induced an initial reduction in GBM-associated MRI signal, with detectable tumor retention at 24 h in tumors assessed at 1 and 2 weeks after inoculation. Intravital multiphoton microscopy further confirmed LSPION extravasation and GBM accumulation. These results establish formulation control of r2 as a key design strategy for MRI-visible lipid nanocarriers and provide an experimental framework for lipid-based nanoprobes for GBM imaging.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "PMC:PMC13717768",
     "title": "Enhancing Drug Delivery and Efficacy in Stroke via Supramolecular Nanoparticle Systems",
     "topic": "Drug delivery",
@@ -80,9 +116,9 @@
     "authors": "Chen Z, Hu W, Nie H, Zhang Y, Tang W, Yu Z, Cao J, Zhu X, Liu X, Chen M, Qimron U, Pich A, Peng H, Liu J.",
     "doi": "10.1126/sciadv.aeh7105",
     "pmid": "42962024",
-    "pmcid": "",
+    "pmcid": "PMC13721973",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42962024/",
-    "abstract": "The escalating crisis of antimicrobial resistance, particularly among Gram-negative bacteria, demands innovative therapeutic strategies. Here, we present a dual-targeting lipid nanoparticle-chimeric phage (AbLCP) system engineered to combat multidrug-resistant (MDR) Gram-negative bacteria. Our design integrates a genetically modified M13 phage displaying anti-lipopolysaccharide (LPS) antibodies with polymyxin B conjugation, which is further encapsulated within anti-LPS antibody-functionalized lipid nanoparticles. This system overcomes the fundamental limitations of conventional phage therapy, enabling efficient cellular internalization, endosomal escape, and potent intracellular bactericidal activity. In murine models of Pseudomonas aeruginosa infection, AbLCP achieved superior bacterial clearance and up to 103-fold reduction in bacterial burden at a 103-fold lower effective dose than free polymyxin B, with 67-fold selective accumulation at infection sites, and attenuated systemic inflammation and preservation of gut microbiota. Mechanistically, AbLCP neutralized LPS to suppress inflammation and induced a lethal bacterial stress response. This work establishes a transformative nanophage platform that merges synthetic biology with nanomedicine, offering a promising strategy against MDR bacterial infections.",
+    "abstract": "The escalating crisis of antimicrobial resistance, particularly among Gram-negative bacteria, demands innovative therapeutic strategies. Here, we present a dual-targeting lipid nanoparticle-chimeric phage (AbLCP) system engineered to combat multidrug-resistant (MDR) Gram-negative bacteria. Our design integrates a genetically modified M13 phage displaying anti-lipopolysaccharide (LPS) antibodies with polymyxin B conjugation, which is further encapsulated within anti-LPS antibody-functionalized lipid nanoparticles. This system overcomes the fundamental limitations of conventional phage therapy, enabling efficient cellular internalization, endosomal escape, and potent intracellular bactericidal activity. In murine models of Pseudomonas aeruginosa infection, AbLCP achieved superior bacterial clearance and up to 10 3 -fold reduction in bacterial burden at a 10 3 -fold lower effective dose than free polymyxin B, with 67-fold selective accumulation at infection sites, and attenuated systemic inflammation and preservation of gut microbiota. Mechanistically, AbLCP neutralized LPS to suppress inflammation and induced a lethal bacterial stress response. This work establishes a transformative nanophage platform that merges synthetic biology with nanomedicine, offering a promising strategy against MDR bacterial infections.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 연구는 면역학적 요인을 이용한 면역항균제의 전달 시스템을 개발하여 면역저항성 근처균(Pseudomonas aeruginosa)에 대한 정밀 phage 치료법을 개선하고자 함을 목표로 한다.",
@@ -245,6 +281,28 @@
       "novelty": "이 논문은 3D bioprinting 기술을 활용한 CBD 전달 플랫폼의 새로운 접근법을 제시합니다. 이는 기존 연구에서 볼 수 없는 차별점입니다. 또한, 이론적이고 미래의 연구를 위한 AI 기반 디자인, 개인화된 나노의학, 그리고 전문적인 생물 제조 기술의 활용을 제안합니다.",
       "limitations": "논문에서는 현재의 제약, 제조, 규제 문제를 제시합니다. 그러나 이는 논문에서 확인할 수 없는 정보입니다. 또한, 이 연구는 아직 임상적 활용이 가능하지 않을 수 있습니다.",
       "future_research": "이 논문은 AI 기반 디자인, 개인화된 나노의학, 그리고 전문적인 생물 제조 기술을 활용한 후속 연구를 제안합니다. 이는 CBD 전달 플랫폼의 잠재적인 임상 활용을 향상시키는 데 도움이 될 것입니다."
+    }
+  },
+  {
+    "id": "doi:10.1016/j.biomaterials.2026.124722",
+    "title": "Transcription activator-like effector base editing delivered by a targeted lipid nanoparticle for therapy of lung cancer.",
+    "topic": "Drug delivery",
+    "date": "2026-10-29",
+    "journal": "",
+    "authors": "Chen Y, Li P, Xie Y, Wujieti B, Cui W, Zhang H, Xu J, Wei D, Liu Y, Luo Q, Ren Y, Bai W, Liu S, Li J, Lu W.",
+    "doi": "10.1016/j.biomaterials.2026.124722",
+    "pmid": "42965979",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42965979/",
+    "abstract": "Lung cancer is the leading cause of cancer-related deaths worldwide. Among them, non-small cell lung cancer (NSCLC) accounts for approximately 85% of all cases, while the mutation of KRAS oncogene plays a crucial role in its formation and metastasis. Here, we report a transcription activator-like effector (TALE) base editor that can accurately identify KRAS gene under the guide of TALE and sgRNA, convert C base to T base, thereby generating a stop codon and blocking the expression of KRAS. Besides, a targeted TALE base editing lipid nanoparticle (targeted TALE LNP) is developed by rationally designing with cancer-targeted EGFR peptide. The targeted TALE LNP exhibits a base editing effect, cancer targeting, and remarkable therapy efficacy in NSCLC cancer-bearing mice. In conclusion, the targeted TALE LNP has the potential to treat lung cancer with KRAS gene mutation through an approach of transcription activator-like effector base editing.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 흡연성 폐암에서 KRAS 유전자 변이가 발생하는 원인을 이해하고 이를 치료하기 위한 새로운 방법을 개발하기 위함이다. KRAS 유전자 변이는 폐암의 발생과 전이에 중요한 역할을 한다. 이 연구는 TALE 기반 바이오 엔지니어링을 사용하여 KRAS 유전자 변이를 수정하여 폐암 치료를 위한 새로운 접근법을 제시한다.",
+      "methods": "이 연구에서는 TALE 기반 바이오 엔지니어링을 사용하여 KRAS 유전자 변이를 수정하는 새로운 기법을 개발했다. KRAS 유전자 변이를 수정하는 TALE 엔진은 sgRNA의 지시를 받아 KRAS 유전자 변이를 정확하게 식별하고 변이를 수정한다. 이 기법은 폐암을 치료하는 데 효과적인 TALE 엔진을 제작하는 데 사용되었다. 이 연구에서는 폐암을 치료하는 데 사용되는 EGFR Peptide를 활용하여 TALE 엔진을 타겟화한 lipid nanoparticle를 개발했다.",
+      "quantitative_results": "연구 결과, 이 연구의 TALE 엔진은 KRAS 유전자 변이를 정확하게 수정하고, 이를 통해 폐암을 치료하는 데 효과적인 치료 효과를 보였다. 이 연구는 폐암을 치료하는 데 사용되는 EGFR Peptide를 활용하여 TALE 엔진을 타겟화한 lipid nanoparticle가 KRAS 유전자 변이를 수정하는 기능을 보였다.",
+      "novelty": "기존 연구와 달리, 이 연구는 KRAS 유전자 변이를 수정하는 TALE 엔진을 사용하여 폐암을 치료하는 데 사용되는 lipid nanoparticle를 개발했다. 이 연구는 KRAS 유전자 변이를 수정하는 기법을 사용하여 폐암을 치료하는 데 사용되는 lipid nanoparticle를 개발하는 데 기여했다.",
+      "limitations": "이 연구는 KRAS 유전자 변이를 수정하는 기법의 효과를 폐암을 치료하는 데 사용되는 lipid nanoparticle를 개발하는 데 기여했다. 그러나 이 연구는 KRAS 유전자 변이를 수정하는 기법의 효과를 폐암을 치료하는 데 사용되는 lipid nanoparticle를 개발하는 데 기여했다. 그러나 이 연구는 KRAS 유전자 변이를 수정하는 기법의 효과를 평가하기 위한 추가 연구가 필요하다는 한계를 명시했다.",
+      "future_research": "이 연구는 KRAS 유전자 변이를 수정하는 기법의 효과를 평가하기 위한 추가 연구가 필요하다는 한계를 명시했다. 그러나 이 연구는 KRAS 유전자 변이를 수정하는 기법을 사용하여 폐암을 치료하는 데 사용되는 lipid nanoparticle를 개발하는 데 기여했다. 따라서, 이 연구는 후속 연구를 제안한다."
     }
   },
   {
@@ -485,7 +543,15 @@
     "pmcid": "PMC13715856",
     "url": "https://europepmc.org/articles/PMC13715856",
     "abstract": "Background Metabolic reprogramming of tumor cells interacts with functional alterations of immune cells to establish an immunosuppressive tumor microenvironment, which constrains the efficacy of immunotherapy. Nanomedicine provides technical approaches for targeted delivery and controlled release of metabolic modulators. Main text This review outlines major nanocarriers and their design principles, dissects the crosstalk among glucose, amino acid and lipid metabolism, and illustrates how nutrient competition and metabolic byproducts shape antitumor immune responses. It focuses on summarizing advances in nanodelivery strategies targeting these metabolic pathways and their combinatorial application with immunotherapy. Conclusion Nanomedicine-mediated metabolic intervention holds promise for remodeling the tumor immune microenvironment. However, tumor cells and effector T cells share partial metabolic requirements, and nonselective inhibition may impair antitumor immunity. Improving the cell selectivity of interventions and validating long-term safety and clinical benefits represent key considerations for future translational research.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암 치료를 위한 분자 전달 기술의 최근 연구 동향을 조사하고, 탄수화물, 아미노산 및 지방산 분해를 조절하는 기술을 통해 암 기반 면역 환경을 개선하는 방법을 분석합니다.",
+      "methods": "논문은 탄소나이어 카리어와 그 설계 원리에 대해 요약하고, 탄수화물, 아미노산, 지방산 분해 사이의 상호 작용을 분석합니다. 이 분야의 최신 전달 전략을 요약하고, 이들 분해 경로에 대한 탄소나이어 카리어 전략과 면역 치료법의 병용 사용에 대해 설명합니다.",
+      "quantitative_results": "논문에서는 탄소나이어 카리어의 주요 카리어와 그 설계 원리에 대해 요약하고, 탄수화물, 아미노산, 지방산 분해 사이의 상호 작용을 설명합니다. 이들 분해 경로에 대한 탄소나이어 카리어 전략과 면역 치료법의 병용 사용에 대해 설명합니다.",
+      "novelty": "논문은 탄소나이어 카리어를 통해 탄수화물, 아미노산, 지방산 분해를 조절하는 기술의 최신 연구 동향을 소개합니다. 이 기술은 암 기반 면역 환경을 개선하는 데 기여할 수 있습니다.",
+      "limitations": "논문은 탄소나이어 카리어의 선택적 효과와 장기 안전성 및 임상 이점을 확인하기 위해 추가 연구가 필요하다는 한계를 제시합니다. 이 한계는 논문에서 명시되지 않았습니다.",
+      "future_research": "논문은 탄소나이어 카리어를 통해 탄수화물, 아미노산, 지방산 분해를 조절하는 기술의 잠재력을 활용하여 암 치료를 개선하는 데 대한 후속 연구를 제안합니다."
+    }
   },
   {
     "id": "doi:10.2147/jir.s637035",
@@ -499,7 +565,15 @@
     "pmcid": "PMC13717499",
     "url": "https://europepmc.org/articles/PMC13717499",
     "abstract": "Background Chronic liver inflammation provides a major biological context for hepatocarcinogenesis, and macrophages link innate immune sensing, fibrogenesis, immune suppression and therapeutic resistance in hepatocellular carcinoma (HCC). Tumor-associated macrophages (TAMs), Kupffer cells and inflammation-associated myeloid populations have been extensively investigated in HCC; however, the intellectual structure and thematic connectivity of this inflammation-centered research field remain incompletely defined. Objective This study aimed to map the intellectual architecture, evolutionary trajectory and inter-module connectivity of inflammation-centered macrophage research in HCC using bibliometric and scientometric methods. Methods A total of 9218 English-language articles and reviews on macrophage-related HCC from 2005 to 2025 were retrieved from the Web of Science Core Collection and Scopus after systematic deduplication. CiteSpace, VOSviewer and bibliometrix were used to perform co-citation clustering, reference historiographic mapping, keyword co-occurrence analysis, publication-volume-adjusted keyword correlation analysis, citation burst detection, journal dual-map overlay and multi-level collaboration profiling. Results Annual publication output increased from 84 articles in 2005 to 1129 in 2025. Co-citation analysis resolved 13 well-defined clusters (modularity Q = 0.744; mean silhouette S = 0.884), and historiographic mapping identified four sequential stages: foundational inflammation and hepatocarcinogenesis, mechanistic expansion of TAM function, immune-regulatory convergence and spatial immunology. Keyword dynamics showed a transition from viral hepatitis, innate immunity, Kupffer cells and fibroinflammatory terminology toward TAM-mediated immune suppression, immunotherapy, single-cell analysis, SPP1-positive macrophage-associated spatial immune barriers and computational precision oncology. After annual publication-volume adjustment, the foundational viral-innate module and the contemporary computational-precision oncology module showed a negative inter-module Pearson correlation (mean r = -0.383), lower than expected under label-permutation and temporal-succession null models (both p Conclusion Macrophage-related HCC research has evolved from inflammation-centered hepatocarcinogenesis toward spatially resolved and computationally assisted immunology. The low-connectivity interfaces identified in this study should be interpreted as hypothesis-generating bibliometric signals rather than as evidence of biological or clinical disconnection or as stand-alone research priorities derived from network structure alone. Their potential translational relevance should be considered alongside published mechanistic and clinical evidence and requires future mechanistic, spatial and prospective clinical validation.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 HCC에서 염증 중심의 매크로포사이트 연구의 지식 구조와 진화적 궤적을 파악하고, 이에 대한 주제 간 연결성을 이해하기 위해 수행되었다. 이는 염증 중심 연구의 지도를 그릴 목적으로 한다.",
+      "methods": "Web of Science Core Collection과 Scopus에서 2005년부터 2025년까지 매크로포사이트와 관련된 HCC에 대한 영어 논문과 리뷰 9218편을 수집했다. CiteSpace, VOSviewer 및 bibliometrix을 사용하여 매크로포사이트 간 견주 분석, 참조 역사를, 키워드 간 동시 발생 분석, 출판량 조정 키워드 상관 분석, 출판 갈급 분석, 잡 간 겹색 분석 및 다수레 협력 프로파일링을 수행했다.",
+      "quantitative_results": "2005년 84편에서 2025년 1129편으로 연간 출판량이 증가했다. 겹색 분석은 13개의 명확한 클러스터를 결정했고, 역사를 통해 4단계의 순차적 단계가 확인되었다: 기초 염증과 간암, 매크로포사이트 기능의 메커니즘 확장, 면역 조절의 통합 및 공간적 면역학.",
+      "novelty": "이 연구는 기존 연구에서 염증 중심 연구의 지도를 그릴 수 있게 해준다. 특히, 기초 염증과 간암, 그리고 현대적인 계산적 정교한 암학, 그리고 이들 간의 연결성에 대한 새로운 통찰력을 제공한다.",
+      "limitations": "이 연구는 기존 연구에서 확인할 수 없는 사항을 포함한다. 예를 들어, 논문에서 실제로 보고된 한계와 추론은 분석자의 추론으로 간주된다. 그러나 이 연구는 기존 연구의 한계를 이해하고 이를 고려하는 데 도움이 될 수 있다.",
+      "future_research": "이 연구는 후속 연구를 제안한다. 이는 기존 연구의 한계를 이해하고 이를 고려하는 데 도움이 될 수 있다. 이 연구는 기존 연구의 한계를 이해하고 이를 고려하는 데 도움이 될 수 있다. 이 연구는 기존 연구의 한계를 이해하고 이를 고려하는 데 도움이 될 수 있다."
+    }
   },
   {
     "id": "doi:10.1126/sciadv.aeh6590",
@@ -566,6 +640,20 @@
       "limitations": "저자는 면역 반응과 세균 관련성에 대한 연구 결과를 보고했습니다. 그러나 이 연구는 면역 세포 이동 및/또는 체질추구, 그리고 세포 대사 활동 및 세포 신호 경로의 조절을 포함한 면역 반응의 다른 부분에 대한 정보를 제공하지 않았습니다. 또한, 이 연구는 페스티아모사의 병리학적 이해를 향상시키는 데 기여할 수 있는 추가 연구가 필요하다는 것을 명시했습니다.",
       "future_research": "저자는 페스티아모사의 병리학적 이해를 향상시키기 위해, 면역 세포 이동 및/또는 체질추구, 그리고 세포 대사 활동 및 세포 신호 경로의 조절에 대한 추가 연구가 필요하다는 것을 제안했습니다."
     }
+  },
+  {
+    "id": "doi:10.1016/j.ejmech.2026.119462",
+    "title": "Metal-organic frameworks for cancer drug delivery: Molecular design, therapeutic mechanisms, safety, and clinical translation.",
+    "topic": "Drug delivery",
+    "date": "2026-10-23",
+    "journal": "",
+    "authors": "Alahmary LA, Sukkarieh FA, Ferdous UT, Helal A, Uddin S.",
+    "doi": "10.1016/j.ejmech.2026.119462",
+    "pmid": "42966052",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42966052/",
+    "abstract": "Metal-organic frameworks (MOFs) are tuneable porous platforms for cancer drug delivery, as their metal nodes, organic linkers, pore architecture, and surface chemistry can be engineered to control cargo loading, targeting, degradation, and stimulus-responsive release. This review critically discusses the composition-structure-function relationships that govern the performance of MOF-based cancer nanomedicines, focusing on drug encapsulation, tumour-targeted delivery, endogenous and externally triggered release, multimodal therapy and theranostics applications. Much attention has been paid to the effect of MOF composition on the stability of the framework, biodegradation, interactions between drugs and frameworks, therapeutic efficacy and biosafety. The review also addresses MOF-triggered cancer-cell-death mechanisms including apoptosis, ferroptosis, immunogenic cell death, autophagy-related responses, metabolic/starvation-induced death and novel cuproptosis-based approaches. Altogether, the current evidence suggests that MOFs can not only serve as passive drug carriers but also as compositionally programmable therapeutic platforms capable of modulating the tumour microenvironment and triggering complementary anticancer mechanisms. However, the clinical translation of such systems is hampered by framework-dependent toxicity, incomplete knowledge of long-term degradation and clearance, biological and manufacturing variability, scale-up challenges, and limited clinical validation. Compared to reviews that focus on specific families of MOFs or treatment modalities, this review combines composition-dependent performance, drug-delivery mechanisms, cancer-cell-death pathways, biosafety, translational barriers, and comparative nanomedicine considerations under a single framework. This integrated perspective highlights the need to move MOF development from increasingly complex preclinical constructs to reproducible, safety-oriented, and clinically translatable nanomedicines.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.64898/2026.10.16.758452",
@@ -1312,7 +1400,7 @@
     "pmid": "",
     "pmcid": "",
     "url": "https://doi.org/10.64898/2026.10.12.757977",
-    "abstract": "Rapid advances in protein structure design have not translated to intrinsically disordered regions (IDRs). This is largely due to our incomplete understanding of how IDR sequence encodes function. Here, we use stem cell differentiation as a model to map functional sequence features in the IDR of transcription factor RUNX2. We show that RUNX2 requires its C-terminal IDR to bind chromatin and regulate gene expression during osteogenesis. Surprisingly, linear IDR sequence is dispensable, and instead features of the conformational ensemble predict function. We develop an algorithm for rational IDR design based on biophysical principles, and use it to generate functional IDRs de novo. Together, these results illustrate the central role for TF IDRs in chromatin binding and extend generative protein design beyond the folded proteome.",
+    "abstract": "Rapid advances in protein structure design have not translated to intrinsically disordered regions (IDRs). This is largely due to our incomplete understanding of how IDR sequence encodes function. Here, we use stem cell differentiation as a model to map functional sequence features in the C-terminal IDR of the transcription factor RUNX2, which is required to bind chromatin and regulate gene expression during osteogenesis. Surprisingly, linear IDR motifs are dispensable; instead, the conformational dynamics of the IDR predict function. We develop an algorithm for rational IDR design based on biophysical principles, and use it to generate functional IDRs de novo . These findings extend generative protein design beyond the folded proteome.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 논문은 인자적으로 불안정한 단백질 분해체(인자적으로 불안정한 단백질 분해체, IDR)의 유기능성 구조를 설계하는 데 대한 연구입니다. 이는 인자적으로 불안정한 단백질 분해체가 단백질의 기능을 어떻게 인코딩하는지에 대한 우리의 이해가 아직 부족하다는 점을 반영합니다.",
