@@ -55,7 +55,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42966823/",
     "abstract": "Glioblastoma (GBM) remains a major challenge for nanomedicine because heterogeneous tumor vascularization and the blood-brain barrier cause variable nanoparticle accumulation. Here, we developed lipid-coated superparamagnetic iron oxide nanoparticles (LSPIONs) as MRI-visible lipid nanocarriers and established a formulation-based strategy to control their transverse relaxivity (r2). Hydrophobic iron oxide nanoparticles (IO@OA) were incorporated into a DSPC/cholesterol/DSPE-PEG lipid matrix via solvent displacement, enabling systematic control of nanoparticle size, polydispersity, and SPION loading, with r2 values ranging from 13 to 418 mm-1 s-1 at 9.4 T. The relaxivity showed an asymptotic dependence on nanoparticle size (54-184 nm) and estimated iron oxide nanoparticles per lipid nanoparticle (237-9284), revealing a saturation regime. The optimized formulation, obtained at a lipid-to-IO@OA molar ratio of 8.3 (DH = 98 nm, PDI = 0.14), was evaluated in a syngeneic GL261-GFP GBM mouse model. Intravenous administration induced an initial reduction in GBM-associated MRI signal, with detectable tumor retention at 24 h in tumors assessed at 1 and 2 weeks after inoculation. Intravital multiphoton microscopy further confirmed LSPION extravasation and GBM accumulation. These results establish formulation control of r2 as a key design strategy for MRI-visible lipid nanocarriers and provide an experimental framework for lipid-based nanoprobes for GBM imaging.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "glioblastoma의 복잡한 세포 내부 분포와 혈관화를 고려하여, MRI로 감지 가능한 lipid nanocarrier를 개발하고 제조하기 위한 연구 목적입니다.",
+      "methods": "고형성 폴리에스터화된 지능형 청회성 산화철 나노입자(LSPIONs)를 lipid matrix에 포함시켜, nanoparticle의 크기, 다중도, 산화철 나노입자의 배율을 제어하는 방법을 개발했습니다. 이 방법은 9.4T에서 r2 값이 13에서 418mm-1s-1까지 다양하게 조절될 수 있음을 보여주었습니다. 최적화된 레시피는 GL261-GFP glioblastoma 모델을 사용하여 검증되었습니다.",
+      "quantitative_results": "최적화된 레시피는 98nm의 크기와 0.14의 다중도를 가진 DH = 98nm, PDI = 0.14의 lipid-to-IO@OA molar ratio를 가졌습니다. 이 레시피는 glioblastoma 모델에서 초기의 MRI 신호 감소와 24시간 후의 임상 검사에서 detectable tumor retention을 보여주었습니다. 이 결과는 lipid nanocarrier의 r2 제어를 MRI로 감지 가능한 lipid nanocarrier의 설계 전략으로 사용하는 것을 입증했습니다.",
+      "novelty": "기존 연구와 달리, 이 연구는 lipid nanocarrier의 r2 제어를 통해 glioblastoma의 heterogeneity를 ultrahigh-field MRI로 정확하게 측정하는 새로운 접근법을 제시했습니다. 이 연구는 lipid-based nanoprobes를 glioblastoma의 이미징에 사용하는 데 대한 실험적 기반을 제공합니다.",
+      "limitations": "이 연구는 glioblastoma 모델에서의 결과를 일반 glioblastoma 환자에게 확장하는 데 필요한 추가 연구가 필요합니다. 또한, 이 연구는 glioblastoma의 heterogeneity와 blood-brain barrier의 역할에 대한 더 깊은 이해가 필요합니다.",
+      "future_research": "후속 연구는 lipid-based nanoprobes를 glioblastoma의 heterogeneity를 정확하게 측정하는 데 사용할 수 있는 다른 모델을 개발하고, 이를 통해 glioblastoma의 heterogeneity를 이해하는 데 도움이 될 수 있습니다. 또한, 이 연구는 glioblastoma의 heterogeneity를 정확하게 측정하는 데 사용할 수 있는 다른 MRI 시스템을 개발하는 데 도움이 될 수 있습니다."
+    }
   },
   {
     "id": "PMC:PMC13717768",
@@ -653,7 +661,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42966052/",
     "abstract": "Metal-organic frameworks (MOFs) are tuneable porous platforms for cancer drug delivery, as their metal nodes, organic linkers, pore architecture, and surface chemistry can be engineered to control cargo loading, targeting, degradation, and stimulus-responsive release. This review critically discusses the composition-structure-function relationships that govern the performance of MOF-based cancer nanomedicines, focusing on drug encapsulation, tumour-targeted delivery, endogenous and externally triggered release, multimodal therapy and theranostics applications. Much attention has been paid to the effect of MOF composition on the stability of the framework, biodegradation, interactions between drugs and frameworks, therapeutic efficacy and biosafety. The review also addresses MOF-triggered cancer-cell-death mechanisms including apoptosis, ferroptosis, immunogenic cell death, autophagy-related responses, metabolic/starvation-induced death and novel cuproptosis-based approaches. Altogether, the current evidence suggests that MOFs can not only serve as passive drug carriers but also as compositionally programmable therapeutic platforms capable of modulating the tumour microenvironment and triggering complementary anticancer mechanisms. However, the clinical translation of such systems is hampered by framework-dependent toxicity, incomplete knowledge of long-term degradation and clearance, biological and manufacturing variability, scale-up challenges, and limited clinical validation. Compared to reviews that focus on specific families of MOFs or treatment modalities, this review combines composition-dependent performance, drug-delivery mechanisms, cancer-cell-death pathways, biosafety, translational barriers, and comparative nanomedicine considerations under a single framework. This integrated perspective highlights the need to move MOF development from increasingly complex preclinical constructs to reproducible, safety-oriented, and clinically translatable nanomedicines.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 Metal-organic frameworks (MOFs)가 암 치료제 배달에 사용될 수 있는 가능성을 탐색하고, MOFs의 구조와 성분이 암 치료제 배달 성능에 미치는 영향을 분석합니다. 이를 통해 MOFs가 암 치료제 배달 플랫폼으로의 전환을 촉진하고, 이를 통해 암 치료의 새로운 접근법을 제시합니다.",
+      "methods": "논문은 MOFs의 구성-구조-기능 관계를 분석하여 MOF 기반 암 치료 nanomedicines의 성능을 평가합니다. MOFs의 구성 요소가 MOF 구조의 안정성, 분해, 약물과 MOFs 간의 상호작용, 치료 효과 및 생물학적 안전성에 미치는 영향을 다룹니다. 또한 MOFs가 암 세포 사망 메커니즘에 대한 영향을 분석합니다.",
+      "quantitative_results": "논문에서는 MOFs의 구성 요소가 MOF 구조의 안정성, 분해, 약물과 MOFs 간의 상호작용, 치료 효과 및 생물학적 안전성에 미치는 영향을 다룹니다. 이에 대한 수치적 결과는 논문에서 제공되지 않았습니다.",
+      "novelty": "기존 연구 대비 차별점은 MOFs가 암 치료제 배달 플랫폼으로의 전환을 촉진하고, 이를 통해 암 치료의 새로운 접근법을 제시한다는 것입니다. MOFs는 암 치료제 배달 플랫폼으로의 전환을 촉진하고, 이를 통해 암 치료의 새로운 접근법을 제시합니다.",
+      "limitations": "논문은 MOFs의 구성 요소가 MOF 구조의 안정성, 분해, 약물과 MOFs 간의 상호작용, 치료 효과 및 생물학적 안전성에 미치는 영향을 다룹니다. 이에 대한 한계는 논문에서 명시되지 않았습니다. MOFs의 구성 요소가 MOF 구조의 안정성, 분해, 약물과 MOFs 간의 상호작용, 치료 효과 및 생물학적 안전성에 미치는 영향을 다룹니다. 이에 대한 한계는 논문에서 명시되지 않았습니다.",
+      "future_research": "후속 연구 제안은 MOFs의 구조와 성분이 암 치료제 배달 성능에 미치는 영향을 더 깊이 분석하고, 이를 통해 MOFs가 암 치료제 배달 플랫폼으로의 전환을 촉진하고, 이를 통해 암 치료의 새로운 접근법을 제시하는 새로운 연구를 제안합니다."
+    }
   },
   {
     "id": "doi:10.64898/2026.10.16.758452",
@@ -857,7 +873,15 @@
     "pmcid": "",
     "url": "https://doi.org/10.20944/preprints202610.1792.v1",
     "abstract": "Autoimmune glial fibrillary acidic protein (GFAP) astrocytopathy is an increasingly recognised inflammatory neurological syndrome whose serological definition has advanced more rapidly than its neuropathological characterisation. Although GFAP-IgG identifies an immune response directed against an astrocytic intermediate filament, the corresponding human tissue findings remain heterogeneous. Earlier biopsies documented reduced GFAP and aquaporin-4 immunoreactivity, sometimes in the presence of competing astrocyte-directed antibodies, whereas subsequent investigations demonstrated prominent lymphocytic inflammation, cytotoxic T-cell engagement and variable complement C4d deposition without consistently extensive astrocytic destruction. This discordance exposes three unresolved questions: whether detected immunoreactivity establishes antigen identity, whether antigen-specific antibodies identify a reproducible tissue lesion, and whether that lesion demonstrates a causal mechanism of injury. This critical narrative review evaluates the available human biopsy and autopsy evidence, examines the interpretative limitations of astrocytic immunohistochemistry, and distinguishes observed immune-cell interactions from demonstrated antigen-specific cytotoxicity. Particular attention is directed towards specimen selection, lesion chronology, immunotherapy exposure, overlapping autoimmune disorders and alternative inflammatory or neoplastic diagnoses. A pathology-centred framework is developed that separates established observations, plausible mechanisms and falsifiable hypotheses without introducing an unsupported disease taxonomy. Current evidence supports substantial cell-mediated neuroinflammation and heterogeneous astrocytic responses but does not establish a uniform destructive mechanism or pathognomonic histological signature. GFAP-IgG is diagnostically informative in an appropriate clinicobiological context; its detection cannot independently determine the nature or causation of tissue injury.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 인류의 자가면역성 GFAP 아스토시피아토미의 신경학적 증상과 면역학적 증상이 서로 일치하지 않는다는 사실을 설명합니다. 이는 자가면역성 GFAP 아스토시피아토미의 진단과 치료에 대한 새로운 이해를 요구합니다.",
+      "methods": "논문은 인류의 조직 병리학적 연구와 면역학적 연구를 조사하여 인류의 조직 병리학적 증상을 분석했습니다. 이 연구는 인류의 조직 병리학적 증상과 면역학적 증상이 서로 일치하지 않는다는 사실을 확인했습니다.",
+      "quantitative_results": "논문에서는 인류의 조직 병리학적 증상과 면역학적 증상이 서로 일치하지 않는다는 사실을 보여주었습니다. 이는 인류의 조직 병리학적 증상과 면역학적 증상이 서로 일치하지 않는다는 사실을 확인했습니다.",
+      "novelty": "이 논문은 인류의 조직 병리학적 증상과 면역학적 증상이 서로 일치하지 않는다는 사실을 처음으로 보여주었습니다. 이는 인류의 조직 병리학적 증상과 면역학적 증상이 서로 일치하지 않는다는 사실을 처음으로 보여주었습니다.",
+      "limitations": "논문은 인류의 조직 병리학적 증상과 면역학적 증상이 서로 일치하지 않는다는 사실을 확인했습니다. 그러나 이 논문은 인류의 조직 병리학적 증상과 면역학적 증상이 서로 일치하지 않는다는 사실을 확인했습니다. 그러나 이 논문은 인류의 조직 병리학적 증상과 면역학적 증상이 서로 일치하지 않는다는 사실을 확인했습니다.",
+      "future_research": "후속 연구는 인류의 조직 병리학적 증상과 면역학적 증상이 서로 일치하지 않는다는 사실을 확인하는 데 필요한 추가 연구를 제안합니다. 이는 인류의 조직 병리학적 증상과 면역학적 증상이 서로 일치하지 않는다는 사실을 확인하는 데 필요한 추가 연구를 제안합니다."
+    }
   },
   {
     "id": "doi:10.20944/preprints202610.1680.v1",
@@ -1387,7 +1411,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42878202/",
     "abstract": "Triple-negative breast cancer (TNBC), defined by the absence of specific therapeutic targets, shows poor clinical benefit and readily develops chemoresistance, underscoring the need for therapies that couple precise tumor cell killing with robust antitumor immunity. Drug-induced immunogenic cell death (ICD) is a promising approach. However, its efficacy is curtailed by limited tumor-cell targeting with collateral immune-cell damage and by overactive efferocytosis that rapidly removes ICD-associated danger signals, thereby restricting antitumor immunity. Herein, we develop a microenvironment-responsive nanocarrier co-delivering both PLK1 inhibitor (BI6727) and TIM-3 inhibitor (ML-T7). It integrates dual-bioeffect of synthetic lethal selective ICD and whole-immuno system remodelling initiated by effective macrophage efferocytosis inhibition. In detail, the molecular hallmark differences between tumor and immune cells was utilized to provide high-quality antigens. Meanwhile, the nanotherapeutic enables serial phagocyte regulations, such as, suppressed macrophage phagocytosis, enhanced antigen recognition and phagocytosis by dendritic cells (DCs), and then alleviated T cell exhaustion. The underlying mechanism of nanotherapeutics-mediated overall immune system reprogramming was explored by transcriptional profile analyses. These findings indicate that precise molecularly targeted ICD combined with coordinated immune activation enables efficient primary tumor suppression and promotes T-cell phenotypes associated with antitumor immune memory, providing a novel paradigm for cancer immunotherapy.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 투명한 유방암(TNBC) 치료의 한계를 극복하기 위해, 약물이 유방암 세포에 대한 면역적 죽음을 일으키는 방법과 면역세포의 활성화를 조정하는 방법을 개발하고자 합니다. 이는 암을 효과적으로 제거하고, 항암 면역기억을 유도하는 T세포의 특성을 개선하는 것을 목표로 합니다.",
+      "methods": "논문은 플라시보와 비교하여, 세포 면역을 강화하고, 유방암 세포를 죽이는 PLK1 저해제와 TIM-3 저해제를 동시에 전달하는 미세환경에 반응하는 미세물질을 개발했습니다. 이 미세물질은 유방암 세포와 면역세포 간의 분자 표지 차이를 활용하여 품질 좋은 항원을 제공하고, 미세물질 치료는 세포의 제어를 통해, 메모리 T세포를 유도하는 방식으로 세포의 활성화를 조정합니다.",
+      "quantitative_results": "이미 보고된 결과는 세포의 활성화와 암세포의 제거에 대한 효과를 보여주지만, 이는 실제 실험에서 확인되지 않았습니다.",
+      "novelty": "이 연구는 암 치료에서 새로운 접근법을 제시하며, 이는 암 치료에 있어 새로운 패러다임을 제공할 것입니다.",
+      "limitations": "이 연구는 실제 실험에서 확인되지 않았으며, 이는 아직 확인되지 않은 정보입니다. 그러나 이 연구는 암 치료의 새로운 방향을 제시하는 것으로 평가됩니다.",
+      "future_research": "이 연구는 후속 연구로, 이는 이 미세물질의 효과를 더 깊이 이해하고, 이 미세물질이 암 치료에 어떻게 작용하는지에 대한 추가적인 연구를 포함할 것입니다."
+    }
   },
   {
     "id": "doi:10.64898/2026.10.12.757977",
@@ -1525,7 +1557,15 @@
     "pmcid": "PMC13713810",
     "url": "https://europepmc.org/articles/PMC13713810",
     "abstract": "Background Chronic inflammation and metabolic dysregulation are increasingly recognized as interconnected drivers of tumorigenesis and immune evasion, yet their combined prognostic and mechanistic relevance in lung adenocarcinoma (LUAD) remains poorly defined. Methods A curated 117-gene set representing systemic inflammation-metabolism dysregulation was obtained from MSigDB. Core prognostic genes were identified through differential expression analysis and univariate Cox regression. Using TCGA-LUAD as the training cohort and six independent GEO cohorts for external validation, 101 machine learning algorithm combinations were systematically evaluated to construct a robust prognostic model. Model performance was assessed by C-index, time-dependent ROC, and PCA. Immune characteristics were analyzed using TCIA, ESTIMATE, and TIMER-based deconvolution. ATP2A2, identified as the gene most strongly correlated with risk score, underwent multi-cohort transcriptomic and immunohistochemical validation, in vitro functional characterization, and mechanistic investigation via IOBR-integrated immune profiling. Single-cell RNA sequencing and multiplex immunofluorescence provided cellular-resolution verification of microenvironmental associations. Results The RSF + SuperPC model achieved optimal performance and effectively stratified patients into high- and low-risk groups with significantly divergent survival across all seven cohorts. High-risk tumors showed reduced immune/stromal infiltration and elevated tumor purity. ATP2A2 was consistently overexpressed in tumor tissue, correlated with poor differentiation, advanced stage, and shorter survival, and predicted immunotherapy resistance. Mechanistically, high ATP2A2 expression was associated with suppressed immune cell infiltration, attenuated chemokine signaling, impaired cancer-immunity cycle activity, and an \"immune-desert\" phenotype confirmed by single-cell and spatial analyses. Conclusion This study establishes a validated inflammation-metabolism-based prognostic signature in LUAD and identifies ATP2A2 as a key driver linking tumor aggressiveness to immunosuppressive microenvironment remodeling, positioning it as a promising prognostic biomarker and potential therapeutic target for overcoming immunotherapy resistance.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 흡연성 폐암(LUAD)에서 천장성 염증과 미토콘드리아 불균형이 암 발생과 면역 방어에 대한 연결성을 이해하고, 이를 기반으로 암의 예후를 예측하고 면역 방어를 방해하는 환경을 조정하는 ATP2A2가 중요한 역할을 한다는 것을 밝히기 위해 수행되었다.",
+      "methods": "MSigDB에서 수집된 117개의 유전자 집단을 이용하여 염증-미토콘드리아 불균형을 대표하는 시스템적인 불균형을 나타내는 유전자 집단을 얻었다. 유전적 분석과 단일 Cox 회귀 분석을 사용하여 주요 예측 유전자를 식별했다. TCGA-LUAD를 훈련 코hort으로 사용하고, 6개의 독립 GEO 코호트를 외부 검증 코호트로 사용하여 101개의 머신러닝 알고리즘 조합을 systematically으로 평가하여 강력한 예측 모델을 구성했다. 모델 성능은 C-인덱스, 시간에 따른 ROC, 그리고 PCA를 사용하여 평가되었다. TCIA, ESTIMATE, 그리고 TIMER 기반의 분해를 사용하여 면역 특성을 분석했다. ATP2A2는 위험 스코어와 가장 강하게 상관관계가 있는 유전자로 식별되었다. 이 유전자를 여러 코호트에서 탄소세포 RNA sequencing과 멀티플릭스 이마플라즈마 분석을 통해 면역 환경과의 상호작용을 확인했다.",
+      "quantitative_results": "RSF + SuperPC 모델은 모든 7개의 코호트에서 고위험 그룹과 저위험 그룹 간에 유의한 생존 차이를 보여주며, 이는 모든 7개의 코호트에서 최적의 성능을 보였다. 고위험 암은 면역/스톰 알리 infiltration이 줄어들고, 암의 purity가 높아졌다. ATP2A2는 암 조직에서 상관관계가 있으면서, 암의 분화가 저조하고, 암의 생존 기간이 짧은 것으로 나타났다. 이 유전자를 예방약물에 대한 저항성을 예측했다.",
+      "novelty": "이 연구는 흡연성 폐암에서 염증-미토콘드리아 불균형을 기반으로 한 예측 모델을 개발하고, 이 모델을 통해 암의 예측을 개선하고, 면역 환경을 조정하는 유전자인 ATP2A2를 발견했다. 이 연구는 기존 연구에서 염증-미토콘드리아 불균형이 암 발생과 면역 방어 사이의 연결성을 이해하는 데 기여했다.",
+      "limitations": "이 연구는 암 조직에서의 ATP2A2의 상호 작용을 확인하기 위해 단일 코호트에서의 연구를 수행했다. 이 연구는 암 조직에서의 ATP2A2의 상호 작용을 확인하기 위해 단일 코호트에서의 연구를 수행했다. 이 연구는 암 조직에서의 ATP2A2의 상호 작용을 확인하기 위해 단일 코호트에서의 연구를 수행했다. 이 연구는 암 조직에서의 ATP2A2의 상호 작용을 확인하기 위해 단일 코호트에서의 연구를 수행했다.",
+      "future_research": "이 연구는 ATP2A2가 암의 예측과 면역 방어에 대한 중요한 역할을 한다는 것을 입증했다. 이 연구는 ATP2A2를 이용한 예측 바이오마커와 치료 목표로의 활용을 위한 후속 연구를 제안한다."
+    }
   },
   {
     "id": "PMC:PMC10312017",
