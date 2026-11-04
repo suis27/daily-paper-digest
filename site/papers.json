@@ -1,5 +1,19 @@
 [
   {
+    "id": "doi:10.64898/2026.10.30.762893",
+    "title": "Cell-resolved pharmacodynamic profiling reveals tissue- and cell-population-specific activity of antisense oligonucleotide chemical conjugates in vivo",
+    "topic": "Nucleic acids",
+    "date": "2026-11-02",
+    "journal": "",
+    "authors": "Cheng S, Frommer J, Eddaoudi A, Constandinou P, Wood M, Muntoni F, Zhou H.",
+    "doi": "10.64898/2026.10.30.762893",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.10.30.762893",
+    "abstract": "Chemical conjugation can modulate antisense oligonucleotide (ASO) pharmacology and improve organ-specific delivery, yet whole-tissue measurements provide limited information on cell-specific activity. Here, we used metastasis-associated lung adenocarcinoma transcript 1 (Malat1) knockdown as a pharmacodynamic readout to compare whole-tissue and cell-resolved activity of chemically conjugated ASOs in platelet-derived growth factor receptor alpha-enhanced green fluorescent protein (PDGFRα-eGFP) mouse model to assess their in vivo uptake in PDGFRα-expressing (GFP+) cells. This reporter mouse model uses PDGFRα as an exemplar cellular marker and provides an accessible tool for evaluating ASO conjugate activity within mesenchymal stromal and progenitor populations, mainly tissue fibroblasts. Following subcutaneous administration, Malat1 was quantified in whole tissues and cell-sorted PDGFRα+/GFP⁺ or PDGFRα-/GFP⁻ populations. ASO-mediated Malat1 reduction varied by tissue and conjugate chemistry, with palmitate conjugation producing the broadest extrahepatic activity and pronounced whole-tissue activity in heart and skeletal muscle. Cell-resolved analysis further revealed preferential palmitate-ASO activity within PDGFRα⁺ skeletal-muscle populations. Preliminary safety assessment also showed conjugate-dependent differences, with body-weight loss and ALT elevation in tocopherol-ASO-treated male mice and spleen enlargement in both sexes. These findings present an in vivo modelling system for evaluating cell-specific ASO activity and demonstrate the advantages of cell-resolved assessment over whole-tissue measurements.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.1002/pro.70809",
     "title": "MONDE·T: A database and interactive webserver for non-standard amino acids and peptide components in the PDB.",
     "topic": "Protein",
@@ -22,6 +36,50 @@
     }
   },
   {
+    "id": "doi:10.1021/acs.molpharmaceut.6c00479",
+    "title": "Dual Antifibrotic Modulation via CTGF Silencing and Peptide Amphiphile Nanofibers for Topical Treatment of Skin Fibrosis.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-01",
+    "journal": "",
+    "authors": "Eroğlu A, Gulseren G, Bilecen DS.",
+    "doi": "10.1021/acs.molpharmaceut.6c00479",
+    "pmid": "42969696",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42969696/",
+    "abstract": "Skin fibrosis is driven in part by transforming growth factor-β (TGF-β) signaling and the matricellular protein connective tissue growth factor (CTGF). Elevated CTGF expression is a hallmark of fibrotic skin lesions and contributes to pathological extracellular matrix remodeling. In this project, an antisense oligonucleotide (AON) delivery system was developed for the treatment of skin fibrosis. In this respect, two antifibrotic agents, i) AON against CTGF and ii) antifibrotic polypeptide amphiphile, were self-assembled into nanofibers to enhance antifibrotic efficacy. The nanofibers were encapsulated in chitosan nanoparticles (CNPs) for protection and sustained release. Loaded CNPs were characterized by morphology, size, endosomal escape, and skin penetration using a transwell-based 3D skin model. The nanoparticles exhibited an average size of 220 nm. The encapsulation efficiency of CNPs was 52%, providing sustained nanofiber release over 7 days. With the use of nanoparticles, clear reduction trends were observed in CTGF, α-smooth muscle actin (αSMA), and collagen expression. CNPs penetrated the skin model gradually, revealing no cytotoxicity to skin cells. Overall, these results reveal the potential of the designed nanofibers as a therapeutic agent and the CNPs as the carrier of the nanofibers. The developed delivery system can be used as an alternative approach for the treatment of lesions in fibrotic skin.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 피부 골연화를 치료하는 새로운 방법을 개발하기 위해 CTGF의 표현을 줄이고 피부 세포의 외상성 세포막 재조정을 촉진하는 두 가지 약물이 합성된 나노필로이자를 사용하여 피부 골연화를 치료하는 방법을 연구한다.",
+      "methods": "이 연구에서는 변성성 성분인 CTGF의 표현을 줄이기 위해 아나스엔지닌(AON)을 사용한 치료 시스템을 개발했다. 이는 두 가지 항골연화 약물, i) CTGF에 대한 AON 및 ii) 항골연화 단백질 아미파일리움을 합성한 나노필로이자를 사용하여 나노필로이자를 개발했다. 나노필로이자를 보호하고 지속적인 분비를 촉진하기 위해 카시토산 나노입자(CNPs)로 감싸고, 이는 세포막 모델을 통해 세포막 재조정을 촉진하는 CTGF, α-소프트 막 엑스마(αSMA), 그리고 칼로닌의 표현을 줄이는데 사용되었다.",
+      "quantitative_results": "CNPs는 평균 크기는 220nm이고, CNPs의 포집 효율은 52%로, 나노필로이자를 지속적으로 7일 동안 분비하도록 설계되었다. CNPs는 세포막 모델을 통해 피부 세포에 안전하게 분비되었다. CTGF, αSMA, 그리고 칼로닌의 표현이 감소하는 경향이 관찰되었다.",
+      "novelty": "이 연구는 CTGF의 표현을 줄이고 피부 세포의 외상성 세포막 재조정을 촉진하는 두 가지 약물이 합성된 나노필로이자를 사용하여 피부 골연화를 치료하는 방법을 개발했다. 이는 기존 연구에서 보고된 결과와는 다르다.",
+      "limitations": "이 연구는 CTGF의 표현을 줄이고 피부 세포의 외상성 세포막 재조정을 촉진하는 두 가지 약물이 합성된 나노필로이자를 사용하여 피부 골연화를 치료하는 방법을 개발했다. 그러나 CTGF의 표현을 줄이고 피부 세포의 외상성 세포막 재조정을 촉진하는 두 가지 약물이 합성된 나노필로이자를 사용하여 피부 골연화를 치료하는 방법의 효과성을 확인하기 위해 추가 연구가 필요하다고 본다.",
+      "future_research": "이 연구의 결과를 바탕으로, CTGF의 표현을 줄이고 피부 세포의 외상성 세포막 재조정을 촉진하는 두 가지 약물이 합성된 나노필로이자를 사용하여 피부 골연화를 치료하는 방법의 효과성을 확인하기 위한 추가 연구가 필요하다."
+    }
+  },
+  {
+    "id": "doi:10.1177/10445498261492508",
+    "title": "Advances in Nanoparticle Technologies for Prostate Cancer Detection and Therapy.",
+    "topic": "Drug delivery",
+    "date": "2026-11-01",
+    "journal": "",
+    "authors": "Abdullo A, Kenjaev Y, Melibayeva R, Firdavs U, Firuza N, Giyos A.",
+    "doi": "10.1177/10445498261492508",
+    "pmid": "42968472",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42968472/",
+    "abstract": "Prostate cancer (PCa) remains a significant global health challenge, necessitating innovative approaches for improved detection and treatment. Conventional methods often face limitations in specificity, sensitivity, and targeted drug delivery, leading to suboptimal outcomes and increased toxicity. Nanotechnology offers a promising avenue to overcome these hurdles, with nanoparticles (NPs) emerging as versatile tools for both diagnosing and treating PCa. This review explores recent advancements in nanoparticle technologies for PCa, focusing on their dual roles in early detection and targeted therapy. We highlight how the unique physicochemical properties of NPs enable enhanced drug loading, controlled release, and active targeting via specific ligands, thereby minimizing systemic toxicity and maximizing therapeutic efficacy. Furthermore, we discuss emerging applications of NPs as contrast agents for advanced imaging and as delivery vehicles for chemotherapeutics, gene therapies, and photothermal agents. Crucially, rather than merely describing preclinical progress, this review critically analyzes the significant bottlenecks in the translation of these nanoparticle-based theranostics from the laboratory to the clinical setting. By evaluating the challenges in scalable manufacturing, regulatory pathways, and long-term safety, we provide a comprehensive perspective on the steps required to realize the full clinical potential of nanomedicine in prostate cancer management.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "본 연구는 프로테아스틱 쌍사이클러(cancer)의 진단과 치료를 개선하기 위한 새로운 기술 개발에 초점을 맞추고 있습니다. 전통적인 방법은 정확성, 민감도, 특정한 약물 전달에 제한이 있어, 최적의 결과를 제공하지 못하고, 신체에 더 많은 독성을 초래합니다. 이에 반해, 나노기술은 이러한 문제를 극복하는 데 도움이 될 수 있으며, 나노입자(NP)는 진단과 치료에 활용되는 다기능 도구로 사용될 수 있습니다.",
+      "methods": "본 연구는 나노입자 기술의 최신 발전을 살펴보고, 그들이 PCa의 초기 진단과 특정 치료에 대한 역할을 강조합니다. 나노입자의 특이 물리화학적 성질을 활용하여 약물 포장, 제어된 분리, 특정 레지스트를 통해 약물이 특정적으로 치료됩니다. 이는 신체에 더 많은 독성을 줄이고 치료 효과를 최대화합니다. 또한, 나노입자들은 고해상 이미징의 대조물과 화학 치료제, 유전자 치료제, 광열제를 전달하는 데 사용될 수 있습니다.",
+      "quantitative_results": "보고된 수치와 대조군 비교는 논문에서 제공되지 않았습니다.",
+      "novelty": "기존 연구와 비교하여, 본 연구는 나노입자 기술이 PCa 진단과 치료에 어떻게 활용될 수 있는지에 대한 근거를 제공합니다. 또한, 나노입자 기술의 잠재적인 한계와 해결책에 대해 심층적으로 분석합니다.",
+      "limitations": "논문에서 명시된 한계는 제한된 실험 조건, 제한된 데이터, 그리고 아직 확인되지 않은 정보로 인해 확인할 수 없습니다. 이 한계는 나노입자 기술의 잠재적인 잠재력을 이해하고, 이를 더 나은 치료 방법으로 전환하기 위한 추가 연구가 필요하다는 것을 보여줍니다.",
+      "future_research": "후속 연구는 나노입자 기술이 어떻게 더 나은 치료 방법으로 발전할 수 있는지에 대한 연구를 제안합니다. 이를 위해, 나노입자 기술의 제조, 규제 과정, 그리고 장기적인 안전성에 대한 더 깊은 이해가 필요합니다."
+    }
+  },
+  {
     "id": "doi:10.1016/j.vaccine.2026.129302",
     "title": "Exercise and vaccine immune response: A scoping review exploring the underlying immunological mechanisms.",
     "topic": "Immunity",
@@ -32,7 +90,7 @@
     "pmid": "42966038",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42966038/",
-    "abstract": "The precise mechanisms by which exercise modulates the immune response to vaccination remain largely unelucidated in the existing literature. This scoping review aims to compile and critically analyse the available evidence pertaining to the underlying mechanisms responsible for the enhancing effect of exercise on vaccine-induced immunity. The study was planned in line with the PRISMA-ScR guidelines. A comprehensive and structured scoping review of the literature was conducted to investigate the effect of exercise on vaccine immune response. Three key electronic databases-PubMed, Web of Science, and Google Scholar-were systematically searched for relevant studies published from January 1, 1990, to June 30, 2025. Strict inclusion and exclusion criteria were established and rigorously applied to the identified studies. Both animal and human studies were included to ensure a broad and comprehensive assessment of all proposed mechanisms. The initial literature search yielded 4314 study titles, from which 199 papers were identified as potentially relevant and subsequently subjected to abstract-level examination. Following this screening, 38 studies met the predefined inclusion criteria and were incorporated into this review, comprising 26 human studies (68.42%) and 12 animal studies. The publication dates of the included studies ranged from 1999 to 2025. Overall, 14 distinct mechanisms were identified as potential explanations for the observed effect of exercise on vaccine immune response. The most compelling mechanisms identified in this review for exercise's enhancing effect on vaccine immune response include: upregulated Interleukin-6 (IL-6) expression, enhanced Interferon-gamma (IFN-γ) expression, immune stimulation resulting from myocyte damage, prolonged antibody persistence, and enhanced immune cell metabolic efficiency in physically active individuals. This review highlights the critical need to identify the optimal \"golden zone\" of exercise intensity and to further elucidate sex-related dimorphisms to maximise clinical efficacy.",
+    "abstract": "Introduction The precise mechanisms by which exercise modulates the immune response to vaccination remain largely unelucidated in the existing literature. This scoping review aims to compile and critically analyse the available evidence pertaining to the underlying mechanisms responsible for the enhancing effect of exercise on vaccine-induced immunity. Methods The study was planned in line with the PRISMA-ScR guidelines. A comprehensive and structured scoping review of the literature was conducted to investigate the effect of exercise on vaccine immune response. Three key electronic databases-PubMed, Web of Science, and Google Scholar-were systematically searched for relevant studies published from January 1, 1990, to June 30, 2025. Strict inclusion and exclusion criteria were established and rigorously applied to the identified studies. Both animal and human studies were included to ensure a broad and comprehensive assessment of all proposed mechanisms. Results The initial literature search yielded 4314 study titles, from which 199 papers were identified as potentially relevant and subsequently subjected to abstract-level examination. Following this screening, 38 studies met the predefined inclusion criteria and were incorporated into this review, comprising 26 human studies (68.42%) and 12 animal studies. The publication dates of the included studies ranged from 1999 to 2025. Overall, 14 distinct mechanisms were identified as potential explanations for the observed effect of exercise on vaccine immune response. Conclusion The most compelling mechanisms identified in this review for exercise's enhancing effect on vaccine immune response include: upregulated Interleukin-6 (IL-6) expression, enhanced Interferon-gamma (IFN-γ) expression, immune stimulation resulting from myocyte damage, prolonged antibody persistence, and enhanced immune cell metabolic efficiency in physically active individuals. This review highlights the critical need to identify the optimal \"golden zone\" of exercise intensity and to further elucidate sex-related dimorphisms to maximise clinical efficacy.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 논문은 운동이 백신 접종 후 면역 반응을 개선하는 정확한 메커니즘에 대해 조사하고 분석하는 것을 목표로 합니다. 이는 현재의 연구 자료에서 대부분 해답을 찾지 못한 문제입니다.",
@@ -54,7 +112,7 @@
     "pmid": "42966823",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42966823/",
-    "abstract": "Glioblastoma (GBM) remains a major challenge for nanomedicine because heterogeneous tumor vascularization and the blood-brain barrier cause variable nanoparticle accumulation. Here, we developed lipid-coated superparamagnetic iron oxide nanoparticles (LSPIONs) as MRI-visible lipid nanocarriers and established a formulation-based strategy to control their transverse relaxivity (r2). Hydrophobic iron oxide nanoparticles (IO@OA) were incorporated into a DSPC/cholesterol/DSPE-PEG lipid matrix via solvent displacement, enabling systematic control of nanoparticle size, polydispersity, and SPION loading, with r2 values ranging from 13 to 418 mm-1 s-1 at 9.4 T. The relaxivity showed an asymptotic dependence on nanoparticle size (54-184 nm) and estimated iron oxide nanoparticles per lipid nanoparticle (237-9284), revealing a saturation regime. The optimized formulation, obtained at a lipid-to-IO@OA molar ratio of 8.3 (DH = 98 nm, PDI = 0.14), was evaluated in a syngeneic GL261-GFP GBM mouse model. Intravenous administration induced an initial reduction in GBM-associated MRI signal, with detectable tumor retention at 24 h in tumors assessed at 1 and 2 weeks after inoculation. Intravital multiphoton microscopy further confirmed LSPION extravasation and GBM accumulation. These results establish formulation control of r2 as a key design strategy for MRI-visible lipid nanocarriers and provide an experimental framework for lipid-based nanoprobes for GBM imaging.",
+    "abstract": "Glioblastoma (GBM) remains a major challenge for nanomedicine because heterogeneous tumor vascularization and the blood-brain barrier cause variable nanoparticle accumulation. Here, we developed lipid-coated superparamagnetic iron oxide nanoparticles (LSPIONs) as MRI-visible lipid nanocarriers and established a formulation-based strategy to control their transverse relaxivity (r 2 ). Hydrophobic iron oxide nanoparticles (IO@OA) were incorporated into a DSPC/cholesterol/DSPE-PEG lipid matrix via solvent displacement, enabling systematic control of nanoparticle size, polydispersity, and SPION loading, with r 2 values ranging from 13 to 418 mm - 1 s - 1 at 9.4 T. The relaxivity showed an asymptotic dependence on nanoparticle size (54-184 nm) and estimated iron oxide nanoparticles per lipid nanoparticle (237-9284), revealing a saturation regime. The optimized formulation, obtained at a lipid-to-IO@OA molar ratio of 8.3 (D H = 98 nm, PDI = 0.14), was evaluated in a syngeneic GL261-GFP GBM mouse model. Intravenous administration induced an initial reduction in GBM-associated MRI signal, with detectable tumor retention at 24 h in tumors assessed at 1 and 2 weeks after inoculation. Intravital multiphoton microscopy further confirmed LSPION extravasation and GBM accumulation. These results establish formulation control of r 2 as a key design strategy for MRI-visible lipid nanocarriers and provide an experimental framework for lipid-based nanoprobes for GBM imaging.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "glioblastoma의 복잡한 세포 내부 분포와 혈관화를 고려하여, MRI로 감지 가능한 lipid nanocarrier를 개발하고 제조하기 위한 연구 목적입니다.",
@@ -724,7 +782,7 @@
     "authors": "Malange K, Borges Paes Lemes J, Noble B, Anchondo Y, Morado-Urbina CE, Jadhav S, Yadav S, Ma J, Augustine V, Dochnal SA, Kambalimath C, Duong M, Alvarez P, Fitzsimmons B, Mazur C, Kordasiewicz HB, Dore K, Zhao HT, Yaksh T.",
     "doi": "10.1172/jci.insight.196154",
     "pmid": "42910517",
-    "pmcid": "",
+    "pmcid": "PMC13726551",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42910517/",
     "abstract": "Genome-targeting strategies to address NaV1.7-mediated signaling in nociceptive afferents are of great clinical interest given its high selectivity and persistent analgesic outcomes. In the present work, we analyze concentration-dependent effects of suppressing primary afferent NaV1.7 using the intrathecal delivery of an antisense oligonucleotide (ASO) on pain behaviors and demonstrate that NaV1.7 ASOs are likely to modulate pain traffic by blocking afferent signaling at the dorsal root ganglion (DRG) level. Intrathecal NaV1.7 ASOs induced a concentration-dependent gradient of knockdown in DRGs (lumbar to cervical) of Scn9a mRNA and ATTO488-ProTx-II binding in small DRG neurons, and a suppression of pain behaviors initiated by mechanical compression, inflammation, and the NaV1.7 agonist OD-1. The rostro-caudal reduction in mRNA correlated with ASO distribution, with implications for dose-related analgesic profiles. Marked reduction in DRG NaV1.7 binding was seen after intrathecal delivery of an ASO optimal dose, with high selectivity for small DRG neurons. Changes in sciatic nerve NaV1.7 binding were not detected, indicating a pain traffic modulation likely happening due to a block of afferent signaling at the DRG level.",
     "summary": "초록 기반 요약",
@@ -2209,7 +2267,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42894639/",
     "abstract": "O-linked N-acetylglucosamine transferase (OGT) catalyzes the O-linked β-N-acetylglucosamine (O-GlcNAc) modification to proteins and has been implicated in a range of diseases, including amyotrophic lateral sclerosis (ALS), a rapidly progressive and currently incurable neurodegenerative disorder. However, the precise mechanisms by which OGT influences ALS pathogenesis remain largely unresolved. In this study, we used human-induced pluripotent stem cell (hiPSC)-derived spinal motor neurons (hiPSC-MNs), the principal cell type that undergoes degeneration in ALS, to systematically reveal that OGT-related mechanisms regulate RNA-binding protein (RBP) nucleocytoplasmic compartmentalization. Using a combination of antisense oligonucleotide (ASO) technology and small molecular pharmacology, we reveal two distinct regulatory mechanisms of RBP compartmentalization, including by intron-retaining transcript-mediated sequestration and O-linked N-acetylglucosaminylation (O-GlcNAcylation)-mediated nuclear transport. We finally examine the tractability of manipulating OGT activity in the ALS context but demonstrate that the OGT-related mechanisms governing RBP localization in healthy hiPSC-MNs are impaired in the context of ALS-causing VCP and TARDBP mutations.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 O-linked N-acetylglucosamine transferase (OGT)가 RNA-binding protein (RBP)의 세포 내 분포에 미치는 영향을 조사하고, ALS와 관련된 OGT의 작용을 이해하는데 초점을 맞추고 있습니다. 이는 ALS의 병리학적 과정에 대한 새로운 통찰을 제공할 수 있을 것입니다.",
+      "methods": "연구진은 인간 원래 pluripotent stem cell (hiPSC)-유도된 척추 운동신경세포 (hiPSC-MNs)를 사용하여 OGT와 RBP의 세포 내 분포를 연구했습니다. 이를 위해 ASO 기술과 화학적 약물학을 활용했습니다. 이 연구는 OGT가 RBP의 세포 내 분포를 어떻게 조절하는지에 대한 두 가지 주요 제어 메커니즘을 밝혔습니다.",
+      "quantitative_results": "이 연구에서는 OGT가 RBP의 세포 내 분포를 어떻게 조절하는지에 대한 두 가지 주요 제어 메커니즘을 밝혔습니다. 이들 중 하나는 intron-retaining transcript-mediated sequestration, 다른 하나는 O-linked N-acetylglucosaminylation (O-GlcNAcylation)-mediated nuclear transport입니다.",
+      "novelty": "이 연구는 ALS와 관련된 VCP 및 TARDBP 유전자의 변이가 OGT와 RBP의 세포 내 분포에 어떤 영향을 미치는지에 대한 새로운 통찰을 제공합니다. 이는 OGT가 ALS의 병리학적 과정에 어떻게 작용하는지에 대한 이해를 높일 것입니다.",
+      "limitations": "이 연구는 ALS와 관련된 VCP 및 TARDBP 유전자의 변이가 OGT와 RBP의 세포 내 분포에 어떤 영향을 미치는지에 대한 통찰을 제공합니다. 그러나 이 연구는 OGT가 ALS의 병리학적 과정에 어떻게 작용하는지에 대한 완전한 이해를 제공하지는 못합니다. 이 연구의 결과는 추가 연구가 필요합니다.",
+      "future_research": "후속 연구는 OGT가 ALS의 병리학적 과정에 어떻게 작용하는지에 대한 더 깊은 이해를 제공하기 위해 OGT와 ALS 관련 유전자의 변이가 RBP의 세포 내 분포에 어떤 영향을 미치는지에 대한 추가 연구가 필요합니다."
+    }
   },
   {
     "id": "doi:10.64898/2026.10.06.756934",
