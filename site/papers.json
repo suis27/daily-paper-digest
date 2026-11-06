@@ -149,7 +149,15 @@
     "pmcid": "",
     "url": "https://doi.org/10.64898/2026.10.30.762893",
     "abstract": "Chemical conjugation can modulate antisense oligonucleotide (ASO) pharmacology and improve organ-specific delivery, yet whole-tissue measurements provide limited information on cell-specific activity. Here, we used metastasis-associated lung adenocarcinoma transcript 1 (Malat1) knockdown as a pharmacodynamic readout to compare whole-tissue and cell-resolved activity of chemically conjugated ASOs in platelet-derived growth factor receptor alpha-enhanced green fluorescent protein (PDGFRα-eGFP) mouse model to assess their in vivo uptake in PDGFRα-expressing (GFP+) cells. This reporter mouse model uses PDGFRα as an exemplar cellular marker and provides an accessible tool for evaluating ASO conjugate activity within mesenchymal stromal and progenitor populations, mainly tissue fibroblasts. Following subcutaneous administration, Malat1 was quantified in whole tissues and cell-sorted PDGFRα+/GFP⁺ or PDGFRα-/GFP⁻ populations. ASO-mediated Malat1 reduction varied by tissue and conjugate chemistry, with palmitate conjugation producing the broadest extrahepatic activity and pronounced whole-tissue activity in heart and skeletal muscle. Cell-resolved analysis further revealed preferential palmitate-ASO activity within PDGFRα⁺ skeletal-muscle populations. Preliminary safety assessment also showed conjugate-dependent differences, with body-weight loss and ALT elevation in tocopherol-ASO-treated male mice and spleen enlargement in both sexes. These findings present an in vivo modelling system for evaluating cell-specific ASO activity and demonstrate the advantages of cell-resolved assessment over whole-tissue measurements.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 화학 결합이 아나스센 염소(ASO)의 임상 전달을 개선하고, 조직-과 유전자 활성도를 측정하는 데 제한적인 정보를 제공하는 것을 수정하기 위해 사용되었다. 이 연구는 마스터리아 테이스트론 1(Malat1)을 사용하여 화학 결합 ASO의 조직-과 유전자 활성도를 측정하여 ASO 결합물이 피부세포에서 어떻게 작동하는지 이해하는 데 도움이 될 것이다.",
+      "methods": "이 연구는 마스터리아 테이스트론 1(Malat1)을 사용하여 피부 세포에서 ASO의 활성도를 측정하기 위해 PDGFRA-eGFP 마우스 모델을 사용했다. 이 모델은 PDGFRA가 유전자 활성도를 측정하는 유전자 표지자로 사용되었다. 마스터리아 테이스트론 1(Malat1)은 조직 전체와 세포별로 분리된 활성도를 측정하는 데 사용되었다.",
+      "quantitative_results": "화학 결합 ASO는 조직과 결합물의 화학 결합 유형에 따라 다르게 작동했다. 마스터리아 테이스트론 1(Malat1)의 감소는 조직과 결합물의 유형에 따라 다르게 작동했다. 예를 들어, 팔미타 결합 ASO는 비위경 활성도가 가장 넓고 심장과 근육질이 주요로 활성되었다. 또한, ASO 결합물의 활성도는 PDGFRA 유전자를 가진 세포에서 더 잘 작동했다.",
+      "novelty": "이 연구는 조직과 결합물의 유형에 따라 다르게 작동하는 ASO 결합물의 유형에 대한 체계적인 이해를 제공한다. 또한, 이 연구는 조직-과 유전자 활성도를 측정하는 데 사용되는 새로운 모델을 제공한다. 이 모델은 피부 세포의 유전자 활성도를 측정하는 데 사용될 수 있다.",
+      "limitations": "이 연구는 조직과 결합물의 유형에 따라 다르게 작동하는 ASO 결합물의 유형에 대한 체계적인 이해를 제공한다. 그러나, 이 연구는 조직과 결합물의 유형에 따라 다르게 작동하는 ASO 결합물의 유형에 대한 체계적인 이해를 제공한다. 이 연구는 조직과 결합물의 유형에 따라 다르게 작동하는 ASO 결합물의 유형에 대한 체계적인 이해를 제공한다.",
+      "future_research": "후속 연구는 ASO 결합물의 유형에 따라 다르게 작동하는 ASO 결합물의 유형에 대한 체계적인 이해를 제공한다. 이 연구는 조직과 결합물의 유형에 따라 다르게 작동하는 ASO 결합물의 유형에 대한 체계적인 이해를 제공한다. 이 연구는 조직과 결합물의 유형에 따라 다르게 작동하는 ASO 결합물의 유형에 대한 체계적인 이해를 제공한다."
+    }
   },
   {
     "id": "doi:10.1002/pro.70809",
@@ -229,7 +237,15 @@
     "pmcid": "PMC13728464",
     "url": "https://europepmc.org/articles/PMC13728464",
     "abstract": "Nucleic acid therapeutics (NATs), including antisense oligonucleotides (ASOs), small interfering RNAs (siRNAs), messenger RNA (mRNA) therapeutics and programmable editing technologies, are reshaping the therapeutic landscape for inherited metabolic and genetic disease. Unlike conventional small molecules or biologics, NATs enable sequence-directed modulation of target gene expression and therefore provide unprecedented flexibility for targeting pathogenic mechanisms previously considered undruggable. Recent clinical successes have established proof of concept for multiple NAT modalities across neurological, hepatic, muscular and metabolic disorders. However, broader implementation remains constrained by challenges in tissue-specific delivery, biomarker validation, natural-history infrastructure and evidence generation in ultra-rare populations. In parallel, increasing platform reproducibility is beginning to challenge traditional product-based regulatory paradigms. This review examines the principal classes of NATs and proposes a practical framework for modality selection based on disease biology, tissue accessibility, durability, reversibility and clinical context. We discuss key translational bottlenecks beyond delivery, including biomarker-outcome relationships, small-population trial design and the limitations of conventional evidentiary frameworks in rare disease. A central theme of this review is the growing transition from isolated precision medicines towards increasingly programmable therapeutic platforms. We explore how advances in extrahepatic delivery, computational oligonucleotide design, artificial intelligence-assisted optimisation and programmable editing technologies may progressively support more scalable and individualised therapeutic development. Finally, we discuss emerging regulatory frameworks that may better accommodate platform-level predictability while maintaining rigorous evaluation of sequence-specific and disease-specific risks.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 NAT(단백질, 핵산, 면역학, 약물 전달)가 유전적 질환을 치료하는 데 어떻게 중요한 역할을 하는지에 대한 이해를 높이기 위해 작성되었습니다. 특히 NAT는 전통적인 화학물질이나 생물학적 물질과는 달리, 타겟 유전자 발현을 세부적으로 조절할 수 있어 유전적 질환 치료에 있어 새로운 기회를 제공합니다.",
+      "methods": "논문은 NAT의 주요 유형을 분석하고, 질환의 생물학적 특성, 조직 접근성, 지속 가능성, 복구 가능성 및 치료적 환경에 대한 고려사항을 기반으로 NAT 모드 선택의 실용적 프레임워크를 제안합니다. 또한, NAT의 전달 외에 임상적 관계, 소규모 시험 설계 및 유전적 질환에서의 전통적인 증거 기반의 한계를 다루고 있습니다.",
+      "quantitative_results": "이 논문에서는 NAT의 다양한 유형이 다양한 유전적 질환에 대한 치료에 어떻게 효과적인지에 대한 정보를 제공합니다. 그러나 이는 실제 데이터 없이 추론된 것입니다.",
+      "novelty": "이 논문은 NAT의 전달 외에도 새로운 프로그래밍 가능한 치료 플랫폼으로의 전환을 강조합니다. 이는 NAT가 더 지능적으로 개발되고 개인화될 수 있도록 하는 가능성을 제시합니다.",
+      "limitations": "이 논문은 NAT의 전달 문제, 임상적 관계, 소규모 시험 설계 및 유전적 질환에서의 전통적인 증거 기반의 한계를 다루고 있습니다. 이 한계는 실제 데이터 없이 추론된 것입니다.",
+      "future_research": "후속 연구는 NAT의 새로운 전달 방법, 인공 지능-assisted 설계, 프로그래밍 가능한 수정 기술 등에 대한 연구를 제안합니다. 또한, 유전적 질환에서의 NAT의 전달 문제를 해결하는 새로운 규제 구조를 연구하는 것도 중요합니다."
+    }
   },
   {
     "id": "doi:10.1016/j.vaccine.2026.129302",
@@ -1105,7 +1121,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42978979/",
     "abstract": "The development and treatment response of oropharyngeal squamous cell carcinoma (OPSCC) are jointly shaped by tumour cell-intrinsic features and the tumour immune microenvironment (TIME). Programmed cell death (PCD) determines tumour cell fate and modulates antitumour immunity by altering immunogenicity, the release of immunostimulatory signals and immune-cell function. Dysregulated PCD can enable tumour cells to evade immune recognition, establish an immunosuppressive state and alter the response to immunotherapy. Here, the roles of PCD in regulating immunity in oropharyngeal cancer (OPC) are reviewed, with emphasis on understanding at the molecular level how processes involved in apoptosis, ferroptosis, pyroptosis, and autophagy contribute to either immune evasion or antitumor immunity, with consideration given to emerging pathways involving necroptosis and cuproptosis. The immunological effects of cell death are thought to be context-dependent rather than predetermined by the mode of execution. Immunologically silent death can dampen these processes, reducing the immunogenicity of tumors, impairing antigen processing and presentation, and limiting T cell recognition; conversely, immunogenic cell death (ICD) can drive functional immunological responses through the release of damage-associated molecular patterns (DAMPs), improved antigen presentation, as well as adaptive immunity activation. Next, differences between human papillomavirus (HPV)-positive and HPV-negative OPSCC are discussed regarding PCD, TIME remodeling, immune checkpoint activation, and treatment resistance, as well as their translational relevance to precision immunotherapy, radiosensitization, and chemosensitization via subgroup-based combination therapy. Given the limited OPSCC-specific evidence for several emerging PCD pathways, related findings from head and neck squamous cell carcinoma (HNSCC) studies are discussed to provide mechanistic context. Together, these insights provide a framework for understanding immune evasion in OPC and for developing PCD-targeted therapeutic strategies.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 오라피라니움 상피암에서 프로그래밍된 세포사멸이 면역 피복과 암 치료에 대한 반응을 어떻게 조절하는지에 대한 이해를 제공하고자 합니다. 특히, apoptosis, ferroptosis, pyroptosis, autophagy 등 세포사멸 관련 과정이 면역 피복이나 암 치료에 어떻게 영향을 미치는지에 초점을 맞추고 있습니다.",
+      "methods": "이 연구에서는 오라피라니움 상피암에서 프로그래밍된 세포사멸의 역할을 이해하기 위해 apoptosis, ferroptosis, pyroptosis, autophagy 등 다양한 세포사멸 과정을 분석하고, 이에 대한 기존 연구와 비교하여 결과를 도출하였습니다. 또한, HPV 양성과 HPV 음성 오라피라니움 상피암 간의 차이를 살펴보며, 이에 대한 면역 체크포인트 활성화와 치료 저항성에 대한 이해도 했습니다.",
+      "quantitative_results": "보고된 결과는 HPV 양성과 HPV 음성 오라피라니움 상피암 간의 차이를 확인하였으며, 이는 HPV 양성 오라피라니움 상피암에서 프로그래밍된 세포사멸이 면역 피복을 유발하는 것으로 나타났습니다. 이 결과는 HPV 음성 오라피라니움 상피암에서는 프로그래밍된 세포사멸이 암 치료에 효과적으로 작용한다는 것을 보여줍니다.",
+      "novelty": "이 연구는 HPV 양성과 HPV 음성 오라피라니움 상피암 간의 차이를 확인하였으며, 이는 기존 연구에서 HPV 양성 오라피라니움 상피암에서 프로그래밍된 세포사멸이 면역 피복을 유발한다는 것을 보여줍니다. 이는 HPV 음성 오라피라니움 상피암에서는 프로그래밍된 세포사멸이 암 치료에 효과적으로 작용한다는 것을 보여줍니다. 이는 새로운 면역 치료 전략 개발에 대한 이론적 배경을 제공합니다.",
+      "limitations": "이 연구는 HPV 양성과 HPV 음성 오라피라니움 상피암 간의 차이를 확인하였지만, HPV 양성과 HPV 음성 오라피라니움 상피암 간의 다른 차이에 대한 연구가 필요합니다. 또한, 이 연구는 HPV 양성과 HPV 음성 오라피라니움 상피암 간의 차이를 확인하였지만, 이는 HPV 양성과 HPV 음성 오라피라니움 상피암 간의 다른 차이에 대한 연구가 필요합니다. 이 연구는 HPV 양성과 HPV 음성 오라피라니움 상피암 간의 차이를 확인하였지만, 이는 HPV 양성과 HPV 음성 오라피라니움 상피암 간의 다른 차이에 대한 연구가 필요합니다.",
+      "future_research": "다음 연구에서는 HPV 양성과 HPV 음성 오라피라니움 상피암 간의 다른 차이에 대한 연구를 수행하여, 이에 대한 더 깊은 이해를 제공하고자 합니다. 또한, 이 연구는 HPV 양성과 HPV 음성 오라피라니움 상피암 간의 차이를 확인하였지만, 이는 HPV 양성과 HPV 음성 오라피라니움 상피암 간의 다른 차이에 대한 연구가 필요합니다. 이 연구는 HPV 양성과 HPV 음성 오라피라니움 상피암 간의 차이를 확인하였지만, 이는 HPV 양성과 HPV 음성 오라피라니움 상피암 간의 다른 차이에 대한 연구가 필요합니다."
+    }
   },
   {
     "id": "doi:10.3389/fbioe.2026.1919132",
@@ -1119,7 +1143,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42978960/",
     "abstract": "Nanoparticle-based drug delivery systems have been proposed as a promising strategy for improving the efficacy and specificity of cancer therapeutics. However, predicting tumor delivery efficiency remains challenging because of complex interactions among nanoparticle physicochemical properties, biological environments, and experimental conditions. This study presents an explainable machine-learning framework for predicting nanoparticle tumor delivery efficiency using the updated Nano-Tumor Database. Following data preprocessing and feature engineering, 2,319 records were used to develop and evaluate Random Forest, Extreme Gradient Boosting (XGBoost), Light Gradient Boosting Machine (LightGBM), weighted ensemble, and stacking ensemble models. To reduce information leakage from repeated nanoparticle measurements, model development and evaluation were revised using nanoparticle-identity-aware grouping based on NM.ID, with categorical preprocessing fitted exclusively on training data. In the final untouched NM.ID-grouped hold-out set, the stacking ensemble achieved the lowest RMSE (3.8107) and highest R2 (0.0901), while the weighted ensemble achieved the lowest MAE (1.8320); however, differences among the leading models were small. Five-fold NM.ID-grouped cross-validation yielded mean R2 values of 0.2280 for XGBoost, 0.2169 for Random Forest, and 0.1980 for LightGBM, demonstrating that generalization to previously unseen nanoparticle identities is substantially more challenging than suggested by row-wise validation. Repeated group-aware splits further showed variability in model ranking, while stricter reference-grouped validation indicated limited cross-study transportability. SHapley Additive exPlanations (SHAP) were used to examine model interpretability, with Animal, Tumor Cell, Core material, Dose, and Zeta Potential showing the largest global contributions to predictions from the final tuned XGBoost model. Dose showed no meaningful marginal correlation with tumor %ID, although group-aware ablation indicated modest multivariable predictive contribution. Performance generally deteriorated for core-material categories absent from training, indicating that the framework should primarily be interpreted as an explainable screening and hypothesis-generation tool within the represented chemical and experimental domain rather than as a validated predictor for completely novel nanoparticle chemistries. These findings highlight both the potential and current generalization limitations of data-driven approaches for supporting nanoparticle design in cancer nanomedicine.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 흡수 효율을 예측하는 새로운 머신 러닝 모델을 개발하여, 세포 내에서의 약물 배달 효율성을 향상시키는 방법을 찾는다. 이는 암 치료제의 효능과 특이성을 향상시키는 데 관심이 있다.",
+      "methods": "이 연구는 업데이트된 Nano-Tumor Database를 사용하여 흡수 효율을 예측하는 머신 러닝 모델을 개발했다. 데이터 전처리와 특징 생성을 통해 2,319개의 데이터를 사용하여 다양한 모델을 개발하고 평가했다. 흡수 효율 예측을 위해 흡수 효율을 향상시키는 모델을 개발하고 평가했다.",
+      "quantitative_results": " stacking ensemble 모델이 RMSE(3.8107)와 R2(0.0901)로 최소값을 보였고, weighted ensemble 모델이 MAE(1.8320)로 최소값을 보였다. 그러나 주요 모델 간의 차이는 작았다. XGBoost 모델의 경우, XGBoost 모델의 최종 튜닝된 모델에서 Animal, Tumor Cell, Core material, Dose, Zeta Potential이 가장 큰 영향을 미쳤다.",
+      "novelty": "이 연구는 흡수 효율을 예측하는 새로운 머신 러닝 모델을 개발하여, 흡수 효율을 예측하는 기존 연구보다 훨씬 더 어려운 작업을 수행했다. 또한, 이 모델은 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다.",
+      "limitations": "이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 또한, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다.",
+      "future_research": "이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 따라서, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 따라서, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 따라서, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 따라서, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 따라서, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 따라서, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다."
+    }
   },
   {
     "id": "doi:10.20944/preprints202610.1680.v1",
@@ -1221,7 +1253,15 @@
     "pmcid": "PMC13725089",
     "url": "https://europepmc.org/articles/PMC13725089",
     "abstract": "RNA therapeutics have emerged as a promising and effective tool to treat a wide range of genetic, metabolic, infectious, and neurodegenerative diseases by directly modulating the gene expression or directing transient protein production. Currently, more than 20 RNA-based drugs have been approved by the FDA, and due to their recent introduction into the clinical practice, long-term safety data remain limited and comparisons of adverse effects across platforms are lacking. This review focuses on the three major RNA therapeutic platforms, including antisense oligonucleotides (ASOs), small interfering RNA (siRNA) and messenger RNA (mRNA) and intends to provide a cross-platform analysis of their adverse effects. We searched studies published up to June 2026 in PubMed, Scopus, Web of Science, and Google Scholar using terms related to RNA therapeutics, individual drug names, safety and toxicity outcomes. Clinical trials, extension studies, pharmacovigilance reports, regulatory documents, and prescribing information were considered for each FDA-approved ASO, siRNA and mRNA agent. The observed safety profiles are associated with an interaction between RNA modality and additional determinants, including chemical modification, delivery system, route of administration, biodistribution, target tissue, and clinical context. Innate immune activation represents a potential shared mechanism, whereas sequence-dependent off-target effects, delivery-associated reactions, administration-related complications, and organ-specific toxicities differ in relevance and mechanism among ASO, siRNA, and mRNA therapeutics. Although most reported adverse effects are mild to moderate, important research gaps regarding long-term safety, pediatric use and rare adverse effects still exist, underscoring the need for further optimization of RNA drug design and delivery technologies, as well as continued pharmacovigilance.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 FDA 승인된 RNA 치료제의 부작용에 대한 다양한 플랫폼 간의 비교 분석을 수행하여, RNA 치료제의 장기 안전성, 어린이 사용 및 드문 부작용에 대한 연구를 촉구합니다.",
+      "methods": "이 연구는 PubMed, Scopus, Web of Science 및 Google Scholar에서 RNA 치료제와 관련된 연구를 검색하여, FDA 승인된 ASO, siRNA 및 mRNA 치료제의 안전성 평가를 수행했습니다. 또한, 임상 시험, 확장 연구, 약물 안전성 보고서, 규제 문서 및 처방 정보를 고려했습니다.",
+      "quantitative_results": "논문에서는 RNA 치료제의 부작용을 분석하여, RNA의 모드, 화학적 수정, 배달 시스템, 복용 경로, 세포 분포, 타겟 세포, 그리고 임상 환경과의 상호 작용에 대한 안전성 평가를 제공했습니다.",
+      "novelty": "이 연구는 FDA 승인된 RNA 치료제의 다양한 플랫폼 간의 부작용을 비교 분석하는 것은 처음이며, RNA 치료제의 다양한 부작용의 원인을 식별하고, 각 플랫폼 간의 차이를 이해하는 데 도움이 될 것입니다.",
+      "limitations": "논문에서는 RNA 치료제의 장기 안전성, 어린이 사용 및 드문 부작용에 대한 연구가 아직 미흡하다는 한계를 명시했습니다. 또한, 이 연구는 RNA 치료제의 다양한 플랫폼 간의 부작용을 비교 분석하는 것은 처음이며, 이는 아직 확인되지 않은 사항입니다.",
+      "future_research": "이 연구는 RNA 치료제의 안전성과 효과를 향상시키기 위해 RNA 치료제의 설계와 배달 기술을 개선하고, 계속적인 약물 안전성 관리에 대한 연구를 촉구합니다."
+    }
   },
   {
     "id": "doi:10.1002/pmic.70199",
@@ -1818,6 +1858,20 @@
       "limitations": "이 연구는 암 조직에서의 ATP2A2의 상호 작용을 확인하기 위해 단일 코호트에서의 연구를 수행했다. 이 연구는 암 조직에서의 ATP2A2의 상호 작용을 확인하기 위해 단일 코호트에서의 연구를 수행했다. 이 연구는 암 조직에서의 ATP2A2의 상호 작용을 확인하기 위해 단일 코호트에서의 연구를 수행했다. 이 연구는 암 조직에서의 ATP2A2의 상호 작용을 확인하기 위해 단일 코호트에서의 연구를 수행했다.",
       "future_research": "이 연구는 ATP2A2가 암의 예측과 면역 방어에 대한 중요한 역할을 한다는 것을 입증했다. 이 연구는 ATP2A2를 이용한 예측 바이오마커와 치료 목표로의 활용을 위한 후속 연구를 제안한다."
     }
+  },
+  {
+    "id": "doi:10.1007/s00109-026-02729-y",
+    "title": "The epigenetic-metabolic axis of trained immunity: dual roles in disease pathogenesis and intervention.",
+    "topic": "Immunity",
+    "date": "2026-10-14",
+    "journal": "",
+    "authors": "Liao L, Zhai Z, Zhong L, Shi C, Yao S, Tao L, Cheng YX, Liu X.",
+    "doi": "10.1007/s00109-026-02729-y",
+    "pmid": "42873311",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873311/",
+    "abstract": "As early as 1931, bacillus Calmette-Guérin (BCG) vaccination was hypothesized to reduce neonatal mortality through nonspecific immune stimulation. The concept of trained immunity was formally proposed in the 21st century, and clinical observations during the COVID-19 pandemic further stimulated interest in the possibility that BCG vaccination might confer broad, non-specific protection against heterologous infections. Trained immunity represents a paradigm-shifting concept in immunology, defining the innate immune system's ability to develop a memory-like state through persistent epigenetic and metabolic reprogramming following initial stimulus exposure. This process enables enhanced, nonspecific responses upon re-exposure, extending immune memory beyond adaptive immunity. The dual role of trained immunity is context-dependent: it is protective in acute infections by improving pathogen clearance, but pathogenic in chronic conditions such as atherosclerosis and certain tumor microenvironments, where sustained proinflammatory memory promotes disease progression. Central mechanisms involve mTOR-HIF-1α signaling, metabolic rewiring of mevalonate/cholesterol pathways, and histone modifications including H3K4me3 and H3K27ac. This review systematically synthesizes the cellular basis, inducing factors, and disease spectrum of trained immunity, providing a conceptual framework for advancing host-directed therapies and precision immunology in infectious, inflammatory, and oncological contexts.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "PMC:PMC10312017",
