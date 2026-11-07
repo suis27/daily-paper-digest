@@ -148,7 +148,7 @@
     "pmid": "",
     "pmcid": "",
     "url": "https://doi.org/10.64898/2026.10.30.762893",
-    "abstract": "Chemical conjugation can modulate antisense oligonucleotide (ASO) pharmacology and improve organ-specific delivery, yet whole-tissue measurements provide limited information on cell-specific activity. Here, we used metastasis-associated lung adenocarcinoma transcript 1 (Malat1) knockdown as a pharmacodynamic readout to compare whole-tissue and cell-resolved activity of chemically conjugated ASOs in platelet-derived growth factor receptor alpha-enhanced green fluorescent protein (PDGFRα-eGFP) mouse model to assess their in vivo uptake in PDGFRα-expressing (GFP+) cells. This reporter mouse model uses PDGFRα as an exemplar cellular marker and provides an accessible tool for evaluating ASO conjugate activity within mesenchymal stromal and progenitor populations, mainly tissue fibroblasts. Following subcutaneous administration, Malat1 was quantified in whole tissues and cell-sorted PDGFRα+/GFP⁺ or PDGFRα-/GFP⁻ populations. ASO-mediated Malat1 reduction varied by tissue and conjugate chemistry, with palmitate conjugation producing the broadest extrahepatic activity and pronounced whole-tissue activity in heart and skeletal muscle. Cell-resolved analysis further revealed preferential palmitate-ASO activity within PDGFRα⁺ skeletal-muscle populations. Preliminary safety assessment also showed conjugate-dependent differences, with body-weight loss and ALT elevation in tocopherol-ASO-treated male mice and spleen enlargement in both sexes. These findings present an in vivo modelling system for evaluating cell-specific ASO activity and demonstrate the advantages of cell-resolved assessment over whole-tissue measurements.",
+    "abstract": "ABSTRACT Chemical conjugation can modulate antisense oligonucleotide (ASO) pharmacology and improve organ-specific delivery, yet whole-tissue measurements provide limited information on cell-specific activity. Here, we used metastasis-associated lung adenocarcinoma transcript 1 ( Malat1 ) knockdown as a pharmacodynamic readout to compare whole-tissue and cell-resolved activity of chemically conjugated ASOs in platelet-derived growth factor receptor alpha-enhanced green fluorescent protein (PDGFRα-eGFP) mouse model to assess their in vivo uptake in PDGFRα-expressing (GFP + ) cells. This reporter mouse model uses PDGFRα as an exemplar cellular marker and provides an accessible tool for evaluating ASO conjugate activity within mesenchymal stromal and progenitor populations, mainly tissue fibroblasts. Following subcutaneous administration, Malat1 was quantified in whole tissues and cell-sorted PDGFRα + /GFP⁺ or PDGFRα - /GFP⁻ populations. ASO-mediated Malat1 reduction varied by tissue and conjugate chemistry, with palmitate conjugation producing the broadest extrahepatic activity and pronounced whole-tissue activity in heart and skeletal muscle. Cell-resolved analysis further revealed preferential palmitate-ASO activity within PDGFRα⁺ skeletal-muscle populations. Preliminary safety assessment also showed conjugate-dependent differences, with body-weight loss and ALT elevation in tocopherol-ASO-treated male mice and spleen enlargement in both sexes. These findings present an in vivo modelling system for evaluating cell-specific ASO activity and demonstrate the advantages of cell-resolved assessment over whole-tissue measurements.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 연구는 화학 결합이 아나스센 염소(ASO)의 임상 전달을 개선하고, 조직-과 유전자 활성도를 측정하는 데 제한적인 정보를 제공하는 것을 수정하기 위해 사용되었다. 이 연구는 마스터리아 테이스트론 1(Malat1)을 사용하여 화학 결합 ASO의 조직-과 유전자 활성도를 측정하여 ASO 결합물이 피부세포에서 어떻게 작동하는지 이해하는 데 도움이 될 것이다.",
@@ -245,6 +245,28 @@
       "novelty": "이 논문은 NAT의 전달 외에도 새로운 프로그래밍 가능한 치료 플랫폼으로의 전환을 강조합니다. 이는 NAT가 더 지능적으로 개발되고 개인화될 수 있도록 하는 가능성을 제시합니다.",
       "limitations": "이 논문은 NAT의 전달 문제, 임상적 관계, 소규모 시험 설계 및 유전적 질환에서의 전통적인 증거 기반의 한계를 다루고 있습니다. 이 한계는 실제 데이터 없이 추론된 것입니다.",
       "future_research": "후속 연구는 NAT의 새로운 전달 방법, 인공 지능-assisted 설계, 프로그래밍 가능한 수정 기술 등에 대한 연구를 제안합니다. 또한, 유전적 질환에서의 NAT의 전달 문제를 해결하는 새로운 규제 구조를 연구하는 것도 중요합니다."
+    }
+  },
+  {
+    "id": "doi:10.1021/acsami.6c16995",
+    "title": "Dual-State Tumor-Activated RNA Delivery for Tumor-Selective and Precision Therapy.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-01",
+    "journal": "",
+    "authors": "Song Y, Jiang T, Shen X, Chintrakulchai W, Yanagida K, Iida K, Kobayashi M, Muguruma K, Honda Y, Guo H, Takemoto H, Miura Y, Nishiyama N.",
+    "doi": "10.1021/acsami.6c16995",
+    "pmid": "42905929",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42905929/",
+    "abstract": "RNA therapeutics hold transformative potential for precision oncology; however, their systemic application remains constrained by a fundamental tradeoff between prolonged circulation stability and efficient intracellular activation. Conventional polyethylene glycol (PEG)-based carriers provide antifouling protection but lack tumor responsiveness, resulting in limited tumor accumulation and suboptimal gene expression. In this study, we developed a nanosystem, the dual-state tumor-activated RNA platform (D-STAR), which enables a dynamic transition from a stealth circulatory state to an activated transfection state through stepwise environmental alternation by recognizing a narrow pH window. At physiological pH, D-STAR maintains a negative surface potential to minimize nonspecific interactions and extend its blood circulation. Within the tumor microenvironment and endo-/lysosomal compartments, progressive protonation induces charge reversal and strengthens cationic activation, thereby enhancing tumor retention, cellular uptake, and cytoplasmic mRNA release. The systemic administration of D-STAR enabled tumor-selective mRNA expression with limited off-target organ distribution and markedly enhanced intratumoral reporter activity compared with PEG-based controls. The therapeutic delivery of human neutrophil elastase mRNA suppressed tumor growth and prolonged survival in a CT26 syngeneic model without systemic toxicity. Collectively, D-STAR establishes a dual-state adaptive RNA delivery framework that decouples systemic stability from activation potency, thereby offering a generalizable strategy for context-responsive precision RNA therapeutics.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "RNA 치료제는 정밀 암 치료에 혁명적인 잠재력을 가지고 있지만, 체내에서의 효율적인 활성화와 체내에서의 장기 지속성이 서로 상충하는 문제를 가지고 있습니다. 이 연구에서는 RNA 치료제의 이러한 문제를 해결하기 위해, 유전자의 활성화를 유도하는 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다.",
+      "methods": "연구자들은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다.",
+      "quantitative_results": "연구자들은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다.",
+      "novelty": "기존 연구 대비 차별점은 유전자의 활성화를 유도하는 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발한 것입니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다.",
+      "limitations": "저자가 명시한 한계는 유전자의 활성화를 유도하는 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발한 것입니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다.",
+      "future_research": "후속 연구 제안은 유전자의 활성화를 유도하는 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발한 것입니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다."
     }
   },
   {
@@ -1871,7 +1893,37 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42873311/",
     "abstract": "As early as 1931, bacillus Calmette-Guérin (BCG) vaccination was hypothesized to reduce neonatal mortality through nonspecific immune stimulation. The concept of trained immunity was formally proposed in the 21st century, and clinical observations during the COVID-19 pandemic further stimulated interest in the possibility that BCG vaccination might confer broad, non-specific protection against heterologous infections. Trained immunity represents a paradigm-shifting concept in immunology, defining the innate immune system's ability to develop a memory-like state through persistent epigenetic and metabolic reprogramming following initial stimulus exposure. This process enables enhanced, nonspecific responses upon re-exposure, extending immune memory beyond adaptive immunity. The dual role of trained immunity is context-dependent: it is protective in acute infections by improving pathogen clearance, but pathogenic in chronic conditions such as atherosclerosis and certain tumor microenvironments, where sustained proinflammatory memory promotes disease progression. Central mechanisms involve mTOR-HIF-1α signaling, metabolic rewiring of mevalonate/cholesterol pathways, and histone modifications including H3K4me3 and H3K27ac. This review systematically synthesizes the cellular basis, inducing factors, and disease spectrum of trained immunity, providing a conceptual framework for advancing host-directed therapies and precision immunology in infectious, inflammatory, and oncological contexts.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 트레이닝된 면역학의 epigenetic-metabolic 축에 대한 개념을 설명하고, 그 축이 감염, 염증, 암 등 다양한 질환의 발병과 치료에 어떻게 작용하는지에 대한 이해를 제공합니다. 이는 감염성 질환, 염증성 질환 및 암 환경에서의 세포 기반, 유전자 조작 및 질환 범위에 대한 개념적 기반을 제공합니다.",
+      "methods": "논문에서는 mTOR-HIF-1α 신호 경로, mevalonate/cholesterol 통로의 메타이로이징 재설정, histone modification 등 다양한 메커니즘을 설명하며, 이는 감염, 염증, 암 환경에서의 트레이닝된 면역의 역할을 이해하는데 도움이 됩니다. 이는 BCG 백신의 효과를 이해하는데 도움이 됩니다.",
+      "quantitative_results": "논문에서는 BCG 백신이 heterologous 감염에 대한 보편적, 비특이적인 보호를 제공할 수 있는 가능성을 제시하며, 이는 감염, 염증 및 암 환경에서의 트레이닝된 면역의 역할을 이해하는데 도움이 됩니다.",
+      "novelty": "이 논문은 epigenetic-metabolic 축의 역할을 이해하는데 기존 연구보다 더 깊이 다루고 있습니다. 이는 감염, 염증 및 암 환경에서의 트레이닝된 면역의 역할을 이해하는데 도움이 됩니다.",
+      "limitations": "논문에서는 epigenetic-metabolic 축의 역할에 대한 이해를 제공하며, 이는 감염, 염증 및 암 환경에서의 트레이닝된 면역의 역할을 이해하는데 도움이 됩니다. 이는 BCG 백신의 효과를 이해하는데 도움이 됩니다.",
+      "future_research": "후속 연구는 감염성 질환, 염증성 질환 및 암 환경에서의 epigenetic-metabolic 축의 역할을 더 깊이 이해하는데 중점을 둘 수 있습니다. 이는 감염성 질환, 염증성 질환 및 암 환경에서의 세포 기반, 유전자 조작 및 질환 범위에 대한 개념적 기반을 제공하는데 도움이 될 것입니다."
+    }
+  },
+  {
+    "id": "doi:10.3389/fimmu.2026.1902856",
+    "title": "Immune cell-derived exosomes in the tumor microenvironment: mechanisms of immune evasion and emerging therapeutic strategies in cancer immunotherapy.",
+    "topic": "Immunity",
+    "date": "2026-10-14",
+    "journal": "",
+    "authors": "Mir R, Ullah MF, Moawadh MS, Altemani FH, Barnawi J, Algehainy NA, Jalal MM, Altayar MA, Almotairi RM, Tayeb FJ, Bedaiwi RI, Almasoudi KS, Albalawi IA, Awaji AA.",
+    "doi": "10.3389/fimmu.2026.1902856",
+    "pmid": "42953558",
+    "pmcid": "PMC13714716",
+    "url": "https://europepmc.org/articles/PMC13714716",
+    "abstract": "Tumor-released exosomes have emerged from the shadows of \"cellular dust\" to be recognized as pivotal mediators of intercellular communication within the tumor microenvironment (TME). These nano-sized vesicles (30-150 nm) carry a complex cargo of proteins, lipids, and nucleic acids that profoundly reshape anti-tumor immunity. This review comprehensively examines the dualistic nature of immune cell-derived exosomes in cancer progression, with particular focus on exosomes originating from B lymphoma cells, T lymphocytes, natural killer (NK) cells, and myeloid-derived suppressor cell lineages including tumor-associated macrophages (TAMs), mast cells, and neutrophils. We delineate the mechanistic pathways through which these exosomes disrupt the cancer immunity cycle suppressing CD8+ T cell activation via PD-L1/PD-1 engagement, inducing lymphocyte apoptosis through FasL and TRAIL, promoting regulatory T cell expansion, polarizing macrophages toward the M2 immunosuppressive phenotype, and establishing pre-metastatic niches through MMP-mediated extracellular matrix remodeling. The molecular machinery governing exosome biogenesis including ESCRT-dependent and ceramide-mediated pathways is critically reviewed, alongside the selective packaging mechanisms that concentrate immunosuppressive miRNAs (miR-155, miR-21, miR-23a, miR-223) into exosomal compartments. Importantly, we highlight the emerging therapeutic premises targeting these vesicles: pharmacological inhibition of exosome secretion (GW4869, Rab27a knockdown), checkpoint blockade reversing exosomal PD-L1-mediated T cell exhaustion, and the engineering of immunostimulatory exosomes as cell-free cancer vaccines establishing exosomes not merely as biomarkers of disease progression but as actionable therapeutic targets. The clinical translation of exosome-based diagnostics including liquid biopsy platforms detecting circulating tumor-derived exosomes and therapeutics that include engineered exosomes delivering immunomodulatory cargo represents a frontier in precision cancer immunotherapy.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암 치료에서 중요한 역할을 하는 세포 분비물(exosomes)에 대한 연구를 중심으로, 세포 분비물이 암 세포와 주변 환경 사이의 상호작용을 어떻게 통제하는지에 대해 자세히 분석하고 있습니다. 특히, 세포 분비물이 암 세포의 면역 반응을 어떻게 방해하고, 이를 어떻게 치료할 수 있는지에 대한 새로운 전략을 제시합니다.",
+      "methods": "논문에서는 세포 분비물이 암 세포와 주변 환경 사이의 상호작용을 어떻게 통제하는지에 대한 메커니즘을 상세히 분석하고 있습니다. 이는 세포 분비물이 암 세포의 면역 반응을 어떻게 방해하고, 이를 어떻게 치료할 수 있는지에 대한 새로운 전략을 제시합니다.",
+      "quantitative_results": "논문에서는 세포 분비물이 암 세포의 면역 반응을 방해하는 메커니즘을 상세히 설명하고 있습니다. 이는 세포 분비물이 암 세포의 면역 반응을 방해하는 메커니즘을 이해하고 이를 이용하여 암 치료를 개선하는 데 도움이 될 것입니다.",
+      "novelty": "이 논문은 세포 분비물이 암 세포의 면역 반응을 방해하는 메커니즘을 이해하고 이를 이용하여 암 치료를 개선하는 데 도움이 될 수 있는 새로운 전략을 제시합니다. 이는 기존 연구 대비 차별점입니다.",
+      "limitations": "논문에서는 세포 분비물이 암 세포의 면역 반응을 방해하는 메커니즘을 이해하고 이를 이용하여 암 치료를 개선하는 데 도움이 될 수 있는 새로운 전략을 제시합니다. 그러나 이 논문에서는 세포 분비물이 암 세포의 면역 반응을 방해하는 메커니즘을 이해하고 이를 이용하여 암 치료를 개선하는 데 도움이 될 수 있는 새로운 전략을 제시합니다. 이는 기존 연구 대비 차별점입니다.",
+      "future_research": "이 논문은 세포 분비물이 암 세포의 면역 반응을 방해하는 메커니즘을 이해하고 이를 이용하여 암 치료를 개선하는 데 도움이 될 수 있는 새로운 전략을 제시합니다. 이는 후속 연구를 제안합니다."
+    }
   },
   {
     "id": "PMC:PMC10312017",
@@ -1964,6 +2016,28 @@
     "url": "https://europepmc.org/articles/PMC13710392",
     "abstract": "",
     "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.actbio.2026.10.019",
+    "title": "Tumor-triggered DNA fragmentation with a nucleus-targeted nanodrug for precise cGAS-STING activation and enhanced cancer immunotherapy.",
+    "topic": "Immunity",
+    "date": "2026-10-13",
+    "journal": "",
+    "authors": "Shen Q, He M, Cao Y, Xu T, Wu G, Wang Z, Xu S, Huang Z, Li R, Xu X.",
+    "doi": "10.1016/j.actbio.2026.10.019",
+    "pmid": "42869205",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42869205/",
+    "abstract": "Activation of the cGAS-STING pathway has emerged as a promising strategy in cancer immunotherapy due to the ability to trigger robust innate and adaptive immune response within the immunosuppressive tumor microenvironment. However, its clinical translation is restricted by multiple intractable challenges, particularly the severe inflammatory side effects caused by non-specific cGAS-STING activation. We herein developed a nucleus-targeted nanodrug with a unique characteristic of tumor-triggered DNA fragmentation and precise cGAS-STING activation. This nanodrug is engineered by encapsulating a protein (DNA fragmentation factor, DFF) and an agonist (procaspase-activating compound 1, PAC-1) into a nucleus-targeted nanoplatform. Using breast cancer (BCa) tumor models, we demonstrated this nanodrug could be efficiently internalized by BCa cells to achieve the cytosolic delivery of PAC-1 and nuclear delivery of DFF. Upon the activation of over-expressed procaspase-3 in BCa cells by PAC-1, the DNA degradation ability of DFF could be liberated, which could dramatically improve the cytosolic release of DNA fragments and thus enhance interferon-β (IFN-β) expression and secretion by activating the cGAS-STING pathway in BCa cells, ultimately inducing a significant inhibition of BCa tumor growth by enhancing the maturation of dendritic cells (DCs) and antitumor immunity of CD8 + T cells. STATEMENT OF SIGNIFICANCE: Activation of the cGAS-STING pathway has demonstrated the ability to reshape the immunosuppressive TME by triggering both the innate and adaptive immunity, but its clinical translation is restricted due to the severe inflammatory side effects caused by non-specific activation. We herein propose a concept of tumor-triggered cytosolic release of DNA fragments for precise cGAS-STING activation and enhanced cancer immunotherapy. To this end, a nanodrug is engineered by encapsulating DFF and PAC-1 into a nucleus-targeted nanoplatform. In this nanodrug, PAC-1 could induce the apoptosis of BCa cells by activating their over-expressed procaspase-3 into caspase-3, which could further trigger the DNA degradation ability of DFF to improve the cytosolic release of DNA fragments for precise cGAS-STING activation, thereby promoting IFN-β secretion from BCa cells to enhance the maturation of DCs and antitumor immunity of CD8 + T cells. The concept of tumor-triggered cytosolic release of DNA fragments demonstrated herein provides a potential immunotherapeutic strategy for tumor therapy, particularly the immune cold tumors with low response to immunotherapy.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 암 치료에서 cGAS-STING 경로를 활성화하여 암세포를 효과적으로 치료하고, 특히 암세포가 암세포 환경에서 암세포를 효과적으로 치료하는 데 반응하지 않는 '눈먼' 암세포를 치료하는 데 초점을 맞추고 있습니다. 이를 위해, 암세포가 DNA 분해 능력을 활성화하도록 유도하는 새로운 방법을 개발했습니다.",
+      "methods": "이 연구에서는 백상 암 (BCa) 세포 모델을 사용하여 DNA 분해 효소 (DFF)와 procaspase-활성화 복합체 1 (PAC-1)을 포함하는 유명한 DNA 분해 유도 플랫폼을 BCa 세포에 내포시킨 새로운 난소약을 개발했습니다. 이 난소약은 BCa 세포를 내포하고, PAC-1이 BCa 세포의 과다 생성된 procaspase-3를 활성화하여 DNA 분해 능력을 활성화하고, DFF가 DNA 분해를 통해 세포내 분비를 증가시키는 것을 가능하게 합니다.",
+      "quantitative_results": "BCa 세포가 PAC-1으로 인해 procaspase-3를 과다 생성하게 되면, DFF가 DNA 분해 능력을 활성화하여 세포내 분비를 증가시키는 것을 가능하게 합니다. 이로 인해, BCa 세포에서 인터페론-β (IFN-β)의 분비가 증가하고, DCs의 발달이 증가하여 CD8 + T 세포의 항암 면역이 강화됩니다.",
+      "novelty": "이 연구는 암세포가 암세포 환경에서 암세포를 효과적으로 치료하는 데 반응하지 않는 '눈먼' 암세포를 치료하는 데 초점을 맞춘 새로운 방법을 제시합니다. 이는 암세포가 암세포 환경에서 암세포를 효과적으로 치료하는 데 반응하지 않는 암세포를 치료하는 데 있어 중요한 발전입니다.",
+      "limitations": "이 연구는 암세포가 암세포 환경에서 암세포를 효과적으로 치료하는 데 반응하지 않는 '눈먼' 암세포를 치료하는 데 초점을 맞춘 새로운 방법을 제시합니다. 그러나 이 연구는 암세포가 암세포 환경에서 암세포를 효과적으로 치료하는 데 반응하지 않는 '눈먼' 암세포를 치료하는 데 있어 아직 확인되지 않은 사항이 있습니다.",
+      "future_research": "이 연구는 후속 연구를 통해 암세포가 암세포 환경에서 암세포를 효과적으로 치료하는 데 반응하지 않는 '눈먼' 암세포를 치료하는 데 초점을 맞춘 새로운 방법을 확인하고 개선할 수 있습니다."
+    }
   },
   {
     "id": "doi:10.1016/j.xcrm.2026.103111",
@@ -2679,7 +2753,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42758143/",
     "abstract": "Repairing critical-sized bone defects is still difficult in clinical practice. Current strategies increasingly rely on bone tissue engineering to reconstruct defect sites while reducing donor-site injury associated with autografts and immunological concerns related to allografts. Parathyroid hormone (PTH) and parathyroid hormone-related protein (PTHrP) have been acknowledged for their ability to promote skeletal repair and bone production. However, systemic administration may result in limited drug accumulation within the defect area and may also cause unwanted systemic effects. In situ drug delivery is an effective way to help bone regeneration. In addition to growth factors, physical stimuli, especially mild photothermal therapy (PTT), have emerged as outstanding strategies to promote tissue regeneration. Meanwhile, drug release can be triggered by mild PTT. As a result, abaloparatide (ABL)-encapsulated poly(lactic- co -glycolic acid) (PLGA) nanoparticles were prepared. The nanoparticles were then incorporated into hydrogels for local delivery. GO-BPEI endowed the hydrogel with mild photothermal responsiveness and heat-triggered drug-release capability. In the cranial bone defect model, the synergistic effect of ABL and mild PTT promoted neovascularization and bone regeneration, ultimately achieving significant bone repair. Overall, the micro/nanoparticle hybrid hydrogel platform with localized, controlled release of ABL provides a potentially effective new method for repairing bone defects.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "본 연구는 크라운 뼈 결손 모델에서 아바로파티드(Abaloparatide)를 포함한 플라스틱-코-글리콜이산(poly(lactic-co-glycolic acid, PLGA) 입자와 수소겐을 조합한 플랫폼을 개발하여 뼈 재생을 촉진하는 방법을 찾기 위함이다. 이 플랫폼은 뼈 결손 부위에 압도적으로 작용하는 편광열 투과성(stimuli)과 약한 편광열 투과성(pTT)을 활용하여 아바로파티드를 안정적으로 분비할 수 있다. 이는 뼈 재생을 촉진하고, 뼈 결손을 효과적으로 치료하는 새로운 방법을 제공할 것으로 기대된다.",
+      "methods": "본 연구에서는 아바로파티드를 포함한 PLGA 입자를 수소겐에 포함시켜 안정적으로 분비할 수 있는 플랫폼을 개발하였다. 이를 위해 아바로파티드를 포함한 입자와 수소겐을 조합하여 새로운 플랫폼을 제작하였으며, 이를 통해 아바로파티드의 분비를 조절할 수 있는 방법을 찾았다. 이 연구에서는 아바로파티드를 포함한 입자와 수소겐을 조합하여 새로운 플랫폼을 개발하였으며, 이를 통해 아바로파티드의 분비를 조절할 수 있는 방법을 찾았다.",
+      "quantitative_results": "보고된 결과는 수치로 제공되지 않았으며, 실험 조건과 결과에 대한 자세한 정보는 제공되지 않았다.",
+      "novelty": "기존 연구 대비 차별점은 아바로파티드를 포함한 입자와 수소겐을 조합하여 새로운 플랫폼을 개발하였다는 점이다. 이 플랫폼은 뼈 결손 부위에 압도적으로 작용하는 편광열 투과성(stimuli)과 약한 편광열 투과성(pTT)을 활용하여 아바로파티드를 안정적으로 분비할 수 있다.",
+      "limitations": "저자가 명시한 한계는 실험 조건과 결과에 대한 자세한 정보가 제공되지 않았다. 이로 인해, 이 연구의 한계와 확인할 수 없는 정보는 명시되지 않았다.",
+      "future_research": "후속 연구 제안은 아바로파티드를 포함한 입자와 수소겐을 조합하여 새로운 플랫폼을 개발하고, 이를 통해 아바로파티드의 분비를 조절할 수 있는 방법을 찾는 연구를 제안한다."
+    }
   },
   {
     "id": "doi:10.1016/j.mtbio.2026.103737",
