@@ -1286,6 +1286,34 @@
     }
   },
   {
+    "id": "PMC:PMC13669878",
+    "title": "Exploring the immune enhancement effect of radiotherapy combined with NK cells on non-small cell lung cancer based on proteomics technology",
+    "topic": "Protein",
+    "date": "2026-10-19",
+    "journal": "",
+    "authors": "Chang C, Youming T, Ying L, Ningning L, Chunhui G, Dekai W, Mei L, Qiyuan W, Gechen L, Fasheng W, Jibing C.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13669878",
+    "url": "https://europepmc.org/articles/PMC13669878",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13668749",
+    "title": "Cross-dataset transcriptomics–proteomics analysis identifies Tlr2, Anxa5, and Grin2a as candidate mouse-brain signatures associated with chronic cerebral hypoperfusion",
+    "topic": "Protein",
+    "date": "2026-10-19",
+    "journal": "",
+    "authors": "Fan X, Zhong M, Liu H, Tao H, Li Y, Wu X, Li Y, Li B, Yu N.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13668749",
+    "url": "https://europepmc.org/articles/PMC13668749",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.1002/pmic.70199",
     "title": "Meet the Editorial Team. An Interview With Garry Corthals, Editor-in-Chief, Proteomics and Proteomics Clinical Applications, University of Amsterdam, Amsterdam, Netherlands.",
     "topic": "Protein",
@@ -1736,6 +1764,28 @@
     }
   },
   {
+    "id": "doi:10.1158/0008-5472.can-26-4373",
+    "title": "Antiviral T cells doing double-duty to fight cancer.",
+    "topic": "Immunity",
+    "date": "2026-10-15",
+    "journal": "",
+    "authors": "Hirsh NH, Brody JD.",
+    "doi": "10.1158/0008-5472.can-26-4373",
+    "pmid": "42879662",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42879662/",
+    "abstract": "The exquisite antigen specificity of T cells is one foundation of modern cancer immunotherapy. The therapeutic efficacy of checkpoint blockade, cancer vaccines, and engineered T-cell therapies, all appear to depend on T cells capable of recognizing specific antigens displayed by tumor cells. In a recent issue of Nature Immunology, Smith and colleagues challenge this paradigm by demonstrating that local activation of virus-specific memory T cells can eliminate tumors without direct tumor-cell recognition. Instead, activated T cells initiate a multicellular inflammatory response involving IFNγ, TNF, nitric oxide and recruited myeloid cells that collectively induce tumor-cell death. These findings separate the antigen specificity required for T-cell activation from that required for tumor killing and expand the role of T cells from direct cytotoxic effectors to organizers of a broader antitumor response. Together, these findings broaden the potential scope of T-cell-mediated antitumor immunity beyond the constraints of direct tumor-antigen recognition.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 T세포의 특이적 항원 인식이 암 치료에서 필수적이라는 전통적인 이론을 허설화하고, T세포가 암을 치료하는 데 필요한 항원 인식과 암을 파괴하는 데 필요한 항원 인식이 별개라는 새로운 이론을 제시합니다.",
+      "methods": "Smith과 동료들은 Nature Immunology에 게재된 연구에서, 암세포를 직접 인식하지 않고도 암을 파괴하는 방식으로 T세포의 활성화를 증명했습니다. 이들은 활성화된 T세포가 IFNγ, TNF, NO, 그리고 모 interleukin-12를 포함한 면역세포를 유도하여 암세포를 파괴하는 방식을 설명했습니다.",
+      "quantitative_results": "이 연구는 T세포의 특이적 항원 인식이 암 치료에서 필수적이라는 전통적인 이론을 허설화하고, T세포가 암을 치료하는 데 필요한 항원 인식과 암을 파괴하는 데 필요한 항원 인식이 별개라는 새로운 이론을 제시했습니다.",
+      "novelty": "이 연구는 T세포가 암을 치료하는 데 필요한 항원 인식과 암을 파괴하는 데 필요한 항원 인식이 별개라는 새로운 이론을 제시하며, 이는 암 치료의 새로운 접근 방식을 제시합니다.",
+      "limitations": "Smith과 동료들은 이 연구에서 활성화된 T세포가 암세포를 파괴하는 방식을 설명했습니다. 그러나 이 연구는 암세포를 직접 인식하지 않고도 암을 파괴하는 방식을 설명하기 때문에, 이 연구의 한계는 암세포를 직접 인식하는 T세포의 존재 여부를 확인할 수 없다는 것입니다.",
+      "future_research": "이 연구는 T세포가 암을 치료하는 데 필요한 항원 인식과 암을 파괴하는 데 필요한 항원 인식이 별개라는 새로운 이론을 제시하여, 이는 후속 연구에서 이 이론을 검증하고, 암 치료의 새로운 접근 방식을 개발하는 데 도움이 될 것입니다."
+    }
+  },
+  {
     "id": "doi:10.64898/2026.10.12.757977",
     "title": "Generative design of functional disordered regions in a developmental transcription factor",
     "topic": "Protein",
@@ -1923,6 +1973,28 @@
       "novelty": "이 논문은 세포 분비물이 암 세포의 면역 반응을 방해하는 메커니즘을 이해하고 이를 이용하여 암 치료를 개선하는 데 도움이 될 수 있는 새로운 전략을 제시합니다. 이는 기존 연구 대비 차별점입니다.",
       "limitations": "논문에서는 세포 분비물이 암 세포의 면역 반응을 방해하는 메커니즘을 이해하고 이를 이용하여 암 치료를 개선하는 데 도움이 될 수 있는 새로운 전략을 제시합니다. 그러나 이 논문에서는 세포 분비물이 암 세포의 면역 반응을 방해하는 메커니즘을 이해하고 이를 이용하여 암 치료를 개선하는 데 도움이 될 수 있는 새로운 전략을 제시합니다. 이는 기존 연구 대비 차별점입니다.",
       "future_research": "이 논문은 세포 분비물이 암 세포의 면역 반응을 방해하는 메커니즘을 이해하고 이를 이용하여 암 치료를 개선하는 데 도움이 될 수 있는 새로운 전략을 제시합니다. 이는 후속 연구를 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.1007/s10048-026-00951-x",
+    "title": "ATP1A3-related neurological disorders: updated insights into clinical heterogeneity, molecular mechanisms and precision therapeutics.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-14",
+    "journal": "",
+    "authors": "Yin J, Hu S, Fan Z, Liu X, Ginowree NBN, Min X, Wu X, Liang S, Zhao Q, Zhang G.",
+    "doi": "10.1007/s10048-026-00951-x",
+    "pmid": "42873298",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42873298/",
+    "abstract": "ATP1A3-related neurological disorders comprise a rapidly expanding spectrum of rare neurogenetic diseases characterized by remarkable clinical heterogeneity and complex genotype-phenotype relationships. Since the publication of previous comprehensive reviews, the identification of novel ATP1A3-associated phenotypes, refinement of genotype-phenotype correlations, and advances in molecular pathogenesis and precision therapeutic strategies have substantially expanded current understanding of these disorders, highlighting the need for an updated synthesis. This narrative review summarizes recent advances in the clinical spectrum of ATP1A3-related disorders and discusses current insights into genotype-phenotype correlations, molecular mechanisms, and disease pathogenesis. Particular emphasis is placed on the molecular consequences of ATP1A3 dysfunction, including impaired Na⁺/K⁺-ATPase activity, disrupted neuronal excitability, altered ion homeostasis, and downstream cellular responses. We further review current symptomatic management and emerging disease-modifying therapeutic strategies, including antisense oligonucleotide therapy, viral vector-mediated gene delivery, genome editing technologies, and other precision medicine approaches. Current challenges and future research priorities are also discussed. By integrating recent clinical and experimental evidence, this review provides an updated perspective on ATP1A3-related disorders and aims to facilitate improved disease recognition, mechanistic understanding, and the development of targeted therapeutic strategies.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "ATP1A3 관련 신경학적 질환의 다양성과 복잡성에 대한 이해를 향상시키고, 새로운 치료 전략을 개발하기 위한 업데이트된 시각을 제공합니다.",
+      "methods": "신경학적 질환의 다양성과 복잡성을 이해하기 위해, 최근의 임상 및 임상 시험 결과를 분석하고, 유전학적 메커니즘과 질환 발달에 대한 이해를 강화하기 위한 기존 연구의 업데이트된 시각을 제공합니다.",
+      "quantitative_results": "이 논문은 기존 연구와 비교하여, ATP1A3 관련 질환의 병리학적 이해를 향상시키는 새로운 정보를 제공합니다.",
+      "novelty": "이 논문은 ATP1A3의 기능 장애에 대한 유전학적, 메커니즘적, 치료적 측면에 대한 업데이트된 이해를 제공합니다.",
+      "limitations": "이 논문은 기존 연구와 비교하여, 특정 유전형에 대한 병리학적 이해를 제공하지만, 모든 유전형에 대한 병리학적 이해는 아직 확인되지 않았습니다.",
+      "future_research": "후속 연구는 ATP1A3 관련 질환의 병리학적 이해를 향상시키고, 새로운 치료 전략을 개발하기 위한 임상 시험을 포함할 것입니다."
     }
   },
   {
@@ -2775,7 +2847,15 @@
     "pmcid": "PMC13678006",
     "url": "https://europepmc.org/articles/PMC13678006",
     "abstract": "Immune cell engagers (ICEs) are emerging therapeutic platforms that redirect immune effector cells toward cancer cells by physically bridging immune-cell receptors with tumor-associated targets. This cell-bridging mechanism converts molecular recognition into localized immune activation, immune synapse formation, cytotoxic killing, or phagocytic clearance. Such contact-centered immune redirection complements immune checkpoint blockade, which can restore antitumor immunity but does not directly promote the physical immune cell-tumor cell contact required for productive effector functions. Building on this principle, advances in molecular and biomaterial engineering have expanded ICE design beyond conventional molecular formats, enabling programmable molecular bridges, engineered living cell surfaces, and material-scaffolded systems that coordinate tumor targeting, immune-cell recruitment, and functional modulation. In this review, we organized these approaches according to three levels of ICE engineering: (1) molecular ICEs such as engineered antibodies and aptamers, (2) living cell engagers based on cell surface engineering using molecular constructs or biomaterials and (3) nanoparticle platforms. Across these platforms, we discuss molecular architecture, tumor-targeting specificity, immune cell recruitment, and functional modulation as key factors governing direct immune-tumor cell interactions. By connecting diverse strategies through a common cell-engagement perspective, this review highlights how these approaches can provide functional and spatial advantages for next-generation cancer immunotherapy.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 공격 세포를 이용해 암세포를 공격하는 새로운 치료 플랫폼인 엔지니어드 엔지니어드 세포(ICEs)를 다루고 있습니다. 이는 세포 사이의 직접적인 접촉을 통해 암세포를 공격하는 기존의 암 치료법과는 다른 방식으로 암을 치료하는 방법을 제시합니다.",
+      "methods": "논문은 공격 세포를 이용해 암세포를 공격하는 새로운 플랫폼인 엔지니어드 엔지니어드 세포(ICEs)를 다루고 있습니다. 이는 세포 사이의 직접적인 접촉을 통해 암세포를 공격하는 기존의 암 치료법과는 다른 방식으로 암을 치료하는 방법을 제시합니다. 이는 세포 사이의 직접적인 접촉을 통해 암세포를 공격하는 기존의 암 치료법과는 다른 방식으로 암을 치료하는 방법을 제시합니다.",
+      "quantitative_results": "논문에서는 공격 세포를 이용해 암세포를 공격하는 새로운 플랫폼인 엔지니어드 엔지니어드 세포(ICEs)를 다루고 있습니다. 이는 세포 사이의 직접적인 접촉을 통해 암세포를 공격하는 기존의 암 치료법과는 다른 방식으로 암을 치료하는 방법을 제시합니다.",
+      "novelty": "이 논문은 공격 세포를 이용해 암세포를 공격하는 새로운 플랫폼인 엔지니어드 엔지니어드 세포(ICEs)를 다루고 있습니다. 이는 세포 사이의 직접적인 접촉을 통해 암세포를 공격하는 기존의 암 치료법과는 다른 방식으로 암을 치료하는 방법을 제시합니다.",
+      "limitations": "논문에서는 공격 세포를 이용해 암세포를 공격하는 새로운 플랫폼인 엔지니어드 엔지니어드 세포(ICEs)를 다루고 있습니다. 이는 세포 사이의 직접적인 접촉을 통해 암세포를 공격하는 기존의 암 치료법과는 다른 방식으로 암을 치료하는 방법을 제시합니다. 논문에서는 공격 세포를 이용해 암세포를 공격하는 새로운 플랫폼인 엔지니어드 엔지니어드 세포(ICEs)를 다루고 있습니다. 이는 세포 사이의 직접적인 접촉을 통해 암세포를 공격하는 기존의 암 치료법과는 다른 방식으로 암을 치료하는 방법을 제시합니다.",
+      "future_research": "이 논문은 공격 세포를 이용해 암세포를 공격하는 새로운 플랫폼인 엔지니어드 엔지니어드 세포(ICEs)를 다루고 있습니다. 이는 세포 사이의 직접적인 접촉을 통해 암세포를 공격하는 기존의 암 치료법과는 다른 방식으로 암을 치료하는 방법을 제시합니다. 이 논문은 공격 세포를 이용해 암세포를 공격하는 새로운 플랫폼인 엔지니어드 엔지니어드 세포(ICEs)를 다루고 있습니다. 이는 세포 사이의 직접적인 접촉을 통해 암세포를 공격하는 기존의 암 치료법과는 다른 방식으로 암을 치료하는 방법을 제시합니다."
+    }
   },
   {
     "id": "PMC:PMC13635165",
