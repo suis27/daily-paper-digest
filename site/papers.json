@@ -1,5 +1,85 @@
 [
   {
+    "id": "doi:10.64898/2026.11.05.763588",
+    "title": "siRNA/mRNA payload of lipid nanoparticles quantified using fluorescence microscopy and correlation spectroscopy",
+    "topic": "Nucleic acids",
+    "date": "2026-11-06",
+    "journal": "",
+    "authors": "Kirchmair BR, Stoyanov N, Maksutova D, Peulen T, Hagemeier JA, Kellerer T, Cordes T, Faendrich M, Raedler JO.",
+    "doi": "10.64898/2026.11.05.763588",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.11.05.763588",
+    "abstract": "Lipid nanoparticles (LNPs) have emerged as the most promising vectors to deliver nucleic acids to mammalian cells. Advanced delivery strategies involving multiple nucleic acid species require a reliable determination of RNA payload and LNP size. Here, we use total internal reflection fluorescence (TIRF) microscopy and fluorescence correlation spectroscopy (FCS) to determine mRNA payload and siRNA/mRNA codelivered payload. Particularly, FCS proves to be a reliable method for payload determination, independently of fluorophore properties that can be altered during encapsulation. By varying the PEG-lipid fraction relative to the reference ONPATTRO formulation, we find that mRNA payload of enhanced green fluorescent protein (eGFP) coding mRNA increases from ∼10 with LNP size according to a power law with an exponent 1.3. Cryogenic electron microscopy (Cryo-EM) reveals that in this case blebs occur more frequently in small LNPs. For siRNA/mRNA coencapsulation the siRNA fraction within LNPs exceeds that in the initial RNA mixture, suggesting that coencapsulation is competitive and constrained by nucleic acid diffusion. Together, our findings highlight the importance of particle size and encapsulation kinetics in controlling the loading and composition of RNA payloads in LNPs.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 lipid nanoparticles(LNPs)를 이용하여 mRNA와 siRNA를 효율적으로 배달하는 방법을 개발하고자 함으로써, mRNA와 siRNA의 배달 효율성을 향상시키는 데 중점을 둔다.",
+      "methods": "이 연구에서는 총 내부 반사 전자광학법(TIRF) 미분광법(FCS)을 사용하여 mRNA의 배달량과 siRNA/mRNA 코델ivery 배달량을 측정하였다. 특히, FCS는 플루ores코프 성질이 포장 과정 중에 변경될 수 있는 RNA 배달량을 정확히 측정하는 데 사용되었다. 또한, mRNA의 경우, eGFP 코드 mRNA의 mRNA 배달량이 LNPs의 크기에 따라 약 10에서 약 1.3의 지수에 따라 증가하는 것을 확인하였다. 이 연구는 cryogenic electron microscopy(Cryo-EM)를 통해 작은 LNPs에서 blebs가 더 자주 발생한다는 것을 확인하였다.",
+      "quantitative_results": "이 연구에서는 mRNA의 배달량이 약 10에서 약 1.3의 지수에 따라 증가한다는 것을 확인하였다. 또한, siRNA와 mRNA를 동시에 포장하는 경우, siRNA의 배달량이 초기 RNA 혼합물보다 높다는 것을 확인하였다.",
+      "novelty": "이 연구는 FCS를 사용하여 RNA 배달량을 정확히 측정하는 데 사용되었으며, 플루ores코프 성질이 포장 과정 중에 변경될 수 있다는 것을 확인하였다. 또한, 이 연구는 mRNA와 siRNA를 동시에 포장하는 경우, siRNA의 배달량이 초기 RNA 혼합물보다 높다는 것을 확인하였다.",
+      "limitations": "이 연구는 초록에서 확인할 수 없는 정보가 포함되어 있다. 또한, 이 연구는 mRNA와 siRNA를 동시에 포장하는 경우, siRNA의 배달량이 초기 RNA 혼합물보다 높다는 것을 확인하였다.",
+      "future_research": "이 연구는 후속 연구를 제안한다. 특히, 다른 유형의 nucleic acids와 siRNA/mRNA를 동시에 포장하는 방법을 연구하고, 이러한 방법이 어떤 효과를 가져오는지에 대한 연구를 진행할 것이다."
+    }
+  },
+  {
+    "id": "doi:10.1097/crd.0000000000001533",
+    "title": "RNA-Targeted Therapeutics in Cardiovascular Risk Reduction: From Gene Silencing to Precision Cardiology.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-06",
+    "journal": "",
+    "authors": "Karim A, Binte Imran S, Yousuf YM, Asad D, Hassan Z, Rahman H, Aamir M, Anwer T, Fatima S, Ali Z, Karim F, Asad S, Khokhar ME, Konar ZM.",
+    "doi": "10.1097/crd.0000000000001533",
+    "pmid": "42989467",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42989467/",
+    "abstract": "Advances in cardiovascular prevention and treatment have substantially improved patient outcomes. However, residual cardiovascular risk remains a major clinical challenge. Traditional lipid-lowering and antihypertensive therapies, although effective, remain limited by suboptimal adherence, adverse effects, and persistent residual cardiovascular risk. RNA-targeted therapeutics have emerged as a transformative therapeutic paradigm, offering durable and highly specific gene silencing through small interfering RNA and antisense oligonucleotide platforms. This review evaluates the current evidence on RNA-targeted therapeutics for cardiovascular risk reduction, with an emphasis on their mechanisms of action, clinical efficacy, safety, and emerging therapeutic applications. A review was conducted using PubMed, Embase, Scopus, ScienceDirect, the Cochrane Library, and ClinicalTrials.gov from inception to June 2026. A total of 154 eligible studies were included and narratively synthesized by therapeutic class and molecular target. Inclisiran reduced low-density lipoprotein cholesterol by approximately 50% with twice-yearly dosing, while pooled ORION analyses suggested a reduction in major adverse cardiovascular events. Pelacarsen, olpasiran, and lepodisiran achieved 80-98% reductions in lipoprotein(a), whereas zilebesiran lowered systolic blood pressure by more than 15 mm Hg with sustained effects for up to 24 weeks. Across studies, RNA therapeutics demonstrated favorable safety profiles, with predominantly mild injection-site reactions. Although definitive cardiovascular outcome data remain unavailable for several emerging agents, RNA-targeted therapeutics represent a promising advance in precision cardiovascular medicine by providing durable, mechanism-based therapies capable of addressing important residual cardiovascular risk.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "RNA-Targeted Therapeutics는 전통적인 약물 치료법으로부터 차별화된 카디아바이오틱스 치료법으로 진화하고 있습니다. 이들은 LDL 콜레스테롤 감소와 혈관질환 발생 위험 감소를 위한 효과적인 치료법으로 사용되고 있습니다. 이 논문은 RNA-Targeted Therapeutics가 카디아바이오틱스 치료에서 중요한 역할을 할 수 있는 가능성을 강조합니다.",
+      "methods": "이 연구는 PubMed, Embase, Scopus, ScienceDirect, Cochrane Library 및 ClinicalTrials.gov에서 2026년 6월까지의 데이터를 분석했습니다. 이 데이터는 RNA-Targeted Therapeutics의 카디아바이오틱스 치료에 대한 현재의 증거를 평가하는데 사용되었습니다. 이 연구는 카디아바이오틱스 치료에 대한 다양한 치료법을 분류하고, 각 치료법의 효과와 안전성을 평가했습니다.",
+      "quantitative_results": "inclisiran은 LDL 콜레스테롤을 약 50% 감소시켰으며, ORION 분석은 주요 혈관질환 사건을 약 50% 감소시켰습니다. pelacarsen, olpasiran 및 lepodisiran은 LDL(a)을 약 80-98% 감소시켰으며, zilebesiran은 약 15mmHg의 심부전압을 약 24주 동안 지속적으로 줄였습니다.",
+      "novelty": "RNA-Targeted Therapeutics는 전통적인 카디아바이오틱스 치료법과 비교하여 더 안전하고 효과적인 치료법으로 보입니다. 그러나 아직 카디아바이오틱스 치료에 대한 정확한 결과는 아직 확인되지 않았습니다. 그러나 이 연구는 RNA-Targeted Therapeutics가 카디아바이오틱스 치료에서 중요한 역할을 할 수 있는 가능성을 보여주었습니다.",
+      "limitations": "이 연구는 아직 카디아바이오틱스 치료에 대한 정확한 결과는 아직 확인되지 않았습니다. 또한, 이 연구는 임상 데이터를 사용하여 RNA-Targeted Therapeutics의 카디아바이오틱스 치료에 대한 효과를 평가했습니다. 그러나 임상 데이터는 항상 정확하지 않을 수 있습니다. 이 연구는 후속 연구를 제안합니다.",
+      "future_research": "RNA-Targeted Therapeutics가 카디아바이오틱스 치료에서 중요한 역할을 할 수 있는 가능성을 보여주었습니다. 그러나 이 연구는 임상 데이터를 사용하여 RNA-Targeted Therapeutics의 카디아바이오틱스 치료에 대한 효과를 평가했습니다. 그러나 임상 데이터는 항상 정확하지 않을 수 있습니다. 이 연구는 후속 연구를 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.1128/jmbe.00253-26",
+    "title": "An educational activity tailored for undergraduate students on AI-driven nanobody design for targeted antiviral therapeutics.",
+    "topic": "Protein",
+    "date": "2026-11-05",
+    "journal": "",
+    "authors": "Idris A, Idres YM, Bhattacharjee K, Gao W.",
+    "doi": "10.1128/jmbe.00253-26",
+    "pmid": "42986098",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42986098/",
+    "abstract": "Protein-based biologics are converging at an unprecedented pace as generative artificial intelligence (AI) reshapes early-stage drug discovery. Nanobodies, single-domain antibody fragments derived from camelid heavy chain-only immunoglobulins, are an emerging class of antiviral biologics prized for their small size, stability, and access to cryptic viral epitopes. Traditional nanobody discovery relies on animal immunization and phage display screening, a process that can take 6 to 12 months and is entirely inaccessible within a standard undergraduate laboratory session. Here, we describe a succinct, in silico -based laboratory activity that uses a generative AI protein design server, GeoFlow-V3 (https://prot.design/), to allow undergraduate students to design a novel antiviral nanobody against the influenza A virus (IAV) hemagglutinin (HA) protein. This activity builds on our group's prior use of generative AI for undergraduate siRNA design teaching and extends the same pedagogical model to structural protein engineering. To our knowledge, this is the first use of a generative AI protein design platform for teaching nanobody design at the undergraduate level.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 AI를 활용한 단백질 설계를 통한 항바이러스 치료제 개발 교육 활동을 개발하고자 함으로써, 대학원생들이 단백질 설계에 대한 이해를 높이고, 이를 통한 치료제 개발 능력을 향상시키기 위한 교육 활동을 제공하고자 함을 목표로 합니다.",
+      "methods": "이 연구에서는 GeoFlow-V3(https://prot.design/)라는 AI 기반 단백질 설계 서버를 사용하여 대학원생들이 인플루엔자 A 바이러스(HA) 단백질을 대상으로 한 새로운 항바이러스 단백질을 설계할 수 있는 간결한 실험 활동을 개발하였습니다. 이 활동은 이전 연구에서 사용된 siRNA 설계 교육과 유사한 교육 모델을 단백질 구조 설계 엔지니어링에 확장하였습니다.",
+      "quantitative_results": "이 연구에서는 대학원생들이 AI를 활용한 단백질 설계를 통해 효과적인 항바이러스 치료제 개발에 대한 이해를 높일 수 있는 교육 활동을 제공하였으며, 이는 대학원생들의 교육 효과를 향상시키는 데 기여할 것으로 기대됩니다.",
+      "novelty": "이 연구는 대학원생들에게 AI를 활용한 단백질 설계를 통한 항바이러스 치료제 개발 교육을 제공하는 것은 처음이며, 이는 대학 교육의 새로운 방향을 제시하는 것으로 평가될 것입니다.",
+      "limitations": "이 연구는 AI 기반 단백질 설계의 실제 적용 가능성에 대한 확인이 필요하며, 현재까지는 대학원생들이 AI를 활용한 단백질 설계를 직접적으로 수행하는 것은 불가능하다는 점을 명시해야 합니다.",
+      "future_research": "이 연구는 AI를 활용한 단백질 설계를 통한 항바이러스 치료제 개발 교육 활동을 더 깊이 연구하고, 이를 통해 대학 교육의 새로운 방향을 제시하는 데 대한 후속 연구를 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.1136/jitc-2026-017100",
+    "title": "Steering the immune response: cancer vaccines and the next era of cancer immunotherapy.",
+    "topic": "Immunity",
+    "date": "2026-11-05",
+    "journal": "",
+    "authors": "Butterfield LH, Gulley JL.",
+    "doi": "10.1136/jitc-2026-017100",
+    "pmid": "42988573",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42988573/",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "PMC:PMC13729012",
     "title": "Nanomedicine and the innate immune system: immunogenicity, nanoparticle-immune cell interactions and implications for cancer immunotherapy",
     "topic": "Immunity, Drug delivery",
@@ -25,6 +105,64 @@
     "pmcid": "PMC13727747",
     "url": "https://europepmc.org/articles/PMC13727747",
     "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1208/s12248-026-01327-7",
+    "title": "Evaluating Immunogenicity Potential of Host Cell Proteins: Unveiling Novel Insights and Risks by LC-MS/MS MHC-Associated Peptide Profiling.",
+    "topic": "Protein",
+    "date": "2026-11-04",
+    "journal": "",
+    "authors": "E SY, Hu Y, Qiu H, Li N.",
+    "doi": "10.1208/s12248-026-01327-7",
+    "pmid": "42983130",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42983130/",
+    "abstract": "Host cell proteins (HCPs) are process-related impurities that may persist in therapeutic protein products and can impact product quality or trigger unwanted immunogenicity responses. The immunogenicity potential of individual HCPs can be assessed using in silico approaches or T cell-based assays. Recently, LC-MS/MS-based major histocompatibility complex (MHC)-associated peptide proteomics (MAPPs) has emerged as a powerful approach for identifying naturally processed and presented peptides, thereby providing insights into mapping the potential immunogenic epitopes of protein therapeutics. In this study, we applied MAPPs workflow to evaluate the immunogenicity potential of six frequently identified CHO-derived HCPs with varying molecular weights and degrees of homology to their human counterparts, including PLBL2, carboxypeptidase, complement C1r subcomponent, S100A5, S100A11, and beta-hexosaminidase. A pooled HCP mixture demonstrated peptide repertoires comparable to individually loaded proteins, highlighting the method's capability for multiplexed HCP immunogenicity assessment. Overall, this LC-MS/MS-based approach provides a robust framework for evaluation of HCP-specific T cell epitopes and expands immunogenicity risk assessment strategy beyond in-silico predictions and cell-based functional assays.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 주요 호주 세포 프로tein (HCP)의 면역성 잠재력을 LC-MS/MS 기반 MHC-관련 Peptide 프로파일링 방법을 사용하여 평가하고, 이를 통해 호주 세포 프로tein의 면역성 잠재력 평가에 대한 새로운 이해와 위험 평가 전략을 확장하고자 함을 목표로 합니다.",
+      "methods": "이 연구에서는 LC-MS/MS 기반 MHC-관련 Peptide 프로파일링 방법을 사용하여 CHO 세포로부터 유도된 호주 세포 프로tein (HCP)의 면역성 잠재력을 평가했습니다. 이 연구에서는 PLBL2, 카복피肽라이저, 콜레스테롤 C1r 부분, S100A5, S100A11, 베타-헥소나민아제 등 6개의 주로 식별된 호주 세포 프로tein HCP를 대상으로 평가했습니다.",
+      "quantitative_results": "이 연구에서는 호주 세포 프로tein HCP의 면역성 잠재력을 평가하는 데 사용된 LC-MS/MS 기반 MHC-관련 Peptide 프로파일링 방법의 능력을 입증했습니다. 이 방법은 호주 세포 프로tein HCP의 면역성 잠재력을 멀티플렉스로 평가할 수 있음을 입증했습니다.",
+      "novelty": "이 연구는 호주 세포 프로tein HCP의 면역성 잠재력을 LC-MS/MS 기반 MHC-관련 Peptide 프로파일링 방법을 사용하여 평가하는 데 사용된 새로운 접근법을 제공합니다. 이 방법은 인 silico 예측과 세포 기반의 기능적 assays를 넘어 면역성 위험 평가 전략을 확장하는 데 사용되었습니다.",
+      "limitations": "이 연구는 인 silico 예측과 세포 기반의 기능적 assays를 넘어 면역성 위험 평가 전략을 확장하는 데 사용된 새로운 접근법을 제공합니다. 그러나 이 연구는 인 silico 예측과 세포 기반의 기능적 assays를 넘어 면역성 위험 평가 전략을 확장하는 데 사용된 새로운 접근법을 제공합니다.",
+      "future_research": "후속 연구는 LC-MS/MS 기반 MHC-관련 Peptide 프로파일링 방법을 사용하여 다른 호주 세포 프로tein HCP의 면역성 잠재력을 평가하고, 이를 통해 면역성 위험 평가 전략을 더욱 확장하고 심화하는 데 사용될 수 있습니다."
+    }
+  },
+  {
+    "id": "doi:10.1016/j.niox.2026.10.012",
+    "title": "Nitric oxide at the crossroads of inflammation, immunity and metastasis in colorectal cancer: Therapeutic implication.",
+    "topic": "Immunity",
+    "date": "2026-11-04",
+    "journal": "",
+    "authors": "Kamath RR, Sivakumar G, Veeraiyan D, Namani A, Patra T.",
+    "doi": "10.1016/j.niox.2026.10.012",
+    "pmid": "42982168",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42982168/",
+    "abstract": "Colorectal cancer (CRC) continues to be a major global cause of cancer-related morbidity and mortality, with little effective treatment options. One of the main contributors of CRC is chronic inflammation, and nitric oxide (NO) has become a key factor in the pathophysiology of tumors. The concentration, cellular source, spatial distribution, and redox environment of NO within the tumor microenvironment (TME) determine its highly context-dependent effects in CRC. Prolonged sub-lethal NO production, mediated mainly by NOS2/iNOS, alters the CRC TME by regulating immune cell function, stromal activation, angiogenesis, and vascular permeability, thereby promoting tumor-cell intravasation and survival during metastasis. Therapy-induced NO signaling, which can paradoxically promote tumor progression after chemotherapy, radiation, and anti-angiogenic treatments, is given special attention. Lastly, we assess new therapeutic approaches that target NO signaling in CRC, such as NOS2/iNOS inhibition, NO-donor compounds, nanotechnology-based delivery systems, and logical combinations with immunotherapy and chemotherapy. Overall, this review emphasizes NO as a crucial but intricate regulator of colorectal cancer biology and emphasizes the necessity of accurate, situation-specific modulation of NO signaling. The translation of NO-based strategies into successful treatments for patients with advanced and treatment-resistant colorectal cancer may be made possible by a better understanding of NO dynamics, the creation of CRC-specific biomarkers, and targeted delivery platforms.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 콜레스테로일세포암(CRC)에서 다틀산(NO)이 염증, 면역 및 전이 과정에서 중요한 역할을 한다는 사실을 강조하고, 이를 바탕으로 NO 억제 및 전달 방법에 대한 새로운 치료 접근법을 제시한다. 이는 현재의 치료 방법들이 효과적이지 않다는 배경에서 시작된다.",
+      "methods": "논문은 NO의 생성, 분포 및 환경에 대한 세부적인 연구를 통해 NO가 CRC의 면역 환경에 미치는 영향을 분석한다. NO 억제, NO 전달 물질 및 면역 치료와의 조합 등을 포함한 다양한 치료 접근법을 검토한다.",
+      "quantitative_results": "논문에서는 NO가 CRC의 면역 환경을 어떻게 변화시키는지에 대한 세부적인 정보를 제공한다. 그러나 NO의 생성량, 분포 및 환경에 대한 정확한 수치는 제공되지 않았다.",
+      "novelty": "논문은 NO 억제와 NO 전달 방법에 대한 새로운 접근법을 제시하며, 이는 현재의 치료 접근법들이 효과적이지 않다는 배경에서 이론적으로 새로운 접근법을 제시한다.",
+      "limitations": "논문에서는 NO의 생성, 분포 및 환경에 대한 세부적인 정보가 제공되지 않았다. 또한, NO 억제와 NO 전달 방법의 실제 효과를 확인하기 위해서는 추가적인 실험이 필요하다는 한계를 명시한다.",
+      "future_research": "논문은 NO 억제와 NO 전달 방법에 대한 추가적인 연구를 제안하며, 이는 NO의 효과적인 억제와 전달을 위한 새로운 접근법을 개발하는 데 도움이 될 것이다. 또한, NO 억제와 면역 치료의 조합에 대한 연구도 필요하다."
+    }
+  },
+  {
+    "id": "doi:10.1016/j.biocel.2026.107057",
+    "title": "Metabolic checkpoints as signaling hubs: How metabolite signals rewire antitumor immunity and immunotherapy response.",
+    "topic": "Immunity",
+    "date": "2026-11-04",
+    "journal": "",
+    "authors": "Zhong Y, Wang Y, Wang L, Lu Y, Ye Y.",
+    "doi": "10.1016/j.biocel.2026.107057",
+    "pmid": "42982336",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42982336/",
+    "abstract": "Tumor-driven metabolic reprogramming does not merely create a nutrient-deprived niche; it generates a network of aberrant metabolite signals that directly subvert antitumor immunity. Within the metabolically hostile tumor microenvironment (TME), specialized intracellular regulators-here defined as metabolic checkpoints-sense and integrate cues such as nutrient availability and metabolite accumulation. Unlike classical metabolic enzymes, these checkpoints act as decision-making hubs that (i) integrate multiple metabolic inputs, (ii) transduce them into specific intracellular signals, and (iii) dictate immune cell fate decisions, thereby orchestrating immune suppression and therapy resistance. Even successful immune checkpoint inhibitors (ICIs) face resistance driven by TME metabolic barriers, making metabolic checkpoints attractive therapeutic nodes. Recent advances highlight metabolic checkpoint intervention as a promising strategy to enhance immunotherapy responsiveness. This review dissects how metabolic checkpoints rewire three core signaling axes in immune cells: metabolite-driven epigenetic reprogramming, kinase/phosphatase modulation, and transcription factor control. We further clarify conceptual ambiguities distinguishing canonical from emerging regulators and explore their impact on immune modulation and resistance mechanisms. Finally, we propose a clinical translation roadmap that links specific metabolic checkpoint signatures to patient stratification, combination trial design, and mitigation of metabolic plasticity-driven resistance, moving beyond descriptive categorization toward actionable frameworks.",
     "summary": "초록 기반 요약"
   },
   {
@@ -136,6 +274,20 @@
       "limitations": "이 데이터셋은 원본 연구에서 확인되지 않은 정보를 포함하고 있습니다. 또한, 이 데이터셋은 computational models를 개발하고 평가하는데 사용될 수 있지만, 실제 실험에서의 결과와는 항상 일치하지 않을 수 있습니다.",
       "future_research": "후속 연구는 이 데이터셋을 사용하여 computational models를 개발하고 평가하는 것을 제안합니다. 또한, 이 데이터셋을 사용하여 ionizable lipid의 세포 치명성을 이해하고, 이를 바탕으로 더 안전한 LNPs를 설계하는 연구도 필요합니다."
     }
+  },
+  {
+    "id": "doi:10.1016/j.colsurfb.2026.116303",
+    "title": "Sustainable and eco-friendly anticancer nanomedicine development using natural antioxidant-functionalized amphiphilic chitosan: Review of design strategies, challenges, and therapeutic advances.",
+    "topic": "Drug delivery",
+    "date": "2026-11-03",
+    "journal": "",
+    "authors": "Maiti S, Maji B, Lakra P.",
+    "doi": "10.1016/j.colsurfb.2026.116303",
+    "pmid": "42987720",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42987720/",
+    "abstract": "Natural antioxidant-integrated amphiphilic chitosan has emerged as a promising platform for advanced drug delivery and cancer therapy, supporting sustainable and eco-friendly nanomedicine development. This review summarizes recent progress in the design, chemistry, physicochemical properties, and chemotherapeutic applications of amphiphilic chitosan systems functionalized with natural antioxidants. Chitosan, a biodegradable and biocompatible polysaccharide, can be chemically modified to form amphiphilic structures capable of self-assembling into nanoscale carriers such as polymeric micelles. The integration of natural antioxidant may help mitigate oxidative stress and reduce the side effects associated with conventional chemotherapy. Such multifunctional nanocarriers improve drug solubility, stability, and bioavailability while enabling controlled and targeted delivery of chemotherapeutic agents. In this review, the structural modification of chitosan, the properties of self-assembled nanostructures of modified chitosan and current status of antioxidant-integration in chitosan-based amphiphilic nanocarriers for improving cancer treatment outcomes and developing safer, more effective, and environmentally sustainable nanomedicine-based therapeutic systems are assessed.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.64898/2026.10.30.762893",
@@ -876,6 +1028,20 @@
     }
   },
   {
+    "id": "PMC:PMC13738630",
+    "title": "Temporal Proteomics Links the APP London Mutation to Early Cholesterol Remodeling Cell Programs in Human Neurons",
+    "topic": "Protein",
+    "date": "2026-10-24",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13738630",
+    "url": "https://europepmc.org/articles/PMC13738630",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.1126/sciadv.aeh6590",
     "title": "In situ CAR-M engineered by liposomal mRNA nanomedicine remodels fibrotic microenvironment for ameliorating liver fibrosis.",
     "topic": "Drug delivery",
@@ -1132,6 +1298,20 @@
     }
   },
   {
+    "id": "doi:10.3389/fimmu.2026.1958538",
+    "title": "Viruses in the tumor immune microenvironment: implications for immunotherapy.",
+    "topic": "Immunity",
+    "date": "2026-10-21",
+    "journal": "",
+    "authors": "Chen X, Ni P, Li W, Wu M, Li J, Lu W, Li X, Wang L.",
+    "doi": "10.3389/fimmu.2026.1958538",
+    "pmid": "42985438",
+    "pmcid": "PMC13732141",
+    "url": "https://europepmc.org/articles/PMC13732141",
+    "abstract": "The intricate interplay between viruses and the tumor immune microenvironment (TIME) plays a pivotal role in tumor initiation, progression, and response to immunotherapy. Viruses can directly infect tumor cells, modulate immune cell functions, and reshape cytokine networks, thereby influencing the composition and functionality of the TIME. This review systematically examines how viral infections impact TIME by altering tumor-infiltrating lymphocytes, cytokine profiles, and immune checkpoint expression. Additionally, the role of virus-associated antigens as immune targets and the mechanisms of virus-induced immune evasion that undermine immunotherapeutic efficacy are discussed. By integrating recent advances from single-cell omics, spatial transcriptomics, and clinical studies, this article aims to elucidate the core mechanisms underlying virus-TIME interactions. Furthermore, it highlights the therapeutic potential and challenges of virus-based immunotherapies, including oncolytic virotherapy and viral vector vaccines. This comprehensive overview provides a theoretical foundation for optimizing immunotherapeutic strategies that leverage viral components to enhance anti-tumor immunity and overcome immune resistance.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.20944/preprints202610.1944.v1",
     "title": "Lipid Nanoparticle-mRNA Vaccines for Infectious Diseases: Making A Potent Platform Predictable",
     "topic": "Drug delivery",
@@ -1184,7 +1364,7 @@
     "authors": "Yang S, Zhou P.",
     "doi": "10.3389/fcell.2026.1966827",
     "pmid": "42978979",
-    "pmcid": "",
+    "pmcid": "PMC13728170",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42978979/",
     "abstract": "The development and treatment response of oropharyngeal squamous cell carcinoma (OPSCC) are jointly shaped by tumour cell-intrinsic features and the tumour immune microenvironment (TIME). Programmed cell death (PCD) determines tumour cell fate and modulates antitumour immunity by altering immunogenicity, the release of immunostimulatory signals and immune-cell function. Dysregulated PCD can enable tumour cells to evade immune recognition, establish an immunosuppressive state and alter the response to immunotherapy. Here, the roles of PCD in regulating immunity in oropharyngeal cancer (OPC) are reviewed, with emphasis on understanding at the molecular level how processes involved in apoptosis, ferroptosis, pyroptosis, and autophagy contribute to either immune evasion or antitumor immunity, with consideration given to emerging pathways involving necroptosis and cuproptosis. The immunological effects of cell death are thought to be context-dependent rather than predetermined by the mode of execution. Immunologically silent death can dampen these processes, reducing the immunogenicity of tumors, impairing antigen processing and presentation, and limiting T cell recognition; conversely, immunogenic cell death (ICD) can drive functional immunological responses through the release of damage-associated molecular patterns (DAMPs), improved antigen presentation, as well as adaptive immunity activation. Next, differences between human papillomavirus (HPV)-positive and HPV-negative OPSCC are discussed regarding PCD, TIME remodeling, immune checkpoint activation, and treatment resistance, as well as their translational relevance to precision immunotherapy, radiosensitization, and chemosensitization via subgroup-based combination therapy. Given the limited OPSCC-specific evidence for several emerging PCD pathways, related findings from head and neck squamous cell carcinoma (HNSCC) studies are discussed to provide mechanistic context. Together, these insights provide a framework for understanding immune evasion in OPC and for developing PCD-targeted therapeutic strategies.",
     "summary": "초록 기반 요약",
@@ -1206,7 +1386,7 @@
     "authors": "Karim A, Sutikno, Syarif AM, Jeong IC.",
     "doi": "10.3389/fbioe.2026.1919132",
     "pmid": "42978960",
-    "pmcid": "",
+    "pmcid": "PMC13727747",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42978960/",
     "abstract": "Nanoparticle-based drug delivery systems have been proposed as a promising strategy for improving the efficacy and specificity of cancer therapeutics. However, predicting tumor delivery efficiency remains challenging because of complex interactions among nanoparticle physicochemical properties, biological environments, and experimental conditions. This study presents an explainable machine-learning framework for predicting nanoparticle tumor delivery efficiency using the updated Nano-Tumor Database. Following data preprocessing and feature engineering, 2,319 records were used to develop and evaluate Random Forest, Extreme Gradient Boosting (XGBoost), Light Gradient Boosting Machine (LightGBM), weighted ensemble, and stacking ensemble models. To reduce information leakage from repeated nanoparticle measurements, model development and evaluation were revised using nanoparticle-identity-aware grouping based on NM.ID, with categorical preprocessing fitted exclusively on training data. In the final untouched NM.ID-grouped hold-out set, the stacking ensemble achieved the lowest RMSE (3.8107) and highest R2 (0.0901), while the weighted ensemble achieved the lowest MAE (1.8320); however, differences among the leading models were small. Five-fold NM.ID-grouped cross-validation yielded mean R2 values of 0.2280 for XGBoost, 0.2169 for Random Forest, and 0.1980 for LightGBM, demonstrating that generalization to previously unseen nanoparticle identities is substantially more challenging than suggested by row-wise validation. Repeated group-aware splits further showed variability in model ranking, while stricter reference-grouped validation indicated limited cross-study transportability. SHapley Additive exPlanations (SHAP) were used to examine model interpretability, with Animal, Tumor Cell, Core material, Dose, and Zeta Potential showing the largest global contributions to predictions from the final tuned XGBoost model. Dose showed no meaningful marginal correlation with tumor %ID, although group-aware ablation indicated modest multivariable predictive contribution. Performance generally deteriorated for core-material categories absent from training, indicating that the framework should primarily be interpreted as an explainable screening and hypothesis-generation tool within the represented chemical and experimental domain rather than as a validated predictor for completely novel nanoparticle chemistries. These findings highlight both the potential and current generalization limitations of data-driven approaches for supporting nanoparticle design in cancer nanomedicine.",
     "summary": "초록 기반 요약",
@@ -1354,6 +1534,20 @@
     "pmid": "",
     "pmcid": "PMC13668749",
     "url": "https://europepmc.org/articles/PMC13668749",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13738439",
+    "title": "Scalable proteomics with multiDIA resolves proteoforms in neurodegenerative disease",
+    "topic": "Protein",
+    "date": "2026-10-19",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13738439",
+    "url": "https://europepmc.org/articles/PMC13738439",
     "abstract": "",
     "summary": "초록 기반 요약"
   },
@@ -1852,6 +2046,34 @@
     }
   },
   {
+    "id": "PMC:PMC13742413",
+    "title": "Subcellular spatial proteomics of the heterotrophic nanoflagellate, Cafeteria roenbergensis",
+    "topic": "Protein",
+    "date": "2026-10-15",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13742413",
+    "url": "https://europepmc.org/articles/PMC13742413",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "PMC:PMC13742448",
+    "title": "Subcellular spatial proteomics of the close animal relative, Capsaspora owczarzaki",
+    "topic": "Protein",
+    "date": "2026-10-15",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13742448",
+    "url": "https://europepmc.org/articles/PMC13742448",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.64898/2026.10.12.757977",
     "title": "Generative design of functional disordered regions in a developmental transcription factor",
     "topic": "Protein",
@@ -2308,6 +2530,20 @@
       "limitations": "연구팀은 암세포가 외상성 물질에 대한 저항성을 극복하는 새로운 플랫폼을 개발하고, 이 플랫폼이 암세포의 생화학적 저항을 극복하는 것을 입증했습니다. 그러나 이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼의 실제 적용 가능성에 대한 추가 연구가 필요합니다. 또한, 이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼의 효과성과 안전성에 대한 추가 연구가 필요합니다.",
       "future_research": "이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼을 개발하고, 이 플랫폼이 암세포의 생화학적 저항을 극복하는 것을 입증했습니다. 그러나, 이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼의 실제 적용 가능성에 대한 추가 연구가 필요합니다. 이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼의 효과성과 안전성에 대한 추가 연구가 필요합니다. 이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼의 실제 적용 가능성에 대한 추가 연구가 필요합니다. 이 연구는 암세포의 생화학적 저항을 극복하는 새로운 플랫폼의 효과성과 안전성에 대한 추가 연구가 필요합니다."
     }
+  },
+  {
+    "id": "doi:10.1002/adhm.202505251",
+    "title": "Prostate Cancer Patient-Derived Organoids (PDOs) as Functional Avatars for Antisense Oligonucleotide (ASO)-Based Personalized Therapy.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-11",
+    "journal": "",
+    "authors": "Tran TT, Phan TTU, Baboudjian M, Duong QH, Sousa I, Le TT, Baylot V, Giusiano S, Daniel L, Brige P, Guillet B, Bastide C, Garrido C, Taïeb D, Le TK, Rocchi P.",
+    "doi": "10.1002/adhm.202505251",
+    "pmid": "42860576",
+    "pmcid": "PMC13740942",
+    "url": "https://europepmc.org/articles/PMC13740942",
+    "abstract": "Patient-derived tumor organoids (PDOs) closely preserve the cellular heterogeneity, histopathology, and molecular features of the original tumors, making them powerful preclinical models. Antisense oligonucleotides (ASOs) are an emerging class of precision medicines that modulate gene expression at the RNA level with high target specificity, yet their application in organoid systems remains underexplored. Here, we adapted previously described protocols to establish a biobank of prostate cancer (PC) PDOs, achieving a high initial growth success rate (>90%). Histological and molecular analyses confirmed the preservation of key tumor features. Using these models, we assessed several ASOs, with particular emphasis on OGX-427 (Apatorsen), an ASO targeting heat shock protein 27 (HSP27) that has been evaluated in phase I/II clinical trials. While OGX-427 effectively suppressed HSP27 expression and inhibited cell growth in 2D cultures, its efficacy was markedly limited in 3D organoids, likely due to extracellular matrix and structural barriers. Removing Matrigel and applying single-cell transfection overcame these barriers, achieving efficient ASO uptake, significant target protein downregulation, and robust, dose-dependent inhibition of organoid growth. These findings underscore the utility of PDOs for evaluating ASO-based therapies and their potential to accelerate precision oncology strategies for PC and other malignancies.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "PMC:PMC13651604",
