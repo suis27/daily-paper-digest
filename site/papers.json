@@ -163,7 +163,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42982336/",
     "abstract": "Tumor-driven metabolic reprogramming does not merely create a nutrient-deprived niche; it generates a network of aberrant metabolite signals that directly subvert antitumor immunity. Within the metabolically hostile tumor microenvironment (TME), specialized intracellular regulators-here defined as metabolic checkpoints-sense and integrate cues such as nutrient availability and metabolite accumulation. Unlike classical metabolic enzymes, these checkpoints act as decision-making hubs that (i) integrate multiple metabolic inputs, (ii) transduce them into specific intracellular signals, and (iii) dictate immune cell fate decisions, thereby orchestrating immune suppression and therapy resistance. Even successful immune checkpoint inhibitors (ICIs) face resistance driven by TME metabolic barriers, making metabolic checkpoints attractive therapeutic nodes. Recent advances highlight metabolic checkpoint intervention as a promising strategy to enhance immunotherapy responsiveness. This review dissects how metabolic checkpoints rewire three core signaling axes in immune cells: metabolite-driven epigenetic reprogramming, kinase/phosphatase modulation, and transcription factor control. We further clarify conceptual ambiguities distinguishing canonical from emerging regulators and explore their impact on immune modulation and resistance mechanisms. Finally, we propose a clinical translation roadmap that links specific metabolic checkpoint signatures to patient stratification, combination trial design, and mitigation of metabolic plasticity-driven resistance, moving beyond descriptive categorization toward actionable frameworks.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암을 유발하는 기관 주변의 단백질 재프로그래밍이 암세포를 막는 면역력을 방해하는 메타블로틱 체크포인트를 통해 어떻게 재설정되는지에 대해 조명합니다. 이는 암 치료에 대한 반응을 향상시키는 새로운 치료 전략으로 여겨집니다.",
+      "methods": "논문에서는 암 세포 주변의 환경에서의 단백질 재프로그래밍과 면역력을 방해하는 메타블로틱 체크포인트의 역할을 분석합니다. 이는 암세포를 막는 면역력을 방해하는 메타블로틱 체크포인트가 암 치료에 대한 반응을 향상시키는 새로운 치료 전략으로 여겨집니다.",
+      "quantitative_results": "논문에서는 메타블로틱 체크포인트가 암세포를 막는 면역력을 방해하는 메타블로틱 체크포인트가 암 치료에 대한 반응을 향상시키는 새로운 치료 전략으로 여겨집니다. 이는 암 치료에 대한 반응을 향상시키는 새로운 치료 전략으로 여겨집니다.",
+      "novelty": "이 논문은 기존 연구에서 보지 못한 새로운 메타블로틱 체크포인트의 역할을 강조합니다. 이는 암 치료에 대한 반응을 향상시키는 새로운 치료 전략으로 여겨집니다.",
+      "limitations": "논문에서는 메타블로틱 체크포인트의 역할에 대한 명확한 이해를 제공하지 못했습니다. 이는 암 치료에 대한 반응을 향상시키는 새로운 치료 전략으로 여겨집니다.",
+      "future_research": "후속 연구에서는 메타블로틱 체크포인트의 작용 메커니즘에 대한 더 깊은 이해를 위해 실험을 수행하고, 이를 바탕으로 암 치료에 대한 반응을 향상시키는 새로운 치료 전략을 개발하는 것이 중요합니다."
+    }
   },
   {
     "id": "doi:10.1093/protein/gzag033",
@@ -287,7 +295,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42987720/",
     "abstract": "Natural antioxidant-integrated amphiphilic chitosan has emerged as a promising platform for advanced drug delivery and cancer therapy, supporting sustainable and eco-friendly nanomedicine development. This review summarizes recent progress in the design, chemistry, physicochemical properties, and chemotherapeutic applications of amphiphilic chitosan systems functionalized with natural antioxidants. Chitosan, a biodegradable and biocompatible polysaccharide, can be chemically modified to form amphiphilic structures capable of self-assembling into nanoscale carriers such as polymeric micelles. The integration of natural antioxidant may help mitigate oxidative stress and reduce the side effects associated with conventional chemotherapy. Such multifunctional nanocarriers improve drug solubility, stability, and bioavailability while enabling controlled and targeted delivery of chemotherapeutic agents. In this review, the structural modification of chitosan, the properties of self-assembled nanostructures of modified chitosan and current status of antioxidant-integration in chitosan-based amphiphilic nanocarriers for improving cancer treatment outcomes and developing safer, more effective, and environmentally sustainable nanomedicine-based therapeutic systems are assessed.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 자연적 항산화제를 통합한 아미피릴릭 카시토산이 항암 치료와 전자기기 발전에 대한 지속가능하고 환경 친화적인 nanomedicine 개발에 대한 새로운 접근 방식을 소개합니다. 이를 위해 카시토산의 구조적 변경, 자기-assembled nano구조의 속성, 그리고 자연적 항산화제를 통합한 카시토산 기반 아미피릴릭 nanocarriers의 현재 상태를 평가합니다.",
+      "methods": "논문에서는 카시토산의 구조적 변경, 자기-assembled nano구조의 속성, 그리고 자연적 항산화제를 통합한 카시토산 기반 아미피릴릭 nanocarriers의 현재 상태를 평가합니다. 이는 카시토산의 생물학적 특성, 항산화제의 효과, 그리고 치료제의 전달 효율성을 개선하는 데 초점을 맞춥니다.",
+      "quantitative_results": "논문에서는 카시토산의 생물학적 특성, 항산화제의 효과, 그리고 치료제의 전달 효율성을 개선하는 데 초점을 맞춥니다. 이는 카시토산의 생물학적 특성, 항산화제의 효과, 그리고 치료제의 전달 효율성을 개선하는 데 초점을 맞춥니다.",
+      "novelty": "이 논문은 카시토산의 생물학적 특성, 항산화제의 효과, 그리고 치료제의 전달 효율성을 개선하는 데 초점을 맞춥니다. 이는 카시토산의 생물학적 특성, 항산화제의 효과, 그리고 치료제의 전달 효율성을 개선하는 데 초점을 맞춥니다.",
+      "limitations": "논문에서는 카시토산의 생물학적 특성, 항산화제의 효과, 그리고 치료제의 전달 효율성을 개선하는 데 초점을 맞춥니다. 이는 카시토산의 생물학적 특성, 항산화제의 효과, 그리고 치료제의 전달 효율성을 개선하는 데 초점을 맞춥니다.",
+      "future_research": "후속 연구는 카시토산의 생물학적 특성, 항산화제의 효과, 그리고 치료제의 전달 효율성을 개선하는 데 초점을 맞춥니다. 이는 카시토산의 생물학적 특성, 항산화제의 효과, 그리고 치료제의 전달 효율성을 개선하는 데 초점을 맞춥니다."
+    }
   },
   {
     "id": "doi:10.64898/2026.10.30.762893",
@@ -756,6 +772,20 @@
       "limitations": "이 연구는 TRAP 단백질 단백질 패널을 사용하여 11개의 샘플에서 AMELX peptide의 감소 또는 감지 불능을 확인하였다. 이는 TRAP 단백질 단백질 패널을 확장하여 AMELX C- terminal 부분에서 특이적인 peptide를 추가함으로써 성별 결정을 확보하였다. 이 연구는 TRAP 단백질 단백질 패널을 사용하여 11개의 샘플에서 AMELX peptide의 감소 또는 감지 불능을 확인하였다.",
       "future_research": "이 연구는 더 많은 샘플을 사용하여 확장된 peptide 패널의 효과를 확인하고, 다른 유형의 단백질이나 다른 종류의 인치에서의 성별 결정에 대한 연구를 수행하여 이 연구의 결과를 확장하고 싶다."
     }
+  },
+  {
+    "id": "PMC:PMC13733976",
+    "title": "Targeted proteomics informed by long-read RNA-sequencing reveals protein isoform expression associated with bone mineral density",
+    "topic": "Protein",
+    "date": "2026-10-29",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13733976",
+    "url": "https://europepmc.org/articles/PMC13733976",
+    "abstract": "",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1038/s41587-026-03343-6",
@@ -1309,7 +1339,15 @@
     "pmcid": "PMC13732141",
     "url": "https://europepmc.org/articles/PMC13732141",
     "abstract": "The intricate interplay between viruses and the tumor immune microenvironment (TIME) plays a pivotal role in tumor initiation, progression, and response to immunotherapy. Viruses can directly infect tumor cells, modulate immune cell functions, and reshape cytokine networks, thereby influencing the composition and functionality of the TIME. This review systematically examines how viral infections impact TIME by altering tumor-infiltrating lymphocytes, cytokine profiles, and immune checkpoint expression. Additionally, the role of virus-associated antigens as immune targets and the mechanisms of virus-induced immune evasion that undermine immunotherapeutic efficacy are discussed. By integrating recent advances from single-cell omics, spatial transcriptomics, and clinical studies, this article aims to elucidate the core mechanisms underlying virus-TIME interactions. Furthermore, it highlights the therapeutic potential and challenges of virus-based immunotherapies, including oncolytic virotherapy and viral vector vaccines. This comprehensive overview provides a theoretical foundation for optimizing immunotherapeutic strategies that leverage viral components to enhance anti-tumor immunity and overcome immune resistance.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암의 면역 기반 환경(TIME)과 바이러스 간의 복잡한 상호 작용이 암의 발생, 진행 및 면역 치료에 미치는 영향을 조사하고 있습니다. 바이러스는 암 세포를 직접 감염시키고 면역 세포의 기능을 조절하며 cytokine 네트워크를 재구성하여 TIME의 구성과 기능을 변화시킵니다. 이는 면역 치료의 효과를 저해하는 바이러스의 유전자 유전자를 이용한 치료법과 바이러스 벡터 백신의 잠재적인 치료 효과와 제약을 설명합니다.",
+      "methods": "이 논문은 최근의 단일 세포 omics, 공간적 트랜스포트 메트로닉스 및 임상 연구의 발전을 활용하여 바이러스가 TIME에 미치는 영향을 조사합니다. 이는 바이러스와 TIME 간의 기본적인 작용 메커니즘을 이해하는데 초점을 맞추고 있습니다.",
+      "quantitative_results": "이 논문에서는 바이러스 감염이 TIME에 미치는 영향을 조사하고 있습니다. 이는 바이러스 감염이 TIME의 구성과 기능에 미치는 영향을 조사하고 있습니다.",
+      "novelty": "이 논문은 바이러스와 TIME 간의 복잡한 상호 작용을 이해하고 이를 이용하여 암 치료를 개선하는 데 초점을 맞추고 있습니다. 이는 기존 연구에서 보지 못한 새로운 측면을 제공합니다.",
+      "limitations": "이 논문은 바이러스와 TIME 간의 상호 작용에 대한 근본적인 작용 메커니즘을 이해하는데 초점을 맞추고 있습니다. 이는 바이러스 감염이 TIME에 미치는 영향을 조사하고 있습니다. 이는 바이러스 감염이 TIME의 구성과 기능에 미치는 영향을 조사하고 있습니다.",
+      "future_research": "이 논문은 바이러스 유전자 유전자를 이용한 암 치료법과 바이러스 벡터 백신의 잠재적인 치료 효과와 제약을 이해하는데 초점을 맞추고 있습니다. 이는 후속 연구를 통해 더 깊이 이해하고 개선할 수 있습니다."
+    }
   },
   {
     "id": "doi:10.20944/preprints202610.1944.v1",
@@ -2543,7 +2581,15 @@
     "pmcid": "PMC13740942",
     "url": "https://europepmc.org/articles/PMC13740942",
     "abstract": "Patient-derived tumor organoids (PDOs) closely preserve the cellular heterogeneity, histopathology, and molecular features of the original tumors, making them powerful preclinical models. Antisense oligonucleotides (ASOs) are an emerging class of precision medicines that modulate gene expression at the RNA level with high target specificity, yet their application in organoid systems remains underexplored. Here, we adapted previously described protocols to establish a biobank of prostate cancer (PC) PDOs, achieving a high initial growth success rate (>90%). Histological and molecular analyses confirmed the preservation of key tumor features. Using these models, we assessed several ASOs, with particular emphasis on OGX-427 (Apatorsen), an ASO targeting heat shock protein 27 (HSP27) that has been evaluated in phase I/II clinical trials. While OGX-427 effectively suppressed HSP27 expression and inhibited cell growth in 2D cultures, its efficacy was markedly limited in 3D organoids, likely due to extracellular matrix and structural barriers. Removing Matrigel and applying single-cell transfection overcame these barriers, achieving efficient ASO uptake, significant target protein downregulation, and robust, dose-dependent inhibition of organoid growth. These findings underscore the utility of PDOs for evaluating ASO-based therapies and their potential to accelerate precision oncology strategies for PC and other malignancies.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 프로테스암 환자로부터 유래된 조직 별관 (PDOs)을 사용하여 암 치료제인 아나스ense 오리노클로드(ASOs)를 평가하고 개발하는 데 사용할 수 있는 유용한 모델을 개발하기 위한 것입니다. 이는 ASOs가 RNA 수준에서 유전자 발현을 조절하는 데 사용되는 새로운 약물 치료법이지만, 이들은 아직 조직 별관 시스템에서 충분히 연구되지 않았습니다.",
+      "methods": "이 연구에서는 프로테스암 환자로부터 유래된 조직 별관을 사용하여 여러 ASOs를 평가했습니다. 특히, OGX-427(아파토센)이라는 ASO를 사용하여 HSP27을 표적하는 것이 평가되었습니다. 이 ASO는 이미 임상 시험에서 검토되었습니다. 이 ASOs를 사용하여 2차원(2D) 및 3차원(3D) 조직 별관을 사용하여 ASO의 효과를 평가했습니다.",
+      "quantitative_results": "ASOs가 2D 셀 문양에서 HSP27을 효과적으로 억제하고 세포 성장을 억제하는 것을 확인했습니다. 그러나 3D 조직 별관에서는 이러한 효과가 크게 제한되었습니다. 이는 외상성 세포막과 구조적인 장벽 때문이었습니다. 이 문제를 해결하기 위해 Matrigel을 제거하고 단일 세포 전달을 사용하여 ASO의 효과를 향상시켰습니다.",
+      "novelty": "이 연구는 PDOs가 ASOs를 평가하는 데 유용한 모델이 될 수 있음을 입증했습니다. 이는 프로테스암 치료에 대한 정밀 의학 전략을 가속화할 수 있는 가능성을 열었습니다. 또한, 이 연구는 ASOs가 3D 조직 별관에서 효과가 제한된다는 것을 입증했습니다.",
+      "limitations": "이 연구는 ASOs가 3D 조직 별관에서 효과가 제한된다는 것을 입증했습니다. 그러나 이 연구는 ASOs가 2D 셀 문양에서 효과가 잘 나타났다는 것을 입증했습니다. 또한, 이 연구는 ASOs가 3D 조직 별관에서 외상성 세포막과 구조적인 장벽을 통해 효과가 제한된다는 것을 입증했습니다. 이 연구는 ASOs가 3D 조직 별관에서 외상성 세포막과 구조적인 장벽을 어떻게 제거할 수 있는지에 대한 자세한 정보를 제공하지 않았습니다.",
+      "future_research": "후속 연구는 ASOs가 3D 조직 별관에서 외상성 세포막과 구조적인 장벽을 어떻게 제거할 수 있는지에 대한 자세한 정보를 제공하는 연구를 수행해야 합니다. 또한, 이 연구는 ASOs가 3D 조직 별관에서 외상성 세포막과 구조적인 장벽을 어떻게 제거할 수 있는지에 대한 자세한 정보를 제공하지 않았습니다. 이 연구는 ASOs가 3D 조직 별관에서 외상성 세포막과 구조적인 장벽을 어떻게 제거할 수 있는지에 대한 자세한 정보를 제공하지 않았습니다."
+    }
   },
   {
     "id": "PMC:PMC13651604",
@@ -3246,7 +3292,15 @@
     "pmcid": "PMC13663791",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42837445/",
     "abstract": "Late-onset preeclampsia (LOPE) is a major pregnancy complication characterized by hypertension and placental dysfunction, resolving only upon delivery. Here, we show that LOPE placentae undergo accelerated molecular aging, marked by telomere attrition, DNA damage, and trophoblast senescence. Using primary placental tissue and trophoblast organoids, we demonstrate oxidative stress as a driver of telomere shortening and angiogenic imbalance. Inflammation did not alter placental aging trajectories. Antioxidant treatment (superoxide dismutase) preserved telomere length, reduced DNA damage, and restored angiogenic balance, highlighting oxidative stress as a modifiable determinant of placental aging. We identify reduced expression of telomeric repeat-containing RNAs (TERRAs) as a molecular hallmark of LOPE, and show that antisense oligonucleotide-mediated TERRA depletion exacerbates telomere erosion and senescence. Together, these findings delineate oxidative stress and TERRA loss as mechanisms driving placental decline, establish trophoblast organoids as a tractable model of placental aging, and reveal potential therapeutic avenues for mitigating preeclampsia-associated placental dysfunction.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 레이트-온셋 피레클라스미아(Late-onset preeclampsia)가 발생하는 임신 중기의 탄력성 저하와 세포老化를 설명하고, 이를 유발하는 주요 요인인 산화스트레스와 TERRA(RNA)의 감소를 밝혔습니다.",
+      "methods": "논문에서는 주로 임상에서 얻은 주입성 탄막 조직과 탄막 세포 유기체를 사용하여 산화스트레스가 탄력성 저하와 세포老化를 유발하는지를 확인했습니다. 또한, 산화스트레스를 줄이기 위해 산소 분해 효소를 사용하여 실험을 수행했습니다.",
+      "quantitative_results": "산화스트레스가 탄력성 저하와 세포老化를 유발하는 것을 입증하고, TERRA의 감소가 탄막 세포의 세포老化를 가속화하는 것을 입증했습니다.",
+      "novelty": "이 연구는 산화스트레스와 TERRA의 감소가 탄막의 세포老化를 유발하는 새로운 메커니즘을 제공하며, 이는 기존 연구에서 확인되지 않았던 것입니다.",
+      "limitations": "논문에서는 산화스트레스와 TERRA의 감소가 탄막의 세포老化를 유발하는 메커니즘에 대한 확실한 증거를 제공하지 않았습니다. 또한, 이 연구는 실험 모델의 한계를 가질 수 있으며, 이는 실제 임상 환경에서의 적용성을 확인하기 어렵습니다.",
+      "future_research": "이 연구는 산화스트레스와 TERRA의 감소가 탄막의 세포老化를 유발하는 메커니즘을 이해하는 데 도움이 될 수 있습니다. 그러나 이 메커니즘을 활용하여 레이트-온셋 피레클라스미아를 치료하는 새로운 치료법을 개발하기 위해서는 추가 연구가 필요합니다."
+    }
   },
   {
     "id": "doi:10.1073/pnas.2617882123",
