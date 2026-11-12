@@ -3314,7 +3314,15 @@
     "pmcid": "PMC13663790",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42837461/",
     "abstract": "Understanding the structural conformation and dynamics of nucleic acids in solution is critical for the development of nucleic acid therapeutics involving antisense or mRNA therapies, where controlling stability, efficacy, and manufacturability are important. Circular dichroism (CD) spectroscopy allows rapid and nondestructive solution analysis of the spatial arrangements of nucleic acids. While widely used to analyze protein structure, the potential of CD for DNA- and RNA-based pharmaceutical applications has remained largely unrealized because nucleic acid spectra are complex and difficult to interpret quantitatively. We introduce herein a framework (NA-CDQuant) that transforms CD from a qualitative fingerprinting method into a quantitative tool for nucleic acid structure prediction by combining spectral deconvolution with a rigorously curated synchrotron radiation circular dichroism reference library comprising 18 structurally defined conformational families. This systematic classification overcomes long-standing challenges posed by spectral overlap and structural polymorphism, enabling estimation of the fractional composition of coexisting conformations during real-time monitoring of structural transitions in solution. NA-CDQuant provides mechanistic insight into subtle conformational redistributions that may affect molecular recognition and functional performance assisting pharmaceutical development and medical application by facilitating formulation optimization, stability assessment, quality control, and regulatory support of nucleic acid-based therapeutics.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 핵산의 구조와 동태성을 정량적으로 분석하여, 암호화제나 mRNA 치료제 개발 과정에서의 안정성, 효능성, 제조가능성을 향상시키는 데 도움을 줄 수 있는 새로운 방법을 개발하고자 합니다.",
+      "methods": "이 연구에서는 NA-CDQuant 프레임워크를 개발하여, 핵산의 캐릭터를 정량적으로 예측할 수 있는 새로운 방법을 제시하였습니다. 이 프레임워크는 캐릭터 분해와 쌍광선 방사 캄드로마이저 표준화된 표본 라이브러리의 결합을 통해 핵산 구조 예측을 가능하게 합니다.",
+      "quantitative_results": "NA-CDQuant 프레임워크는 실시간 분석에서 핵산 구조 변화를 추정할 수 있으며, 이는 암호화제나 mRNA 치료제 개발 과정에서의 효율성 향상에 도움이 될 것입니다.",
+      "novelty": "이 연구는 핵산의 구조 분석에서 캐릭터 분해와 표준화된 표본 라이브러리의 결합을 통해 핵산 구조 예측을 가능하게 하는 NA-CDQuant 프레임워크를 제시하였습니다. 이는 기존 연구에서 핵산 구조 분석의 한계를 극복하는 데 기여할 것입니다.",
+      "limitations": "이 연구는 핵산 구조 분석에서의 한계를 극복하는 데 기여하였으나, 실제 실험 조건이나 결과에 대한 확인은 아직 이루어지지 않았습니다. 또한, 이 연구는 핵산 구조의 복잡성을 이해하는 데 도움이 될 수 있지만, 핵산 구조의 실제 변화를 추적하는 데는 한계가 있습니다.",
+      "future_research": "후속 연구에서는 NA-CDQuant 프레임워크의 실제 적용을 위한 실험을 수행하여, 이 프레임워크가 암호화제나 mRNA 치료제 개발 과정에서의 효율성을 향상시키는 데 실제로 도움이 되는지 확인해야 합니다. 또한, 핵산 구조의 실제 변화를 추적하는 데 필요한 추가 연구가 필요합니다."
+    }
   },
   {
     "id": "doi:10.1080/17435889.2026.2742412",
@@ -3328,7 +3336,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42836476/",
     "abstract": "Skin cancer is among the most common malignancies worldwide, with a rising global incidence. Cancer develops through complex molecular and genetic changes. Current treatments, such as surgery, chemotherapy, targeted therapy, radiation, and immunotherapy, offer hope. However, challenges like immune evasion, drug resistance, and systemic toxicities prevent long-term success. Nanotechnology-based delivery systems may offer a potential solution to these challenges. Cross-linked polymeric nanogel networks are unique nanocarriers with high drug-loading capacity, biocompatibility, stimuli-responsive release, and enhanced dermal/transdermal penetration. Preclinical studies have investigated nanogels as delivery platforms for chemotherapeutics, phytochemicals, and immunomodulators, with reported improvements in drug loading, controlled release, dermal penetration, and antitumor activity. However, the available evidence remains predominantly preclinical, and further investigation is needed to determine the clinical efficacy and safety of nanogel-based approaches in skin cancer. This review explains the molecular pathology of skin cancer, the advances and limitations of immunotherapy, and the emerging role of nanogels in cancer treatment. It highlights nanogels as a versatile platform for improving dermal and transdermal drug delivery and as a promising approach for enhancing skin cancer treatment. Further well-designed clinical studies are required to bring nanogel-based delivery system from bench to bed-side.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 피부암 치료제 개발의 최신 동향을 다루며, 특히 면역치료와 나노겔 기반의 전달 시스템의 발전에 초점을 맞추고 있습니다. 이는 피부암 치료의 장기적 성공을 위한 새로운 접근 방식을 제시하고 있습니다.",
+      "methods": "논문은 나노겔 기반의 전달 시스템의 전반적인 발전과 그에 따른 면역치료의 한계를 설명합니다. 이 시스템은 화학약물, 식물성 화합물 및 면역조절제를 전달하는 데 사용되었습니다. 이 시스템의 임상적 효능과 안전성에 대한 추가 연구가 필요하다는 점을 강조합니다.",
+      "quantitative_results": "논문에서는 나노겔 기반의 전달 시스템이 화학약물, 식물성 화합물 및 면역조절제를 효과적으로 전달하는 데 성공했다는 연구 결과를 보여주었습니다. 그러나 이 연구는 전반적으로 임상적 효능과 안전성에 대한 증거는 아직 부족하다는 점을 명시했습니다.",
+      "novelty": "논문은 나노겔 기반의 전달 시스템이 면역치료의 한계를 극복하고 피부암 치료의 새로운 접근 방식을 제시하는 데 중요한 역할을 할 수 있다는 점을 강조했습니다. 이는 기존 연구와 비교하여 새로운 접근 방식을 제시하는 것이었습니다.",
+      "limitations": "논문은 나노겔 기반의 전달 시스템의 임상적 효능과 안전성에 대한 추가 연구가 필요하다는 한계를 명시했습니다. 이는 아직 연구되지 않은 임상적 데이터를 제공하지 않았기 때문입니다.",
+      "future_research": "논문은 나노겔 기반의 전달 시스템이 피부암 치료에 더 잘 적용될 수 있도록 더 많은 임상 연구가 필요하다는 후속 연구 제안을 제시했습니다."
+    }
   },
   {
     "id": "doi:10.1111/mmi.70122",
@@ -3342,7 +3358,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42839382/",
     "abstract": "Outer surface protein A (OspA)-based Lyme disease vaccines elicit antibodies that inhibit transmission of infectious Borrelia burgdorferi spirochetes from ticks to humans, although the mechanism by which this occurs is unclear. Here we demonstrate using high-resolution, single-cell fluorescence video microscopy that B. burgdorferi motility is arrested within minutes by human OspA-specific monoclonal antibodies and polyclonal OspA antisera from mice immunized with a candidate OspA mRNA lipid nanoparticle vaccine.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 박테리아 Borrelia burgdorferi 의 이동성을 차단하는 백신이 어떻게 작동하는지에 대한 이해를 높이기 위해 수행되었습니다. 이 백신은 박테리아의 이동성을 차단하여 감염을 방지하는 백신의 효과를 입증하기 위해 백신을 접종한 동물의 혈청에서 박테리아의 이동성을 조사했습니다.",
+      "methods": "연구자는 박테리아 Borrelia burgdorferi 의 이동성을 차단하는 백신이 박테리아의 이동성을 차단하는 방식을 이해하기 위해 고해상 단일 세포 플루ores시메이션 비디오 미로스코피를 사용했습니다. 이 연구는 박테리아의 이동성을 차단하는 백신이 박테리아의 이동성을 차단하는 방식을 이해하기 위해 백신을 접종한 동물의 혈청에서 박테리아의 이동성을 조사했습니다.",
+      "quantitative_results": "연구자는 박테리아 Borrelia burgdorferi 의 이동성을 차단하는 백신이 박테리아의 이동성을 차단하는 방식을 이해하기 위해 백신을 접종한 동물의 혈청에서 박테리아의 이동성을 조사했습니다. 이 연구는 박테리아의 이동성을 차단하는 백신이 박테리아의 이동성을 차단하는 방식을 이해하기 위해 백신을 접종한 동물의 혈청에서 박테리아의 이동성을 조사했습니다.",
+      "novelty": "이 연구는 박테리아 Borrelia burgdorferi 의 이동성을 차단하는 백신이 박테리아의 이동성을 차단하는 방식을 이해하기 위해 백신을 접종한 동물의 혈청에서 박테리아의 이동성을 조사했습니다. 이 연구는 박테리아의 이동성을 차단하는 백신이 박테리아의 이동성을 차단하는 방식을 이해하기 위해 백신을 접종한 동물의 혈청에서 박테리아의 이동성을 조사했습니다.",
+      "limitations": "이 연구는 박테리아 Borrelia burgdorferi 의 이동성을 차단하는 백신이 박테리아의 이동성을 차단하는 방식을 이해하기 위해 백신을 접종한 동물의 혈청에서 박테리아의 이동성을 조사했습니다. 이 연구는 박테리아의 이동성을 차단하는 백신이 박테리아의 이동성을 차단하는 방식을 이해하기 위해 백신을 접종한 동물의 혈청에서 박테리아의 이동성을 조사했습니다.",
+      "future_research": "이 연구는 박테리아 Borrelia burgdorferi 의 이동성을 차단하는 백신이 박테리아의 이동성을 차단하는 방식을 이해하기 위해 백신을 접종한 동물의 혈청에서 박테리아의 이동성을 조사했습니다. 이 연구는 박테리아의 이동성을 차단하는 백신이 박테리아의 이동성을 차단하는 방식을 이해하기 위해 백신을 접종한 동물의 혈청에서 박테리아의 이동성을 조사했습니다."
+    }
   },
   {
     "id": "doi:10.1016/j.biomaterials.2026.124680",
@@ -3356,7 +3380,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42868838/",
     "abstract": "The localized delivery of RNA therapeutics to mineralized tissue interfaces is limited by poor retention and rapid clearance at the target site. We report the development of a solid-phase transfection platform that functionalizes mineralized surfaces into bioactive nucleic acid reservoirs. Through the rational design and screening of a library of 21 piperazine-linked bisphosphonate ionizable lipids, we identified a lead formulation of bisphosphonate lipid nanoparticle (BP-LNP) that maximizes hydroxyapatite affinity without compromising transfection potency. Upon adsorption onto mineral substrates, these BP-LNPs resisted fluid removal and maintained surface-mediated, sustained delivery of encapsulated RNA cargo to adjacent cells. We demonstrated the versatility of this Mineralized Tissue-Targeting Expression System (MiTEX) composed of BP-LNPs in two therapeutic contexts: Cre recombinase mRNA-functionalized allogeneic bone grafts to genetically label de novo bone formation in vivo, and STAT3 siRNA delivery to reduce inflammation in human gingival explants. This platform provides a universal strategy for transforming inert calcium phosphate materials and tissues into locally bioactive RNA delivery systems for regenerative and immunomodulatory applications.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 RNA 치료제의 미네랄화 조직 인터페이스로의 정확한 전달을 향상시키기 위해 새로운 플랫폼을 개발하고자 함으로써 RNA 치료의 한계를 극복하고자 함을 목표로 하고 있습니다.",
+      "methods": "이 연구에서는 21종의 피페라izin과 결합된 이산화 인산화물 전이성 지방산(LP)을 포함한 화합물 라이브러리를 사용하여 미네랄화 표면을 기능성 핵산 저장소로 전환하는 방법을 개발했습니다. 이 연구에서는 이산화 인산화물(LP)을 이용한 미네랄화 표면에 BP-LNPs를 adsorption하여 RNA 콘테이너를 유지하고 지속적으로 전달하는 방법을 확인했습니다.",
+      "quantitative_results": "이 연구에서는 이산화 인산화물(LP) 표면에 BP-LNPs를 adsorption하여 RNA 콘테이너를 유지하고 지속적으로 전달하는 방법을 확인했습니다. 이 방법은 미네랄화 조직 인터페이스에서 RNA 치료제의 정확한 전달을 향상시키는 데 사용되었습니다.",
+      "novelty": "이 연구는 이산화 인산화물(LP) 표면에 BP-LNPs를 adsorption하여 RNA 콘테이너를 유지하고 지속적으로 전달하는 방법을 개발하여 RNA 치료의 한계를 극복하는 새로운 플랫폼을 제시했습니다. 이 방법은 미네랄화 조직 인터페이스에서 RNA 치료제의 정확한 전달을 향상시키는 데 사용되었습니다.",
+      "limitations": "이 연구에서는 RNA 치료제의 정확한 전달을 향상시키는 데 사용된 BP-LNPs의 효능을 확인하지 못했습니다. 또한, 이 연구는 실험 조건과 실험 결과를 보다 넓은 범위에서 확인할 수 있도록 제안합니다.",
+      "future_research": "후속 연구에서는 이 연구에서 사용된 BP-LNPs의 효능을 더 넓은 범위에서 확인하고, 이 방법이 다양한 RNA 치료제와 미네랄화 조직 인터페이스에서의 적용성을 확인하는 것이 필요합니다."
+    }
   },
   {
     "id": "PMC:PMC13652719",
@@ -3384,7 +3416,15 @@
     "pmcid": "PMC13678489",
     "url": "https://europepmc.org/articles/PMC13678489",
     "abstract": "Proteins are a vital class of biomolecules. They play essential roles in biological processes, including building cellular structures, forming cellular channels and receptors, catalyzing biological reactions, transporting molecules, and contributing to immune defense mechanisms. Advances in protein engineering have enabled the genetic modification of naturally occurring proteins, using recombinant deoxyribonucleic acid (DNA) technology, leading to the development of therapeutic proteins with enhanced specificity, stability, and clinical performance. Despite the rapid growth of engineered biologics, a comprehensive understanding of how these innovations intersect with precision medicine remains limited. This review addresses this gap by summarizing the major contemporary approaches used in therapeutic protein engineering, including directed evolution, rational design, and de novo protein design, and by analyzing their roles in enabling patient-tailored interventions. It provides an integrated overview of the clinical applications of engineered therapeutic proteins across key medical fields, supported by a list of U.S. Food and Drug Administration- and European Medicines Agency-approved protein therapeutics from 2020 to 2025. The review further provides a comparative perspective on major protein engineering strategies, highlighting their relative advantages and limitations, while examining differences in clinical translation across major disease areas. By combining technological advances with disease-specific applications, this review offers a perspective that has not been fully developed in the literature. Finally, the review discusses the current challenges affecting the implementation of precision medicine, including immunogenicity, regulatory constraints, and ethical considerations, and outlines future directions, such as artificial intelligence-guided protein design, targeted protein degradation, and personalized vaccine development. Collectively, these insights highlight the expanding role of engineered proteins in shaping the next-generation of precision therapeutics and emphasize the growing importance of integrating multidisciplinary approaches to advance therapeutic innovation in modern clinical practice.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 엔지니어링된 단백질 치료제의 발전과 응용 분야를 살펴보고, 그들이 정밀의학의 역할을 강화하는 방향으로 연구를 이끌어 나가기 위한 방향을 제시합니다.",
+      "methods": "이 연구는 단백질 엔지니어링의 주요 현대 접근법, 즉 유도 진화, 논리적 설계 및 신생 단백질 설계를 요약하고, 이러한 접근법이 환자 맞춤형 개입을 가능하게 하는 역할을 분석합니다.",
+      "quantitative_results": "이 논문은 2020년부터 2025년까지 미국 식품의약국과 유럽 의약품청이 승인한 단백질 치료제 목록을 제공하며, 이는 정밀의학의 발전을 보여줍니다.",
+      "novelty": "이 논문은 기존 연구에서 볼 수 없었던 차별화된 관점을 제공하며, 예를 들어 인공 지능을 기반으로 한 단백질 설계, 단백질 분해, 개인화된 백신 개발 등 미래 연구 방향을 제시합니다.",
+      "limitations": "이 연구는 기존 연구에서 확인할 수 없는 정보가 포함되어 있으며, 예를 들어, 특정 단백질의 면역성에 대한 정보는 논문에서 확인할 수 없습니다. 또한, 이 연구는 단백질 엔지니어링의 전체적인 역할을 다루지 않았습니다.",
+      "future_research": "이 논문은 정밀의학의 구현에 대한 현재의 도전 사항, 예를 들어 면역성, 규제 제약, 윤리적 고려사항을 다루며, 이는 후속 연구의 방향을 제시합니다. 예를 들어, 인공 지능을 기반으로 한 단백질 설계, 단백질 분해, 개인화된 백신 개발 등이 될 수 있습니다."
+    }
   },
   {
     "id": "doi:10.3389/fimmu.2026.1950465",
