@@ -1,5 +1,171 @@
 [
   {
+    "id": "PMC:PMC13752843",
+    "title": "Orthogonal ensemble and single-particle characterisation of antisense oligonucleotide lipid nanoparticles",
+    "topic": "Nucleic acids",
+    "date": "2026-11-12",
+    "journal": "",
+    "authors": "Davidson C, Rae P, Ioannou S, Perrie Y, Rattray Z.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13752843",
+    "url": "https://europepmc.org/articles/PMC13752843",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.neuron.2026.10.013",
+    "title": "Antisense oligonucleotide silencing rescues neurodevelopmental deficits in AMPA receptor gain-of-function mice.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-11",
+    "journal": "",
+    "authors": "Chen CM, Huang YM, Chung CC, Johnson RC, Tsai CY, Chen YH, Tan HL, Hsiao FY, Huganir RL, Chiu SL.",
+    "doi": "10.1016/j.neuron.2026.10.013",
+    "pmid": "43014310",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43014310/",
+    "abstract": "AMPA receptors (AMPARs) mediate fast excitatory synaptic transmission and are essential for neuronal development and brain function. We investigated the role of a recurrent AMPAR GluA1 variant (GRIA1 p.A636T) identified in individuals with autism spectrum disorder (ASD) and intellectual disability (ID). Using a Gria1-A636T knock-in mouse model, we show that this variant is sufficient to produce core ASD/ID-like behaviors and cause selective hippocampal vulnerability characterized by progressive dendritic atrophy and neuronal loss. Despite a reduction in GluA1-containing complexes, synaptic AMPARs exhibit hyperexcitability and fail to transition from calcium-permeable to calcium-impermeable AMPARs during development, resulting in persistent excitotoxicity. To explore potential therapeutic interventions, we developed an allele-specific antisense oligonucleotide (ASO) to selectively silence the mutant transcript. A single neonatal ASO dose prevents hippocampal pathology and rescues behavioral deficits. These findings define a mechanism of developmental excitotoxicity driven by a GRIA1 gain-of-function channelopathy and support RNA-targeted precision therapy for AMPAR-related neurodevelopmental disorders.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 AMPA 수용체 GluA1 변이 GRIA1 p.A636T이 인지 기능 장애와 뇌 기능에 미치는 영향을 조사하고, 이를 해결하기 위한 새로운 치료법을 제시합니다. 이 연구는 AMPAR 관련 신경발달 장애를 치료하는 데 대한 새로운 접근법을 제시합니다.",
+      "methods": "연구팀은 Gria1-A636T 변이를 가진 AMPAR 수용체를 가진 마우스 모델을 사용하여 이 변이가 인지 기능 장애와 뇌 기능에 미치는 영향을 조사했습니다. 이를 위해, 변이를 가진 mRNA을 선택적으로 억제하기 위한 유전자 선택적 아노센스 오lig오드(ASO)를 개발했습니다. 이 ASO는 신생기의 한 번의 치료를 통해 뇌의 손상과 행동 기능의 회복을 가능하게 했습니다.",
+      "quantitative_results": "ASO는 변이 mRNA을 선택적으로 억제하여, AMPAR의 과도한 활성화와 뇌 손상의 회복을 가능하게 했습니다. 이 ASO는 한 번의 치료만으로도 뇌 손상과 행동 기능의 회복을 가능하게 했습니다.",
+      "novelty": "이 연구는 AMPAR 관련 신경발달 장애를 치료하는 데 대한 새로운 접근법을 제시합니다. 이 연구는 AMPAR 관련 신경발달 장애를 치료하는 데 대한 RNA 타겟 기반의 정밀 치료법을 제시합니다.",
+      "limitations": "이 연구는 Gria1-A636T 변이가 인지 기능 장애와 뇌 기능에 미치는 영향을 조사하는 데에 초점을 맞추고 있습니다. 그러나 이 연구는 Gria1-A636T 변이가 인지 기능 장애와 뇌 기능에 미치는 영향을 조사하는 데에 초점을 맞추고 있습니다. 이 연구는 Gria1-A636T 변이가 인지 기능 장애와 뇌 기능에 미치는 영향을 조사하는 데에 초점을 맞추고 있습니다.",
+      "future_research": "후속 연구는 이 ASO의 안전성과 효과를 더 깊이 연구하고, 이 ASO가 다른 유형의 AMPAR 관련 신경발달 장애에서도 효과적인지 확인하는 것이 필요합니다."
+    }
+  },
+  {
+    "id": "doi:10.1002/adhm.71963",
+    "title": "Engineered Milk-Derived Extracellular Vesicles Integrate PCSK9 Silencing and Inflammation Modulation for Hyperlipidemia Therapy.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-11",
+    "journal": "",
+    "authors": "Li Q, Lu X, Liu Q, Liu H, Ye Y, Cui Y, Liu C, Aili G, Liu Y, Feng H, Xu A, Liang L, Yu M, Nie D, Gan Y.",
+    "doi": "10.1002/adhm.71963",
+    "pmid": "43012445",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43012445/",
+    "abstract": "Hyperlipidemia is a systemic metabolic disorder closely associated with chronic inflammation. Effective management requires integrated strategies that simultaneously lower lipid level and attenuate inflammation. Nucleic acid therapeutics, such as proprotein convertase subtilisin/kexin type 9 (PCSK9) siRNA, represent a breakthrough in lipid-lowering therapy. However, they either lack direct anti-inflammatory effects (GalNAc-siRNA) or are prone to triggering unintended inflammatory responses themselves such as lipid nanoparticles (LNPs). Milk-derived extracellular vesicles (MDEs) emerge as naturally anti-inflammatory nanocarriers that suppress key pro-inflammatory cytokines by 30.0%-96.5% in vitro. However, MDEs predominantly undergo endocytic trafficking with substantial endosomal/lysosomal sequestration, which can limit productive cytosolic siRNA delivery. To address this, we developed engineered MDEs by incorporating 30.0% (w/w) probiotic-derived glycolipids into their membranes to facilitate early endosomal escape. When loaded with PCSK9 siRNA, the engineered MDEs achieved a remarkable silencing efficiency of 90.2 ± 0.2%, significantly outperforming both unmodified MDEs and conventional LNPs. In hyperlipidemic mice, systemic administration of engineered MDEs improved serum lipid profiles, reduced lipid accumulation and systemic inflammation, and showed a favorable safety profile under the conditions examined. Collectively, this work provides a promising nucleic acid delivery platform based on engineered MDEs for enhanced hyperlipidemia therapy through simultaneous lipid-lowering and anti-inflammatory effects.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 고지방혈증 치료를 위한 새로운 플랫폼을 제공하고자 합니다. 고지방혈증은 지속적인 염증과 밀접한 관련이 있으며, 이를 효과적으로 관리하기 위해서는 지방 수치를 낮추는 동시에 염증을 감소시키는 전략이 필요합니다. 이 연구는 단백질, 핵산, 면역학, 약물 전달 분야의 연구자들이 고지방혈증 치료를 위한 새로운 플랫폼을 개발하고자 합니다.",
+      "methods": "이 연구에서는 유자유에서 얻은 외상성 세포분해체(MDE)를 기반으로 한 엔지니어드 MDE를 개발했습니다. 이 MDE는 PCSK9 siRNA를 포함하여 염증을 감소시키는 효과를 가진다는 점에서 기존의 MDE와 달랐습니다. 이 MDE는 단백질, 핵산, 면역학, 약물 전달 분야의 연구자들이 고지방혈증 치료를 위한 새로운 플랫폼을 개발하고자 합니다.",
+      "quantitative_results": "이 연구는 엔지니어드 MDE가 PCSK9 siRNA를 효과적으로 전달할 수 있다는 것을 보여주었습니다. 엔지니어드 MDE는 PCSK9 siRNA를 포함하여 90.2 ± 0.2%의 효율성을 보였습니다. 이는 기존의 MDE와 전통적인 뉴클레오타이드 입자(NLPS)보다 훨씬 높았습니다. 이 연구는 고지방혈증 동물 모델에서 엔지니어드 MDE를 통해 혈액 중 지방 수치를 낮추고 염증을 감소시키는 효과를 보였습니다.",
+      "novelty": "이 연구는 기존 연구 대비 엔지니어드 MDE를 통해 단백질, 핵산, 면역학, 약물 전달 분야의 연구자들이 고지방혈증 치료를 위한 새로운 플랫폼을 개발할 수 있다는 점에서 차별점이 있습니다. 이 연구는 엔지니어드 MDE를 통해 단백질, 핵산, 면역학, 약물 전달 분야의 연구자들이 고지방혈증 치료를 위한 새로운 플랫폼을 개발할 수 있다는 점에서 차별점이 있습니다.",
+      "limitations": "이 연구는 고지방혈증 동물 모델에서 엔지니어드 MDE를 통해 혈액 중 지방 수치를 낮추고 염증을 감소시키는 효과를 보였다는 점을 확인했습니다. 그러나 이 연구는 고지방혈증 환자에서의 실제 효과를 확인하지 않았습니다. 또한, 이 연구는 엔지니어드 MDE의 안전성과 효과성에 대한 추가적인 연구가 필요하다는 점을 확인했습니다.",
+      "future_research": "이 연구는 고지방혈증 치료를 위한 새로운 플랫폼을 개발하는 데 있어 중요한 단계였습니다. 그러나 이 연구는 고지방혈증 환자에서의 실제 효과를 확인하기 위해 추가적인 연구가 필요합니다. 또한, 이 연구는 엔지니어드 MDE의 안전성과 효과성에 대한 추가적인 연구가 필요하다는 점을 확인했습니다."
+    }
+  },
+  {
+    "id": "doi:10.1080/10837450.2026.2759087",
+    "title": "Green development of Cefuroxime-Loaded Chitosan Nanoparticle Microneedles using citric acid crosslinker: A New Approach for targeted Ocular Infection.",
+    "topic": "Drug delivery",
+    "date": "2026-11-11",
+    "journal": "",
+    "authors": "Almasri L, Zaid Alkilani A, Swellmeen L.",
+    "doi": "10.1080/10837450.2026.2759087",
+    "pmid": "43013720",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43013720/",
+    "abstract": "This study aims to develop chitosan nanoparticles containing cefuroxime sodium, a BCS class 3 drug, which was encapsulated into the nanoparticles using a gelation method and then loaded into dissolving microneedles (DMNs) to enable ocular drug delivery. The nanoparticle formula contained chitosan, citric acid, cefuroxime sodium, and Pluronic F127 at a ratio of (1:1:1:0.05) and exhibited a particle size of 509.97 ± 0.47 nm, and entrapment efficiency (EE%) of 44.94%. The DMNs, prepared by the casting method, was fabricated from carboxymethyl cellulose sodium, sucrose, and polyvinylpyrrolidone, exhibited excellent mechanical strength. The nanoparticle-loaded DMNs successfully penetrated the corneal layer, with a cumulative drug delivery of 75.32 µg/cm2, which was significantly higher than that of DMNs loaded with conventional cefuroxime sodium. The nanoparticle formulation and the conventional cefuroxime sodium formulation had the same minimum inhibitory concentration of 0.90 µg/mL against Staphylococcus aureus, indicating that the pharmacological action was conserved. Additionally, compared to the conventional cefuroxime sodium (2.88 ± 0.05 cm), the nanoparticle formulation showed a noticeably broader inhibitory zone (3.48 ± 0.05 cm), suggesting an increase in antibacterial diffusion. In conclusion, the fabricated DMNs demonstrated sufficient mechanical strength to effectively penetrate the cornea and dissolve rapidly, which highlights their potential as a promising strategy for ocular drug delivery.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 총균열 카로티산 나노입자에 카페도xac신을 포함시켜 시각용 약물 전달을 위한 새로운 접근법을 개발하고자 함으로써, 시각용 감염에 대한 효과적인 약물 전달을 목표로 하고 있습니다.",
+      "methods": "연구는 카로티산, 카페도xac신, 카로티산, 플루로킨 F127, 카로티산, 카페도xac신, 카로티산, 플루로킨 F127의 비율이 (1:1:1:0.05)인 카로티산 나노입자에 카페도xac신을 포함시켜 제작되었습니다. 이 나노입자는 카로티산, 설탕, 폴리에틸렌글리콜을 사용하여 제작되었습니다. 또한, 카로티산 나노입자는 카페도xac신을 포함한 전통적인 카로티산 나노입자에 비해 더 높은 카페도xac신 전달량을 나타냈습니다.",
+      "quantitative_results": "연구 결과, 카로티산 나노입자는 509.97 ± 0.47 nm의 평균 입자 크기를 가졌으며, 카페도xac신의 펄린엔트리엔지(EE%)는 44.94%였습니다. 또한, 카로티산 나노입자는 카페도xac신을 포함한 전통적인 카로티산 나노입자에 비해 더 높은 카페도xac신 전달량을 나타냈습니다. 또한, 카로티산 나노입자는 카페도xac신의 전통적인 카로티산 나노입자에 비해 더 넓은 항균 영역을 나타냈습니다.",
+      "novelty": "이 연구는 카로티산 나노입자에 카페도xac신을 포함시켜 시각용 약물 전달을 위한 새로운 접근법을 개발한 것입니다. 이 연구는 카로티산 나노입자에 카페도xac신을 포함시켜 시각용 감염에 대한 효과적인 약물 전달을 위한 새로운 접근법을 개발한 것입니다.",
+      "limitations": "이 연구는 카로티산 나노입자에 카페도xac신을 포함시켜 시각용 약물 전달을 위한 새로운 접근법을 개발한 것입니다. 이 연구는 카로티산 나노입자에 카페도xac신을 포함시켜 시각용 감염에 대한 효과적인 약물 전달을 위한 새로운 접근법을 개발한 것입니다. 이 연구는 카로티산 나노입자에 카페도xac신을 포함시켜 시각용 감염에 대한 효과적인 약물 전달을 위한 새로운 접근법을 개발한 것입니다.",
+      "future_research": "후속 연구는 카로티산 나노입자에 카페도xac신을 포함시켜 시각용 약물 전달을 위한 새로운 접근법을 개발하는 것에 대한 추가 연구를 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.1016/j.anai.2026.11.002",
+    "title": "CRISPR, mRNA, and Beyond: Nucleic Acid Therapeutics in Allergy and Immunology.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-10",
+    "journal": "",
+    "authors": "Schauberger EM, Phillips JA.",
+    "doi": "10.1016/j.anai.2026.11.002",
+    "pmid": "43009097",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43009097/",
+    "abstract": "The management of allergic and immunologic diseases has long centered on symptom management rather than disease modification. Conventional pharmacotherapy controls manifestations of the immune dysregulation but does little to treat the underlying cause. Newer monoclonal and small molecule therapies target downstream effectors of the type 2 inflammatory cascade, and allergen immunotherapy, while disease-modifying, requires years of administration for effect. Nucleic acid therapies represent a different approach that intervenes at the level of genetic information itself, at the DNA, RNA, or protein-production step. This includes mRNA treatments that direct cells to produce therapeutic proteins or modify allergen-specific immune responses; antisense oligonucleotides and small interfering RNAs that selectively silence disease genes; adeno-associated viral vectors for sustained gene delivery; and CRISPR-based systems that permanently edit the genome. Several technologies have advanced to clinical proof of concept including a CRISPR gene-editing therapy (lonvoguran ziclumeran) that reduced hereditary angioedema attacks by 87% compared with placebo in a randomized controlled trial. An inhaled DNAzyme targeting the intracellular transcription factor GATA3 attenuated allergen-induced late asthmatic responses by 34% in humans, and CD19 CAR-T cell therapy induced drug-free remission in severe autoimmune disease. As of 2025, 24 oligonucleotide therapeutics have received FDA approval, including donidalorsen, the first RNA-targeted prophylactic therapy approved for hereditary angioedema. This review examines each therapeutic technology, its mechanism and delivery strategy, and the evidence relevant to allergic and immunologic disease. Persistent challenges, including delivery beyond the liver, immune responses to viral vectors, and the need for long-term safety data, are addressed alongside a proposed integration with existing treatment paradigms.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 알레르기 및 면역학 질환을 관리하는 기존 방법에 대한 불만족을 해결하기 위해, 유전자 정보를 직접 개입하는 유전酸 치료법의 잠재력을 조명하고 있습니다. 이러한 유전酸 치료법은 유전자 정보를 개입하여 유전병을 치료하거나 알레르기 반응을 수정하는 기술입니다.",
+      "methods": "논문은 CRISPR 기반의 유전자 수정 치료법, mRNA 치료법, 아 antisense oligonucleotide 및 small interfering RNA 치료법, adenovirus 기반의 유전자 전달 치료법 등 다양한 유전酸 치료법의 기초적 증명을 소개합니다. 또한, 이들 치료법의 작용 메커니즘과 전달 전략에 대해 설명합니다.",
+      "quantitative_results": "논문은 CRISPR 기반의 유전자 수정 치료법이 환자에게 약물 없이 중증 자가면역 질환을 치료할 수 있는 능력을 보여주며, adenovirus 기반의 유전자 전달 치료법이 알레르기 반응을 감소시키는 능력을 보여줍니다.",
+      "novelty": "이 논문은 기존 연구에서 보고되지 않은 유전자 정보를 직접 개입하는 유전자 수정 치료법의 잠재력을 소개하며, 이러한 유전자 정보를 개입하는 유전자 치료법이 기존 치료법보다 더 효과적일 수 있다는 새로운 관점을 제시합니다.",
+      "limitations": "논문은 유전병을 치료하는 유전자 치료법의 장단점을 논의하며, 유전병을 치료하는 유전자 치료법이 아직 안전성과 효과성을 입증하지 못한 점을 지적합니다. 또한, 유전병을 치료하는 유전자 치료법이 유전자 정보를 직접 개입하기 때문에, 유전자 정보를 개입하는 유전자 치료법이 유전자 정보를 개입하지 않는 기존 치료법보다 더 많은 유전적 변화를 초래할 수 있다는 점도 지적합니다.",
+      "future_research": "이 논문은 유전병을 치료하는 유전자 치료법의 잠재력을 더 잘 이해하기 위해, 유전자 정보를 개입하는 유전자 치료법의 안전성과 효과성을 더 깊이 연구해야 함을 제안합니다. 또한, 유전자 정보를 개입하는 유전자 치료법이 유전자 정보를 개입하지 않는 기존 치료법보다 더 많은 유전적 변화를 초래할 수 있다는 점을 고려하여, 유전자 정보를 개입하는 유전자 치료법이 유전자 정보를 개입하지 않는 기존 치료법과의 조합을 연구해야 함을 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.1093/bioinformatics/btag815",
+    "title": "BIOREDIS: an integrated platform for end-to-end design of nucleic acid therapeutics.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-10",
+    "journal": "",
+    "authors": "Kubis J, Boinski P, Antczak M, Figlerowicz MM, Szachniuk M, Figiel M.",
+    "doi": "10.1093/bioinformatics/btag815",
+    "pmid": "43009219",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43009219/",
+    "abstract": "Motivation Developing state-of-the-art RNA- and DNA-based therapeutics requires advanced computational frameworks that support the entire workflow - from biological rationale to the final drug construct - enabling tissue- and cell-specific targeting with high precision. Existing bioinformatics tools provide only partial solutions and rarely generate designs directly suitable for synthesis or preclinical evaluation. To address these limitations, we present BIOREDIS, a web-based platform for comprehensive nucleic acid therapeutic design. Results BIOREDIS integrates curated data from nine major biological resources and incorporates modules for coding sequence optimization, RNA interference (shRNA/siRNA) design, promoter/UTR selection, and automated construction of viral (AAV, lentiviral), non-viral, and mRNA vaccine vectors. The platform supports designs for human, mouse, and rat, with tissue-specific promoter recommendations available for human and mouse, and advanced cell-expression profiling natively restricted to human. BIOREDIS demonstrates competitive performance in coding sequence optimization and RNAi prediction, while uniquely providing an end-to-end workflow from target selection to fully specified next-generation DNA or RNA therapeutic constructs ready for synthesis and experimental validation. Availability BIOREDIS is freely available at https://rnadrug.ichb.pl/bioredis, with a mirror site at https://bioredis.cs.put.poznan.pl. Supplementary information Supplementary data are available at Bioinformatics online.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 RNA-와 DNA 기반의 신약을 개발하기 위한 고급 계산적 기반을 제공하고, 이는 유전체학적 근거에서부터 최종 약물 구조까지의 전 과정을 지원합니다. 이를 통해 특정 조직과 세포에 대한 정확한 지시가 가능합니다.",
+      "methods": "BIOREDIS는 네이크로산 치료제 설계를 위한 전문적인 네이크로산 기반 자원의 총합을 통합하고, 코드 시퀀스 최적화, RNA 인터럽트 디자인, 프로모터/UTR 선택, 그리고 바이러스(AAV, lentiviral), 비바이러스, mRNA 백신 벡터의 자동 구축을 포함합니다. 이 플랫폼은 인간, 고양이, 개를 위한 설계를 지원하며, 인간과 고양이는 조직별 프로모터 추천이 가능합니다.",
+      "quantitative_results": "BIOREDIS는 코드 시퀀스 최적화와 RNAi 예측에서 경쟁력을 보여주며, 유일하게 목표 선택부터 최종 세대 DNA 또는 RNA 치료제 구조까지의 전 과정을 지원합니다. 이는 제조와 실험적 검증을 위한 준비가 되어 있습니다.",
+      "novelty": "기존의 bioinformatics 도구는 부분적인 해결책을 제공하며, 설계를 직접 제조 또는 임상 평가에 사용할 수 있는 설계를 생성하는 데는 흔하지 않습니다. 이 논문은 이러한 제한을 극복하기 위해 BIOREDIS를 제안합니다. 이 플랫폼은 인간, 고양이, 개를 위한 설계를 지원하며, 인간과 고양이는 조직별 프로모터 추천이 가능합니다.",
+      "limitations": "BIOREDIS는 인간과 고양이에 대한 세포-표현학적 프로파일링을 기본적으로 제한합니다. 이는 현재 데이터에 대한 제한이기 때문에 확인할 수 없습니다. 이 연구는 단순히 기술적 제안을 제시하며, 실제 실험 결과와 추가 연구가 필요합니다.",
+      "future_research": "후속 연구는 BIOREDIS 플랫폼을 사용하여 다양한 유전자 치료제의 개발을 위한 추가 연구를 제안합니다. 이는 특히 비바이러스, 비RNA, mRNA 백신 벡터의 설계와 제조에 대한 더 깊은 이해를 제공할 것입니다."
+    }
+  },
+  {
+    "id": "doi:10.1093/ajrcmb/aanag222",
+    "title": "RNA-binding proteins as emerging regulators in interstitial lung diseases.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-10",
+    "journal": "",
+    "authors": "Mahavadi P, Guenther A.",
+    "doi": "10.1093/ajrcmb/aanag222",
+    "pmid": "43006853",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43006853/",
+    "abstract": "RNA-binding proteins (RBPs) are emerging as critical post-transcriptional regulators that control multiple stages of RNA life cycle, thereby linking post-transcriptional programs to cellular function. Increasing evidence implicates dysregulated RBP-RNA interactions in key pathological mechanisms underlying interstitial lung diseases (ILDs), including epithelial injury, fibroblast activation, immune dysregulation and impaired tissue repair. In idiopathic pulmonary fibrosis (IPF), cytoplasmic retention of the RBP Fused in Sarcoma (FUS) in patient derived fibroblasts is associated with preferential binding to profibrotic transcripts, while antisense oligonucleotide mediated suppression of FUS attenuates fibrotic signaling and enhances epithelial regenerative programs in cellular, ex vivo and 3D models. Emerging findings across ILD subtypes suggest that RBP dysregulation may represent a broader post-transcriptional phenomenon. Here, we review the principles governing RBP-RNA interactions, approaches for identifying and measuring these interactions and the links between RBPs, aging and lung pathology. We further discuss the emerging role of RBPs as post-transcriptional orchestrators of ILD pathogenesis and consider their potential as therapeutic targets.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1186/s11671-026-05120-5",
+    "title": "Bibliometric analysis of nanotechnology research in acute kidney injury and emerging trends.",
+    "topic": "Drug delivery",
+    "date": "2026-11-10",
+    "journal": "",
+    "authors": "Zhang Y, Wang K, Wang H, Yan R, Gui H, Man J, Yang L.",
+    "doi": "10.1186/s11671-026-05120-5",
+    "pmid": "43007496",
+    "pmcid": "PMC13751890",
+    "url": "https://europepmc.org/articles/PMC13751890",
+    "abstract": "Aim This study aimed to systematically characterize the global research landscape, knowledge structure, and thematic evolution of nanotechnology research in acute kidney injury (AKI) using bibliometric and visualization approaches. Materials & methods Publications were retrieved from the Web of Science Core Collection for the period up to December 31, 2025. After eligibility and relevance screening, 705 publications were included. CiteSpace, VOSviewer, Bibliometrix, and GraphPad Prism were used to analyze publication trends, contributions of countries, institutions, authors, and journals, collaboration and co-citation networks, highly cited references, and keyword patterns. Results Publication output increased substantially over the study period, particularly in recent years. China contributed the largest number of publications, followed by the United States, while institutional output was concentrated predominantly in China. Collaboration networks demonstrated extensive but uneven connections across countries and institutions. Journal of Controlled Release was the most productive journal, whereas Kidney International was the most highly co-cited journal. The most frequent keywords were \"acute kidney injury,\" \"nanoparticles,\" and \"oxidative stress.\" Temporal analyses showed a gradual evolution from broad experimental and imaging-related applications toward greater emphasis on oxidative stress, reactive oxygen species, therapeutic delivery, and mechanism-oriented nanotechnology. Ferroptosis also appeared among the more recent trend topics. Conclusion Nanotechnology research in AKI has expanded into an increasingly interdisciplinary field integrating nephrology, materials science, nanomedicine, and drug-delivery research. Current themes emphasize oxidative injury, targeted delivery, and increasingly mechanism-oriented nanoplatforms. Future research should prioritize rigorous evaluation of targeting performance, pharmacokinetics, biosafety, reproducibility, and translational feasibility to determine the clinical value of emerging nanotechnology strategies for AKI.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/anie.4133117",
+    "title": "Evolution-Inspired Multi-Objective Bayesian Optimization for Protein Engineering.",
+    "topic": "Protein",
+    "date": "2026-11-08",
+    "journal": "",
+    "authors": "Wen K, Wang S, Sun Y, Li S, Wang M, Liu H, Li Q, Zhu J.",
+    "doi": "10.1002/anie.4133117",
+    "pmid": "42999972",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42999972/",
+    "abstract": "Protein engineering requires efficient navigation of vast sequence spaces under limited evaluation budgets, especially when multiple properties must be optimized simultaneously. We developed evolution-inspired multi-objective Bayesian optimization (EvoMOBO), an active-learning framework that integrates path-dependent sequence generation, global candidate competition, and explicit multi-objective optimization, enabling efficient prioritization of high-value variants without exhaustive library enumeration. Compared with state-of-the-art methods on complete steroid receptor DNA-binding domain (DBD) and ParD3 antitoxin landscapes, EvoMOBO achieved greater target-region enrichment while maintaining sequence diversity across two- and three-objective tasks. In the DBD landscape, optimization guided by simulation-derived geometric descriptors enriched variants with satisfactory experimental performance without experimental labels. Building on this validation, we applied EvoMOBO to two enzyme-engineering tasks using mechanistic descriptors, with experiments reserved for final validation. For an old yellow enzyme from Geobacillus kaustophilus, probabilities of substrate binding and reaction preorganization guided optimization of a non-native oxidative dehydrogenation, yielding a variant that increased substrate conversion from 17.5% to 95%. For a formate oxidase from Aspergillus oryzae, stability-related descriptors identified aggregation-resistant variants that nearly doubled diethyl phthalate degradation in a photoenzymatic cascade. Together, these results demonstrate robust multi-objective optimization by EvoMOBO and show that mechanism-derived descriptors can effectively guide protein engineering toward experimentally improved functions.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.64898/2026.11.05.763588",
     "title": "siRNA/mRNA payload of lipid nanoparticles quantified using fluorescence microscopy and correlation spectroscopy",
     "topic": "Nucleic acids",
@@ -42,6 +208,20 @@
       "limitations": "이 연구는 아직 카디아바이오틱스 치료에 대한 정확한 결과는 아직 확인되지 않았습니다. 또한, 이 연구는 임상 데이터를 사용하여 RNA-Targeted Therapeutics의 카디아바이오틱스 치료에 대한 효과를 평가했습니다. 그러나 임상 데이터는 항상 정확하지 않을 수 있습니다. 이 연구는 후속 연구를 제안합니다.",
       "future_research": "RNA-Targeted Therapeutics가 카디아바이오틱스 치료에서 중요한 역할을 할 수 있는 가능성을 보여주었습니다. 그러나 이 연구는 임상 데이터를 사용하여 RNA-Targeted Therapeutics의 카디아바이오틱스 치료에 대한 효과를 평가했습니다. 그러나 임상 데이터는 항상 정확하지 않을 수 있습니다. 이 연구는 후속 연구를 제안합니다."
     }
+  },
+  {
+    "id": "doi:10.2147/ijn.s649666",
+    "title": "Nanocarrier-Mediated Immunotherapy for Gynecological Malignancies: Mechanisms, Clinical Translation, and Emerging Nucleic Acid-Based Strategies.",
+    "topic": "Drug delivery",
+    "date": "2026-11-06",
+    "journal": "",
+    "authors": "Fu M, Zhao R, Cao Y, Nan Y, Fan L, Liu Z.",
+    "doi": "10.2147/ijn.s649666",
+    "pmid": "43011477",
+    "pmcid": "PMC13750141",
+    "url": "https://europepmc.org/articles/PMC13750141",
+    "abstract": "Gynecological cancers, including ovarian, cervical, and endometrial cancers, remain major contributors to female morbidity and mortality worldwide. Conventional treatments-surgery, chemotherapy, and radiotherapy-have improved outcomes, but advanced or recurrent disease is still associated with poor prognosis, chemoresistance, and tumor heterogeneity. Immunotherapy has emerged as a transformative strategy because of its specificity and potential for durable responses. However, the immunosuppressive tumor microenvironment and inefficient delivery of immunotherapeutic agents limit clinical benefit. Nanocarriers, including organic, inorganic, and biomimetic platforms, can improve targeted delivery, sustained release, biocompatibility, and tumor microenvironment remodeling, thereby enhancing immunotherapy. This review summarizes major immunotherapeutic modalities for gynecological cancers-immune checkpoint blockade, CAR-T cell therapy, tumor vaccines, and oncolytic viruses-and the classification and characteristics of commonly used nanocarriers. We focus on nanocarrier-mediated immunotherapeutic mechanisms in ovarian, cervical, and endometrial cancers, and further highlight emerging lipid nanoparticle/mRNA and programmable RNA delivery strategies. Finally, we analyze challenges in clinical translation and provide perspectives for future development, aiming to support fundamental research and clinical application of nano-immunotherapy in gynecological malignancies.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1128/jmbe.00253-26",
@@ -458,6 +638,20 @@
       "limitations": "저자가 명시한 한계는 유전자의 활성화를 유도하는 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발한 것입니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다.",
       "future_research": "후속 연구 제안은 유전자의 활성화를 유도하는 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발한 것입니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다. 이 플랫폼은 유전자의 활성화를 유도하기 위해 pH 기반의 다중 상태 RNA 전달 플랫폼을 개발했습니다."
     }
+  },
+  {
+    "id": "doi:10.1021/acs.analchem.6c02944",
+    "title": "LAMPrEY: a Python-Based Automated Quality Control Tool for Large-Scale Proteomics Datasets.",
+    "topic": "Protein",
+    "date": "2026-11-01",
+    "journal": "",
+    "authors": "Valdés-Tresanco ME, Wacker S, Valdés-Tresanco MS, Plakhotnyk A, Brodie NI, Hepburn M, Ulke-Lemée A, Huttlin EL, Lewis IA.",
+    "doi": "10.1021/acs.analchem.6c02944",
+    "pmid": "43010505",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43010505/",
+    "abstract": "Over the past years, proteomics has moved increasingly towards the analysis of large cohorts of biological specimens. This has been made possible by significant improvements in mass spectrometry technology, chromatographic separation methods, and improved data acquisition strategies. These technological advances now routinely enable experiments that yield vast datasets that substantially outstrip the capacity of existing proteomics data analysis approaches. Processing such large datasets requires purpose-built, quality control tools designed to organize and analyze the data while recording all processing parameters for reproducibility. To address this need, we developed an open-source, Python-based software platform, Large-scale Automated Multi-level Proteomics Evaluation by Python (LAMPrEY), a comprehensive quality-control pipeline for Tandem-Mass-Tag (TMT) based quantitative proteomics analyses of large cohorts of samples. LAMPrEY features GUI-based file submission, automated processing with MaxQuant and RawTools, an interactive analytics dashboard, and an application programming interface (API) for programmatic usage that collectively enable rapid, reproducible analysis and interpretation of proteomics data. We demonstrate the longitudinal monitoring and analytical capabilities of LAMPrEY using TMT11 quantitative proteomics data generated from 910 Enterococcus faecium isolates collected from bloodstream infection patients. LAMPrEY is an open-source software that can be accessed at www.lewisresearchgroup.org/software.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1016/j.vaccine.2026.129302",
@@ -954,6 +1148,20 @@
       "limitations": "논문에서는 SELEX의 단백질-SELEX와 단백질-SELEX의 단백질-SELEX를 이용한 단백질-SELEX를 통해 다양한 타겟을 감지할 수 있다는 새로운 접근법을 제시합니다. 또한, 미세유동성 기반의 바이오센서를 이용한 새로운 감도를 보여줍니다. 그러나, SELEX의 단백질-SELEX와 단백질-SELEX의 단백질-SELEX를 이용한 단백질-SELEX를 통해 다양한 타겟을 감지할 수 있다는 새로운 접근법을 제시합니다. 또한, 미세유동성 기반의 바이오센서를 이용한 새로운 감도를 보여줍니다. 그러나, SELEX의 단백질-SELEX와 단백질-SELEX의 단백질-SELEX를 이용한 단백질-SELEX를 통해 다양한 타겟을 감지할 수 있다는 새로운 접근법을 제시합니다. 또한, 미세유동성 기반의 바이오센서를 이용한 새로운 감도를 보여줍니다. 그러나, SELEX의 단백질-SELEX와 단백질-SELEX의 단백질-SELEX를 이용한 단백질-SELEX를 통해 다양한 타겟을 감지할 수 있다는 새로운 접근법을 제시합니다. 또한, 미세유동성 기반의 바이오센서를 이용한 새로운 감도를 보여줍니다.",
       "future_research": "후속 연구에서는 SELEX의 단백질-SELEX와 단백질-SELEX의 단백질-SELEX를 이용한 단백질-SELEX를 통해 다양한 타겟을 감지할 수 있다는 새로운 접근법을 더 연구하고, 미세유동성 기반의 바이오센서를 이용한 새로운 감도를 개발할 계획입니다."
     }
+  },
+  {
+    "id": "doi:10.3389/fphar.2026.1953410",
+    "title": "Nanomaterials for endometriosis: a multimodal strategy integrating targeted delivery, immunomodulation, and physical ablation.",
+    "topic": "Drug delivery",
+    "date": "2026-10-26",
+    "journal": "",
+    "authors": "Inam M, Hayat M, Latif F, Ahmed B, Osman A.",
+    "doi": "10.3389/fphar.2026.1953410",
+    "pmid": "43005712",
+    "pmcid": "PMC13746169",
+    "url": "https://europepmc.org/articles/PMC13746169",
+    "abstract": "Endometriosis is a chronic inflammatory condition for which existing treatments, mainly hormonal therapy and surgical intervention, remain insufficient. These approaches are often limited by high recurrence rates, significant side effects, and an inability to effectively target underlying disease mechanisms. This review outlines emerging mechanism-oriented therapeutic strategies that combine targeted drug delivery, immunomodulation, and physical ablation. Advanced delivery systems, such as Lipid nanoparticle polymeric carriers, and nanomicelles, enable selective accumulation of therapeutic agents at endometriotic lesions, improving efficacy while minimizing systemic toxicity. Immunomodulatory strategies pursue to re-establish immune balance by enhancing immune surveillance, driving macrophage polarization toward anti-inflammatory states, and suppressing pro-inflammatory signaling, often through nanocarrier-enabled localized delivery. Furthermore, physical ablation techniques including gold (Au) NPs-mediated photothermal therapy and magnetic hyperthermia offer minimally invasive approaches for precise lesion elimination while preserving adjacent healthy tissues. Collectively, integrating these strategies may advance preclinical efforts to improve disease management, patient stratification, and potentially fertility outcomes, although clinical validation is still required. Despite ongoing challenges in clinical translation, the convergence of nanotechnology, immunology and interventional therapy marks a conceptual shift away from symptom-centered management toward investigational strategies that, pending clinical validation, may confer disease-modifying potential in endometriosis.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1177/21593337261497131",
