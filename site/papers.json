@@ -1,5 +1,71 @@
 [
   {
+    "id": "doi:10.1038/s43018-026-01270-8",
+    "title": "The deep learning framework Hist2Prot infers single-cell spatial proteomics from histology to predict biomarkers and clinical outcomes.",
+    "topic": "Protein",
+    "date": "2026-11-13",
+    "journal": "",
+    "authors": "Fan J, Yang S, Hu E, An J, Liu Q, Liu N, Ma M, Prystowsky M, Lv T, Yeo SY, Ren Y, Liu Y, Li L, Li Y, Sun Q, Qian P, Lu L, Deng W, Pan X, Yin S.",
+    "doi": "10.1038/s43018-026-01270-8",
+    "pmid": "43026320",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43026320/",
+    "abstract": "Spatial proteomics enables high-resolution mapping of protein expression within the tumor microenvironment, but its routine clinical application remains limited by cost, technical complexity and restricted tissue coverage. Here we present Hist2Prot, a deep learning framework that generates single-cell spatial proteomic profiles from routine hematoxylin and eosin histology. Trained on approximately 51 million paired cells from a same-section G4X spatial proteomics dataset, Hist2Prot was evaluated in internal test cohorts, independent same-platform G4X cohorts and external cross-platform datasets comprising approximately 72 million additional cells, showing concordance with measured protein profiles and outperforming established baselines. Hist2Prot-derived virtual proteins preserved immune, stromal and tumor cell phenotypes and recapitulated clinically relevant tumor microenvironment organization. Across seven independent patient cohorts comprising 1,774 patients, virtual spatial proteomics improved molecular biomarker, prognostic and immunotherapy response prediction beyond hematoxylin and eosin morphology alone. Hist2Prot enables scalable single-cell computational spatial proteomics from routine histology for precision oncology.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 흉터 조직에서 측정된 단백질 표현을 기반으로 한 심층 학습 기반 프레임워크인 Hist2Prot을 소개합니다. 이 기술은 병변 미생물 환경 내에서 세포 단위의 단백질 표현을 추론할 수 있으며, 이는 병변 미생물 환경에서의 병리학적 분석과 병리학적 분석을 통해 얻은 정보를 향상시킵니다. 이 기술은 정확한 암 진단 및 치료에 사용될 수 있습니다.",
+      "methods": "이 연구는 G4X 공간 단백질 프로파일링 데이터셋에서 얻은 약 5100만 쌍의 세포를 사용하여 Hist2Prot 심층 학습 프레임워크를 훈련시켰습니다. 이 프레임워크는 흉터 조직에서 측정된 단백질 표현을 기반으로 세포 단위의 공간 단백질 프로파일을 생성합니다. 이 프레임워크는 내부 테스트 코호트, 독립한 같은 플랫폼 G4X 코호트 및 외부 플랫폼 데이터 세트에서 총 약 7200만 개의 추가 세포를 사용하여 평가되었습니다.",
+      "quantitative_results": "Hist2Prot은 측정된 단백질 프로파일과 일치하며, 기존 기준을 초과하는 성능을 보였습니다. 이 프레임워크는 세포 단위의 공간 단백질 프로파일을 생성하여 세포 단위의 공간 단백질 프로파일을 생성하여 세포 단위의 공간 단백질 프로파일을 생성합니다. 이 프레임워크는 세포 단위의 공간 단백질 프로파일을 생성하여 세포 단위의 공간 단백질 프로파일을 생성합니다.",
+      "novelty": "Hist2Prot은 흉터 조직에서 단백질 표현을 추론하는 새로운 심층 학습 기반 프레임워크입니다. 이 기술은 병변 미생물 환경에서의 병리학적 분석과 병리학적 분석을 통해 얻은 정보를 향상시킵니다. 이 기술은 정확한 암 진단 및 치료에 사용될 수 있습니다.",
+      "limitations": "이 연구는 흉터 조직에서 단백질 표현을 추론하는 새로운 심층 학습 기반 프레임워크를 소개합니다. 이 기술은 병변 미생물 환경에서의 병리학적 분석과 병리학적 분석을 통해 얻은 정보를 향상시킵니다. 이 기술은 정확한 암 진단 및 치료에 사용될 수 있습니다. 그러나 이 연구는 아직 흉터 조직에서 단백질 표현을 추론하는 새로운 심층 학습 기반 프레임워크를 소개합니다. 이 기술은 병변 미생물 환경에서의 병리학적 분석과 병리학적 분석을 통해 얻은 정보를 향상시킵니다. 이 기술은 정확한 암 진단 및 치료에 사용될 수 있습니다.",
+      "future_research": "후속 연구는 Hist2Prot을 다른 공간 단백질 프로파일링 데이터 세트에서 테스트하고, 이를 다양한 암 유형과 병변 미생물 환경에서의 병리학적 분석과 병리학적 분석을 통해 얻은 정보를 향상시킵니다. 이 기술을 사용하여 정확한 암 진단 및 치료에 사용될 수 있습니다."
+    }
+  },
+  {
+    "id": "doi:10.64898/2026.11.12.766294",
+    "title": "Learning the limits of protein structure models with NMR chemical shifts",
+    "topic": "Protein",
+    "date": "2026-11-13",
+    "journal": "",
+    "authors": "Zhao C, El Nesr G, Chen Y, Wayment-Steele HK.",
+    "doi": "10.64898/2026.11.12.766294",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.11.12.766294",
+    "abstract": "Protein foundation models are intended to implicitly learn the chemical rules underlying protein function. However, systematically evaluating what biochemistry these models have learned remains difficult, as most downstream tasks lack experimental data fine-grained enough to expose their failure modes. NMR chemical shifts fill this gap: as direct per-atom reporters of local chemical environment, they offer a sensitive probe of structure-based representations. In this work, we present a systematically curated chemical shift dataset designed to minimize experimental confounders. We use it to benchmark diverse protein foundation models in their ability to predict backbone 15N chemical shifts, atoms that are known to be sensitive to many effects. The largest error across all models is in core residues with evidence of fast-timescale dynamics, which we investigate mechanistically using molecular dynamics simulations. Given the biological relevance of structured dynamic regions, we trained a new model based on the best of these embeddings, SLAE, to predict its own error. SLAE-ERR achieves a mean absolute error of 0.76 ppm for predicting error. Together, we hope that the datasets, evaluation tasks, and models presented here are sources of guidance for protein design model improvement.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 단백질 기반 모델이 핵산 환경에서 어떻게 작동하는지 이해하기 위한 시도입니다. 그러나 이러한 모델들이 핵산 환경에서 어떻게 작동하는지에 대한 실험적 데이터가 충분히 제공되지 않아 실험적 실패를 밝히는 것이 어렵습니다. NMR 화학 삽입이 이러한 문제를 해결합니다. 화학 삽입은 각 단위 환경을 직접 보여주는 직접적인 물질입니다. 이 연구에서는 다양한 단백질 기반 모델들이 백본 15N 화학 삽입을 예측하는 능력을 평가하기 위한 시스템적으로 정리된 화학 삽입 데이터를 사용합니다.",
+      "methods": "이 연구에서는 가장 중요한 화학 삽입 데이터를 사용하여 다양한 단백질 기반 모델들의 예측 능력을 평가합니다. 이 데이터는 실험적 오염물질을 최소화하도록 설계되었습니다. 또한, SLAE-ERR 모델을 사용하여 예측 오류를 예측하는 새로운 모델을 학습합니다. SLAE-ERR 모델은 예측 오류의 평균 절대 오류를 0.76 ppm으로 제시합니다.",
+      "quantitative_results": "모델 간의 가장 큰 오류는 핵산 환경에서 빠른 주기 시간 동역학을 보여주는 핵산 단위에 있습니다. 이 오류를 기계적으로 분석하기 위해 분자 동역학 시뮬레이션을 사용했습니다. SLAE-ERR 모델은 예측 오류의 평균 절대 오류를 0.76 ppm으로 제시했습니다.",
+      "novelty": "이 연구는 단백질 기반 모델이 핵산 환경에서 어떻게 작동하는지에 대한 실험적 데이터를 제공하지 않아 실험적 실패를 밝히는 것이 어려웠습니다. 그러나 NMR 화학 삽입이 이러한 문제를 해결했습니다. 이 연구는 단백질 기반 모델의 예측 능력을 평가하는 새로운 방법을 제시했습니다.",
+      "limitations": "이 연구는 실험적 데이터가 충분히 제공되지 않았기 때문에 실험적 실패를 밝히는 것이 어려웠습니다. 또한, 실험적 오염물질을 최소화하도록 설계된 화학 삽입 데이터를 사용하여 모델을 평가했습니다. 그러나 실험적 오염물질이 실험적 데이터에 포함되어 있음을 명시했습니다.",
+      "future_research": "이 연구는 단백질 기반 모델의 예측 능력을 평가하는 새로운 방법을 제시했습니다. 이러한 방법을 통해 단백질 설계 모델의 개선을 위한 후속 연구를 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.1126/sciadv.aeg8936",
+    "title": "Carrier-free Arg-CpG augments antitumor efficacy by triggering specific immune activation.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-13",
+    "journal": "",
+    "authors": "Li H, Lin Q, Xie Y, He X, Yang S, Zhou Y, Zhao X, Wang X, Han Y, Cao F, Gan L, Zhang S, Liu P.",
+    "doi": "10.1126/sciadv.aeg8936",
+    "pmid": "43024705",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43024705/",
+    "abstract": "The delivery of nucleic acids using nonviral vectors represents a promising approach for cancer therapy. Nevertheless, nucleic acid-based drugs suffer from poor potency and rapid degradation. Herein, we report a carrier-free nucleic acid delivery system termed Arg-CpG, which is easily constructed through charge-driven assembly of poly(l-arginine) (Arg) and the immune adjuvant unmethylated cytosine-phosphate-guanine oligonucleotide (CpG). This Arg-CpG functions as both a carrier and a therapeutic agent, thereby eliminating the need for a conventional drug delivery vehicle and minimizing potential toxicity. The guanidinium groups of Arg endow Arg-CpG with dual functionalities: enhancing cellular uptake and serving as the nitrogen donor for iNOS-mediated nitric oxide (NO) generation. This NO production further synergizes with CpG to drive macrophage reprogramming toward an antitumor phenotype. Notably, Arg-CpG exhibits cell-type-dependent modulation of autophagy. It disrupts autophagic machinery in 4T1 tumor cells while preserving functional autophagy in RAW264.7 macrophages. This differential activity results in selective killing of tumor cells without compromising the viability or function of normal immune cells. Consequently, Arg-CpG elicits a robust antitumor immune response in vivo. Moreover, the modular design of Arg-CpG enables its straightforward assembly with CpG oligonucleotides and other nucleic acid payloads (e.g., anti-miR oligonucleotides and siRNA), establishing a versatile and promising platform for nucleic acid-based cancer therapy.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암 치료를 위한 비전통적인 nucleic acid 전달 시스템인 Arg-CpG를 개발하고, 이 시스템이 암세포에 대한 면역 활성화를 촉진하여 암 치료 효과를 향상시키는 방법을 설명합니다. 이 시스템은 비전통적인 전달 시스템을 사용하지 않고, 암세포를 효과적으로 치료하면서도 정상 세포의 생존과 기능을 유지합니다.",
+      "methods": "이 연구에서는 poly(l-arginine)와 unmethylated cytosine-phosphate-guanine oligonucleotide를 사용하여 비전통적인 nucleic acid 전달 시스템인 Arg-CpG를 제작했습니다. 이 시스템은 암세포를 치료하는 데 사용되며, 이 시스템은 암세포와 정상 세포 모두를 효과적으로 치료하는 동시에 정상 세포의 생존과 기능을 유지합니다.",
+      "quantitative_results": "이 연구에서는 Arg-CpG가 암세포에 대한 면역 활성화를 촉진하고, 정상 세포의 생존과 기능을 유지하는 것을 입증했습니다. 이 시스템은 암세포를 효과적으로 치료하는 데 사용되었으며, 이는 정상 세포의 생존과 기능을 유지하는 것을 보장했습니다.",
+      "novelty": "이 논문은 비전통적인 nucleic acid 전달 시스템인 Arg-CpG를 개발하여 암 치료 효과를 향상시키는 새로운 접근법을 제시합니다. 이 시스템은 암세포를 치료하는 데 사용되며, 정상 세포의 생존과 기능을 유지하는 것을 보장합니다.",
+      "limitations": "이 연구에서는 암세포에 대한 면역 활성화를 촉진하는 데 대한 구체적인 메커니즘에 대한 추가 연구가 필요합니다. 또한, 이 연구는 암세포와 정상 세포 모두를 효과적으로 치료하는 것을 입증했습니다. 그러나 정상 세포의 생존과 기능을 유지하는 방법에 대한 구체적인 연구가 필요합니다.",
+      "future_research": "후속 연구에서는 Arg-CpG 시스템이 암세포에 대한 면역 활성화를 촉진하는 데 대한 구체적인 메커니즘을 연구하여, 이 시스템이 정상 세포의 생존과 기능을 유지하는 방법을 이해하는 데 도움이 될 것입니다. 또한, 이 시스템이 다른 암 치료 방법과의 조합 효과를 연구하여, 이 시스템이 암 치료에 더 효과적인 방법이 될 수 있는지를 확인하는 것이 중요합니다."
+    }
+  },
+  {
     "id": "PMC:PMC13752843",
     "title": "Orthogonal ensemble and single-particle characterisation of antisense oligonucleotide lipid nanoparticles",
     "topic": "Nucleic acids",
@@ -24,7 +90,7 @@
     "pmid": "43020967",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43020967/",
-    "abstract": "Oligonucleotide drug product manufacturing commonly relies on time-consuming offline ultraviolet-visible (UV-Vis) spectroscopy and high-performance liquid chromatography (HPLC) analyses to confirm active pharmaceutical ingredient (API) concentration during mixing, providing limited process visibility. This study evaluated inline Raman spectroscopy as a process analytical technology (PAT) tool for real-time API concentration monitoring and mixing endpoint determination during manufacture of a model antisense oligonucleotide (ASO) drug product. A partial least squares regression (PLSR) model was developed from inline Raman spectra using offline UV-Vis reference concentrations. Accuracy, linearity, range, precision, specificity, and robustness were evaluated, including effects of stirring speed, probe depth, and reusable versus single-use Raman optics. The validated model was applied to four ASO drug product batches manufactured in a 50-L single-use mixer. The PLSR model demonstrated good accuracy (RMSEP = 3.47 mg/mL), good linearity (R2 = 0.994 and 0.996 for calibration and independent prediction set, respectively), and precision (maximum %RSD = 1.12%). Minimal water interference supported specificity, and consistent performance across stirring speeds, probe depths, and Raman optic configurations demonstrated robustness. The procedure generated real-time ASO API concentration profiles and successfully determined the mixing endpoint for all four batches. Inline Raman spectroscopy coupled with PLSR provided accurate, specific, and robust real-time API concentration monitoring during oligonucleotide drug product manufacturing. The approach enabled real-time monitoring and objective mixing endpoint determination and may reduce reliance on offline measurements while improving process visibility and supporting more timely progression of manufacturing operations.",
+    "abstract": "Background Oligonucleotide drug product manufacturing commonly relies on time-consuming offline ultraviolet-visible (UV-Vis) spectroscopy and high-performance liquid chromatography (HPLC) analyses to confirm active pharmaceutical ingredient (API) concentration during mixing, providing limited process visibility. This study evaluated inline Raman spectroscopy as a process analytical technology (PAT) tool for real-time API concentration monitoring and mixing endpoint determination during manufacture of a model antisense oligonucleotide (ASO) drug product. Methods A partial least squares regression (PLSR) model was developed from inline Raman spectra using offline UV-Vis reference concentrations. Accuracy, linearity, range, precision, specificity, and robustness were evaluated, including effects of stirring speed, probe depth, and reusable versus single-use Raman optics. The validated model was applied to four ASO drug product batches manufactured in a 50-L single-use mixer. Results The PLSR model demonstrated good accuracy (RMSEP = 3.47 mg/mL), good linearity (R 2 = 0.994 and 0.996 for calibration and independent prediction set, respectively), and precision (maximum %RSD = 1.12%). Minimal water interference supported specificity, and consistent performance across stirring speeds, probe depths, and Raman optic configurations demonstrated robustness. The procedure generated real-time ASO API concentration profiles and successfully determined the mixing endpoint for all four batches. Conclusions Inline Raman spectroscopy coupled with PLSR provided accurate, specific, and robust real-time API concentration monitoring during oligonucleotide drug product manufacturing. The approach enabled real-time monitoring and objective mixing endpoint determination and may reduce reliance on offline measurements while improving process visibility and supporting more timely progression of manufacturing operations.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 연구는 Oligonucleotide 약물제제 제조 과정에서 시간이 많이 걸리는 오프라인 UV-Vis 스펙트로미테르와 HPLC 분석을 대체할 수 있는 실시간 API(conc.) 감시 및 혼합 기준점 결정을 위한 실시간 분석 기술 도구인 인라인 래aman 스펙트로미테르의 효과성을 평가하기 위해 수행되었다. 이는 API의 혼합 중 활성 성분의 분포를 더 정확하게 추적하고, 제조 과정의 투명성을 향상시키는 데 도움이 될 것이다.",
@@ -55,6 +121,28 @@
       "novelty": "이 연구는 현재의 면역 치료 방법과는 다른 접근 방식을 제시하며, 새로운 면역 환경 조정 방법에 대한 연구가 필요하다는 것을 시사합니다.",
       "limitations": "논문에서 명시된 한계는 실험 설계, 물질, 모델, 분석법에 대한 정보가 부족한 것일 수 있습니다. 이 한계는 더 깊이 연구가 필요하다는 것을 의미합니다.",
       "future_research": "이 연구는 면역 환경을 조정하는 새로운 방법에 대한 후속 연구를 제안합니다. 이는 면역 치료의 효과를 향상시키는 데 도움이 될 것입니다."
+    }
+  },
+  {
+    "id": "doi:10.1186/s11671-026-05130-3",
+    "title": "Lipid nanoparticle-based mRNA delivery system for cancer management.",
+    "topic": "Drug delivery",
+    "date": "2026-11-12",
+    "journal": "",
+    "authors": "Aadil KR, Bhange K, Kommineni N, Mishra G, Bunekar N, Jha A, Kumar N, Kumar R.",
+    "doi": "10.1186/s11671-026-05130-3",
+    "pmid": "43018873",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43018873/",
+    "abstract": "Messenger RNA (mRNA)-based therapeutics have transformed cancer treatment strategies, especially after the success of lipid nanoparticle (LNP)-enabled mRNA vaccines. LNPs are effective non-viral delivery vehicles that protect mRNA, enhance intracellular delivery, and improve therapeutic safety. This review discusses recent advancements in LNP-mediated mRNA therapies, including mRNA vaccines, cytokine delivery, immune modulation, and CAR-based strategies. Innovations in lipid formulations and high-throughput technologies have enhanced delivery efficiency. We also discussed how LNP-mRNA formulations elicit immune responses and improve tumor microenvironments. We highlight promising personalized mRNA vaccines and therapies. However, challenges such as tissue specificity, immunogenicity, and manufacturing remain. Emerging strategies in lipid engineering and personalized medicine aim to address these issues, making LNP-mediated mRNA therapeutics a pivotal approach in precision oncology. This report provides a comprehensive review of recent developments in LNP-mRNA therapeutics for cancer treatment. This report also highlights recent innovations and clinical trials. We further highlight the limitations and challenges associated with LNP-mRNA therapeutics in clinical translation. Finally, we outlined the prospects of LNP-based mRNA therapeutics for personalized cancer treatment.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 mRNA 기반 치료제의 암 치료 전략을 변화시킨 lipid nanoparticle (LNP) 기반 mRNA 전달 시스템에 대한 최근 연구 동향을 조망하고 있습니다. 이 시스템은 mRNA를 보호하고 세포 내로 안전하게 전달하여 암 치료의 안전성을 향상시키는 데 사용됩니다. 또한, 이 시스템은 면역 반응을 촉진하고 암 세포 환경을 개선하는 데 사용됩니다. 이 연구는 개인화된 mRNA 백신과 치료법에 대한 가능성을 강조합니다. 그러나 조직 특이성, 면역성 및 제조 과정 등에 대한 지속적인 연구가 필요합니다.",
+      "methods": "논문에서는 LNP 기반 mRNA 전달 시스템의 최근 발전과 다양한 치료 전략에 대해 논의합니다. 이 시스템은 lipid 구성 요소의 개선과 고속화된 기술을 통해 전달 효율성을 향상시켰습니다. 또한, 이 시스템이 면역 반응을 유발하고 암 세포 환경을 개선하는 방식에 대해 논의했습니다.",
+      "quantitative_results": "논문에서는 LNP 기반 mRNA 전달 시스템의 효과를 설명하며, 이 시스템이 mRNA를 안전하게 전달하고 면역 반응을 촉진하는 데 사용되는지를 확인했습니다. 그러나 논문에서는 이 시스템의 실제 효율성과 효과에 대한 수치를 제공하지 않았습니다.",
+      "novelty": "이 논문은 LNP 기반 mRNA 전달 시스템의 개인화된 치료법에 대한 가능성을 강조하며, 이 시스템이 암 치료에 대한 새로운 접근 방식으로서의 잠재력을 강조합니다. 이 시스템은 암 치료의 정확성에 중점을 둔 온코로지 분야에서 중요한 접근 방식으로 여겨집니다.",
+      "limitations": "논문에서는 LNP 기반 mRNA 전달 시스템의 한계를 명시하며, 조직 특이성, 면역성 및 제조 과정 등에 대한 지속적인 연구가 필요하다는 점을 강조했습니다. 그러나 논문에서는 이 한계가 어떻게 해결될 수 있는지에 대한 구체적인 추론은 제공하지 않았습니다.",
+      "future_research": "논문은 LNP 기반 mRNA 전달 시스템의 개선을 위한 후속 연구를 제안하며, lipid 엔지니어링과 개인화 의학을 활용하여 이 한계를 해결할 수 있는 방법을 제시했습니다. 이 시스템이 개인화된 암 치료에 대한 가능성을 더욱 확장할 수 있는 방법을 연구해야 합니다."
     }
   },
   {
@@ -121,6 +209,28 @@
       "novelty": "이 연구는 카로티산 나노입자에 카페도xac신을 포함시켜 시각용 약물 전달을 위한 새로운 접근법을 개발한 것입니다. 이 연구는 카로티산 나노입자에 카페도xac신을 포함시켜 시각용 감염에 대한 효과적인 약물 전달을 위한 새로운 접근법을 개발한 것입니다.",
       "limitations": "이 연구는 카로티산 나노입자에 카페도xac신을 포함시켜 시각용 약물 전달을 위한 새로운 접근법을 개발한 것입니다. 이 연구는 카로티산 나노입자에 카페도xac신을 포함시켜 시각용 감염에 대한 효과적인 약물 전달을 위한 새로운 접근법을 개발한 것입니다. 이 연구는 카로티산 나노입자에 카페도xac신을 포함시켜 시각용 감염에 대한 효과적인 약물 전달을 위한 새로운 접근법을 개발한 것입니다.",
       "future_research": "후속 연구는 카로티산 나노입자에 카페도xac신을 포함시켜 시각용 약물 전달을 위한 새로운 접근법을 개발하는 것에 대한 추가 연구를 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.2174/0109298673525110261104074049",
+    "title": "Gut Microbiota and Cancer Therapy Resistance: Mechanistic Insights with Emphasis on Colorectal Cancer.",
+    "topic": "Immunity",
+    "date": "2026-11-11",
+    "journal": "",
+    "authors": "Pandey SK, Mishra A, Dash SG.",
+    "doi": "10.2174/0109298673525110261104074049",
+    "pmid": "43023447",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43023447/",
+    "abstract": "Therapeutic resistance remains a major limitation to the durable control of cancer despite advances in chemotherapy, radiotherapy, targeted therapy, and immunotherapy. Resistance is shaped not only by tumor-intrinsic genetic and epigenetic alterations but also by extrinsic factors, including the gut microbiota. The intestinal microbial ecosystem can influence treatment response through direct drug biotransformation, modulation of host immunity and inflammation, production of bioactive metabolites, alteration of epithelial barrier function, and interactions with the tumor microenvironment. This narrative review synthesizes these mechanisms across chemotherapy, radiotherapy, and immune checkpoint blockade, with particular emphasis on Colorectal Cancer (CRC), while incorporating evidence from breast, lung, melanoma, and other relevant tumor types. Microbial metabolites, including short-chain fatty acids, bile-acid derivatives, tryptophan metabolites, and microbially generated organic acids, can influence signaling, immune-cell function, redox balance, and treatment sensitivity. We further evaluate microbiome-directed approaches, including dietary modulation, probiotics, fecal microbiota transplantation, antibiotic stewardship, and inhibition of microbial drug-metabolizing enzymes. Particular attention is given to the translational challenges of patient-to-patient microbiome variability, safety, biomarker reproducibility, treatment timing, and cancer-type specificity. Collectively, current evidence supports the gut microbiota as a biologically plausible and potentially modifiable determinant of cancer therapy response, but clinical implementation will require mechanism-based biomarkers and rigorously controlled prospective studies.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암 치료 저항성 문제에 대한 이해를 높이고, 특히 대장암에서의 암 치료 반응에 영향을 미치는 대장균의 역할을 다룹니다. 대장균은 암 치료에 대한 반응을 조절하는 다양한 메커니즘을 통해 암 치료 저항성을 형성합니다. 이 논문은 대장암뿐만 아니라 다른 종류의 암에서도 이러한 메커니즘의 중요성을 강조합니다.",
+      "methods": "논문은 다양한 암 치료 방법과 대장균의 역할을 조사합니다. 대장균은 암 치료에 대한 반응을 조절하는 다양한 메커니즘을 통해 암 치료 저항성을 형성합니다. 이 연구는 대장균의 다양한 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다.",
+      "quantitative_results": "논문에서는 대장균의 다양한 메커니즘을 통해 암 치료 저항성을 형성하는 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다. 이 연구는 대장균의 다양한 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다.",
+      "novelty": "이 논문은 대장균이 암 치료에 대한 반응을 조절하는 다양한 메커니즘을 통해 암 치료 저항성을 형성하는 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다. 이는 기존 연구에서 보장되지 않았던 새로운 정보입니다.",
+      "limitations": "논문에서는 대장균의 다양한 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다. 그러나 이 연구는 대장균의 다양한 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다. 이는 기존 연구에서 보장되지 않았던 새로운 정보입니다.",
+      "future_research": "이 논문은 대장균이 암 치료에 대한 반응을 조절하는 다양한 메커니즘을 통해 암 치료 저항성을 형성하는 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다. 이는 기존 연구에서 보장되지 않았던 새로운 정보입니다. 이 연구는 대장균의 다양한 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다. 이는 기존 연구에서 보장되지 않았던 새로운 정보입니다. 이 연구는 대장균의 다양한 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다. 이는 기존 연구에서 보장되지 않았던 새로운 정보입니다."
     }
   },
   {
@@ -292,6 +402,20 @@
     "summary": "초록 기반 요약"
   },
   {
+    "id": "doi:10.3390/ijms27219930",
+    "title": "Immunotherapy: Examining Strategies to Address Cancer Complexity.",
+    "topic": "Immunity",
+    "date": "2026-11-06",
+    "journal": "",
+    "authors": "Povo-Retana A, Ruiz-Navarro J, Fernández-Frías L, Alvarez-Lucena C, Landauro-Vera R, Izquierdo M, Boscá L.",
+    "doi": "10.3390/ijms27219930",
+    "pmid": "43028174",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43028174/",
+    "abstract": "Understanding the interplay between immune and stromal cells in the tumor microenvironment is essential for developing effective cancer therapies and preventing relapses. In this review, starting with the basics of tumor immunology and a historical review from cancer chemotherapy to current immunotherapy, in the context of precision medicine, we focus on immunotherapies based on genetically modified macrophages, and chimeric T-cell antigen receptor (CAR), highlighting the similarities and differences between TCR-endogenous signaling and CART-dependent signaling at the immune synapse, presenting all the generations that have been developed briefly, followed by NK cell-dependent CAR therapeutic approaches where a comparison is established, analyzing their respective advantages and drawbacks. Targeting the tumor-immune microenvironment has become central to cancer treatment, with combinatorial therapies applied and assessed as a feasible strategy for this complex group of diverse pathologies. In this context, modulating the immune synapse, rewiring immune cell metabolism, and developing genetically engineered immune cells have emerged as promising approaches that open novel avenues for treating and managing cancer patients. This review offers a holistic, historical view of state-of-the-art molecular approaches, along with insights into future perspectives and current limitations of the technologies supporting immunotherapy in molecular oncology.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.1128/jmbe.00253-26",
     "title": "An educational activity tailored for undergraduate students on AI-driven nanobody design for targeted antiviral therapeutics.",
     "topic": "Protein",
@@ -336,7 +460,7 @@
     "authors": "Davidson CG, Rae P, Ioannou S, Perrie Y, Rattray Z.",
     "doi": "10.1039/d6pm00312e",
     "pmid": "43017426",
-    "pmcid": "",
+    "pmcid": "PMC13752843",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43017426/",
     "abstract": "Antisense oligonucleotide (ASO) lipid nanoparticles (LNPs) remain underexplored relative to siRNA and mRNA LNPs. Using an orthogonal workflow (DLS, NTA, AF4), we show that ionisable lipid identity and microfluidic flow rate govern key LNP attributes. Replacing SM-102 with MC3 increased size and reduced ASO recovery, while lower flow rates increased LNP size and improved recovery, highlighting formulation-property relationships for ASO LNP optimisation.",
     "summary": "초록 기반 요약"
@@ -1066,7 +1190,7 @@
     "pmid": "42957076",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42957076/",
-    "abstract": "Proteomics applied in modern archaeological studies allows for the detection of relevant molecular information with remarkable sensitivity from minute sample amounts, providing reliable information when morphology or DNA-based methods fail. One such application is sex determination using proteomics analysis of tooth enamel. Amelogenin is one of the most abundant proteins of the tooth enamel. In many mammals, including humans, the corresponding gene is located on the sex chromosomes, thus forming X- and Y-isoforms (the latter being specific to males). Current targeted proteomics analysis methods use peptides from the tyrosine-rich amelogenin peptide (TRAP) region, which contains isoform-specific amino acid motifs. In this study, we investigated 100 teeth, 91 from subadults and nine from poorly preserved adult skeletons, excavated from a late medieval burial site in Virklund, Denmark. The initial analysis using the established TRAP-only targeted proteomics method revealed that 11 samples showed reduced or absent detection of AMELX peptides (five with complete absence and six with only a single peptide detected), resulting in low-confidence or inconclusive classifications. Using discovery proteomics, we expanded the peptide panel with two peptides specific to the AMELX C-terminal domain. Incorporating these peptides restored confident sex determination in all previously inconclusive cases, without compromising analytical performance or sensitivity. This suggests the C-terminal region of amelogenin as a stable and diagnostically valuable source of peptide markers. More broadly, the success of the expanded panel highlights the synergistic value of discovery and targeted proteomics to accommodate sample-dependent variability in archaeological enamel samples.",
+    "abstract": "Proteomics applied in modern archaeological studies allows for the detection of relevant molecular information with remarkable sensitivity from minute sample amounts, providing reliable information when morphology or DNA-based methods fail. One such application is sex determination using proteomics analysis of tooth enamel. Amelogenin is one of the most abundant proteins of the tooth enamel. In many mammals, including humans, the corresponding gene is located on the sex chromosomes, thus forming X- and Y-isoforms (the latter being specific to males). Current targeted proteomics analysis methods use peptides from the tyrosine-rich amelogenin peptide (TRAP) region, which contains isoform-specific amino acid motifs. In this study, we investigated 100 teeth, 91 from subadults and nine from poorly preserved adult skeletons, excavated from a medieval burial site in Virklund, Denmark. The initial analysis using the established TRAP-only targeted proteomics method revealed that 16 samples showed reduced or absent detection of AMELX peptides (twelve with complete absence and four with only a single peptide detected), resulting in low-confidence or inconclusive classifications. Using discovery proteomics, we expanded the peptide panel with two peptides specific to the AMELX C-terminal domain. Incorporating these peptides restored confident sex determination in all previously inconclusive cases, without compromising analytical performance or sensitivity. This suggests the C-terminal region of amelogenin as a stable and diagnostically valuable source of peptide markers. More broadly, the success of the expanded panel highlights the synergistic value of discovery and targeted proteomics to accommodate sample-dependent variability in archaeological enamel samples.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 연구는 아메로지닌 단백질의 특정 부분에서의 분해 또는 감소가 인치에 기반한 성별 결정에 영향을 미치는지 확인하기 위해 수행되었다. 이는 아메로지닌 단백질의 특정 부분에서의 peptide 패널을 확장하여 성별 결정을 더욱 신뢰할 수 있게 하는데 목적이 있다.",
@@ -1103,6 +1227,34 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43021865/",
     "abstract": "Protective immunity against reinfection with filarial nematodes remains poorly understood. We therefore investigated whether naturally acquired immunity following spontaneous parasite clearance modifies the outcome of reinfection using the permissive murine filarial model Litomosoides sigmodontis. Wildtype BALB/c mice were reinfected following natural clearance of a primary L. sigmodontis infection and compared with mice during patent primary infection and after parasite clearance. Parasitological parameters, local immune cell responses, lung pathology, and systemic cytokine levels were assessed. Adult worms were detected in only 3 of 6 reinfected mice, indicating substantial inter-individual variation in parasite establishment. Among mice with detectable adult worms, reinfection resulted in significantly shorter adult worms, while microfilaremia, embryogenesis, and Wolbachia density were not significantly altered, indicating restricted parasite development at the time point examined without detectable effects on parasite reproductive capacity or Wolbachia density. Reinfected mice further exhibited significantly increased neutrophil accumulation and overall immune cell infiltration into the thoracic cavity, accompanied by modestly increased lung inflammation and elevated systemic levels of IFN-γ, IL-6, IL-10, IL-22, and GM-CSF. Naturally acquired immunity following primary L. sigmodontis infection does not confer sterilising protection against reinfection, but is associated with substantial heterogeneity in parasite establishment and restricted parasite development among mice with detectable adult worms together with local and systemic recall immune responses that selectively restrict parasite growth. These findings provide new insights into naturally acquired anti-filarial immunity and the mechanisms shaping host-parasite interactions during reinfection, thereby reflecting the repeated parasite exposure that is characteristic of human filarial infections in endemic settings.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.3389/fimmu.2026.1968254",
+    "title": "Immune cell metabolic reprogramming in pancreatic cancer: roles in tumor progression and therapeutic strategies.",
+    "topic": "Immunity",
+    "date": "2026-10-29",
+    "journal": "",
+    "authors": "Gu G, Du Y, Zhang H, Zheng Y, Yao Y, Yan Q.",
+    "doi": "10.3389/fimmu.2026.1968254",
+    "pmid": "43022561",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022561/",
+    "abstract": "Pancreatic cancer is one of the most lethal malignancies of the digestive system, and its profoundly immunosuppressive tumor microenvironment (TME) represents a major driver of tumor progression and therapeutic resistance. Emerging evidence indicates that metabolic reprogramming profoundly influences the polarization, effector function, survival, and fate of immune cells within the TME, thereby shaping the balance between antitumor immunity and immune escape. However, substantial challenges remain, including the incompletely understood metabolic heterogeneity among distinct immune cell subsets and the limited clinical translation of therapeutic strategies combining metabolic intervention with immunotherapy. In this review, we summarize the metabolic reprogramming characteristics and underlying molecular mechanisms of major immune cell populations in pancreatic cancer, including T cells, tumor-associated macrophages (TAMs), myeloid-derived suppressor cells (MDSCs), and natural killer (NK) cells, with particular emphasis on their reciprocal interactions with pancreatic cancer progression and the immunosuppressive microenvironment. We further discuss recent advances in metabolism-targeted therapies and immunotherapy, highlighting the therapeutic potential of combination strategies centered on immunometabolic modulation. Finally, we outline current challenges and emerging opportunities in this rapidly evolving field, with the aim of providing a mechanistic framework and translational perspectives for the development of precision therapeutic strategies for pancreatic cancer.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.3389/fpubh.2026.1996598",
+    "title": "The interplay of exercise, immunity, and suboptimal health in college students: an integrative narrative review with public health implications.",
+    "topic": "Immunity",
+    "date": "2026-10-29",
+    "journal": "",
+    "authors": "Li R.",
+    "doi": "10.3389/fpubh.2026.1996598",
+    "pmid": "43022770",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022770/",
+    "abstract": "Background The immune system, vital for pathogen defense and tissue repair, is strongly influenced by lifestyle. With declining physical activity and rising chronic disease burdens, the role of exercise in modulating immunity has drawn growing attention. College students, undergoing critical life transitions, are susceptible to lifestyle-related risks such as sedentary behavior, insufficient sleep, and high psychological stress, which often lead to suboptimal health status. Population risks in college students Immune and inflammatory risks are a concern among college students: prolonged sedentary behavior, chronic sleep deprivation, and elevated psychological stress frequently co-occur. Each of these behaviors is associated with low-grade inflammation and altered immune regulation in adults, and their clustering in students is therefore a reasonable basis for concern, although the strength of the association with immune outcomes has seldom been measured directly in this group. The term suboptimal health status is used in this review as a self-reported functional syndrome, defined in Section 3.4, rather than as an established clinical entity. Effects and mechanisms of different exercise behaviors We examine the effects of different physical activities on immune function, chronic low-grade inflammation, and suboptimal health status in college students, outlining the basic framework of exercise immunology and distinguishing acute from chronic exercise responses. Evidence is categorized by exercise type, including moderate-intensity aerobic exercise, high-intensity training, resistance training, and mind-body practices, and their mechanisms, such as myokine-mediated anti-inflammatory signaling, immune cell mobilization, fat loss, and the mediation of sleep and emotion, are summarized. Methodological challenges We critically discuss the methodological challenges in this field, separating two sources of disagreement that are often conflated: study design, which determines the causal question a study can answer, and measurement method, which determines how accurately exposure and outcome are captured. We analyze the limitations of each, including the inability of cross-sectional studies to establish causality, measurement bias in self-reported data, and ecological validity and compliance issues in trials, and we note how the same distinction applies to outcome assessment, from self-reported symptoms to immune-cell, cytokine, and clinical infection measures. Research gaps Notable gaps are identified, including the \"population mismatch\" whereby findings from other populations are extrapolated to college students, limitations in sample selection and measurement standardization, and the lack of individualized and comprehensive intervention studies. Research significance and public health implications This narrative review underscores the importance of understanding the relationship between exercise and immunity in college students, provides an overview of current knowledge, identifies critical limitations, and proposes future directions. Evidence was assembled through a structured narrative search, and findings obtained directly in college students are distinguished throughout from those extrapolated from athletic or clinical populations. It also offers public health implications for Chinese university settings, emphasizing targeted health education, campus-wide exercise interventions, sedentary behavior reduction, and integrated sleep and stress management to promote student wellbeing.",
     "summary": "초록 기반 요약"
   },
   {
@@ -1158,7 +1310,7 @@
     "authors": "Kumari H, Chou CC, Lee YT, Shen CH, Chan MWY.",
     "doi": "10.3389/ebm.2026.11373",
     "pmid": "43016534",
-    "pmcid": "",
+    "pmcid": "PMC13751542",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43016534/",
     "abstract": "Urothelial carcinoma (UC) is a dynamic malignancy characterized by a complex epigenetic landscape. Epigenetic modifications are pivotal in modulating the innate immune response, particularly within the tumor microenvironment (TME), where they profoundly influence natural killer (NK) cell function. Aberrant epigenetic regulation often promotes immune evasion by silencing activating ligands on tumor cells, thereby impairing NK cell-mediated cytotoxicity. Emerging epigenetic therapies, such as histone deacetylase inhibitors (HDACis) and DNA methyltransferase inhibitors (DNMTis), offer significant potential to reprogram the immune landscape and restore anti-tumor immunity. Despite this promise, clinical implementation faces challenges, including the immunosuppressive nature of the TME, NK cell exhaustion, and complex manufacturing limitations. Combining epigenetic agents with NK cell-based immunotherapies represents a robust strategy to overcome these barriers and improve therapeutic outcomes. This review elucidates the epigenetic regulatory mechanisms in UC and emphasizes the necessity of personalized, biomarker-driven treatment strategies to optimize cancer immunotherapy outcomes.",
     "summary": "초록 기반 요약"
@@ -1206,6 +1358,20 @@
       "limitations": "이 연구는 웹오브스테이크 코어 컬렉션에서만 데이터를 수집하였으며, 다른 데이터 소스를 포함하지 않았다. 또한, 이 연구는 단백질 분야의 기관지염 연구에 대한 빌리메트릭 분석을 수행하였으나, 기관지염의 진단 및 치료에 대한 실제 데이터는 제공하지 않았다.",
       "future_research": "후속 연구는 기관지염의 임상 바이오마커의 활용, 다량의학 통합, 그리고 개인화된 치료 전략의 개발에 중점을 두고 수행될 수 있다."
     }
+  },
+  {
+    "id": "doi:10.1016/j.mtbio.2026.103789",
+    "title": "Developing precision nanoparticle-based drug delivery systems for Alzheimer's disease therapy.",
+    "topic": "Drug delivery",
+    "date": "2026-10-27",
+    "journal": "",
+    "authors": "Shan Q, Zheng W, Yao W, Bai Y, Ding W, Wang J, Bai F.",
+    "doi": "10.1016/j.mtbio.2026.103789",
+    "pmid": "43022806",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43022806/",
+    "abstract": "Alzheimer's disease (AD) is an irreversible neurodegenerative disease that has thus far suffered from unsatisfactory therapeutic outcomes. Despite ongoing research into AD pathogenesis and related drugs, few disease-modifying therapies are currently available. Moreover, efficient drug delivery is significantly hindered by low permeability of the blood-brain barrier (BBB) and non-specific distribution within the brain, further limiting the efficacy of existing anti-AD medications. Nanotechnology has recently emerged as a promising approach to overcome these challenges. This review aims to offer a comprehensive overview of recent advances in precision nanoparticle-based drug delivery systems for AD therapy. First, we outline the multiple pathological mechanisms and representative pathogenesis-inspired therapies of AD. Next, we summarize various types of nanoparticles that have been utilized in AD drug delivery, including polymeric, lipid-based, inorganic, and biomimetic nanocarriers. Subsequently, we highlight the nanoparticle-mediated strategies for cascaded precision drug delivery at different levels, focusing on both the BBB and specific pathologies or cell populations within AD lesions. Finally, we discuss potential challenges and prospects in employing precision delivery systems, aiming to accelerate the development and clinical translation of nanoparticle-based therapies for AD.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "PMC:PMC13696097",
@@ -1708,6 +1874,20 @@
       "limitations": "이 논문은 바이러스와 TIME 간의 상호 작용에 대한 근본적인 작용 메커니즘을 이해하는데 초점을 맞추고 있습니다. 이는 바이러스 감염이 TIME에 미치는 영향을 조사하고 있습니다. 이는 바이러스 감염이 TIME의 구성과 기능에 미치는 영향을 조사하고 있습니다.",
       "future_research": "이 논문은 바이러스 유전자 유전자를 이용한 암 치료법과 바이러스 벡터 백신의 잠재적인 치료 효과와 제약을 이해하는데 초점을 맞추고 있습니다. 이는 후속 연구를 통해 더 깊이 이해하고 개선할 수 있습니다."
     }
+  },
+  {
+    "id": "doi:10.1016/j.omtn.2026.103155",
+    "title": "Predicting the impact of phosphorothioate chirality on the structure and function of oligonucleotide therapeutics.",
+    "topic": "Nucleic acids",
+    "date": "2026-10-21",
+    "journal": "",
+    "authors": "Manghrani A, Brinson RG, Bergonzo C.",
+    "doi": "10.1016/j.omtn.2026.103155",
+    "pmid": "43023029",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43023029/",
+    "abstract": "How phosphorothioates affect the structure and dynamics of oligonucleotide therapeutics and their complexes with target RNAs and protein machinery is not well understood, resulting in a gap in knowledge about the molecular origins of their therapeutic properties. Here we used molecular dynamics simulations to assess the structure and dynamics of R p and S p phosphorothioates in an antisense oligonucleotide inotersen. When bound to target mRNA, phosphorothioates shifted the helical equilibrium toward A-form as compared with the unmodified phosphodiester backbone, with R p showing a higher preference for A-form geometry as compared with S p. R p phosphorothioate rigidified the base pairs and base-pair steps, providing a dynamic explanation for the experimentally observed higher thermodynamic stability of R p over S p mRNA duplexes. The higher population of B-form helical geometry for S p mRNA duplexes contributed to their more favorable binding enthalpy (∼16 kcal/mol) to RNase H as compared with R p phosphorothioate. Furthermore, phosphorothioates modulated the dynamics along the entire duplex complexed to RNase H. Pairwise energy decomposition revealed that RNase H favored S p phosphorothioate over R p in a majority of the duplex. Our results reveal a putative mechanism by which phosphorothioate stereochemistry impacts the structure and dynamics of biological complexes of oligonucleotide therapeutics.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.20944/preprints202610.1944.v1",
@@ -5503,7 +5683,7 @@
     "pmid": "42773554",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42773554/",
-    "abstract": "Oncolytic viruses have emerged as a promising strategy in cancer immunotherapy and have been applied to the treatment of various tumors. We previously demonstrated that oncolytic adenoviruses engineered expressing tumor necrosis factor-related apoptosis-inducing ligand (TRAIL) could induce apoptosis in tumor cells and modulate immune responses in the tumor microenvironment. To enhance targeting capability and antitumor immunity, the full-length TRAIL is intended to be replaced with a soluble TRAIL (sTRAIL). However, the sTRAIL is limited by structural instability and hepatic accumulation. In this study, we performed an optimized design based on the previously developed, more stable sTRAIL (FA1FT) by fusing it with a knobless fiber motif derived from fowl adenovirus type 1. Through structural analysis and genetic engineering, we developed a novel recombinant sTRAIL protein (mut-FA1TLST) that exhibited reduced liver tropism and enhanced antitumor activity both in vitro and in vivo. Furthermore, we incorporated this optimized sTRAIL into a capsid-modified oncolytic adenovirus, which demonstrated improved tumor targeting ability and antitumor efficacy. The recombinant oncolytic virus expressing the sTRAIL also promoted activation of CD4⁺ T cells, CD8⁺ T cells and DCs in the tumor microenvironment, thereby eliciting antitumor immune response. Overall, this study provides a promising recombinant sTRAIL candidate for preclinical and clinical applications and presents a novel oncolytic virus with potential for in vivo tumor immunotherapy.",
+    "abstract": "Oncolytic viruses have emerged as a promising strategy in cancer immunotherapy and have been applied to the treatment of various tumors. We previously demonstrated that oncolytic adenoviruses engineered to express TNF-related apoptosis-inducing ligand (TRAIL) could induce apoptosis in tumor cells and modulate immune responses in the tumor microenvironment (TME). To enhance targeting capability and antitumor immunity, the full-length TRAIL is intended to be replaced with a soluble TRAIL (sTRAIL). However, the sTRAIL is limited by structural instability and hepatic accumulation. In this study, we performed an optimized design based on the previously developed, more stable sTRAIL (FA1FT) by fusing it with a knobless fiber motif derived from fowl adenovirus type 1. Through structural analysis and genetic engineering, we developed a novel recombinant sTRAIL protein (mut-FA1TLST) that exhibited reduced liver tropism and enhanced antitumor activity both in vitro and in vivo. Furthermore, we incorporated this optimized sTRAIL into a capsid-modified oncolytic adenovirus, which demonstrated improved tumor targeting ability and antitumor efficacy. The recombinant oncolytic virus expressing the sTRAIL also promoted the activation of CD4+ T cells, CD8+ T cells, and dendritic cells in the TME, thereby eliciting an antitumor immune response. Overall, this study provides a promising recombinant sTRAIL candidate for preclinical and clinical applications and presents a novel oncolytic virus with potential for in vivo tumor immunotherapy.",
     "summary": "초록 기반 요약"
   },
   {
