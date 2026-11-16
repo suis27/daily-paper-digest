@@ -1,5 +1,71 @@
 [
   {
+    "id": "doi:10.1093/carcin/bgag083",
+    "title": "Targeting the NAD⁺ salvage pathway: roles of NAMPT in the tumor microenvironment.",
+    "topic": "Immunity",
+    "date": "2026-11-14",
+    "journal": "",
+    "authors": "Wei J, Zhao S, Zhu G, Meng W.",
+    "doi": "10.1093/carcin/bgag083",
+    "pmid": "43031359",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43031359/",
+    "abstract": "Nicotinamide adenine dinucleotide (NAD⁺) is a central redox cofactor that supports cellular metabolism, redox balance and signal transduction. Nicotinamide phosphoribosyltransferase (NAMPT) catalyzes the rate-limiting step of NAD⁺ salvage pathway in both malignant and non-malignant cells of the tumor microenvironment (TME). Whilst direct restriction of NAD⁺ metabolism in cancer cells has yielded limited clinical benefit, emerging evidence reveals that NAMPT shapes antitumor immunity by reprogramming immune cell function and the metabolic landscape of the TME. Parallel advances in medicinal chemistry, including bifunctional inhibitors, drug-delivery systems and proteolysis-targeting chimeras (PROTACs) are enabling more selective NAMPT-targeted agents. This review examines the context-dependent roles of NAMPT across immune and stromal compartments of the TME and evaluates emerging therapeutic approaches, highlighting their potential to overcome current limitations and advance NAMPT-targeted immunotherapy.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 NAD⁺ salvage pathway의 주요 구성 요소인 NAMPT가 암세포와 암세포 외 환경에서의 면역 반응에 미치는 영향을 조사하고 있습니다. 이는 암 치료의 한계를 극복하고 면역 치료의 발전을 촉진하는 데 초점을 맞추고 있습니다.",
+      "methods": "이 연구는 NAMPT의 면역과 세포외 환경에서의 역할을 조사하기 위해 암 세포와 비 암 세포를 대상으로 한 실험을 수행했습니다. 또한, 약물 전달 시스템과 PROTACs 등이 개발된 상태를 분석했습니다.",
+      "quantitative_results": "보고된 결과는 NAMPT가 암 세포와 비 암 세포에서의 NAD⁺ 수용성에 미치는 영향을 나타내며, 이는 암세포의 NAD⁺ 수용성 제한을 초과하는 효과를 가질 수 있다는 것을 보여줍니다.",
+      "novelty": "이 연구는 NAMPT가 암세포 외 환경에서의 면역 반응을 재편리하는 역할을 수행한다는 새로운 이론을 제시하며, 이는 기존 연구와 차별화됩니다.",
+      "limitations": "이 연구는 NAMPT가 암세포 외 환경에서의 면역 반응에 미치는 영향에 대한 구체적인 증거를 제공하지 않았습니다. 또한, 이 연구는 암세포와 비 암 세포에서의 NAMPT의 역할에 대한 구체적인 정보를 제공하지 않았습니다.",
+      "future_research": "후속 연구는 NAMPT가 암세포 외 환경에서의 면역 반응에 미치는 영향을 더 구체적으로 이해하기 위해 암 세포와 비 암 세포의 NAMPT 수준을 조사하는 연구를 수행할 것을 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.1002/adhm.71960",
+    "title": "Coupling Autophagic Flux Blockade With Cuproptosis in a Self-Assembled Nanodrug for Osteosarcoma Immunotherapy.",
+    "topic": "Immunity",
+    "date": "2026-11-14",
+    "journal": "",
+    "authors": "Ding T, Jia M, Yi X, Li X, Xiong Y, Wang M, Dong J, Huang F, He X, Qiao L.",
+    "doi": "10.1002/adhm.71960",
+    "pmid": "43034276",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034276/",
+    "abstract": "Immunotherapy has emerged as a promising approach for osteosarcoma, but its clinical translation is hampered by the complexity of current therapeutic systems. Here, we developed a simple nanodrug composed of Cu2+ and liensinine (Lis) that amplifies tumor cell damage by simultaneously blocking autophagic flux and inducing cuproptosis. Mechanistically, Cu2+ depletes glutathione and disrupts intracellular redox homeostasis, thereby weakening antioxidant defenses and increasing copper-associated mitochondrial stress. This process is accompanied by FDX1 upregulation and cuproptosis-associated mitochondrial dysfunction. In parallel, liensinine impairs lysosomal integrity and blocks autophagosome clearance, thereby preventing the efficient removal of damaged mitochondria and allowing ROS accumulation to persist. Sustained oxidative stress then activates caspase-3, which cleaves GSDME to generate the pore-forming GSDME-N fragment, resulting in plasma membrane permeabilization and subsequent release of damage-associated molecular patterns, thereby enhancing hallmarks of immunogenic cell death and facilitating dendritic cell maturation. In vivo, Cu-Lis suppresses osteosarcoma growth, increases intratumoral immune-cell infiltration, and reduces pulmonary metastasis. Collectively, this work provides a streamlined strategy that integrates autophagic flux blockade with cuproptosis to potentiate antitumor immunity against osteosarcoma.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 암종 중 하나인 골종양의 면역 치료 접근법을 개선하기 위한 새로운 전략을 제시합니다. 현재의 치료 시스템이 복잡하기 때문에, 이 연구는 골종양 치료의 잠재적인 해결책으로 면역 치료의 효과를 향상시키는 데 초점을 맞춥니다.",
+      "methods": "연구자들은 Cu2+와 liensinine(Lis)를 사용하여 면역 치료를 강화하기 위해 면역 침투를 방해하고 코푸로토시스를 일으키는 새로운 nanodrug을 개발했습니다. Cu2+는 glutathione를 소모하고 인체 내 화학 균형을 파괴하여 면역 보호력을 약화시키고 코푸로토시스와 관련된mitochondria의 손상으로 이어집니다. liensinine은 lysosomal의 안정성을 파괴하고 autophagosome의 제거를 방해하여 손상된 mitochondria를 효과적으로 제거하지 못하도록 합니다.",
+      "quantitative_results": "연구 결과, Cu-Lis는 골종양 성장을 억제하고, 종양 내 면역 세포의 유입을 증가시키고, 폐에 대한 종양 전이를 감소시키는 효과를 보였습니다.",
+      "novelty": "이 연구는 autophagic flux를 방해하고 코푸로토시스를 일으키는 새로운 nanodrug을 사용하여 면역 치료를 강화하는 데 초점을 맞춘 것입니다. 이는 기존 연구와는 다른 접근법으로, 면역 치료의 효과를 향상시키는 데 도움이 될 수 있습니다.",
+      "limitations": "연구자들은 Cu2+와 liensinine의 작용 메커니즘에 대한 구체적인 정보를 제공하지 않았습니다. 또한, 실험 조건, 실험 동물의 종류와 수, 실험 기간 등에 대한 정보도 제공되지 않았습니다. 이러한 한계를 고려하여, 이 연구의 결과를 더 넓은 범위에서 확인해야 합니다.",
+      "future_research": "이 연구는 면역 치료를 강화하는 데 초점을 맞춘 새로운 nanodrug의 효과를 더 넓은 범위에서 확인하기 위한 후속 연구를 제안합니다. 또한, nanodrug의 작용 메커니즘에 대한 더 깊은 연구를 통해 이 연구의 결과를 더 확장하고, 면역 치료의 효과를 향상시키는 데 도움이 될 수 있습니다."
+    }
+  },
+  {
+    "id": "doi:10.1016/j.ijpharm.2026.127684",
+    "title": "Mechanical microenvironment-guided smart nano drug delivery systems for pulmonary fibrosis: from fibrotic delivery barriers to therapeutic remodeling.",
+    "topic": "Drug delivery",
+    "date": "2026-11-14",
+    "journal": "",
+    "authors": "Zhou X, Lv Y, Li X, Wang Y, Qin X, Shen S, Zhang Z, Feng Y.",
+    "doi": "10.1016/j.ijpharm.2026.127684",
+    "pmid": "43033951",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43033951/",
+    "abstract": "Pulmonary fibrosis (PF) is associated with excessive extracellular matrix (ECM) deposition and progressive changes in tissue mechanics, which sustain profibrotic signaling and create additional barriers to effective drug delivery. Fibrotic remodeling alters matrix architecture, interstitial transport, and cellular behavior, while heterogeneous ventilation, airway mucus, and pulmonary clearance further influence the distribution and retention of therapeutic agents. This review examines the mechanical microenvironment in PF and its implications for nanomedicine design. It considers how ECM remodeling, tissue stiffness, and cellular mechanotransduction contribute to disease development and persistence, including their interactions with profibrotic signaling pathways. The effects of structural and mechanical alterations in fibrotic lungs on drug transport and delivery are then examined. Nanomedicine strategies discussed include ECM-targeted and enzyme-assisted approaches to improve tissue penetration, strategies to enhance transport across airway mucus, targeted delivery to mechanically stressed epithelial cells and activated fibroblasts, macrophage-directed interventions, and disruption of pathological crosstalk between mechanical and biochemical signaling. These approaches are assessed in terms of delivery performance, antifibrotic efficacy, and experimental evidence supporting the modulation of cellular or tissue mechanical properties. Emerging mechanically responsive materials are also considered, particularly their potential to exploit mechanical deformation to regulate material function and transport behavior in drug delivery systems. Clinical progress and translational limitations are examined, with emphasis on the evidence needed to advance preclinical strategies toward clinical applications. Translation of mechanical microenvironment-guided nanomedicine will require clear evidence linking drug delivery to fibrotic lesions, modulation of pathological tissue mechanics, therapeutic efficacy, and long-term safety.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 폐결막증(PF) 환자의 폐 조직 내에서 발생하는 과도한 외상성 세포질(matrix, ECM) 축적과 조직 운동성 변화가 약물 전달을 방해하는 주요 요인임을 설명하며, 이를 고려한 신경망 기반 약물 전달 시스템의 개발에 대해 논의하고 있습니다. 이 연구는 PF 환자의 폐 조직 내에서의 운동성 미세 환경에 대한 이해를 통해 약물 전달 시스템의 설계를 개선하는 데 초점을 맞추고 있습니다.",
+      "methods": "논문에서는 ECM 재조직, 조직 운동성, 그리고 세포 운동성에 대한 연구를 통해 PF 환자의 폐 조직 내에서의 약물 전달을 개선하기 위한 다양한 접근법을 제시합니다. 이들 접근법은 약물 전달 성능, 항피부증 효과, 그리고 세포 또는 조직 운동성의 조절에 대한 근거를 제공합니다. 또한, 이론적으로 가능한 신경망 기반 약물 전달 시스템의 작동을 설명하며, 이 시스템이 어떻게 운동성 변화를 활용하여 약물 운송을 조절할 수 있는지에 대한 예측을 제공합니다.",
+      "quantitative_results": "논문에서는 PF 환자의 폐 조직 내에서의 약물 전달 성능에 대한 수치적 결과를 제공하지 않았습니다. 그러나 이론적 접근법을 통해 PF 환자의 폐 조직 내에서의 약물 전달을 개선하기 위한 다양한 접근법을 제시했습니다.",
+      "novelty": "이 논문은 PF 환자의 폐 조직 내에서의 약물 전달을 개선하기 위한 신경망 기반 약물 전달 시스템의 개발에 대한 새로운 접근법을 제시합니다. 이 접근법은 기존 연구에서 보장되지 않았던 다양한 약물 전달 시스템의 개발을 가능하게 합니다.",
+      "limitations": "논문에서는 PF 환자의 폐 조직 내에서의 약물 전달을 개선하기 위한 다양한 접근법을 제시했습니다. 그러나 이 접근법이 실제 환경에서 어떻게 작동할지에 대한 근거는 제공되지 않았습니다. 또한, 이론적 접근법을 실제 환경에서 어떻게 적용할지에 대한 구체적인 예측도 제공되지 않았습니다.",
+      "future_research": "후속 연구는 PF 환자의 폐 조직 내에서의 약물 전달을 개선하기 위한 다양한 접근법의 실제 적용을 위한 실험을 제안합니다. 또한, 이 접근법이 실제 환경에서 어떻게 작동할지에 대한 실험적 연구를 통해 이론적 접근법의 효과를 확인하는 것이 중요합니다."
+    }
+  },
+  {
     "id": "doi:10.1038/s43018-026-01270-8",
     "title": "The deep learning framework Hist2Prot infers single-cell spatial proteomics from histology to predict biomarkers and clinical outcomes.",
     "topic": "Protein",
@@ -399,7 +465,15 @@
     "pmcid": "PMC13750141",
     "url": "https://europepmc.org/articles/PMC13750141",
     "abstract": "Gynecological cancers, including ovarian, cervical, and endometrial cancers, remain major contributors to female morbidity and mortality worldwide. Conventional treatments-surgery, chemotherapy, and radiotherapy-have improved outcomes, but advanced or recurrent disease is still associated with poor prognosis, chemoresistance, and tumor heterogeneity. Immunotherapy has emerged as a transformative strategy because of its specificity and potential for durable responses. However, the immunosuppressive tumor microenvironment and inefficient delivery of immunotherapeutic agents limit clinical benefit. Nanocarriers, including organic, inorganic, and biomimetic platforms, can improve targeted delivery, sustained release, biocompatibility, and tumor microenvironment remodeling, thereby enhancing immunotherapy. This review summarizes major immunotherapeutic modalities for gynecological cancers-immune checkpoint blockade, CAR-T cell therapy, tumor vaccines, and oncolytic viruses-and the classification and characteristics of commonly used nanocarriers. We focus on nanocarrier-mediated immunotherapeutic mechanisms in ovarian, cervical, and endometrial cancers, and further highlight emerging lipid nanoparticle/mRNA and programmable RNA delivery strategies. Finally, we analyze challenges in clinical translation and provide perspectives for future development, aiming to support fundamental research and clinical application of nano-immunotherapy in gynecological malignancies.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 나이크론 카리어를 이용한 암 치료법을 소개하고, 나이크론 카리어의 작용 메커니즘, 임상 적용 가능성을 분석하며, 새로운 유리 나노입자와 프로그래밍 RNA 전달 전략에 대한 연구를 강조한다. 이는 나이크론 카리어를 이용한 암 치료의 기초 연구와 임상 응용을 지원한다.",
+      "methods": "이 논문은 나이크론 카리어를 이용한 암 치료의 작용 메커니즘을 분석하고, 나이크론 카리어의 유형과 특성을 설명한다. 또한, 나이크론 카리어를 이용한 암 치료의 임상 적용 가능성에 대한 연구를 수행한다.",
+      "quantitative_results": "이 논문에서는 임상 적용 가능성에 대한 연구 결과를 보여주지만, 이는 수치나 대조군 비교를 포함하지 않는다.",
+      "novelty": "이 논문은 새로운 유리 나노입자와 프로그래밍 RNA 전달 전략에 대한 연구를 강조하며, 이는 기존 연구에서 볼 수 없는 새로운 측면을 제공한다.",
+      "limitations": "이 논문은 임상 적용 가능성에 대한 연구 결과를 보여주지만, 이는 확인할 수 없는 사항이다. 또한, 이 논문은 기존 연구 대비 차별점을 명확히 제시하지는 않았다.",
+      "future_research": "이 논문은 임상 적용 가능성에 대한 연구 결과를 바탕으로, 나이크론 카리어를 이용한 암 치료의 임상 적용 가능성에 대한 후속 연구를 제안한다."
+    }
   },
   {
     "id": "doi:10.3390/ijms27219930",
@@ -413,7 +487,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43028174/",
     "abstract": "Understanding the interplay between immune and stromal cells in the tumor microenvironment is essential for developing effective cancer therapies and preventing relapses. In this review, starting with the basics of tumor immunology and a historical review from cancer chemotherapy to current immunotherapy, in the context of precision medicine, we focus on immunotherapies based on genetically modified macrophages, and chimeric T-cell antigen receptor (CAR), highlighting the similarities and differences between TCR-endogenous signaling and CART-dependent signaling at the immune synapse, presenting all the generations that have been developed briefly, followed by NK cell-dependent CAR therapeutic approaches where a comparison is established, analyzing their respective advantages and drawbacks. Targeting the tumor-immune microenvironment has become central to cancer treatment, with combinatorial therapies applied and assessed as a feasible strategy for this complex group of diverse pathologies. In this context, modulating the immune synapse, rewiring immune cell metabolism, and developing genetically engineered immune cells have emerged as promising approaches that open novel avenues for treating and managing cancer patients. This review offers a holistic, historical view of state-of-the-art molecular approaches, along with insights into future perspectives and current limitations of the technologies supporting immunotherapy in molecular oncology.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암 치료를 위한 효과적인 치료법 개발과 재발을 방지하기 위한 암 세포와 세포 사이의 상호 작용을 이해하는 데 중점을 둔다. 이는 암 치료법의 정밀 의학적 배경에서 시작하여 암 화학 치료와 현재의 암 치료법으로 이어진다. 이 논문은 암 세포와 세포 사이의 상호 작용을 조절하고 암 세포의 유기체 산소를 재설계하고 유전적으로 수정된 유기체 세포를 개발하는 새로운 접근법에 대해 설명한다.",
+      "methods": "이 논문은 암 세포와 세포 사이의 상호 작용을 이해하기 위해 암 세포의 면역학적 작용에 대한 기본 지식과 암 화학 치료와 현재의 암 치료법의 역사적 배경을 제공한다. 이 논문은 유전적으로 수정된 매크로포제와 차이화된 T세포 항원 수신자 (CAR)를 중심으로 암 치료법을 다룬다. 이는 TCR 내재적 신호 전달과 CAR 의존적 신호 전달 간의 유사성과 차이점을 설명한다.",
+      "quantitative_results": "이 논문에서는 암 세포와 세포 사이의 상호 작용을 조절하고 암 세포의 유기체 산소를 재설계하고 유전적으로 수정된 유기체 세포를 개발하는 유망한 접근법에 대해 설명한다. 이는 암 치료의 중심에 위치하고 있다.",
+      "novelty": "이 논문은 기존 연구와 비교하여 유전적으로 수정된 매크로포제와 차이화된 T세포 항원 수신자 (CAR)를 중심으로 암 치료법을 다루는 것이 차별점이다. 이는 암 세포와 세포 사이의 상호 작용을 조절하고 암 세포의 유기체 산소를 재설계하고 유전적으로 수정된 유기체 세포를 개발하는 새로운 접근법에 대해 설명한다.",
+      "limitations": "이 논문은 암 치료법의 정밀 의학적 배경에서 암 화학 치료와 현재의 암 치료법을 다루는 것이 제한적이다. 또한, 이 논문에서는 암 세포와 세포 사이의 상호 작용을 조절하고 암 세포의 유기체 산소를 재설계하고 유전적으로 수정된 유기체 세포를 개발하는 유망한 접근법에 대해 설명한다.",
+      "future_research": "이 논문은 암 치료법의 정밀 의학적 배경에서 암 화학 치료와 현재의 암 치료법을 다루는 것이 제한적이다. 이 논문은 암 세포와 세포 사이의 상호 작용을 조절하고 암 세포의 유기체 산소를 재설계하고 유전적으로 수정된 유기체 세포를 개발하는 유망한 접근법에 대해 설명한다. 이는 후속 연구를 위한 제안이다."
+    }
   },
   {
     "id": "doi:10.1128/jmbe.00253-26",
@@ -692,6 +774,48 @@
     }
   },
   {
+    "id": "doi:10.1016/j.mtbio.2026.103808",
+    "title": "Gene-activated matrices as nanomedicine platforms for bone regeneration: Delivery, translation and patent landscape.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-03",
+    "journal": "",
+    "authors": "Abdelnabi H, Alkaabi SM, Alderei KS, Alaryani AS, Mohsin S.",
+    "doi": "10.1016/j.mtbio.2026.103808",
+    "pmid": "43034744",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43034744/",
+    "abstract": "Protein biologics are constrained in critical-size bone defects not by insufficient potency, but by rapid clearance and the inability to sustain therapeutic signaling at the repair site. Dose escalation does not overcome this pharmacokinetic limitation and instead increases the risk of ectopic bone formation, osteolysis, and soft tissue toxicity. Sustained, localized delivery, not higher dosing, is the unmet requirement. Gene-activated matrices (GAM) address this problem by integrating nucleic acid cargo and delivery vectors within an implantable scaffold, converting infiltrating host cells into local sources of regenerative signals. This review examines GAMs as nanomedicine platforms for bone regeneration, tracing their development from scaffold bioactivity and the limitation of protein biologics to nucleic acid-based delivery. We compare viral vectors, lipid nanoparticles, polymeric polyplexes, calcium phosphate nanoparticles, and scaffold-integrated systems across transduction efficiency, expression kinetics, immunogenicity, and bone-site retention. We then examine how scaffold composition, architecture, and fabrication govern vector retention, release, and substrate-mediated transfection. This review then evaluates nucleic acid cargo selection and coordinated osteogenic and angiogenic gene delivery, including pDNA, mRNA, siRNA, miRNA, and explores emerging multi-factor, stimuli-responsive, and CRISPR-based GAMs alongside their translational constraints. A distinct feature of this review is its claim-level patent analysis, which identifies substantial intellectual-property white space in GAM development. Despite strong preclinical evidence, no GAM platform has simultaneously achieved scalable manufacturing, regulatory readiness as a combination product, and validation in a human-scale bone defect model. Clinical translation will require coordinated optimization of vector-scaffold interactions, manufacturing scalability, safety, and clinically relevant validation.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.3390/molecules31213965",
+    "title": "Engineering Natural Product Nanomedicines to Modulate Tumor Immunometabolism for Enhanced Cancer Immunotherapy.",
+    "topic": "Immunity",
+    "date": "2026-11-03",
+    "journal": "",
+    "authors": "Xiao Y, Lan S, Dai Y, Liu X, Huang C, Yang C, Wang Z, Zou L.",
+    "doi": "10.3390/molecules31213965",
+    "pmid": "43029278",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43029278/",
+    "abstract": "Tumor metabolic reprogramming contributes to an immunosuppressive microenvironment and limits the efficacy of cancer immunotherapy. Natural products can regulate multiple metabolic pathways, but their therapeutic application is often restricted by poor bioavailability and insufficient tumor exposure. Nanomedicine offers a means to overcome these limitations while enabling more selective metabolic intervention. This review examines how natural product nanomedicines remodel tumor immunometabolism and influence antitumor immunity. Current evidence shows that these nanomedicines can regulate glucose and lactate metabolism, lipid and amino acid-associated metabolism, and mitochondrial/redox homeostasis. Such metabolic remodeling has been associated with improved CD8 + T-cell activity, altered immunosuppressive immune populations, induction of immunogenic cell death, and improved responses to immune checkpoint blockade in selected studies. However, causal links between metabolic regulation and immune remodeling remain insufficiently defined, and metabolic interventions may exert distinct effects across tumor and immune cell populations. Future studies should emphasize cell-specific targeting, direct assessment of metabolic target engagement, and pharmacokinetic-pharmacodynamic relationships. Natural product nanomedicines therefore represent a promising platform for integrating metabolic intervention with cancer immunotherapy.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.ijpx.2026.100701",
+    "title": "Smart nanomedicine for lung cancer: Overcoming drug resistance and therapeutic barriers through targeted delivery, phototherapy, and theranostics.",
+    "topic": "Drug delivery",
+    "date": "2026-11-03",
+    "journal": "",
+    "authors": "Colaco V, Gupta A, Jadhav SR, Rajora AD, Saha M, Adile S, Roy AA, Soman S, Moorkoth S, Datta D, Mutalik S, Prajapati BG, Kudarha R, Dhas N.",
+    "doi": "10.1016/j.ijpx.2026.100701",
+    "pmid": "43032665",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43032665/",
+    "abstract": "Lung cancer is a leading cause of death in the world and is highly heterogeneous with extensive molecular changes and often resistant to therapy. Despite significant advances in clinical management through surgery, chemotherapy, radiotherapy, and immunotherapy, some of these treatments are limited in effectiveness by late diagnosis, systemic toxicity, poor accumulation, molecular heterogeneity, and acquired resistance. This review provides a comprehensive overview of current and emerging therapeutic strategies for lung cancer, with particular emphasis on advanced drug delivery systems and nanomedicine-based approaches. Recent advances in lipid-based nanoparticles, polymeric nanoparticles and micelles, inorganic nanoparticles, and nanocrystals are highlighted for their ability to improve drug solubility, pharmacokinetics, tumor accumulation, cellular uptake, and controlled drug release. Active targeting and stimuli-responsive nanocarriers can improve tumor selectivity, intracellular drug delivery, and drug retention, potentially addressing selected resistance-associated mechanisms. Gene-delivery and genome-editing approaches offer additional opportunities to modulate resistance-related pathways, while photodynamic and photothermal therapies provide complementary strategies for localized tumor treatment. However, the extent to which these approaches reverse established drug resistance varies with the targeted mechanism and the experimental model employed. Distinguishing functional resistance reversal from improved drug delivery and general anticancer activity is therefore essential for assessing their translational potential.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.64898/2026.10.30.762893",
     "title": "Cell-resolved pharmacodynamic profiling reveals tissue- and cell-population-specific activity of antisense oligonucleotide chemical conjugates in vivo",
     "topic": "Nucleic acids",
@@ -734,6 +858,20 @@
       "limitations": "QC-espresso는 보고서의 품질을 평가하고 식별 일관성과 양적 신뢰성을 평가하는 데 필요한 자동화된 품질 검사 워크플로를 제공한다. 그러나, QC-espresso는 실험 조건, 오염물질, 그리고 분석자의 추론에 대한 정보를 제공하지 않는다. 이러한 정보는 QC-espresso를 사용하는 실험자에게 제공되어야 한다.",
       "future_research": "QC-espresso를 사용하여 얻은 결과를 더 많은 실험 데이터 세트에 적용하여, QC-espresso의 품질 검사 워크플로의 효과성을 검증하고, QC-espresso가 사용하는 분석 모듈의 효율성을 확인하는 후속 연구를 제안한다."
     }
+  },
+  {
+    "id": "doi:10.1016/j.cbpa.2026.102801",
+    "title": "Enzyme-enabled proteomics for decoding the functional proteome.",
+    "topic": "Protein",
+    "date": "2026-11-02",
+    "journal": "",
+    "authors": "Mondal U, Weeks AM.",
+    "doi": "10.1016/j.cbpa.2026.102801",
+    "pmid": "42971030",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42971030/",
+    "abstract": "Mass spectrometry (MS)-based proteomics has transformed our ability to measure protein abundance and modification state on a proteome-wide scale. However, many critical determinants of protein function, including post-translational modification (PTM) state, spatial localization, and enzyme activity, require strategies designed to specifically capture these biological features. Enzymes are uniquely suited for this challenge because their molecular recognition properties, catalytic activities, and genetic encodability enable highly selective transformations that are difficult to achieve using purely chemical approaches. In this review, we highlight recent advances in enzyme-enabled proteomics that exploit natural and engineered enzyme activity to expand the functional information accessible by MS-based proteomics analysis. We discuss approaches that harness endogenous enzymes for metabolic labeling, repurpose enzyme chemistry for selective PTM tagging, and engineer enzymes to record protein localization and synthesis. Finally, we consider how continued discovery and engineering of enzyme chemistry may shift the role of enzymes beyond enrichment toward molecular recording strategies that encode increasingly complex aspects of protein function.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1002/pro.70809",
