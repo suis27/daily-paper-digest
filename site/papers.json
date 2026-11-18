@@ -1,5 +1,27 @@
 [
   {
+    "id": "doi:10.21203/rs.3.rs-11750300/v1",
+    "title": "Targeting STAU1 ameliorates disease phenotypes in TDP-43 ALS mice",
+    "topic": "Nucleic acids",
+    "date": "2026-11-17",
+    "journal": "",
+    "authors": "Scoles D, Paul S, Dansithong W, Figueroa KP, Li J, Hivare P, Anderson CJ, Gandelman M, Pulst SM.",
+    "doi": "10.21203/rs.3.rs-11750300/v1",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.21203/rs.3.rs-11750300/v1",
+    "abstract": "Abstract Altered RNA metabolism and impaired proteostasis are central to amyotrophic lateral sclerosis (ALS) and frontotemporal dementia (FTD). STAU1 is a multifunctional RNA-binding protein that regulates mRNA decay and trafficking, interacts with ATXN2, and is overabundant in neurodegenerative disease models. STAU1 overabundance activates mTOR signaling, impairs autophagy and stress-granule turnover, and thereby participates in a feed-forward circuit that further elevates STAU1 abundance. Here, we tested whether genetic and antisense oligonucleotide (ASO)-mediated STAU1 lowering can interrupt this circuit in TDP-43-associated disease. Stau1 haploinsufficiency in Prp -TDP-43 Q331K mice improved motor performance and open-field measures, reduced TDP-43 and gliosis, normalized neuronal, apoptotic, and autophagy markers, restored TDP-43-dependent splicing, and attenuated transcriptomic abnormalities. Screening 2′- O -methoxyethyl (MOE) gapmer ASOs identified ASO-45, which lowered STAU1 in patient-derived fibroblasts and mouse CNS. Intracerebroventricular ASO-45 improved spinal-cord and motor-cortex phenotypes, restored splicing, and attenuated cortical transcriptomic abnormalities. In independent Thy1 -TDP-43 models, ASO-45 improved molecular markers and extended survival by 9.5–15.7%. These findings show that STAU1 lowering can disrupt a self-amplifying mTOR–autophagy–stress-granule axis and nominate STAU1-directed ASOs as a disease-modifying strategy for ALS/FTD.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 STAU1의 감소가 ALS와 FTD와 관련된 TDP-43 증상을 개선하는지 확인하기 위해 실험을 수행했습니다. 이 연구는 STAU1 감소가 ALS와 FTD의 병리학적 과정을 방해하는 mTOR-자부하-스트레스 병원체 전달 경로를 중단하는 것으로 나타났습니다.",
+      "methods": "이 연구는 Prnp-TDP-43 Q331K 마우스 모델을 사용하여 STAU1의 감소가 ALS와 FTD와 관련된 TDP-43 증상을 개선하는지 확인했습니다. 또한, 2′-O-메톡시에스탈 (MOE) 간격 셀룰라 ASO-45는 STAU1 감소를 유도하고, 이 ASO는 인간 피부 세포와 마우스 CNS에서 STAU1을 감소시키는 것을 확인했습니다. 이 ASO는 마우스의 척수와 운동 측면을 개선하고, 스파닝-코르TEX 측면을 회복하고, 뇌 측면의 트랜스포트마커를 감소시키는 것을 확인했습니다.",
+      "quantitative_results": "ASO-45는 마우스에서 STAU1을 감소시키는 것을 확인했습니다. 이 ASO는 마우스의 척수와 운동 측면을 개선하고, 스파닝-코르TEX 측면을 회복하고, 뇌 측면의 트랜스포트마커를 감소시키는 것을 확인했습니다. 이 ASO는 마우스에서 9.5%에서 15.7%까지 생존 기간을 연장했습니다.",
+      "novelty": "이 연구는 STAU1 감소가 ALS와 FTD와 관련된 TDP-43 증상을 개선하는 것으로 나타났습니다. 이 연구는 기존 연구에서 보장되지 않았던 새로운 ASO를 사용하여 STAU1 감소를 유도하는 것을 보여줍니다.",
+      "limitations": "이 연구는 STAU1 감소가 ALS와 FTD와 관련된 TDP-43 증상을 개선하는지 확인하기 위해 실험을 수행했습니다. 이 연구는 STAU1 감소가 ALS와 FTD와 관련된 TDP-43 증상을 개선하는지 확인하기 위해 실험을 수행했습니다. 이 연구는 STAU1 감소가 ALS와 FTD와 관련된 TDP-43 증상을 개선하는지 확인하기 위해 실험을 수행했습니다.",
+      "future_research": "후속 연구는 STAU1 감소가 ALS와 FTD와 관련된 TDP-43 증상을 개선하는지 확인하기 위해 실험을 수행했습니다. 이 연구는 STAU1 감소가 ALS와 FTD와 관련된 TDP-43 증상을 개선하는지 확인하기 위해 실험을 수행했습니다."
+    }
+  },
+  {
     "id": "doi:10.1021/acschembio.6c00553",
     "title": "Chemical Biology in the Age of Artificial Intelligence: From Ligand Discovery to Virtual Cells.",
     "topic": "Protein",
@@ -55,6 +77,50 @@
       "novelty": "이 연구는 첫 번째 선제 항체 치료를 받는 중기 비소세포 폐암 환자들의 IINS 점수와 생존 예측 능력을 평가하는 첫 번째 연구입니다. 이는 기존 연구와 비교하여 새로운 발견을 제공합니다.",
       "limitations": " retrospective, single-center 연구의 한계로, 비항체 치료를 받지 않은 환자 그룹이 없었습니다. 또한, 일부 중요한 제외 요인을 고려하지 않았습니다. 이 한계를 고려하여, 이 연구의 결과를 확인하기 위해 전향적이고 다중 센터 연구가 필요합니다.",
       "future_research": "이 연구의 결과를 확인하기 위해, 비항체 치료를 받지 않은 환자 그룹을 포함하는 전향적이고 다중 센터 연구가 필요합니다. 또한, 일부 중요한 제외 요인을 고려하여 재검토하는 것이 필요합니다."
+    }
+  },
+  {
+    "id": "doi:10.1021/acsabm.6c01572",
+    "title": "Quantification of Multi-nucleic Acid LNP Formulations Using LEGEND.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-16",
+    "journal": "",
+    "authors": "Bisht D, Rout DP, Poon W.",
+    "doi": "10.1021/acsabm.6c01572",
+    "pmid": "43038321",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43038321/",
+    "abstract": "Lipid nanoparticles (LNPs) are widely used for nucleic acid delivery, but current kit-based methods of measuring encapsulation efficiency quantify only total RNA and cannot distinguish between multiple nucleic acid cargos within co-formulated LNPs. This limitation complicates formulation characterization, dose normalization, reproducibility, and therapeutic predictability. To address this challenge, we developed LEGEND (LNP Encapsulation by Gel Electrophoresis and Nucleic Acid Densitometry), a simple gel-based assay that enables independent quantification of multiple nucleic acids in co-loaded LNP formulations. Using mCherry mRNA and eGFP siRNA as model cargos, we evaluated SM-102 and DLin-MC3-DMA LNPs containing varying siRNA/mRNA ratios. LEGEND separated and quantified individual nucleic acids based on size, revealing that experimentally encapsulated siRNA/mRNA ratios frequently differed from intended formulation ratios. Furthermore, encapsulation preferences varied between ionizable lipids, with SM-102 favoring mRNA encapsulation and DLin-MC3-DMA favoring siRNA encapsulation. Dose-normalized transfection studies in reporter cells demonstrated that these differences significantly influenced gene silencing and transgene expression outcomes. Overall, LEGEND provides a simple, accessible, and robust method for quantifying individual nucleic acid cargos in multi-nucleic acid co-formulated LNPs, enabling improved formulation characterization, quality control, and development of next-generation nucleic acid therapeutics.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 lipid nanoparticles (LNPs)를 이용한 nucleic acid (단백질, 핵산, 면역학, 약물 전달 분야의 주요 연구 대상) 전달을 위한 kit 기반의 캡슐화 효율 측정 방법의 한계를 해결하기 위해 새로운 assay인 LEGEND를 개발하고 평가했다. 이 assay는 여러 nucleic acids가 동시에 포장된 LNPs 내의 각 nucleic acid의 포장 비율을 독립적으로 측정할 수 있게 해, 포장 형태의 개발, 재현성, 치료 예측성 등에 도움이 될 것이다.",
+      "methods": "이 연구에서는 mCherry mRNA와 eGFP siRNA를 모델 cargos로 사용하여 SM-102와 DLin-MC3-DMA LNPs 내의 siRNA/mRNA 비율을 평가했다. 이 assay는 gel electrophoresis와 nucleic acid densitometry를 사용하여 nucleic acids의 크기를 기반으로 분리하고 측정했다. 이 assay는 ionizable lipids에 따라 siRNA나 mRNA가 포장되는 경향이 다르다는 것을 확인했다.",
+      "quantitative_results": "연구 결과, 실험적으로 포장된 siRNA/mRNA 비율이 목표 포장 비율과 다르게 나타났다. 또한, SM-102는 mRNA를, DLin-MC3-DMA는 siRNA를 더 잘 포장했다. 이 assay는 reporter cell에서의 dosing-normalized transfection 연구에서 이러한 차이가 유전자 침묵과 타겟 염색체 발현에 영향을 미쳤음을 보여주었다.",
+      "novelty": "기존 연구에서는 kit 기반의 캡슐화 효율 측정 방법이 여러 nucleic acids가 동시에 포장된 LNPs 내의 각 nucleic acid의 포장 비율을 측정할 수 없음을 지적했다. 이 연구에서는 gel electrophoresis와 nucleic acid densitometry를 사용한 assay를 개발하여 이 한계를 극복했다.",
+      "limitations": "이 assay는 ionizable lipids에 따라 nucleic acid가 포장되는 경향이 다르다는 것을 확인했다. 이 assay는 ionizable lipids의 종류에 따라 nucleic acid의 포장 비율이 달라질 수 있음을 보여주지만, 이 assay는 이에 대한 자세한 정보를 제공하지 않았다. 이 assay는 ionizable lipids의 종류에 따라 nucleic acid가 포장되는 경향이 다르다는 것을 확인했다.",
+      "future_research": "이 assay는 future research의 주요한 도구가 될 수 있다. 이 assay를 이용하여 ionizable lipids의 종류에 따라 nucleic acid가 포장되는 경향이 다르다는 것을 더 깊이 이해하고, 이를 이용하여 더 나은 nucleic acid therapeutics의 개발을 위한 연구가 필요하다."
+    }
+  },
+  {
+    "id": "doi:10.1146/annurev-med-042425-070657",
+    "title": "RNA Therapeutics in Cardiovascular Medicine: From Molecular Mechanisms to Clinical Practice.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-16",
+    "journal": "",
+    "authors": "Holley CL.",
+    "doi": "10.1146/annurev-med-042425-070657",
+    "pmid": "43038382",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43038382/",
+    "abstract": "RNA therapeutics are an exciting class of medications that target RNA and/or are themselves made from RNA. Most RNA therapeutics that have been approved for clinical use are antisense oligonucleotides or small interfering RNAs. To date, eight RNA therapeutics with cardiovascular relevance have received US Food and Drug Administration approval, but not all of them have specific indications for treating cardiovascular disease. There is a promising pipeline of additional cardiovascular RNA therapies targeting lipoprotein(a), angiopoietin-like protein 3, and angiotensinogen. Chemical modifications to therapeutic nucleic acids are important for conferring nuclease resistance and limiting immunostimulation in vivo, and enhanced delivery can be achieved using N -acetylgalactosamine conjugation and/or lipid nanoparticles. Emerging approaches include stereopure oligonucleotide chemistry, circular RNAs, adenosine-to-inosine RNA base editing, and nonhepatic targeting. This review summarizes the mechanistic basis of each modality, the clinical evidence for approved cardiovascular RNA therapeutics, selected pipeline candidates in advanced trials, and directions for future development.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "RNA therapeutics는 카디아메디컬 분야에서 잠재력을 가진 치료제로, RNA를 표적하거나 RNA로 직접 제작되는 약물입니다. 이 분야의 연구는 카디아메디컬 RNA therapeutics의 작용 메커니즘, 임상적 증거, 그리고 미래 개발 방향을 정리합니다.",
+      "methods": "RNA therapeutics의 작용 메커니즘을 이해하기 위해, 화학적 수정, 노말산 결합, 치료용 합성 오리노클로이드, 그리고 비판상피 targeting 등 다양한 방법을 사용합니다. 또한, 임상적 증거를 통해 카디아메디컬 RNA therapeutics의 효과를 평가하고, 미래 개발 방향을 제시합니다.",
+      "quantitative_results": "이 논문에서는 카디아메디컬 RNA therapeutics의 작용 메커니즘, 임상적 증거, 그리고 미래 개발 방향을 정리하고 있습니다. 그러나, 이 논문에서는 실제 수치나 대조군 비교를 보고하지 않았습니다.",
+      "novelty": "이 논문은 RNA therapeutics의 작용 메커니즘, 임상적 증거, 그리고 미래 개발 방향을 정리하고 있습니다. 이는 기존 연구 대비 차별점이 될 수 있습니다. 또한, 새로운 접근법, 예를 들어, 오리노클로이드 합성, 치료용 합성 오리노클로이드, 그리고 비판상피 targeting 등이 소개되었습니다.",
+      "limitations": "이 논문에서는 실제 수치나 대조군 비교를 보고하지 않았습니다. 또한, 이 논문에서는 한계나 확인할 수 없는 정보를 명시하지 않았습니다. 그러나, 이 논문은 RNA therapeutics의 작용 메커니즘, 임상적 증거, 그리고 미래 개발 방향을 정리하고 있습니다.",
+      "future_research": "이 논문은 RNA therapeutics의 작용 메커니즘, 임상적 증거, 그리고 미래 개발 방향을 정리하고 있습니다. 이는 후속 연구의 제안이 될 수 있습니다. 이 논문에서 소개된 새로운 접근법을 활용하여 RNA therapeutics의 개발을 이어가야 합니다."
     }
   },
   {
@@ -669,7 +735,15 @@
     "pmcid": "PMC13752843",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43017426/",
     "abstract": "Antisense oligonucleotide (ASO) lipid nanoparticles (LNPs) remain underexplored relative to siRNA and mRNA LNPs. Using an orthogonal workflow (DLS, NTA, AF4), we show that ionisable lipid identity and microfluidic flow rate govern key LNP attributes. Replacing SM-102 with MC3 increased size and reduced ASO recovery, while lower flow rates increased LNP size and improved recovery, highlighting formulation-property relationships for ASO LNP optimisation.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 antisense oligonucleotide(LNPs)의 lipid nanoparticle(LNP)의 성질에 대한 이해를 높이고, 이를 통해 ASO(LNPs)의 최적화를 위한 제안을 제공하고자 합니다. 이를 위해, 다양한 분석법을 사용하여 lipid의 유형과 유동성 조건이 LNP의 크기와 ASO의 회복률에 미치는 영향을 조사하였습니다.",
+      "methods": "논문에서는 전기저항 분석(DLS), 나노입자 분석(NTA), 액체상 필터링(AF4)을 사용하여 lipid의 유형과 유동성 조건이 LNP의 크기와 ASO의 회복률에 미치는 영향을 조사하였습니다. 이를 위해, SM-102와 MC3를 사용하여 실험을 수행하였습니다.",
+      "quantitative_results": "논문에서는 SM-102를 MC3로 교체하였을 때, LNP의 크기가 증가하고 ASO의 회복률이 감소하였음을 보여주었습니다. 또한, 유동성 조건을 낮추면 LNP의 크기가 증가하고 ASO의 회복률이 개선되었다는 결과를 보여주었습니다.",
+      "novelty": "이 논문은 ASO(LNPs)의 lipid nanoparticle(LNP)의 성질에 대한 새로운 이해를 제공하며, 이를 통해 ASO(LNPs)의 최적화를 위한 제안을 제공하였습니다. 이는 기존 연구와는 다른 관점에서 ASO(LNPs)의 성질을 이해하는 데 기여할 것입니다.",
+      "limitations": "논문에서는 SM-102와 MC3의 교체에 대한 ASO의 회복률 감소와 유동성 조건의 변화에 대한 LNP의 크기 증가와 회복률 개선의 결과를 보여주었습니다. 그러나, 논문에서는 이러한 결과가 ASO의 lipid nanoparticle의 성질에만 국한된 것이 아니라, 다른 lipid nanoparticle의 성질에도 적용될 수 있다는 추론을 하지 않았습니다. 또한, 논문에서는 ASO의 lipid nanoparticle의 성질에 대한 추가적인 실험 조건과 lipid의 유형에 대한 추가적인 실험을 제안하였습니다.",
+      "future_research": "논문에서는 ASO의 lipid nanoparticle의 성질에 대한 추가적인 실험 조건과 lipid의 유형에 대한 추가적인 실험을 제안하였습니다. 이를 통해 ASO의 lipid nanoparticle의 성질에 대한 더 깊은 이해를 얻을 수 있을 것입니다."
+    }
   },
   {
     "id": "PMC:PMC13729012",
@@ -909,7 +983,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43034744/",
     "abstract": "Protein biologics are constrained in critical-size bone defects not by insufficient potency, but by rapid clearance and the inability to sustain therapeutic signaling at the repair site. Dose escalation does not overcome this pharmacokinetic limitation and instead increases the risk of ectopic bone formation, osteolysis, and soft tissue toxicity. Sustained, localized delivery, not higher dosing, is the unmet requirement. Gene-activated matrices (GAM) address this problem by integrating nucleic acid cargo and delivery vectors within an implantable scaffold, converting infiltrating host cells into local sources of regenerative signals. This review examines GAMs as nanomedicine platforms for bone regeneration, tracing their development from scaffold bioactivity and the limitation of protein biologics to nucleic acid-based delivery. We compare viral vectors, lipid nanoparticles, polymeric polyplexes, calcium phosphate nanoparticles, and scaffold-integrated systems across transduction efficiency, expression kinetics, immunogenicity, and bone-site retention. We then examine how scaffold composition, architecture, and fabrication govern vector retention, release, and substrate-mediated transfection. This review then evaluates nucleic acid cargo selection and coordinated osteogenic and angiogenic gene delivery, including pDNA, mRNA, siRNA, miRNA, and explores emerging multi-factor, stimuli-responsive, and CRISPR-based GAMs alongside their translational constraints. A distinct feature of this review is its claim-level patent analysis, which identifies substantial intellectual-property white space in GAM development. Despite strong preclinical evidence, no GAM platform has simultaneously achieved scalable manufacturing, regulatory readiness as a combination product, and validation in a human-scale bone defect model. Clinical translation will require coordinated optimization of vector-scaffold interactions, manufacturing scalability, safety, and clinically relevant validation.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 단백질 기반 치료제가 크리스털 크기의 골반 부위에 대한 치료에 제한을 받는 이유를 설명하고, 이를 해결하기 위해 게놈 활성화 매트릭스(GAM)를 사용하는 방법을 설명한다. 이는 단백질 치료제의 한계를 극복하고, 골반 재생에 대한 새로운 치료 기술을 개발하는 데 초점을 맞춘다.",
+      "methods": "논문은 GAM이 골반 재생에 사용되는 nanomedicine 플랫폼으로 어떻게 발전했는지에 대한 분석을 제공한다. 이는 다양한 유전자 운반자, 유리 밀도, 플라스틱 볼록, 침착물 내장 시스템의 효율성, 표현 kinetics, 면역성, 골반 부위에서의 유지 시간을 비교한다. 또한, 침착물의 구성, 구조, 제조가 유전자 운반자 보관, 분리, 표적 substrate의 전달에 어떻게 영향을 미치는지에 대한 분석도 포함한다.",
+      "quantitative_results": "이 논문에서는 유전자 운반자 선택, 골관절 유기물과 혈관 유기물 유기물 유도를 통합하는 유전자 운반을 포함한 다양한 유형의 유전자 운반자와 그들의 효율성, 표현 kinetics, 면역성, 골반 부위에서의 유지 시간을 비교한다. 이는 유전자 운반자와 침착물 간의 상호 작용, 제조의 스케일업, 안전성, 임상적으로 관련된 검증을 포함한다.",
+      "novelty": "이 논문은 게놈 활성화 매트릭스(GAM)가 단백질 기반 치료제의 한계를 극복하고, 골반 재생에 대한 새로운 치료 기술을 개발하는 데 있어 중요한 역할을 한다는 것을 입증한다. 또한, 이 논문은 게놈 활성화 매트릭스(GAM) 플랫폼이 임상적 인증을 받을 수 있는지, 규제적 준비가 완료되었는지, 인간 크기의 골반 부위 모델에서 검증되었는지에 대한 명확한 증거가 필요하다는 점을 강조한다.",
+      "limitations": "이 논문은 게놈 활성화 매트릭스(GAM)가 골반 재생에 어떻게 적용될 수 있는지에 대한 구체적인 예시를 제공하지는 않는다. 또한, 게놈 활성화 매트릭스(GAM) 플랫폼이 규제 준비가 완료되었는지, 임상적 인증이 완료되었는지, 인간 크기의 골반 부위 모델에서 검증되었는지에 대한 명확한 증거가 제공되지 않았다. 이는 게놈 활성화 매트릭스(GAM) 플랫폼의 임상적 적용을 위한 추가 연구가 필요하다는 것을 나타낸다.",
+      "future_research": "이 논문은 게놈 활성화 매트릭스(GAM) 플랫폼의 임상적 적용을 위한 추가 연구를 제안한다. 이는 유전자 운반자와 침착물 간의 상호 작용, 제조의 스케일업, 안전성, 임상적으로 관련된 검증을 포함한다. 또한, 게놈 활성화 매트릭스(GAM) 플랫폼의 임상적 적용을 위한 추가 연구를 통해 게놈 활성화 매트릭스(GAM)가 골반 재생에 어떻게 적용될 수 있는지에 대한 명확한 증거를 제공할 수 있을 것이다."
+    }
   },
   {
     "id": "doi:10.3390/molecules31213965",
@@ -995,6 +1077,20 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42971030/",
     "abstract": "Mass spectrometry (MS)-based proteomics has transformed our ability to measure protein abundance and modification state on a proteome-wide scale. However, many critical determinants of protein function, including post-translational modification (PTM) state, spatial localization, and enzyme activity, require strategies designed to specifically capture these biological features. Enzymes are uniquely suited for this challenge because their molecular recognition properties, catalytic activities, and genetic encodability enable highly selective transformations that are difficult to achieve using purely chemical approaches. In this review, we highlight recent advances in enzyme-enabled proteomics that exploit natural and engineered enzyme activity to expand the functional information accessible by MS-based proteomics analysis. We discuss approaches that harness endogenous enzymes for metabolic labeling, repurpose enzyme chemistry for selective PTM tagging, and engineer enzymes to record protein localization and synthesis. Finally, we consider how continued discovery and engineering of enzyme chemistry may shift the role of enzymes beyond enrichment toward molecular recording strategies that encode increasingly complex aspects of protein function.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.3389/fimmu.2026.2008733",
+    "title": "Gut microbiome in cutaneous T-cell lymphoma: emerging insights into systemic immunity and the gut-skin-tumor axis.",
+    "topic": "Immunity",
+    "date": "2026-11-02",
+    "journal": "",
+    "authors": "Balachandar S, Xia SW, Hooper MJ, Guitart J, Burns MB, Zhou XA.",
+    "doi": "10.3389/fimmu.2026.2008733",
+    "pmid": "43041731",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43041731/",
+    "abstract": "The gut microbiome is a critical regulator of systemic immunity that influences cancer development, therapeutic response, and immune homeostasis beyond the gastrointestinal tract. Although microbiome research has largely focused on solid tumors and immune checkpoint blockade, growing evidence indicates intestinal microorganisms also shape hematologic malignancies through effects on microbial metabolism, epithelial barrier integrity, immune cell differentiation, and inflammatory signaling. Cutaneous T-cell lymphoma (CTCL) represents a uniquely informative model to investigate these interactions: CTCL is characterized by chronic skin inflammation, progressive barrier dysfunction, systemic immune dysregulation, and skin microbial alterations, and can be longitudinally sampled via ready microbial reservoirs from tumors, blood, stool, and skin. Recent studies have demonstrated CTCL patients harbor gut microbiota with reduced diversity, depleted short-chain fatty acid (SCFA)-producing commensals, and altered microbial metabolic pathways. Associations between intestinal dysbiosis, disease severity, and therapeutic response have been made, alongside evidence linking skin microbial dysbiosis to malignant T-cell proliferation. These findings support a model in which intestinal and cutaneous microbial ecosystems cooperate to shape systemic antitumor immunity through a gut-skin-tumor axis. Microbial metabolites, including SCFAs and tryptophan-derived metabolites, may represent key mediators connecting gut dysbiosis with immune dysfunction and tumor progression. This review synthesizes current evidence regarding the gut microbiome in CTCL within the broader context of cancer immunology, hematologic malignancies, and the gut-skin axis. We discuss mechanisms linking intestinal dysbiosis with malignant T-cell biology, highlight opportunities for integrating microbiome research with multi-omic technologies, and propose future directions for microbiome-based biomarkers and therapeutic interventions to enhance antitumor immunity in CTCL.",
     "summary": "초록 기반 요약"
   },
   {
@@ -2238,6 +2334,20 @@
       "limitations": "이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 또한, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다.",
       "future_research": "이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 따라서, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 따라서, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 따라서, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 따라서, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 따라서, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다. 따라서, 이 연구는 흡수 효율을 예측하는 데 사용된 데이터와는 다른 새로운 흡수 효율을 예측하는 데 사용할 수 없다는 한계를 명시했다."
     }
+  },
+  {
+    "id": "doi:10.1080/14789450.2026.2750129",
+    "title": "Advancing colorectal cancer management through clinical proteomics: from genotype to proteotype toward clinical translation.",
+    "topic": "Protein",
+    "date": "2026-10-20",
+    "journal": "",
+    "authors": "Ramachandran P, Chen CSY, Lee CS, Aye TT, Kunjukunju A, Elias MH, Mydin AR, Low TY.",
+    "doi": "10.1080/14789450.2026.2750129",
+    "pmid": "42876326",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42876326/",
+    "abstract": "Introduction Colorectal cancer (CRC) is one of the leading causes of cancer death worldwide, with outcomes depending on the stages at diagnosis. Genomic and transcriptomic classifications are largely inferential because the genotype-phenotype relationship is non-linear and is influenced by post-translational regulation, protein turnover, and the tumor microenvironment (TME). Proteomics measures this functional layer directly. Areas covered This review surveys proteomic technologies for CRC emphasizing mass spectrometry, affinity- and aptamer- based multiplex platforms, post-translational modification proteomics, spatial proteomics, AI-driven structural and predictive analysis, and multi-omics integration. Each platform is evaluated based on clinical questions, the supporting evidence and the barriers to implementation. Literature was drawn primarily from PubMed/MEDLINE and Scopus (2020-2026), emphasizing advanced and translational applications. Expert opinion Alongside approved blood cfDNA and stool-RNA molecular tests, proteomics is a functional complementary technology that may improve biological interpretation, assay triage and treatment response prediction, although prospective clinical utility remains to be established. The decisive barriers are standardized biospecimens, validation evidence, clinical utility data and interoperable public data sharing.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.20944/preprints202610.1680.v1",
