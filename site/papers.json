@@ -1,5 +1,27 @@
 [
   {
+    "id": "doi:10.21203/rs.3.rs-11632080/v1",
+    "title": "Massively parallel quantification and prediction of monomeric protein yield in Escherichia coli",
+    "topic": "Protein",
+    "date": "2026-11-18",
+    "journal": "",
+    "authors": "Tsuboyama K, Setsu S, Kiyokawa K, Lam A, Mishiro-Sato E, Tomari Y.",
+    "doi": "10.21203/rs.3.rs-11632080/v1",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.21203/rs.3.rs-11632080/v1",
+    "abstract": "Abstract Obtaining sufficient quantities of purified proteins in their intended molecular states is essential for biological research and protein engineering. Advances in computational protein design have expanded the functional capabilities of de novo proteins and accelerated candidate generation. However, reliable methods for ranking expected monomeric yield of candidate de novo designs, including molecular binders, fluorescent proteins and enzymes, have yet to be established. Standardized measurements of monomeric yield across diverse sequences remain scarce, limiting our understanding of its determinants and the development of accurate predictors for candidate selection. Here we developed a scalable pooled assay combining peptide barcodes, size-exclusion chromatography and mass spectrometry to quantify monomeric yield for over 39,000 natural protein domain variants, de novo proteins and nanobodies under uniform and standardized Escherichia coli production conditions. We used this dataset to (1) quantify the relationship between folding stability and monomeric yield, (2) benchmark inverse-folding methods, (3) evaluate the utility of structure-prediction confidence metrics in selecting high-yield design candidates, and (4) identify sequence and structural patterns in nanobodies associated with monomeric yield and monomer-to-dimer yield ratios. We further developed ESMC-MonoYield, a protein language model fine-tuned to predict monomeric yield from amino acid sequence alone, and prospectively demonstrated enrichment of high-yield candidates among BindCraft-designed binders. Our approach enables standardized, large-scale measurement of monomeric yield across diverse proteins, and establishes monomeric yield as a sequence-encoded property that can be learned, predicted and ultimately designed.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 핵산의 단백질 분리와 양산을 높여, 신선한 단백질을 빠르고 정확하게 얻을 수 있도록 하는 방법을 개발하고자 함을 목표로 하고 있습니다. 이는 생물학 연구와 단백질 엔지니어링의 핵심적인 요구사항을 충족합니다.",
+      "methods": "이 연구에서는 엘리시크로티아이카(Escherichia coli)의 일관된 제조 조건 하에서, 다양한 단백질의 분리와 양산을 평가하기 위해 peptide 바코드와 크기 선택적 세포학 분석 및 질량 분석을 결합한 스케일업된 병렬 assay를 개발했습니다. 이 assay는 39,000 개 이상의 자연 단백질 단일체, 신생 단백질 및 나이노보디의 분리와 양산을 측정했습니다.",
+      "quantitative_results": "이 assay는 단백질의 결합 안정성과 단일체 양산 사이의 관계를 측정하고, 역결합 방법의 성능을 평가하고, 나이노보디의 구조 예측 신뢰도 지표를 사용하여 고량산 단백질 설계 후보를 선택하는 방법을 평가했습니다. 이 assay는 단백질의 단일체 양산과 단일체 대 다중체 양산 비율 사이의 관련성을 식별했습니다.",
+      "novelty": "이 연구는 단백질의 단일체 양산을 예측하고, 단백질의 단일체 양산을 학습하고, 단백질의 단일체 양산을 설계하는 데 사용할 수 있는 단백질 언어 모델을 개발했습니다. 이 모델은 BindCraft 설계된 단백질 설계 후보를 고려할 때, 고량산 후보를 풍부하게 보여주었습니다.",
+      "limitations": "이 연구는 단백질의 단일체 양산을 예측하고, 단백질의 단일체 양산을 학습하고, 단백질의 단일체 양산을 설계하는 데 사용할 수 있는 단백질 언어 모델을 개발했습니다. 그러나 이 연구는 단백질의 단일체 양산을 예측하고, 단백질의 단일체 양산을 학습하고, 단백질의 단일체 양산을 설계하는 데 사용할 수 있는 단백질 언어 모델을 개발했습니다. 이 연구는 단백질의 단일체 양산을 예측하고, 단백질의 단일체 양산을 학습하고, 단백질의 단일체 양산을 설계하는 데 사용할 수 있는 단백질 언어 모델을 개발했습니다.",
+      "future_research": "이 연구는 단백질의 단일체 양산을 예측하고, 단백질의 단일체 양산을 학습하고, 단백질의 단일체 양산을 설계하는 데 사용할 수 있는 단백질 언어 모델을 개발했습니다. 이 연구는 단백질의 단일체 양산을 예측하고, 단백질의 단일체 양산을 학습하고, 단백질의 단일체 양산을 설계하는 데 사용할 수 있는 단백질 언어 모델을 개발했습니다. 이 연구는 단백질의 단일체 양산을 예측하고, 단백질의 단일체 양산을 학습하고, 단백질의 단일체 양산을 설계하는 데 사용할 수 있는 단백질 언어 모델을 개발했습니다."
+    }
+  },
+  {
     "id": "doi:10.21203/rs.3.rs-11750300/v1",
     "title": "Targeting STAU1 ameliorates disease phenotypes in TDP-43 ALS mice",
     "topic": "Nucleic acids",
@@ -20,6 +42,108 @@
       "limitations": "이 연구는 STAU1 감소가 ALS와 FTD와 관련된 TDP-43 증상을 개선하는지 확인하기 위해 실험을 수행했습니다. 이 연구는 STAU1 감소가 ALS와 FTD와 관련된 TDP-43 증상을 개선하는지 확인하기 위해 실험을 수행했습니다. 이 연구는 STAU1 감소가 ALS와 FTD와 관련된 TDP-43 증상을 개선하는지 확인하기 위해 실험을 수행했습니다.",
       "future_research": "후속 연구는 STAU1 감소가 ALS와 FTD와 관련된 TDP-43 증상을 개선하는지 확인하기 위해 실험을 수행했습니다. 이 연구는 STAU1 감소가 ALS와 FTD와 관련된 TDP-43 증상을 개선하는지 확인하기 위해 실험을 수행했습니다."
     }
+  },
+  {
+    "id": "doi:10.1016/j.sbi.2026.103438",
+    "title": "From static structures to conformational ensembles: Artificial intelligence for protein sampling and dynamics.",
+    "topic": "Protein",
+    "date": "2026-11-17",
+    "journal": "",
+    "authors": "Pasos-Trejo AS, Bonneau K, Guljas A, Molina-Taborda A, Clementi C.",
+    "doi": "10.1016/j.sbi.2026.103438",
+    "pmid": "43044348",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044348/",
+    "abstract": "After sparking a revolution in protein structure prediction, machine learning (ML), and artificial intelligence (AI) are now reshaping the modeling of protein conformational ensembles and dynamics. A fast, scalable, and accurate representation of protein conformational ensembles could enable genome-scale studies of protein function, with broad applications in drug discovery and protein engineering. The challenges associated with this goal, however, are far greater than those involved in single structure prediction because of the broad timescales spanned by protein motion, the complex relationship between sequence and dynamics, and the scarcity of datasets with experimental measurements. Despite these difficulties, many promising solutions have emerged in recent years, ranging from accelerated molecular dynamics to direct sampling of the conformational distribution, as well as some hybrid methods. Here, we review recent AI-powered approaches to tackle protein dynamics and conformational sampling, and outline their current limitations.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 인공지능 기술을 활용하여 단백질의 다양한 구조 집합과 동적인 모델을 생성하는 방법을 소개하고 있습니다. 단백질의 동적인 동작과 단백질의 구조와 동작 사이의 복잡한 관계를 이해하고, 단백질의 동작을 연구하는 데 필요한 대규모 데이터셋을 생성하는 것이 목표입니다.",
+      "methods": "논문에서는 단백질의 구조 집합을 생성하는 데 사용되는 다양한 방법들을 소개하고 있습니다. 이들 방법들은 단백질의 동작을 모델링하는 데 사용되는 단백질의 구조를 생성하는 데 필요한 방법들입니다. 이들 방법들은 단백질의 동작을 모델링하는 데 사용되는 단백질의 구조를 생성하는 데 필요한 방법들입니다.",
+      "quantitative_results": "논문에서는 단백질의 동작을 모델링하는 데 사용되는 단백질의 구조를 생성하는 데 필요한 방법들을 소개하고 있습니다. 이들 방법들은 단백질의 동작을 모델링하는 데 사용되는 단백질의 구조를 생성하는 데 필요한 방법들입니다.",
+      "novelty": "이 논문은 단백질의 동작을 모델링하는 데 사용되는 단백질의 구조를 생성하는 데 필요한 방법들을 소개하고 있습니다. 이들 방법들은 단백질의 동작을 모델링하는 데 사용되는 단백질의 구조를 생성하는 데 필요한 방법들입니다.",
+      "limitations": "논문에서는 단백질의 동작을 모델링하는 데 사용되는 단백질의 구조를 생성하는 데 필요한 방법들을 소개하고 있습니다. 이들 방법들은 단백질의 동작을 모델링하는 데 사용되는 단백질의 구조를 생성하는 데 필요한 방법들입니다. 단백질의 동작을 모델링하는 데 사용되는 단백질의 구조를 생성하는 데 필요한 방법들에 대한 데이터가 부족하다는 한계가 있습니다.",
+      "future_research": "후속 연구에서는 단백질의 동작을 모델링하는 데 사용되는 단백질의 구조를 생성하는 데 필요한 방법들을 더 연구하고, 더 많은 데이터를 수집하여 이러한 방법들을 개선하는 것이 필요합니다."
+    }
+  },
+  {
+    "id": "doi:10.1002/bit.70445",
+    "title": "Reprogramming Protein Function by Expanding Chemical and Combinatorial Space: Integrating Chemical and Computational Strategies.",
+    "topic": "Protein",
+    "date": "2026-11-17",
+    "journal": "",
+    "authors": "Shad M.",
+    "doi": "10.1002/bit.70445",
+    "pmid": "43046257",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43046257/",
+    "abstract": "Proteins are biological macromolecules that perform critical functions, including catalysis, molecular recognition, and cellular regulation. Natural evolution has generated remarkable protein diversity, leaving vast opportunities for engineered molecular innovation. Protein engineering has evolved from the rational design of proteins over the last few decades to approaches based on directed evolution and computational methods to enhance their properties. Protein engineering is shifting from optimization-based approaches to an integrated approach, which includes rational design, directed evolution, computational and generative modeling, synthetic chemistry, synthetic biology, and laboratory automation. These strategies widen the scope of experimentally accessible chemical and structural toolboxes in proteins without sacrificing the physicochemical constraints, cellular compatibility, evolutionary processes, and experimental validation. Meanwhile, synthetic chemistry is extending the natural abilities of proteins by incorporating noncanonical amino acids, novel cofactors, and modified metal centers and catalytic environments. These technologies enable the creation of artificial enzymes, programmed molecular binders, synthetic receptors, molecular machines, and biomaterials that have functions beyond those of their natural counterparts. This review introduces advances in the protein engineering field, from past methods of modifying proteins to present-day opportunities for generating proteins with artificial intelligence, and explains how the fields of computation, chemistry, and biology are driving the future of programmable proteins.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 단백질의 기능을 화학적 및 계산적 공간을 확장하여 개량하는 방법에 대해 소개하고 있습니다. 이 접근법은 단백질의 신생물 생성, 프로그래밍된 분자 결합, 단백질 수용체, 분자 기계 및 생물학적 재료의 생성을 가능하게 합니다. 이는 기존의 단백질 엔지니어링 방법과 차별화되며, 인공 지능을 활용한 새로운 기회를 제시합니다.",
+      "methods": "이 논문은 단백질의 화학적 및 구조적 도구 품질을 확장하면서 물리화학적 제약, 세포적 유연성, 유전적 과정, 실험적 검증을 유지하는 방법을 설명합니다. 이는 신생물 단백질 생성, 프로그래밍된 분자 결합, 단백질 수용체, 분자 기계 및 생물학적 재료의 생성을 가능하게 합니다. 이는 화학, 계산 및 생물학 분야의 미래 단백질 프로그래밍에 대한 이해를 높입니다.",
+      "quantitative_results": "이 논문에서는 보고된 수치나 대조군 비교는 제공되지 않았습니다.",
+      "novelty": "이 논문은 단백질의 화학적 및 계산적 공간을 확장하여 단백질의 기능을 개량하는 새로운 접근법을 제시합니다. 이는 기존의 단백질 엔지니어링 방법과 차별화되며, 인공 지능을 활용한 새로운 기회를 제시합니다.",
+      "limitations": "이 논문에서 명시된 한계는 확인할 수 없습니다. 이는 논문에서 제공된 정보로 인해 확인할 수 없는 정보입니다.",
+      "future_research": "후속 연구는 인공 지능을 활용한 단백질 엔지니어링, 단백질의 화학적 및 계산적 공간을 확장하는 방법, 그리고 이에 대한 더 깊은 이해를 위한 연구를 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.1016/j.biotechadv.2026.109100",
+    "title": "Enzymatic strategies for PET valorization: Advances in discovery, engineering, and cyanobacterial chassis development.",
+    "topic": "Protein",
+    "date": "2026-11-17",
+    "journal": "",
+    "authors": "Zhang J, Yang Q, Chen H, Wang Q.",
+    "doi": "10.1016/j.biotechadv.2026.109100",
+    "pmid": "43044896",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43044896/",
+    "abstract": "The global accumulation of plastic waste has intensified the need for sustainable technologies capable of replacing conventional mechanical and chemical recycling. During the past decade, enzymatic plastic biodegradation has rapidly evolved from the identification of individual depolymerases to an interdisciplinary research field integrating environmental microbiology, artificial intelligence, protein engineering, systems biology, and synthetic biology. Despite remarkable progress, current research remains largely fragmented, with enzyme discovery, catalytic optimization, and downstream plastic valorization often being developed independently, thereby limiting the establishment of integrated plastic biomanufacturing platforms. In this review, we critically synthesize advances in plastic-degrading enzymes, covering meta-omics and AI-assisted enzyme discovery, protein engineering strategies that improve catalytic efficiency, thermostability, and substrate specificity, and metabolic engineering approaches for assimilating plastic-derived monomers into value-added products. Rather than viewing these advances as separate research directions, we propose an integrated biotechnology framework that connects environmental enzyme mining, AI-driven protein engineering, microbial metabolic rewiring, and photosynthetic cell factories into a unified plastic-to-product strategy. Recent progress in heterologous protein secretion and metabolic engineering in cyanobacteria supports the continued exploration of solar-powered microbial platforms; however, complete PET-to-product bioconversion in cyanobacteria remains conceptual and has not yet been experimentally demonstrated. We anticipate that the convergence of multi-omics, artificial intelligence, enzyme engineering, and synthetic biology will shift the field from improving individual plastic-degrading enzymes toward constructing complete microbial plastic bioconversion systems, thereby accelerating the realization of a sustainable circular plastic bioeconomy.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 플라스틱 폐기물을 대체할 수 있는 환경 친화적인 기술 개발을 위한 전략을 제시합니다. 현재 플라스틱 분해 효소 연구가 분산되어 있어, 효소 발굴, 촉매 최적화, 플라스틱 가치화 등이 별도로 진행되며, 이를 통합한 플라스틱 공정 플랫폼 구축이 제한적입니다. 이 논문은 플라스틱 분해 효소, AI-assisted 효소 발굴, 프로테인 엔지니어링, 메타게놈, 미생물 메타블로크 리ewire, 카노사균 기반 플라스틱 공정 플랫폼 등 다양한 분야의 연구를 통합적으로 접근하여 플라스틱 공정 플랫폼을 구축하는 방법을 제시합니다.",
+      "methods": "이 논문은 플라스틱 분해 효소의 발굴, 최적화, 그리고 플라스틱 가치화를 위한 프로테인 엔지니어링 전략을 다룹니다. 또한, 카노사균을 이용한 플라스틱 공정 플랫폼 개발에 대한 연구도 포함되어 있습니다. 이 연구는 플라스틱 분해 효소의 발굴, 최적화, 그리고 플라스틱 가치화를 위한 프로테인 엔지니어링 전략을 다룹니다.",
+      "quantitative_results": "이 논문에서는 플라스틱 분해 효소의 발굴, 최적화, 그리고 플라스틱 가치화를 위한 프로테인 엔지니어링 전략에 대한 연구 결과를 보고합니다. 이 연구는 플라스틱 분해 효소 발굴, 최적화, 그리고 플라스틱 가치화를 위한 프로테인 엔지니어링 전략에 대한 연구 결과를 보고합니다.",
+      "novelty": "이 논문은 플라스틱 분해 효소 발굴, 최적화, 그리고 플라스틱 가치화를 위한 프로테인 엔지니어링 전략을 통합적으로 접근하여 플라스틱 공정 플랫폼을 구축하는 방법을 제시합니다. 이는 기존 연구에서 볼 때 차별화된 연구 방향입니다.",
+      "limitations": "이 논문에서는 플라스틱 분해 효소 발굴, 최적화, 그리고 플라스틱 가치화를 위한 프로테인 엔지니어링 전략에 대한 연구 결과를 보고합니다. 이 연구는 플라스틱 분해 효소 발굴, 최적화, 그리고 플라스틱 가치화를 위한 프로테인 엔지니어링 전략에 대한 연구 결과를 보고합니다. 이 연구는 플라스틱 분해 효소 발굴, 최적화, 그리고 플라스틱 가치화를 위한 프로테인 엔지니어링 전략에 대한 연구 결과를 보고합니다.",
+      "future_research": "이 논문은 플라스틱 분해 효소 발굴, 최적화, 그리고 플라스틱 가치화를 위한 프로테인 엔지니어링 전략을 통합적으로 접근하여 플라스틱 공정 플랫폼을 구축하는 방법을 제시합니다. 후속 연구는 플라스틱 분해 효소 발굴, 최적화, 그리고 플라스틱 가치화를 위한 프로테인 엔지니어링 전략에 대한 연구를 계속해서 진행하고, 카노사균 기반 플라스틱 공정 플랫폼을 실험적으로 구현하는 것을 포함합니다."
+    }
+  },
+  {
+    "id": "doi:10.1002/adhm.71982",
+    "title": "Phosphorus Dendrimer Nanovaccine-Triggered Multi-Cell Immune Cascade for Innate and Adaptive Immune Activation and Augmented Tumor Immunotherapy.",
+    "topic": "Immunity",
+    "date": "2026-11-17",
+    "journal": "",
+    "authors": "Xie W, Sun H, Zou Y, Wang Z, Li A, Ji R, Mignani S, Majoral JP, Shi X, Shen M.",
+    "doi": "10.1002/adhm.71982",
+    "pmid": "43046126",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43046126/",
+    "abstract": "Development of a nanovaccine (NV) that can simultaneously manipulate multiple immune cell types to activate both adaptive and innate immunity still remains a great challenge. In this study, we employed a phosphorus dendrimer (termed AK38, generation 0) with intrinsic NK cell-proliferative activity as a carrier to complex model antigen ovalbumin (OVA) and load agonist imiquimod (R837), followed by cancer cell membrane coating. The resulting AK38-OVA/R837@CM NV exhibits spherical morphology, stimuli-responsive release, excellent colloidal stability, and cytocompatibility. It promotes dendritic cell (DC) maturation and enhances antigen cross-presentation by integrating cancer cell membrane antigens, OVA, and adjuvant. Meanwhile, the NV polarizes tumor-associated macrophages (TAMs) toward the antitumor M1 phenotype, reversing immunosuppression. Importantly, the phosphorus dendrimer enables NK cell proliferation to induce tumor apoptosis. The NV synergistically activates DCs, TAMs, and NK cells, eliciting cytotoxic T lymphocyte-mediated adaptive immunity while enhancing TAM- and NK-dominated innate responses. This was validated in a murine melanoma model, where the NV effectively inhibited tumor growth and recurrence. With its simple composition and multi-cell immune cascade modulation, this phosphorus dendrimer-based NV offers a versatile tumor immunotherapy strategy, showing great promise for broad cancer treatment applications by mimicking biological systems to induce robust immune responses.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 단백질 분자와 면역 세포를 동시에 조작하여 적응성 및 인내성 면역을 동시에 자극하는 새로운 나노백신을 개발하기 위한 시도입니다. 이는 현재의 나노백신 기술에서 새로운 접근 방식을 제공하며, 암 치료에 대한 다양한 암 치료 전략을 제공할 수 있습니다.",
+      "methods": "이 연구에서는 인공 NK 세포 활성성을 가진 황소 분자(Dendrimer)를 사용하여 모델 항원 오벌루빈(OVA)과 약물(imiquimod)을 결합한 나노백신(NV)을 제작했습니다. 이를 암 세포막으로 감싸고, 이를 통해 나노백신의 형태, 반응성 분리, 췌성, 세포 적합성을 개선했습니다. 이 나노백신은 DC의 발달을 촉진하고, 암 세포막 항원, OVA, 그리고 약물이 결합된 항원 전달을 강화했습니다. 또한, 이 나노백신은 암 관련 면역세포(Macrophages)를 항암 M1 세포형으로 편향하고, 면역 억제를 회복했습니다.",
+      "quantitative_results": "이 연구는 암 세포 성장과 재발을 효과적으로 억제하는 모델 암 세포에서 효과를 보였습니다. 이 결과는 암 치료에 대한 새로운 접근 방식을 제공하며, 이는 현재의 암 치료 전략을 보완할 수 있습니다.",
+      "novelty": "이 연구는 인공 NK 세포 활성성을 가진 황소 분자(Dendrimer)를 사용하여 나노백신을 제작하는 새로운 방법을 제시합니다. 이는 현재의 나노백신 기술에서 새로운 접근 방식을 제공하며, 암 치료에 대한 다양한 암 치료 전략을 제공할 수 있습니다.",
+      "limitations": "이 연구는 암 세포 성장과 재발을 효과적으로 억제하는 모델 암 세포에서 효과를 보였습니다. 그러나 실제 환경에서의 효과는 아직 확인되지 않았습니다. 또한, 이 연구는 인공 NK 세포 활성성을 가진 황소 분자(Dendrimer)를 사용하여 나노백신을 제작하는 방법을 제시한 것입니다. 이 방법이 실제 암 치료에 적용될 수 있는지 여부는 아직 확인되지 않았습니다.",
+      "future_research": "이 연구는 인공 NK 세포 활성성을 가진 황소 분자(Dendrimer)를 사용하여 나노백신을 제작하는 방법을 더 연구하여 실제 암 치료에 적용할 수 있는지 확인하는 후속 연구를 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.2174/0113892010508566261112114605",
+    "title": "Nanostructured Lipid Carriers for Anticancer Drug Delivery: Bridging Preclinical Advances and the Bench-to-Clinic Translational Gap.",
+    "topic": "Drug delivery",
+    "date": "2026-11-17",
+    "journal": "",
+    "authors": "Halim WA, Hussein KNBM, Kamkaew A, Azhar KA, Kue CS.",
+    "doi": "10.2174/0113892010508566261112114605",
+    "pmid": "43048828",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43048828/",
+    "abstract": "Nanostructured lipid carriers (NLCs) are known to improve the delivery of poorly soluble, unstable, rapidly cleared, or systemically toxic anticancer drugs. Their mixed solid- and liquid-lipid matrix can improve drug incorporation, reduce drug expulsion, and support controlled release. Despite encouraging findings across different cancer models, the important question of \"Why the strong preclinical promise of NLCs has not yet been translated into clinical oncology?\" remains. Unlike published reviews that mainly focus on formulation, characterization, individual administration routes, or tumor-targeting strategies, the current review examines NLC-based anticancer drug delivery from a broader bench-to-clinic translational gap perspective. Specifically, this review connects formulation design and preclinical performance with the practical barriers that influence clinical development of NLCs. Literature was retrieved from PubMed/MEDLINE, Scopus, Web of Science Core Collection, and Google Scholar. The literature search covered publications from 2008 to 2026. The key terms included \"nanostructured lipid carrier\" OR \"nanostructured lipid carriers\" OR \"NLC\" OR \"NLCs\" OR \"solid lipid nanoparticle\" OR \"lipid nanocarrier\" AND \"cancer\" OR \"tumour\" OR \"tumour\" OR \"anticancer\" OR \"antitumor\" OR \"antitumour\" OR \"oncology\" AND \"drug delivery\" OR \"targeted delivery\" OR \"co-delivery\" OR \"pharmacokinetic\". The review also evaluates its application in preclinical, clinical and patented NLCs for cancer treatment, which have received comparatively limited attention.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1021/acschembio.6c00553",
@@ -320,6 +444,20 @@
       "limitations": "이 연구에서는 암세포에 대한 면역 활성화를 촉진하는 데 대한 구체적인 메커니즘에 대한 추가 연구가 필요합니다. 또한, 이 연구는 암세포와 정상 세포 모두를 효과적으로 치료하는 것을 입증했습니다. 그러나 정상 세포의 생존과 기능을 유지하는 방법에 대한 구체적인 연구가 필요합니다.",
       "future_research": "후속 연구에서는 Arg-CpG 시스템이 암세포에 대한 면역 활성화를 촉진하는 데 대한 구체적인 메커니즘을 연구하여, 이 시스템이 정상 세포의 생존과 기능을 유지하는 방법을 이해하는 데 도움이 될 것입니다. 또한, 이 시스템이 다른 암 치료 방법과의 조합 효과를 연구하여, 이 시스템이 암 치료에 더 효과적인 방법이 될 수 있는지를 확인하는 것이 중요합니다."
     }
+  },
+  {
+    "id": "doi:10.2147/jir.s653766",
+    "title": "Inflammation Induced Immune Suppression: Implications in Immune Regulation and Tumor Immunity.",
+    "topic": "Immunity",
+    "date": "2026-11-13",
+    "journal": "",
+    "authors": "Chakraborty A, Rana AS, Mukherjee K, Tung KS, Jena P, Chattopadhyay S.",
+    "doi": "10.2147/jir.s653766",
+    "pmid": "43048652",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43048652/",
+    "abstract": "The inflammatory process is a fundamentally conserved component of host defense, naturally intended to eliminate pathogens and repair damaged tissue. However, unresolved, persistent inflammation triggers immune regulatory pathways which attempt to maintain homeostasis by suppressing immune cell activities. Hence, the intended protective aspect of inflammatory response is gradually subverted into a state of compromised host immunity. While chronic inflammation directly promotes tumor initiation, progression, metastasis, and therapeutic resistance, the resulting inflammation induced immune suppression further facilitates cancer progression by evading immune surveillance. Tumor cells, surrounding stromal cells, infiltrating immune cells, and metabolic mediators generate continuous inflammatory signals which can activate interconnected signaling pathways involving NF-κB, STAT3, mTOR etc. These pathways promote the recruitment and functional activation of specialized immunosuppressive cell types, including myeloid-derived suppressor cells (MDSCs), tumor-associated macrophages (TAMs), regulatory T cells (Tregs), regulatory B cells (Bregs), and neutrophils. Chronic inflammation also contributes to T cell exhaustion, the upregulation of immune checkpoints, and metabolic competition, all of which hinder effective antitumor immunity. Advanced technological approaches using relevant preclinical models have started to reveal the complex nature of suppressive immune cell populations, their development, and expose previously unrecognized therapeutic targets. Here, the role of different suppressive immune and non-immune cells, pathways, and key mediators that are induced under inflammation and coordinatively generate and maintain an immunosuppressive state in cancer has been extensively discussed. Furthermore, the therapeutic possibilities of targeting these interconnected mechanisms for improving antitumor immunity and its related challenges have been reviewed. This overview of inflammation-driven immune-suppression may be further relevant for the understanding and management of other related immune disorders.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "PMC:PMC13752843",
@@ -718,7 +856,7 @@
     "authors": "Butterfield LH, Gulley JL.",
     "doi": "10.1136/jitc-2026-017100",
     "pmid": "42988573",
-    "pmcid": "",
+    "pmcid": "PMC13756423",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42988573/",
     "abstract": "",
     "summary": "초록 기반 요약"
@@ -1596,7 +1734,7 @@
     "authors": "Gu G, Du Y, Zhang H, Zheng Y, Yao Y, Yan Q.",
     "doi": "10.3389/fimmu.2026.1968254",
     "pmid": "43022561",
-    "pmcid": "",
+    "pmcid": "PMC13755827",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43022561/",
     "abstract": "Pancreatic cancer is one of the most lethal malignancies of the digestive system, and its profoundly immunosuppressive tumor microenvironment (TME) represents a major driver of tumor progression and therapeutic resistance. Emerging evidence indicates that metabolic reprogramming profoundly influences the polarization, effector function, survival, and fate of immune cells within the TME, thereby shaping the balance between antitumor immunity and immune escape. However, substantial challenges remain, including the incompletely understood metabolic heterogeneity among distinct immune cell subsets and the limited clinical translation of therapeutic strategies combining metabolic intervention with immunotherapy. In this review, we summarize the metabolic reprogramming characteristics and underlying molecular mechanisms of major immune cell populations in pancreatic cancer, including T cells, tumor-associated macrophages (TAMs), myeloid-derived suppressor cells (MDSCs), and natural killer (NK) cells, with particular emphasis on their reciprocal interactions with pancreatic cancer progression and the immunosuppressive microenvironment. We further discuss recent advances in metabolism-targeted therapies and immunotherapy, highlighting the therapeutic potential of combination strategies centered on immunometabolic modulation. Finally, we outline current challenges and emerging opportunities in this rapidly evolving field, with the aim of providing a mechanistic framework and translational perspectives for the development of precision therapeutic strategies for pancreatic cancer.",
     "summary": "초록 기반 요약"
@@ -2242,7 +2380,7 @@
     "authors": "Manghrani A, Brinson RG, Bergonzo C.",
     "doi": "10.1016/j.omtn.2026.103155",
     "pmid": "43023029",
-    "pmcid": "",
+    "pmcid": "PMC13756800",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43023029/",
     "abstract": "How phosphorothioates affect the structure and dynamics of oligonucleotide therapeutics and their complexes with target RNAs and protein machinery is not well understood, resulting in a gap in knowledge about the molecular origins of their therapeutic properties. Here we used molecular dynamics simulations to assess the structure and dynamics of R p and S p phosphorothioates in an antisense oligonucleotide inotersen. When bound to target mRNA, phosphorothioates shifted the helical equilibrium toward A-form as compared with the unmodified phosphodiester backbone, with R p showing a higher preference for A-form geometry as compared with S p. R p phosphorothioate rigidified the base pairs and base-pair steps, providing a dynamic explanation for the experimentally observed higher thermodynamic stability of R p over S p mRNA duplexes. The higher population of B-form helical geometry for S p mRNA duplexes contributed to their more favorable binding enthalpy (∼16 kcal/mol) to RNase H as compared with R p phosphorothioate. Furthermore, phosphorothioates modulated the dynamics along the entire duplex complexed to RNase H. Pairwise energy decomposition revealed that RNase H favored S p phosphorothioate over R p in a majority of the duplex. Our results reveal a putative mechanism by which phosphorothioate stereochemistry impacts the structure and dynamics of biological complexes of oligonucleotide therapeutics.",
     "summary": "초록 기반 요약"
