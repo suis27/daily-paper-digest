@@ -22,6 +22,78 @@
     }
   },
   {
+    "id": "doi:10.1016/j.ymthe.2026.11.021",
+    "title": "DDX5 mRNA-targeting antisense oligonucleotide as a new promising therapeutic in combating castration-resistant prostate cancer.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-18",
+    "journal": "",
+    "authors": "Le TK, Cherif C, Omabe K, Paris C, Lannes F, Audebert S, Baudelet E, Hamimed M, Barbolosi D, Finetti P, Bastide C, Fazli L, Gleave M, Bertucci F, Taïeb D, Rocchi P.",
+    "doi": "10.1016/j.ymthe.2026.11.021",
+    "pmid": "43051146",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43051146/",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1007/s13760-026-03239-x",
+    "title": "Decoding neurodegeneration: RNA therapeutics in Alzheimer's and Parkinson's diseases.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-18",
+    "journal": "",
+    "authors": "Seal R, Mandal D, Ghosh I, Rahaman A, Sridhar SB, Bhui U, Sen S, Pal R.",
+    "doi": "10.1007/s13760-026-03239-x",
+    "pmid": "43050133",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43050133/",
+    "abstract": "Neurodegenerative conditions like Alzheimer disease and Parkinson disease are of major global health concern considering that they are progressive and not curable. The standard therapeutic methods mainly aim at the treatment of the symptoms, and they do not treat the molecular processes that contribute to the pathogenesis of the disease. Over the last few years, RNA-based therapeutics have emerged as a promising approach to precisely target disease-specific genes and pathways at the molecular level. This review examines the involvement of the use of different RNA-based methods such as small interfering RNA (siRNA), microRNA (miRNA), messenger RNA (mRNA) and antisense oligonucleotides (ASOs) in the management of Alzheimer's and Parkinson's disease. The article emphasises the ability of these therapies to regulate gene expression that relates to some of the major pathological phenotypes, including amyloid-beta deposition, hyperphosphorylation of the tau protein, and alpha-synuclein aggregation. In addition to that, it also talks about the progress in delivery systems to address limitations such as the blood-brain barrier, making RNA therapeutics more clinically applicable. The existing evidence of research shows that there is great potential to slow the progression of disease and improve the functioning of neurons. In spite of these developments, there are still some issues such as the problems of stability, off-target effects, and mass production. On the whole, RNA-based therapeutics is an innovative solution that can potentially turn the face of neurodegenerative diseases treatment. These innovations should be translated to effective therapeutic interventions, which can only be achieved through further research and clinical validation.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/smll.76777",
+    "title": "eQt Protein Nanocage-Delivered IL-21 mRNA Systemically Reprograms Host Immune Cells Toward Stemness and Maturation to Achieve Anti-Tumor Immunity.",
+    "topic": "Immunity",
+    "date": "2026-11-18",
+    "journal": "",
+    "authors": "Shen R, Zhang J, Zhang H, Liu J, Yuan J, Zheng H, Miao B, Zhang Y, Xin Q, Zhang M, Xin H, Liu Y, Chen X, Liu S, Chen Z.",
+    "doi": "10.1002/smll.76777",
+    "pmid": "43053577",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43053577/",
+    "abstract": "Effective cancer immunotherapy requires reprogramming host immunity toward stem-like states. However, clinical use of IL-21 is limited by short half-life and toxicity. Here, we develop a bio-inspired protein nanocage platform (eQt) that encapsulates IL-21 mRNA via high-affinity λN-boxB interactions during bacterial biosynthesis, enabling one-step manufacturing and pH-responsive endosomal release. eQt-IL-21 drives dendritic cell maturation, characterized by marked upregulation of CD80 and CD86, and transcriptome-wide enrichment of MHC-I antigen processing and presentation pathways (H2-K1, H2-D1, B2m, Tap2), establishing a highly stimulatory environment for T cell priming. Transcriptomic profiling of draining lymph nodes reveals that eQt-IL-21 preferentially diverts CD8 + T-cell differentiation away from terminal exhaustion toward a TCF-1 + /CCR7 + stem-like progenitor identity, with concordant upregulation of Tcf7, Sell (encoding CD62L), and LEF-1, sustaining a self-renewing memory reservoir and long-lived central memory T cells (Tcm). In preclinical E.G7-OVA models, this immunological reprogramming translates into potent prophylactic efficacy and durable therapeutic remission of established tumors, without detectable systemic toxicity. This work establishes IL-21 mRNA-mediated immune-cell reprogramming as a mechanistic cornerstone of durable anti-tumor immunity, and positions the eQt nanocage as a versatile, scalable platform for precision cancer immunotherapy.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 암 치료를 위한 효과적인 면역 치료를 위해 세포의 기본 상태를 재프로그래밍하는 방법을 개발하고자 합니다. 그러나 인플루엔자-21(I.L-21)의 임상적 사용은 단기 생존기간과 독성으로 제한됩니다. 이 연구에서는 eQt 단백질 나이언카지 플랫폼을 개발하여 I.L-21 mRNA를 효능적으로 포장하고 pH에 따라 내포체에서 분비하도록 합니다. 이 플랫폼은 면역 세포의 재프로그래밍을 통해 효과적인 면역 치료를 가능하게 합니다.",
+      "methods": "이 연구에서는 eQt 단백질 나이언카지 플랫폼을 사용하여 I.L-21 mRNA를 포장하고, 이 플랫폼은 한 번의 제조 과정으로 pH에 따라 내포체에서 분비되며, 이는 면역 세포의 재프로그래밍을 가능하게 합니다. 이 연구에서는 eQt-IL-21가 DC의 재프로그래밍을 촉진하고, 이는 CD80과 CD86의 표적 증가와 MHC-I 항원 처리 및 표시 경로의 전이를 통해 이루어집니다.",
+      "quantitative_results": "이 연구에서는 eQt-IL-21가 DC의 재프로그래밍을 촉진하고, 이는 CD8+ T 세포의 분화를 방해하여 TCF-1+ / CCR7+ 세포의 스탠드라인 프로이드 식별을 촉진하며, 이는 세포의 재생능력과 장기 생존 T세포를 유지하는데 기여합니다.",
+      "novelty": "이 연구는 eQt 단백질 나이언카지 플랫폼을 사용하여 I.L-21 mRNA를 포장하고, 이 플랫폼은 한 번의 제조 과정으로 pH에 따라 내포체에서 분비되며, 이는 인플루엔자-21 mRNA를 이용한 면역 세포의 재프로그래밍을 가능하게 합니다. 이 연구는 eQt 단백질 나이언카지 플랫폼이 정밀 암 치료를 위한 유연하고 확장 가능한 플랫폼으로 자리잡을 수 있음을 입증합니다.",
+      "limitations": "이 연구에서는 eQt-IL-21가 eQt-IL-21가 DC의 재프로그래밍을 촉진하고, 이는 CD8+ T 세포의 분화를 방해하여 TCF-1+ / CCR7+ 세포의 스탠드라인 프로이드 식별을 촉진하며, 이는 세포의 재생능력과 장기 생존 T세포를 유지하는데 기여합니다. 이 연구는 eQt-IL-21가 eQt-IL-21가 DC의 재프로그래밍을 촉진하고, 이는 CD8+ T 세포의 분화를 방해하여 TCF-1+ / CCR7+ 세포의 스탠드라인 프로이드 식별을 촉진하며, 이는 세포의 재생능력과 장기 생존 T세포를 유지하는데 기여합니다. 이 연구는 eQt-IL-21가 eQt-IL-21가 DC의 재프로그래밍을 촉진하고, 이는 CD8+ T 세포의 분화를 방해하여 TCF-1+ / CCR7+ 세포의 스탠드라인 프로이드 식별을 촉진하며, 이는 세포의 재생능력과 장기 생존 T세포를 유지하는데 기여합니다. 이 연구는 eQt-IL-21가 eQt-IL-21가 DC의 재프로그래밍을 촉진하고, 이는 CD8+ T 세포의 분화를 방해하여 TCF-1+ / CCR7+ 세포의 스탠드라인 프로이드 식별을 촉진하며, 이는 세포의 재생능력과 장기 생존 T세포를 유지하는데 기여합니다.",
+      "future_research": "후속 연구는 eQt-IL-21가 eQt-IL-21가 DC의 재프로그래밍을 촉진하고, 이는 CD8+ T 세포의 분화를 방해하여 TCF-1+ / CCR7+ 세포의 스탠드라인 프로이드 식별을 촉진하며, 이는 세포의 재생능력과 장기 생존 T세포를 유지하는데 기여합니다. 이 연구는 eQt-IL-21가 eQt-IL-21가 DC의 재프로그래밍을 촉진하고, 이는 CD8+ T 세포의 분화를 방해하여 TCF-1+ / CCR7+ 세포의 스탠드라인 프로이드 식별을 촉진하며, 이는 세포의 재생능력과 장기 생존 T세포를 유지하는데 기여합니다. 이 연구는 eQt-IL-21가 eQt-IL-21가 DC의 재프로그래밍을 촉진하고, 이는 CD8+ T 세포의 분화를 방해하여 TCF-1+ / CCR7+ 세포의 스탠드라인 프로이드 식별을 촉진하며, 이는 세포의 재생능력과 장기 생존 T세포를 유지하는데 기여합니다. 이 연구는 eQt-IL-21가 eQt-IL-21가 DC의 재프로그래밍을 촉진하고, 이는 CD8+ T 세포의 분화를 방해하여 TCF-1+ / CCR7+ 세포의 스탠드라인 프로이드 식별을 촉진하며, 이는 세포의 재생능력과 장기 생존 T세포를 유지하는데 기여합니다."
+    }
+  },
+  {
+    "id": "doi:10.1039/d6tb01314g",
+    "title": "Opportunities and challenges of nanomaterials crossing the blood-brain barrier.",
+    "topic": "Drug delivery",
+    "date": "2026-11-18",
+    "journal": "",
+    "authors": "Cui C, Shao X, Wang C, Wang X, Hu X, Guan P.",
+    "doi": "10.1039/d6tb01314g",
+    "pmid": "43050269",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43050269/",
+    "abstract": "The highly selective permeability of the blood-brain barrier (BBB) significantly restricts the effective delivery of therapeutic agents to the brain for treating central nervous system (CNS) disorders. Nanomaterial-based drug delivery strategies, leveraging the nanoscale size effects, tunable surface chemistry, and versatile functionalization capabilities of nanomaterials, offer promising opportunities to overcome this barrier. This review systematically outlines the intricate structure and physiological functions of the BBB. It primarily focuses on recent advances in various nanomaterials for brain-targeted delivery, including polymeric nanomaterials, lipid-based nanocarriers, inorganic nanomaterials, and carbon-based nanomaterials. Their ability to traverse the BBB through mechanisms such as passive diffusion, carrier-mediated transport, adsorptive-mediated transport, and receptor-mediated transport is summarized in detail. Although current research has demonstrated the feasibility of nanocarriers for BBB crossing, clinical translation still faces challenges, including suboptimal delivery efficiency, the heterogeneous nature of the BBB under pathological conditions, and complex preparation processes. Future efforts should focus on developing smart responsive carriers, constructing biomimetic delivery systems, and employing multi-mechanism synergistic strategies to advance nanomedicine from a state of \"possibility\" to \"practicality\", ultimately enabling precise diagnosis and treatment of CNS diseases.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 신약 전달 분야에서 신소재 기반의 치매 치료제 전달 전략을 다루며, 신소재의 크로스 오버 기능을 이용해 뇌를 치료하는 CNS 질환을 효과적으로 치료하는 데 도움이 될 수 있는 가능성을 제시합니다.",
+      "methods": "논문은 뇌-혈관 장벽(BBB)의 구조와 기능을 체계적으로 설명하며, 다양한 신소재를 이용해 뇌 전달을 위한 최신 연구 동향을 다룹니다. 이들 신소재는 전이, 운반, adsorptive-mediated transport, 그리고 수용체 기반 운반 등 BBB를 통해 치료제를 전달하는 다양한 메커니즘을 다룹니다.",
+      "quantitative_results": "논문에서는 현재 연구가 신약 전달 카트리지의 BBB 치유 가능성을 확인한 점을 강조하며, 질환 상태에서 BBB의 다수성, 카트리지 전달 효율의 부적절성, 복잡한 준비 과정 등이 아직 해결되지 않은 문제를 지적합니다.",
+      "novelty": "이 논문은 기존 연구에서 보다 구체적으로 BBB를 통해 치료제를 전달하는 다양한 신소재의 작용 메커니즘을 설명하며, 이에 대한 이해를 높이고, 이를 통해 신약 전달 분야에서의 발전을 위한 전략을 제시합니다.",
+      "limitations": "논문에서는 BBB의 질환 상태에서의 다수성, 신약 전달 카트리지의 전달 효율의 부적절성, 그리고 복잡한 준비 과정 등이 아직 해결되지 않은 문제를 지적하며, 이에 대한 연구가 필요하다는 한계를 명시합니다.",
+      "future_research": "논문은 전이성 신약 전달 카트리지 개발, 생물학적 모방 전달 시스템 구축, 다중 메커니즘 연계 전략 등으로의 연구를 제안하며, 이를 통해 신약 전달 분야에서의 '가능성'을 '실용성'으로 전환하여 뇌 질환의 정확한 진단과 치료를 가능하게 하려는 목표를 제시합니다."
+    }
+  },
+  {
     "id": "doi:10.21203/rs.3.rs-11750300/v1",
     "title": "Targeting STAU1 ameliorates disease phenotypes in TDP-43 ALS mice",
     "topic": "Nucleic acids",
@@ -143,7 +215,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43048828/",
     "abstract": "Nanostructured lipid carriers (NLCs) are known to improve the delivery of poorly soluble, unstable, rapidly cleared, or systemically toxic anticancer drugs. Their mixed solid- and liquid-lipid matrix can improve drug incorporation, reduce drug expulsion, and support controlled release. Despite encouraging findings across different cancer models, the important question of \"Why the strong preclinical promise of NLCs has not yet been translated into clinical oncology?\" remains. Unlike published reviews that mainly focus on formulation, characterization, individual administration routes, or tumor-targeting strategies, the current review examines NLC-based anticancer drug delivery from a broader bench-to-clinic translational gap perspective. Specifically, this review connects formulation design and preclinical performance with the practical barriers that influence clinical development of NLCs. Literature was retrieved from PubMed/MEDLINE, Scopus, Web of Science Core Collection, and Google Scholar. The literature search covered publications from 2008 to 2026. The key terms included \"nanostructured lipid carrier\" OR \"nanostructured lipid carriers\" OR \"NLC\" OR \"NLCs\" OR \"solid lipid nanoparticle\" OR \"lipid nanocarrier\" AND \"cancer\" OR \"tumour\" OR \"tumour\" OR \"anticancer\" OR \"antitumor\" OR \"antitumour\" OR \"oncology\" AND \"drug delivery\" OR \"targeted delivery\" OR \"co-delivery\" OR \"pharmacokinetic\". The review also evaluates its application in preclinical, clinical and patented NLCs for cancer treatment, which have received comparatively limited attention.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 NLCs가 암 치료에 대한 전임상 연구에서의 강력한 전망을 어떻게 실제 의학적 적용에서 실현하지 못했는지를 조사합니다. 이를 위해 NLCs의 설계, 성능, 그리고 실제 의학적 개발에 걸친 장벽을 분석합니다.",
+      "methods": "이 논문은 PubMed/MEDLINE, Scopus, Web of Science Core Collection, Google Scholar에서 2008년부터 2026년까지의 연구 자료를 검색하여 분석했습니다. 검색 키워드는 NLC, 암, 약물 전달, 암 치료 등이 포함되었습니다.",
+      "quantitative_results": "이 연구는 NLCs의 전임상 연구 성능을 평가했지만, 실제 의학적 적용에서의 성능과 장벽에 대한 자료는 제한적입니다. 이는 NLCs가 암 치료에 대한 전임상 연구에서의 강력한 전망을 어떻게 실제 의학적 개발에서 실현하지 못했는지를 이해하는 데 도움이 됩니다.",
+      "novelty": "이 논문은 NLCs의 전임상 연구 성능과 실제 의학적 개발에 걸친 장벽을 연결하는 새로운 접근법을 제시합니다. 이는 NLCs의 암 치료에 대한 전임상 연구에서의 강력한 전망이 어떻게 실제 의학적 개발에서 실현되지 못했는지를 이해하는 데 도움이 될 것입니다.",
+      "limitations": "이 논문은 실제 의학적 개발에 대한 자료가 제한적이어서, NLCs가 암 치료에 대한 전임상 연구에서의 강력한 전망이 어떻게 실제 의학적 개발에서 실현되지 못했는지를 완전히 이해하기는 어렵습니다. 그러나 이 연구는 NLCs의 암 치료에 대한 전임상 연구에서의 강력한 전망이 어떻게 실제 의학적 개발에서 실현되지 못했는지를 이해하는 데 도움이 될 것입니다.",
+      "future_research": "후속 연구는 NLCs의 실제 의학적 개발에 대한 자료를 수집하고 분석하여 NLCs가 암 치료에 대한 전임상 연구에서의 강력한 전망이 어떻게 실제 의학적 개발에서 실현되지 못했는지를 이해하는 데 도움이 될 것입니다."
+    }
   },
   {
     "id": "doi:10.1021/acschembio.6c00553",
@@ -457,7 +537,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43048652/",
     "abstract": "The inflammatory process is a fundamentally conserved component of host defense, naturally intended to eliminate pathogens and repair damaged tissue. However, unresolved, persistent inflammation triggers immune regulatory pathways which attempt to maintain homeostasis by suppressing immune cell activities. Hence, the intended protective aspect of inflammatory response is gradually subverted into a state of compromised host immunity. While chronic inflammation directly promotes tumor initiation, progression, metastasis, and therapeutic resistance, the resulting inflammation induced immune suppression further facilitates cancer progression by evading immune surveillance. Tumor cells, surrounding stromal cells, infiltrating immune cells, and metabolic mediators generate continuous inflammatory signals which can activate interconnected signaling pathways involving NF-κB, STAT3, mTOR etc. These pathways promote the recruitment and functional activation of specialized immunosuppressive cell types, including myeloid-derived suppressor cells (MDSCs), tumor-associated macrophages (TAMs), regulatory T cells (Tregs), regulatory B cells (Bregs), and neutrophils. Chronic inflammation also contributes to T cell exhaustion, the upregulation of immune checkpoints, and metabolic competition, all of which hinder effective antitumor immunity. Advanced technological approaches using relevant preclinical models have started to reveal the complex nature of suppressive immune cell populations, their development, and expose previously unrecognized therapeutic targets. Here, the role of different suppressive immune and non-immune cells, pathways, and key mediators that are induced under inflammation and coordinatively generate and maintain an immunosuppressive state in cancer has been extensively discussed. Furthermore, the therapeutic possibilities of targeting these interconnected mechanisms for improving antitumor immunity and its related challenges have been reviewed. This overview of inflammation-driven immune-suppression may be further relevant for the understanding and management of other related immune disorders.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 염증 과정이 세포 보호와 면역 조절 사이에서 중요한 역할을 하는데 대해 연구합니다. 특히, 염증이 면역 기능을 약화시키는 방식과 이를 이용한 암의 진행 방식에 대해 자세히 설명합니다. 이 연구는 암 치료와 관련된 면역 질환 이해에 도움이 될 것입니다.",
+      "methods": "논문에서는 염증 과정이 암에 미치는 영향을 이해하기 위해 다양한 모델을 사용했습니다. 이들 모델은 염증 과정이 면역 기능을 약화시키는 방식과 이를 이용한 암의 진행 방식에 대해 자세히 설명합니다. 이 연구는 염증 과정이 암에 미치는 영향을 이해하는 데 도움이 될 것입니다.",
+      "quantitative_results": "논문에서는 염증 과정이 암에 미치는 영향을 이해하기 위해 다양한 모델을 사용했습니다. 이들 모델은 염증 과정이 면역 기능을 약화시키는 방식과 이를 이용한 암의 진행 방식에 대해 자세히 설명합니다. 이 연구는 염증 과정이 암에 미치는 영향을 이해하는 데 도움이 될 것입니다.",
+      "novelty": "이 논문은 염증 과정이 암에 미치는 영향을 이해하는 데 도움이 될 수 있는 새로운 접근법을 제시합니다. 이 연구는 염증 과정이 암에 미치는 영향을 이해하는 데 도움이 될 것입니다.",
+      "limitations": "논문에서는 염증 과정이 암에 미치는 영향을 이해하기 위해 다양한 모델을 사용했습니다. 이들 모델은 염증 과정이 면역 기능을 약화시키는 방식과 이를 이용한 암의 진행 방식에 대해 자세히 설명합니다. 이 연구는 염증 과정이 암에 미치는 영향을 이해하는 데 도움이 될 것입니다.",
+      "future_research": "이 논문은 후속 연구를 제안합니다. 이 연구는 염증 과정이 암에 미치는 영향을 이해하는 데 도움이 될 것입니다."
+    }
   },
   {
     "id": "PMC:PMC13752843",
@@ -1428,6 +1516,20 @@
     }
   },
   {
+    "id": "doi:10.1016/j.mtbio.2026.103800",
+    "title": "Reprogrammed macrophage-derived nanovesicle-lipid nanoparticle hybrids for cardiac siRUNX1 delivery: Therapeutic evaluation in Ang II-induced cardiac remodeling.",
+    "topic": "Drug delivery",
+    "date": "2026-10-31",
+    "journal": "",
+    "authors": "Lee J, Mun D, Kang JY, Yoo G, Park M, Chung S, Yun N, Joung B.",
+    "doi": "10.1016/j.mtbio.2026.103800",
+    "pmid": "43022900",
+    "pmcid": "PMC13756362",
+    "url": "https://europepmc.org/articles/PMC13756362",
+    "abstract": "Targeted delivery of small interfering RNA (siRNA) to the heart remains challenging because conventional lipid nanoparticles (LNPs) predominantly accumulate in the liver following systemic administration. To improve cardiac siRNA delivery, we developed a biomimetic hybrid nanoplatform by co-extruding siRUNX1-loaded LNPs with reprogrammed macrophage-derived nanovesicles (rMNVs) obtained from sequentially LPS/TGF-β1-treated RAW264.7 macrophages, followed by surface functionalization with a cardiac-targeting peptide (CTP). The sequentially treated donor cells exhibited a phenotypic shift characterized by reduced M1-associated markers and enhanced M2-associated features. The resulting CTP-hLNPs maintained a nanoscale spherical morphology, high siRNA encapsulation efficiency, and retained donor-cell-derived membrane components, including CD206. In vitro, CTP-hLNPs showed reduced uptake by RAW264.7 macrophages while maintaining cellular internalization and siRUNX1 activity in H9c2 cardiac-derived cells. Following intravenous administration, CTP-hLNPs exhibited reduced liver-associated fluorescence and increased heart-associated fluorescence at 24 h compared with conventional CTP-LNPs. Therapeutic efficacy was subsequently evaluated in an angiotensin II (Ang II)-induced mouse model of cardiac remodeling. CTP-hLNP@siRUNX1 reduced cardiac RUNX1 mRNA expression and improved left ventricular systolic function, as indicated by increased left ventricular ejection fraction and fractional shortening. Treatment also attenuated cardiac hypertrophic remodeling, including reductions in the heart weight-to-body weight ratio and cardiomyocyte cross-sectional area. In addition, CTP-hLNP@siRUNX1 reduced myofibroblast-associated α-SMA expression, collagen deposition, and myocardial fibrotic area. Collectively, these findings support rMNV-LNP hybridization combined with CTP functionalization as a potential delivery strategy for cardiac RNA interference therapy and demonstrate its therapeutic effects in Ang II-induced cardiac remodeling.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "PMC:PMC13717768",
     "title": "Enhancing Drug Delivery and Efficacy in Stroke via Supramolecular Nanoparticle Systems",
     "topic": "Drug delivery",
@@ -1864,7 +1966,7 @@
     "authors": "Shan Q, Zheng W, Yao W, Bai Y, Ding W, Wang J, Bai F.",
     "doi": "10.1016/j.mtbio.2026.103789",
     "pmid": "43022806",
-    "pmcid": "",
+    "pmcid": "PMC13756178",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43022806/",
     "abstract": "Alzheimer's disease (AD) is an irreversible neurodegenerative disease that has thus far suffered from unsatisfactory therapeutic outcomes. Despite ongoing research into AD pathogenesis and related drugs, few disease-modifying therapies are currently available. Moreover, efficient drug delivery is significantly hindered by low permeability of the blood-brain barrier (BBB) and non-specific distribution within the brain, further limiting the efficacy of existing anti-AD medications. Nanotechnology has recently emerged as a promising approach to overcome these challenges. This review aims to offer a comprehensive overview of recent advances in precision nanoparticle-based drug delivery systems for AD therapy. First, we outline the multiple pathological mechanisms and representative pathogenesis-inspired therapies of AD. Next, we summarize various types of nanoparticles that have been utilized in AD drug delivery, including polymeric, lipid-based, inorganic, and biomimetic nanocarriers. Subsequently, we highlight the nanoparticle-mediated strategies for cascaded precision drug delivery at different levels, focusing on both the BBB and specific pathologies or cell populations within AD lesions. Finally, we discuss potential challenges and prospects in employing precision delivery systems, aiming to accelerate the development and clinical translation of nanoparticle-based therapies for AD.",
     "summary": "초록 기반 요약"
