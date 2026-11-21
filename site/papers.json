@@ -1,5 +1,49 @@
 [
   {
+    "id": "doi:10.1016/j.jacbts.2026.101717",
+    "title": "Tonlamarsen, a Hepatocyte-Directed Antisense Oligonucleotide Targeting Angiotensinogen: Phase 1 and 2a Clinical Studies.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-19",
+    "journal": "",
+    "authors": "Morgan E, Weinland J, Lin T, McMullen G, Ward JH, Saksi J, Geist GE, Del Rio CL, Geary R, Mullick A, Tsimikas S.",
+    "doi": "10.1016/j.jacbts.2026.101717",
+    "pmid": "43057140",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43057140/",
+    "abstract": "Tonlamarsen, a hepatocyte-directed antisense oligonucleotide targeting angiotensinogen (AGT), produced rapid, dose-dependent reductions in circulating AGT in healthy participants and patients with uncontrolled hypertension. A single dose reduced AGT by up to 75.2%, while monthly dosing achieved reductions of up to 79.0% after 4 doses. Tonlamarsen was generally well tolerated, with no clinically meaningful effects on platelet count, potassium, renal function, liver enzymes, or hypotension. Exploratory analyses demonstrated lower systolic blood pressure with tonlamarsen than placebo. These findings support further evaluation of hepatic AGT suppression as a novel therapeutic strategy for hypertension. A Study to Assess the Safety, Tolerability, and Efficacy of Monthly Subcutaneous Administration of ION904 in Participants With Uncontrolled Hypertension: NCT05314439).",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 Tonlamarsen이라는 항시사 오ligonucleotide가 간세포를 지향하는 것이며, angiotensinogen(AGT)을 표적화하여 혈압을 조절하는 새로운 치료 전략을 검토하기 위한 것입니다.",
+      "methods": "연구는 건강한 참가자들과 고혈압을 앓고 있는 참가자들을 대상으로 Tonlamarsen이라는 항시사 오ligonucleotide를 주사하여 AGT의 수준을 조절하는 실험을 수행하였습니다. Tonlamarsen은 혈압을 낮추는 효과가 있으며, 혈압을 낮추는 효과가 있는 placebo와 비교하여 효과를 평가하였습니다.",
+      "quantitative_results": "Tonlamarsen은 건강한 참가자와 고혈압을 앓고 있는 참가자 모두에게 AGT의 수준을 75.2%에서 최대 79.0%까지 줄일 수 있음을 보여주었습니다. Tonlamarsen은 일반적으로 안전하며, 혈압을 낮추는 효과가 있는 placebo와 비교하여 혈압을 낮추는 효과가 있음을 보여주었습니다.",
+      "novelty": "이 연구는 간세포를 지향하는 항시사 오ligonucleotide가 AGT을 표적화하여 혈압을 조절하는 새로운 치료 전략을 제시하는 것이며, 기존 연구보다 더 효과적인 효과를 보여주었습니다.",
+      "limitations": "이 연구는 Tonlamarsen의 안전성과 효과를 검토하기 위한 단계 1과 단계 2a 연구였습니다. Tonlamarsen의 효과와 안전성에 대한 더 많은 연구가 필요하며, Tonlamarsen이 다른 질병에 대한 치료 효과를 확인하기 위한 추가 연구가 필요합니다.",
+      "future_research": "이 연구는 Tonlamarsen이 간세포를 지향하는 항시사 오ligonucleotide가 AGT을 표적화하여 혈압을 조절하는 새로운 치료 전략을 제시하는 것을 확인한 것입니다. Tonlamarsen이 다른 질병에 대한 치료 효과를 확인하기 위한 추가 연구가 필요하며, Tonlamarsen이 간세포를 지향하는 항시사 오ligonucleotide가 AGT을 표적화하여 혈압을 조절하는 새로운 치료 전략을 검토하기 위한 후속 연구가 필요합니다."
+    }
+  },
+  {
+    "id": "doi:10.1186/s11671-026-05136-x",
+    "title": "Engineering metal-organic framework nanoplatforms for precision pulmonary delivery of JAK-STAT inhibitors in severe asthma.",
+    "topic": "Drug delivery",
+    "date": "2026-11-19",
+    "journal": "",
+    "authors": "Wankhede SC, Pethe AM.",
+    "doi": "10.1186/s11671-026-05136-x",
+    "pmid": "43055869",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43055869/",
+    "abstract": "Metal-organic frameworks (MOFs) have emerged as highly versatile nanoporous materials for nanomedicine owing to their exceptionally high surface area, tunable pore architecture, controllable surface chemistry, and stimuli-responsive drug release. These nanoscale characteristics enable efficient encapsulation of poorly soluble therapeutics, targeted delivery, and controlled release while minimizing systemic toxicity. Pulmonary delivery has gained increasing attention as an approach for localized treatment of inflammatory lung diseases. In parallel, the Janus kinase-signal transducer and activator of transcription (JAK-STAT) signaling pathway has been established as a key regulator of cytokine-mediated inflammation in severe asthma, although systemic administration of JAK inhibitors remains limited by immunosuppression and dose-dependent adverse effects. While MOFs have demonstrated considerable promise as pulmonary drug delivery systems and JAK inhibitors have shown therapeutic potential in inflammatory airway diseases, no published study has directly investigated MOF-mediated pulmonary delivery of JAK inhibitors for asthma. This review critically examines the current evidence supporting both fields and proposes a conceptual framework for integrating these technologies. Specifically, it discusses the nanoscale design principles of MOFs, including structural engineering, pore modulation, physicochemical characteristics, biodegradability, and pulmonary delivery strategies relevant to inhaled nanomedicine. Recent advances in MOF-based drug delivery, preclinical evidence, comparisons with conventional nanocarriers, and emerging approaches involving biomimetic coatings, hybrid nanocomposites, and artificial intelligence-assisted nanomaterial design are critically evaluated. Current challenges, including pulmonary biocompatibility, long-term nanotoxicity, scalable manufacturing, immune interactions, and regulatory considerations, are also discussed. By distinguishing established evidence from future opportunities, this review identifies MOF-mediated pulmonary delivery of JAK inhibitors as a promising yet experimentally unvalidated strategy and outlines key research priorities required for its successful translation toward precision therapy for severe asthma.Clinical trial number: NA.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 Metal-organic framework (MOF)를 이용한 JAK-STAT 약물 전달 시스템을 개발하여 중증 호흡기염을 치료하는 데 대한 연구입니다. MOF는 허브-노드 구조를 가진 고유의 나노플랫폼으로, 약물의 정확한 투여와 제제 관리에 사용될 수 있습니다. 이 연구는 MOF를 이용한 JAK-STAT 약물의 투신 전달을 위한 새로운 접근 방식을 제시하고, 이를 통해 중증 호흡기염 치료에 대한 정확한 치료법을 개발할 수 있을 것으로 기대합니다.",
+      "methods": "이 연구에서는 MOF의 나노플랫폼 설계 원칙을 다루며, MOF의 구조 설계, 포트 매니지먼트, 물리화학적 특성, 생물학적 분해성, 그리고 투신 전달 전략에 대해 논의합니다. 또한, MOF 기반 약물 전달의 최신 발전, 전임 시험 결과, 전통적인 나노카이론과의 비교, 생물학적 유사성 코팅, 합성 나노복합체, 그리고 인공지능 기반 나노재료 설계 등에 대한 평가를 포함합니다. 또한, 투신 전달의 생물학적 안전성, 장기 나노독성, 확산성 제조, 면역 상호 작용, 그리고 규제 조정 등에 대한 현재의 문제점도 다루고 있습니다.",
+      "quantitative_results": "이 논문에서는 MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 현재의 증거를 검토하고, MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 새로운 기회를 제시합니다. 그러나, MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 실험적 검증은 아직 이루어지지 않았습니다.",
+      "novelty": "이 논문은 MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 새로운 접근 방식을 제시하며, 이는 기존 연구와는 다른 차별점이 있습니다. MOF는 허브-노드 구조를 가진 고유의 나노플랫폼으로, 약물의 정확한 투여와 제제 관리에 사용될 수 있습니다. 이 연구는 MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 새로운 접근 방식을 제시하고, 이를 통해 중증 호흡기염 치료에 대한 정확한 치료법을 개발할 수 있을 것으로 기대합니다.",
+      "limitations": "이 논문에서는 MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 실험적 검증이 아직 이루어지지 않았습니다. 또한, MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 생물학적 안전성, 장기 나노독성, 확산성 제조, 면역 상호 작용, 그리고 규제 조정 등에 대한 정보는 아직 확인되지 않았습니다. 이러한 한계를 극복하기 위해, MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 실험적 검증이 필요합니다.",
+      "future_research": "이 논문은 MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 실험적 검증이 아직 이루어지지 않았다는 한계를 명시하고, 이를 해결하기 위해 MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 실험적 연구가 필요하다는 제안을 합니다. 이러한 연구는 MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 정확한 치료법을 개발하는 데 필요한 연구입니다."
+    }
+  },
+  {
     "id": "doi:10.21203/rs.3.rs-11632080/v1",
     "title": "Massively parallel quantification and prediction of monomeric protein yield in Escherichia coli",
     "topic": "Protein",
@@ -47,7 +91,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43050133/",
     "abstract": "Neurodegenerative conditions like Alzheimer disease and Parkinson disease are of major global health concern considering that they are progressive and not curable. The standard therapeutic methods mainly aim at the treatment of the symptoms, and they do not treat the molecular processes that contribute to the pathogenesis of the disease. Over the last few years, RNA-based therapeutics have emerged as a promising approach to precisely target disease-specific genes and pathways at the molecular level. This review examines the involvement of the use of different RNA-based methods such as small interfering RNA (siRNA), microRNA (miRNA), messenger RNA (mRNA) and antisense oligonucleotides (ASOs) in the management of Alzheimer's and Parkinson's disease. The article emphasises the ability of these therapies to regulate gene expression that relates to some of the major pathological phenotypes, including amyloid-beta deposition, hyperphosphorylation of the tau protein, and alpha-synuclein aggregation. In addition to that, it also talks about the progress in delivery systems to address limitations such as the blood-brain barrier, making RNA therapeutics more clinically applicable. The existing evidence of research shows that there is great potential to slow the progression of disease and improve the functioning of neurons. In spite of these developments, there are still some issues such as the problems of stability, off-target effects, and mass production. On the whole, RNA-based therapeutics is an innovative solution that can potentially turn the face of neurodegenerative diseases treatment. These innovations should be translated to effective therapeutic interventions, which can only be achieved through further research and clinical validation.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "알파스타르와 파킨슨병을 포함한 신경퇴행性疾病은 전 세계 건강 문제의 주요 원인 중 하나입니다. 이 연구는 RNA 기반의 치료법이 신경퇴행性疾病의 유전자와 과정을 정확하게 타겟팅하여 치료에 도움이 될 수 있음을 검토합니다.",
+      "methods": "이 연구는 다양한 RNA 기반의 방법, 즉 작은 인자 RNA (siRNA), 미코RNA (miRNA), 메시지 RNA (mRNA) 및 반대의 씨 오리노데이올 (ASOs)이 알파스타르와 파킨슨병의 관리에 사용되는지 검토합니다.",
+      "quantitative_results": "이 연구는 RNA 치료법이 알파스타르와 파킨슨병의 주요 질병학적 특성, 즉 알파스타르 플라보이드 축적, 투라 단백질의 과도한 포화, 알파스타르 단백질의 축적을 조절하는 능력을 강조합니다.",
+      "novelty": "이 연구는 RNA 치료법이 알파스타르와 파킨슨병의 치료에 대한 새로운 접근법으로, 이는 기존의 치료법보다 더 나은 치료 결과를 가져올 가능성이 있습니다.",
+      "limitations": "이 연구는 RNA 치료법의 안정성 문제, 오프 타겟 효과, 그리고 대량 생산 문제에 대해 언급하지만, 이는 연구에서 확인할 수 없는 정보입니다. 또한, 이 연구는 아직 치료법의 효과를 증명하기 위한 더 많은 연구와 임상 검증이 필요하다는 점을 강조합니다.",
+      "future_research": "이 연구는 RNA 기반의 치료법이 신경퇴행性疾病의 치료에 대한 새로운 접근법임을 강조하며, 이는 후속 연구를 요구합니다. 이러한 연구는 치료법의 효과를 증명하고, 이를 실제 치료에 적용하기 위한 임상 검증을 필요로 합니다."
+    }
   },
   {
     "id": "doi:10.1002/smll.76777",
@@ -91,6 +143,28 @@
       "novelty": "이 논문은 기존 연구에서 보다 구체적으로 BBB를 통해 치료제를 전달하는 다양한 신소재의 작용 메커니즘을 설명하며, 이에 대한 이해를 높이고, 이를 통해 신약 전달 분야에서의 발전을 위한 전략을 제시합니다.",
       "limitations": "논문에서는 BBB의 질환 상태에서의 다수성, 신약 전달 카트리지의 전달 효율의 부적절성, 그리고 복잡한 준비 과정 등이 아직 해결되지 않은 문제를 지적하며, 이에 대한 연구가 필요하다는 한계를 명시합니다.",
       "future_research": "논문은 전이성 신약 전달 카트리지 개발, 생물학적 모방 전달 시스템 구축, 다중 메커니즘 연계 전략 등으로의 연구를 제안하며, 이를 통해 신약 전달 분야에서의 '가능성'을 '실용성'으로 전환하여 뇌 질환의 정확한 진단과 치료를 가능하게 하려는 목표를 제시합니다."
+    }
+  },
+  {
+    "id": "doi:10.64898/2026.11.16.767073",
+    "title": "Sidetrak: a de novo-designed miniprotein targets the kinesin-1 coiled-coil stalk to inhibit MAP7 binding and disrupt mitochondrial transport",
+    "topic": "Protein",
+    "date": "2026-11-18",
+    "journal": "",
+    "authors": "Cross JA, Bristow SA, Babuji T, Woolfson D, Dodding MP.",
+    "doi": "10.64898/2026.11.16.767073",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.11.16.767073",
+    "abstract": "The coiled-coil domains of cytoskeletal motors contain regulatory surfaces that offer largely unexploited targets for manipulating intracellular transport. The microtubule-associated protein MAP7 promotes kinesin-1 motor activity, binding a coiled-coil surface that overlaps the TPR docking site (TDS), a regulatory interface involved in autoinhibition. Starting from an AlphaFold3 model of this relatively feature-poor surface, we used BoltzGen to design Sidetrak, a 36-amino acid miniprotein that binds kinesin-1 with nanomolar affinity. Binding requires the TDS and is abolished by mutation of the predicted Sidetrak interface, supporting the modelled local geometry of the targeted coiled-coil region. Sidetrak inhibits MAP7 binding, reduces MAP7-dependent kinesin-1 recruitment to microtubules in cells and causes perinuclear redistribution of mitochondria, a kinesin-1 cargo. Sidetrak binds all three kinesin-1 heavy-chain paralogues, and quantitative interaction proteomics revealed selective association with endogenous kinesin-1 complexes and associated cargo adaptors. These findings demonstrate selective disruption of a motor-MAP interaction by a de novo-designed protein and highlight regulatory coiled-coil surfaces as targets for manipulating intracellular transport. Beyond providing a means to manipulate intracellular transport, this work illustrates the potential of de novo protein design to test structural models of protein interfaces and probe endogenous protein networks to uncover underlying cellular mechanisms.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "Sidetrak은 kinesin-1의 coiled-coil 구조를 타겟으로 한 새로운 단백질을 설계하여, MAP7과의 결합을 억제하고 mitochondria의 이동을 방해하는 연구를 수행합니다. 이를 통해 intracellular 이동을 조절하는 신경망과 MAP7의 상호 작용을 조절하는 새로운 방법을 제시합니다.",
+      "methods": "AlphaFold3 모델을 기반으로 한 BoltzGen을 사용하여 Sidetrak을 설계했습니다. Sidetrak은 36개의 아미노산으로 구성된 매우 작은 단백질로, kinesin-1과 nanomolar의 결합력을 가집니다. Sidetrak은 TDS와 결합하여 MAP7과의 결합을 억제하고, mitochondria의 perinuclear 이동을 유발합니다. Sidetrak은 모든 세 가지 kinesin-1 중량 가연체와 관련된 콜라이저 어댑터와 선택적으로 결합합니다.",
+      "quantitative_results": "Sidetrak은 kinesin-1과의 결합을 억제하고, mitochondria의 perinuclear 이동을 유발하며, endogenous kinesin-1 복합체와 관련된 cargo 어댑터와 선택적으로 결합합니다. 이러한 결과는 신경망과 MAP7의 상호 작용을 조절하는 새로운 방법을 제시합니다.",
+      "novelty": "Sidetrak은 처음으로 신경망과 MAP7의 상호 작용을 조절하는 새로운 방법을 제시합니다. 이는 기존 연구에서 보여주지 않았던 새로운 접근법입니다. 또한, Sidetrak은 de novo 단백질 설계의 잠재력을 보여줍니다. 신경망과 MAP7의 상호 작용을 조절하는 새로운 방법을 제시합니다.",
+      "limitations": "초록에서 보여주지 않았지만, Sidetrak의 효과가 장기적으로 지속되는지 확인하기 위해 추가 연구가 필요합니다. 또한, Sidetrak이 실제 세포 환경에서 작용하는지 확인하기 위해 추가 실험이 필요합니다.",
+      "future_research": "Sidetrak의 장기적인 효과를 확인하기 위해 추가 연구가 필요합니다. 또한, Sidetrak이 실제 세포 환경에서 작용하는지 확인하기 위해 추가 실험이 필요합니다. Sidetrak을 사용하여 신경망과 MAP7의 상호 작용을 조절하는 새로운 방법을 검토하고, 이를 통해 세포 내 이동을 조절하는 새로운 방법을 개발하는 연구가 필요합니다."
     }
   },
   {
@@ -223,6 +297,28 @@
       "novelty": "이 논문은 NLCs의 전임상 연구 성능과 실제 의학적 개발에 걸친 장벽을 연결하는 새로운 접근법을 제시합니다. 이는 NLCs의 암 치료에 대한 전임상 연구에서의 강력한 전망이 어떻게 실제 의학적 개발에서 실현되지 못했는지를 이해하는 데 도움이 될 것입니다.",
       "limitations": "이 논문은 실제 의학적 개발에 대한 자료가 제한적이어서, NLCs가 암 치료에 대한 전임상 연구에서의 강력한 전망이 어떻게 실제 의학적 개발에서 실현되지 못했는지를 완전히 이해하기는 어렵습니다. 그러나 이 연구는 NLCs의 암 치료에 대한 전임상 연구에서의 강력한 전망이 어떻게 실제 의학적 개발에서 실현되지 못했는지를 이해하는 데 도움이 될 것입니다.",
       "future_research": "후속 연구는 NLCs의 실제 의학적 개발에 대한 자료를 수집하고 분석하여 NLCs가 암 치료에 대한 전임상 연구에서의 강력한 전망이 어떻게 실제 의학적 개발에서 실현되지 못했는지를 이해하는 데 도움이 될 것입니다."
+    }
+  },
+  {
+    "id": "doi:10.1080/15685551.2026.2762645",
+    "title": "Solid lipids derived from tropical plants in lipid nanoparticle systems for enhanced topical delivery.",
+    "topic": "Drug delivery",
+    "date": "2026-11-17",
+    "journal": "",
+    "authors": "Kurniawansyah IS, Chaerunisaa AY, Akmalia NNN, Dewi MK.",
+    "doi": "10.1080/15685551.2026.2762645",
+    "pmid": "43054597",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43054597/",
+    "abstract": "Plant-derived solid lipids from tropical species have attracted increasing attention as alternative biomaterials for lipid nanoparticle-based topical delivery. Solid lipid nanoparticles (SLNs) and nanostructured lipid carriers (NLCs) can provide versatile matrices for the topical delivery of active compounds; however, the contribution of tropical plant-derived solid lipids to nanoparticle performance remains insufficiently understood. This systematic review evaluated the use of tropical plant-derived solid lipids in lipid nanoparticle systems and examined the available evidence regarding their relationships with physicochemical characteristics and topical performance. A PRISMA-based literature search of PubMed, ScienceDirect, and SpringerLink identified 15 eligible original research studies published between 2018 and 2024. The reviewed lipid matrices included Bacuri, Cocoa, Cupuaçu, Illipe, and Shea butters. The reported formulations generally produced nanoparticles in the nanoscale range, although particle size, PDI, zeta potential, and encapsulation efficiency varied substantially according to the active compound, formulation composition, and production conditions. Reported biological and topical outcomes included formulation-specific improvements in selected photoprotective, antioxidant, anti-inflammatory, anti-edematous, and antibacterial endpoints. Overall, the available evidence suggests that tropical plant-derived solid lipids can serve as alternative lipid matrices with distinct compositional and physicochemical characteristics. However, the limited number of studies and the absence of controlled head-to-head comparisons prevent definitive conclusions regarding the superiority of any individual lipid or its performance relative to conventional lipid excipients. Future studies should prioritize standardized lipid characterization, controlled comparative formulations, and systematic investigation of structure-property-performance relationships to support the rational development of plant-derived lipid nanoparticle systems for topical delivery.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 태평양 식물에서 얻은 단백질을 사용한 탈사주물체 시스템을 통해 토크아코 팩 투여를 향상시키는 방법을 분석하고자 합니다. 이는 기존의 탈사주물체 시스템에서 태평양 식물 단백질의 성능에 대한 이해가 부족하다는 점을 고려합니다.",
+      "methods": "이 연구는 PubMed, ScienceDirect, 그리고 SpringerLink에서 2018년부터 2024년까지 출간된 15편의 원료 연구 논문을 검색하여 태평양 식물 단백질이 탈사주물체 시스템에 사용되는 방법을 평가했습니다. 태평양 식물 단백질은 Bacuri, Cocoa, Cupuaçu, Illipe, 그리고 Shea 브러시로 구성되었습니다. 연구 결과는 활성 물질, 구성 요소, 그리고 제조 조건에 따라 다양한 크기와 PDI, zeta potential, 그리고 엔캡슐레이션 효율을 보여주었습니다.",
+      "quantitative_results": "보고된 결과는 태평양 식물 단백질이 토크아코 팩 투여에 대한 선택적 향상된 효과를 보여주었습니다. 예를 들어, 햇빛 방지, 항산화, 항염증, 항水肿, 항균 효과 등이었습니다. 그러나 각 물질의 특성과 물리화학적 특성에 따라 편차가 발생했습니다.",
+      "novelty": "이 연구는 태평양 식물 단백질이 탈사주물체 시스템에 사용되는 새로운 방법을 제시하며, 기존 연구와 비교하여 이 단백질이 기존의 탈사주물체 시스템에 비해 어떤 효율성을 보여줄 수 있는지에 대한 새로운 정보를 제공합니다.",
+      "limitations": "이 연구는 태평양 식물 단백질이 탈사주물체 시스템에 사용되는 방법에 대한 충분한 정보를 제공하지 못했습니다. 또한, 태평양 식물 단백질이 기존의 탈사주물체 시스템에 비해 어떤 효율성을 보여줄 수 있는지에 대한 명확한 결론을 내리기 위해서는 더 많은 연구가 필요합니다. 또한, 태평양 식물 단백질이 기존의 탈사주물체 시스템에 비해 어떤 효율성을 보여줄 수 있는지에 대한 명확한 비교를 수행하기 위해서는 더 많은 연구가 필요합니다.",
+      "future_research": "이 연구는 태평양 식물 단백질이 탈사주물체 시스템에 사용되는 방법에 대한 더 많은 연구가 필요하다는 것을 명확히 제시했습니다. 앞으로의 연구는 태평양 식물 단백질의 표준화된 탈사주물체 분석, 통제된 비교형태제, 그리고 탈사주물체 시스템의 구조-성질-성능 관계에 대한 체계적인 연구를 통해 태평양 식물 단백질 탈사주물체 시스템의 토크아코 팩 투여를 위한 합리적인 개발을 지원해야 합니다."
     }
   },
   {
@@ -512,7 +608,7 @@
     "authors": "Li H, Lin Q, Xie Y, He X, Yang S, Zhou Y, Zhao X, Wang X, Han Y, Cao F, Gan L, Zhang S, Liu P.",
     "doi": "10.1126/sciadv.aeg8936",
     "pmid": "43024705",
-    "pmcid": "",
+    "pmcid": "PMC13763943",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43024705/",
     "abstract": "The delivery of nucleic acids using nonviral vectors represents a promising approach for cancer therapy. Nevertheless, nucleic acid-based drugs suffer from poor potency and rapid degradation. Herein, we report a carrier-free nucleic acid delivery system termed Arg-CpG, which is easily constructed through charge-driven assembly of poly(l-arginine) (Arg) and the immune adjuvant unmethylated cytosine-phosphate-guanine oligonucleotide (CpG). This Arg-CpG functions as both a carrier and a therapeutic agent, thereby eliminating the need for a conventional drug delivery vehicle and minimizing potential toxicity. The guanidinium groups of Arg endow Arg-CpG with dual functionalities: enhancing cellular uptake and serving as the nitrogen donor for iNOS-mediated nitric oxide (NO) generation. This NO production further synergizes with CpG to drive macrophage reprogramming toward an antitumor phenotype. Notably, Arg-CpG exhibits cell-type-dependent modulation of autophagy. It disrupts autophagic machinery in 4T1 tumor cells while preserving functional autophagy in RAW264.7 macrophages. This differential activity results in selective killing of tumor cells without compromising the viability or function of normal immune cells. Consequently, Arg-CpG elicits a robust antitumor immune response in vivo. Moreover, the modular design of Arg-CpG enables its straightforward assembly with CpG oligonucleotides and other nucleic acid payloads (e.g., anti-miR oligonucleotides and siRNA), establishing a versatile and promising platform for nucleic acid-based cancer therapy.",
     "summary": "초록 기반 요약",
@@ -546,6 +642,20 @@
       "limitations": "논문에서는 염증 과정이 암에 미치는 영향을 이해하기 위해 다양한 모델을 사용했습니다. 이들 모델은 염증 과정이 면역 기능을 약화시키는 방식과 이를 이용한 암의 진행 방식에 대해 자세히 설명합니다. 이 연구는 염증 과정이 암에 미치는 영향을 이해하는 데 도움이 될 것입니다.",
       "future_research": "이 논문은 후속 연구를 제안합니다. 이 연구는 염증 과정이 암에 미치는 영향을 이해하는 데 도움이 될 것입니다."
     }
+  },
+  {
+    "id": "doi:10.1016/j.jpba.2026.117798",
+    "title": "Plasma proteomics at the crossroads: Technological innovations driving clinical translation.",
+    "topic": "Protein",
+    "date": "2026-11-13",
+    "journal": "",
+    "authors": "Wang Y, He N, Ocholi SS, Chen Q, Liu E, Xu X, Han L.",
+    "doi": "10.1016/j.jpba.2026.117798",
+    "pmid": "43050725",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43050725/",
+    "abstract": "Proteomics has become an important tool in disease research by elucidating changes in protein expression and regulation under diverse pathophysiological conditions. Plasma, one of the most accessible biofluids for liquid biopsy, not only harbors an abundant proteomic repertoire but also provides a dynamic reflection of pathophysiological alterations. Consequently, plasma proteomics holds significant promise for translational research. However, challenges such as strong interference from high-abundance proteins in plasma, technical bottlenecks in detecting low-abundance functional proteins, and the complexity of post-translational modifications have substantially hindered the translation of plasma proteomics from basic research into clinical applications. Therefore, this review summarizes the latest breakthroughs in plasma proteomics methodologies, focusing on innovative advances across five core areas: sample preparation, separation technologies, integrated microfluidic platforms, detection technologies, and data-analysis workflows. Concurrently, it elaborates on the key application achievements and translational value of these technologies in three major clinical directions: real-time disease monitoring, early diagnosis, screening and risk stratification, and emerging applications, providing researchers in the field with a comprehensive technical reference and insights into clinical translation.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "PMC:PMC13752843",
@@ -1206,7 +1316,7 @@
     "authors": "Abdelnabi H, Alkaabi SM, Alderei KS, Alaryani AS, Mohsin S.",
     "doi": "10.1016/j.mtbio.2026.103808",
     "pmid": "43034744",
-    "pmcid": "",
+    "pmcid": "PMC13769522",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43034744/",
     "abstract": "Protein biologics are constrained in critical-size bone defects not by insufficient potency, but by rapid clearance and the inability to sustain therapeutic signaling at the repair site. Dose escalation does not overcome this pharmacokinetic limitation and instead increases the risk of ectopic bone formation, osteolysis, and soft tissue toxicity. Sustained, localized delivery, not higher dosing, is the unmet requirement. Gene-activated matrices (GAM) address this problem by integrating nucleic acid cargo and delivery vectors within an implantable scaffold, converting infiltrating host cells into local sources of regenerative signals. This review examines GAMs as nanomedicine platforms for bone regeneration, tracing their development from scaffold bioactivity and the limitation of protein biologics to nucleic acid-based delivery. We compare viral vectors, lipid nanoparticles, polymeric polyplexes, calcium phosphate nanoparticles, and scaffold-integrated systems across transduction efficiency, expression kinetics, immunogenicity, and bone-site retention. We then examine how scaffold composition, architecture, and fabrication govern vector retention, release, and substrate-mediated transfection. This review then evaluates nucleic acid cargo selection and coordinated osteogenic and angiogenic gene delivery, including pDNA, mRNA, siRNA, miRNA, and explores emerging multi-factor, stimuli-responsive, and CRISPR-based GAMs alongside their translational constraints. A distinct feature of this review is its claim-level patent analysis, which identifies substantial intellectual-property white space in GAM development. Despite strong preclinical evidence, no GAM platform has simultaneously achieved scalable manufacturing, regulatory readiness as a combination product, and validation in a human-scale bone defect model. Clinical translation will require coordinated optimization of vector-scaffold interactions, manufacturing scalability, safety, and clinically relevant validation.",
     "summary": "초록 기반 요약",
@@ -1242,7 +1352,7 @@
     "authors": "Colaco V, Gupta A, Jadhav SR, Rajora AD, Saha M, Adile S, Roy AA, Soman S, Moorkoth S, Datta D, Mutalik S, Prajapati BG, Kudarha R, Dhas N.",
     "doi": "10.1016/j.ijpx.2026.100701",
     "pmid": "43032665",
-    "pmcid": "",
+    "pmcid": "PMC13761360",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43032665/",
     "abstract": "Lung cancer is a leading cause of death in the world and is highly heterogeneous with extensive molecular changes and often resistant to therapy. Despite significant advances in clinical management through surgery, chemotherapy, radiotherapy, and immunotherapy, some of these treatments are limited in effectiveness by late diagnosis, systemic toxicity, poor accumulation, molecular heterogeneity, and acquired resistance. This review provides a comprehensive overview of current and emerging therapeutic strategies for lung cancer, with particular emphasis on advanced drug delivery systems and nanomedicine-based approaches. Recent advances in lipid-based nanoparticles, polymeric nanoparticles and micelles, inorganic nanoparticles, and nanocrystals are highlighted for their ability to improve drug solubility, pharmacokinetics, tumor accumulation, cellular uptake, and controlled drug release. Active targeting and stimuli-responsive nanocarriers can improve tumor selectivity, intracellular drug delivery, and drug retention, potentially addressing selected resistance-associated mechanisms. Gene-delivery and genome-editing approaches offer additional opportunities to modulate resistance-related pathways, while photodynamic and photothermal therapies provide complementary strategies for localized tumor treatment. However, the extent to which these approaches reverse established drug resistance varies with the targeted mechanism and the experimental model employed. Distinguishing functional resistance reversal from improved drug delivery and general anticancer activity is therefore essential for assessing their translational potential.",
     "summary": "초록 기반 요약"
@@ -1856,6 +1966,20 @@
     "summary": "초록 기반 요약"
   },
   {
+    "id": "doi:10.1002/mas.70048",
+    "title": "Mass Spectrometry Imaging-Guided Proteomics, an Emerging Frontier in Spatial Biology.",
+    "topic": "Protein",
+    "date": "2026-10-29",
+    "journal": "",
+    "authors": "Weke K, Lum JJ, Goodlett DR, Pětrošová H, Dapic I.",
+    "doi": "10.1002/mas.70048",
+    "pmid": "42954322",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/42954322/",
+    "abstract": "Spatial heterogeneity is a defining feature of tissue organization, yet conventional proteomic analysis provides limited information about the spatial origins of identified proteins. Spatially guided proteomics addresses this limitation by using tissue imaging techniques to select regions of interest (ROIs) for localized analysis by liquid chromatography-tandem mass spectrometry (LC-MS/MS). Among the imaging modalities available for this purpose, mass spectrometry imaging (MSI) stands out for its ability to map diverse molecular species directly within tissue without predefined targets, allowing chemically distinct regions to guide tissue sampling. By bridging spatial molecular profiles with high protein coverage, MSI-guided proteomics offers comprehensive biological insight. This review examines the workflow from MSI data acquisition through ROI definition, image registration, tissue isolation, and sample preparation to LC-MS/MS analysis. We compare common MSI modalities, discuss methods for ROI isolation, and summarize advances in nanoproteomics methods that support analysis of tissue samples at the microscopic scale. We critically evaluate applications in cancer research, infectious disease, neuroscience, and environmental science. Finally, we discuss the challenges and future directions of MSI-guided proteomics. We conclude that ongoing developments in the MSI-guided proteomics workflow position it as an emerging strategy for investigating localized biological processes within heterogeneous tissues.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.1038/s41587-026-03343-6",
     "title": "An mRNA-lipid nanoparticle vaccine against H5N1 influenza virus protects lactating dairy cows from infection.",
     "topic": "Drug delivery",
@@ -2369,6 +2493,20 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42913064/",
     "abstract": "Ferroptosis is a regulated form of cell death driven by iron-dependent phospholipid peroxidation, but its immunological identity is not fixed. This context dependence complicates therapeutic development: ferroptosis may eliminate malignant cells but can also amplify inflammation or impair protective immune responses. Moreover, sublethal ferroptosis-associated stress can alter cellular function without causing cell death. The skin provides an informative model for investigating these divergent effects because epidermal differentiation and cutaneous compartmentalization create spatial heterogeneity in iron handling, lipid composition, and redox status. This review integrates the core molecular machinery of ferroptosis with the spatial biology and immunology of the skin. We examine ferroptotic death and sublethal stress across skin-resident and immune-cell populations, focusing on their distinct immunological consequences. Evidence from melanoma, psoriasis, vitiligo, systemic and cutaneous lupus erythematosus, ultraviolet-induced skin injury, and atopic dermatitis is evaluated with particular attention to the distinction between molecular associations, mechanistic evidence, and causal contributions to disease. Finally, we assess emerging skin-directed delivery platforms, including nanoparticles, microneedles, and extracellular vesicles, and critically compare their delivery characteristics, potential for cell-type-selective modulation, and translational readiness. Key translational challenges include in vivo stability, off-target effects, long-term safety, and manufacturing scalability. Progress toward clinical translation will require spatially resolved, cell-type-specific functional validation and more selective therapeutic strategies.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.64898/2026.10.16.759664",
+    "title": "Benchmarking Molecular Methods of Protein Engineering and Surveying Protein Search Space to Bolster Artificial Intelligence-Based Designs",
+    "topic": "Protein",
+    "date": "2026-10-22",
+    "journal": "",
+    "authors": "Ramamoorthy S, Browning R, Brandt J, Tisdale K, Schultz A, Dalinger MVL, Hengartner N, Tauritz DR, Beckmann JF.",
+    "doi": "10.64898/2026.10.16.759664",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.10.16.759664",
+    "abstract": "Proteins are complex macromolecules that drive functionality in cells across all life on Earth. Protein engineering and AI-based designs facilitate exploration of the vast search space. Herein, we explore and compare mutagenic methodologies in combination with fast and efficient phenotypic evaluation of a pink fluorophore (Magenta) to map protein search space and inform AI-based designer algorithms. We binned mutated variants as neutral, deleterious, or catastrophic based on the observed phenotype and fitness measurement (relative fluorescent units, RFUs). Importantly, we found that for a given fluorophore, about 80% of random mutations were deleterious for the artificially selected phenotype resulting in decreased fitness, 20% were neutral mutations, and 0.8% enhanced the artificially selected phenotype. Using error prone PCR (epPCR), we were able to identify four candidates in the first round and one candidate in the second round of epPCR for enhanced fluorescence and in toto enhanced RFUs by 35% after two rounds of epPCR. We compared these rates of true positive enhanced RFU generated sequences against a state of the art evolutionary algorithm approach and found that biological computation beats it in its current state. We conclude with suggestions for key improvements to enhance algorithm performance in the future. Taken together, we demonstrated that iterative rounds of variant prediction improved our algorithm, and our study can serve as a reference point for future AI driven modeling studies in red fluorescent protein engineering.",
     "summary": "초록 기반 요약"
   },
   {
