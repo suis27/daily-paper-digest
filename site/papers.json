@@ -1,5 +1,77 @@
 [
   {
+    "id": "doi:10.1371/journal.pone.0355570",
+    "title": "Engineered Fab glycosylation of a blood-brain barrier transporter single-chain variable fragment preserved functionality but did not impact anti-drug antibody formation.",
+    "topic": "Protein",
+    "date": "2026-11-20",
+    "journal": "",
+    "authors": "Hederoth G, Ytterberg J, Liu J, Godec A, Venkataramakrishnan AK, Metzendorf NG, Rethi B, Hultqvist G.",
+    "doi": "10.1371/journal.pone.0355570",
+    "pmid": "43063134",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43063134/",
+    "abstract": "Sialylation of N-linked glycans can critically influence protein immunogenicity, potentially conferring immunosuppressive properties and an extended half-life. Anti-drug antibodies (ADAs) formed against protein therapeutics can substantially limit drug efficacy. In this study, we investigated whether introducing sialic acid residues into a therapeutic construct would reduce ADA responses, using the single-chain variable fragment (scFv) of the 8D3 antibody as a model protein. When fused to therapeutic antibodies, scFv8D3 enables blood-brain barrier transport via transferrin receptor-mediated transcytosis, however, it also increases immunogenicity of the construct and the consequent ADA production. We generated two novel scFv8D3 variants with distinct N-linked glycosylation motifs (NXT/S), which both displayed sialic acid residues and retained functionality, as evidenced by the preservation of transferrin receptor binding and brain uptake. However, Fab glycosylation did not significantly alter pharmacokinetics or ADA production in mice. Our findings demonstrated that introducing Fab glycosylation is feasible, without compromising biological activity. Nonetheless, this strategy alone was insufficient to mitigate immunogenicity, underscoring the need for alternative approaches to improve the long-term safety of protein therapeutics.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1186/s40164-026-00856-3",
+    "title": "Epigenetic programming of immune cells: unleashing anti-tumor potential and clinical perspectives.",
+    "topic": "Immunity",
+    "date": "2026-11-20",
+    "journal": "",
+    "authors": "Yang Y, Ji P, Zhou R, Wang C, Xu Y, Li Q, Wen F.",
+    "doi": "10.1186/s40164-026-00856-3",
+    "pmid": "43065112",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065112/",
+    "abstract": "Immune cell plasticity is a defining feature of tumor immunity and is increasingly recognized as being governed by epigenetic regulation. Advances in single-cell and spatial multi-omics have uncovered an epigenetic checkpoint that integrates environmental cues within the tumor microenvironment (TME) to shape immune cell fate and function. In this review, we synthesize recent evidence supporting three interconnected paradigms of epigenetic control in tumor immunity from the perspective of immune cell heterogeneity, ecology, and state transitions. First, dynamic chromatin remodeling programs myeloid cell polarization and functional diversification. Second, epitranscriptomic regulation constrains T and B cell states, contributing to immune dysfunction and exhaustion. Third, spatially resolved epigenetic remodeling influences immune cell trafficking, positioning, and retention within tumors. Collectively, these mechanisms establish durable immune states that reinforce TME-driven immunosuppression. We further highlight emerging pharmacological strategies targeting epigenetic regulators to reprogram immune cell function and enhance anti-tumor immunity. This framework provides a foundation for leveraging epigenetic plasticity to improve the efficacy of cancer immunotherapy.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암 치료를 위한 암 면역 치료의 효과성을 향상시키기 위한 epigenetic 조절의 중요성을 강조하고 있습니다. 면역 세포의 epigenetic 조절이 어떻게 암 세포로부터 면역 반응을 유도하고, 면역 세포의 동태와 기능을 조절하는지에 대해 새로운 이해를 제공합니다.",
+      "methods": "논문에서는 epigenetic 조절이 암 세포 환경에서 면역 세포의 동태와 기능을 어떻게 조절하는지에 대한 최근 연구 결과를 종합적으로 분석하고 있습니다. 이는 면역 세포의 동태학적 다양성, 생태학적 특성, 상태 전이를 중심으로 합니다.",
+      "quantitative_results": "논문에서는 epigenetic 조절이 암 세포 환경에서 면역 세포의 동태와 기능을 어떻게 조절하는지에 대한 최근 연구 결과를 종합적으로 분석하고 있습니다. 이는 면역 세포의 동태학적 다양성, 생태학적 특성, 상태 전이를 중심으로 합니다.",
+      "novelty": "이 논문은 epigenetic 조절이 암 세포 환경에서 면역 세포의 동태와 기능을 어떻게 조절하는지에 대한 최근 연구 결과를 종합적으로 분석하고 있습니다. 이는 epigenetic 조절이 암 치료에 어떻게 활용될 수 있는지에 대한 새로운 이해를 제공합니다.",
+      "limitations": "논문에서는 epigenetic 조절이 암 세포 환경에서 면역 세포의 동태와 기능을 어떻게 조절하는지에 대한 최근 연구 결과를 종합적으로 분석하고 있습니다. 이는 epigenetic 조절이 암 치료에 어떻게 활용될 수 있는지에 대한 새로운 이해를 제공합니다. 그러나 epigenetic 조절이 암 치료에 어떻게 활용될 수 있는지에 대한 실제 실험 결과는 아직 확인되지 않았습니다.",
+      "future_research": "이 논문은 epigenetic 조절이 암 치료에 어떻게 활용될 수 있는지에 대한 새로운 이해를 제공하고 있습니다. epigenetic 조절이 암 치료에 어떻게 활용될 수 있는지에 대한 후속 연구를 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.64898/2026.11.19.765772",
+    "title": "Immunometabolic IRG1-NLRC5 Axis Controls Inflammatory Cell Death",
+    "topic": "Immunity",
+    "date": "2026-11-20",
+    "journal": "",
+    "authors": "Pandian N, Sundaram B, Kumar SP, Palacios G, Young AP, Sarkar R, El Farran C, Kanneganti T.",
+    "doi": "10.64898/2026.11.19.765772",
+    "pmid": "",
+    "pmcid": "",
+    "url": "https://doi.org/10.64898/2026.11.19.765772",
+    "abstract": "Innate immunity is the first defense against pathogens, sterile injury, and homeostatic perturbations. One key mechanism used by the innate immune system for host defense is inflammatory cell death, PANoptosis, which eliminates infected or damaged cells and releases cytokines and other danger signals that can further propagate the immune response. Given these inflammatory functions, PANoptosis must be tightly regulated to prevent excess inflammation and pathology. Cellular metabolism is a key regulator of innate immunity, yet how metabolic reprogramming regulates innate immune signaling to control cell death, inflammation, and disease remains poorly understood. Here, we identify the immune-responsive gene 1 (IRG1)-itaconate axis as a critical regulator of PANoptosis. Innate immune triggers robustly induced IRG1 expression, leading to itaconate accumulation and driving IRG1-dependent inflammatory cell death. Mechanistically, glutaminolysis fueled IRG1-dependent itaconate synthesis, and inhibition of glutamine metabolism reduced itaconate accumulation and blocked PANoptosis. Furthermore, NAD⁺ depletion, a known inducer of NLRC5-mediated PANoptosis that has been connected to hemolytic, infectious, and inflammatory conditions, acted upstream inducing IRG1 expression and promoting NLRC5-PANoptosome assembly. Together, these findings highlight IRG1 as a metabolic node linking innate immunity to PANoptosis, identifying IRG1 as a potential therapeutic target in hemolytic and inflammatory diseases.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/adma.75672",
+    "title": "NET-Inhibiting Bio-Orthogonal Gelated Neutrophils Reverse Maladaptive Trained Immunity and Protect Against Periodontitis Recurrence.",
+    "topic": "Immunity",
+    "date": "2026-11-20",
+    "journal": "",
+    "authors": "Li F, Li X, Xu JF, Zhang WJ, Wang HY, Bi JM, Xu M, Tian Y, Liu SY, Jia N, Tan YJ, Ran YH, Zhang JJ, Chen YH, Wu RX, Yin Y, Xiao Y, Chen FM, Tian BM, He XT.",
+    "doi": "10.1002/adma.75672",
+    "pmid": "43061799",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43061799/",
+    "abstract": "Maladaptive trained immunity (MTI) establishes pathogenic innate immune memory that amplifies the immune response to recurrent chronic inflammatory diseases such as periodontitis, but erasing this memory remains challenging. In this study, we identified neutrophil extracellular traps (NETs) as key mediators of periodontitis-induced MTI that reprogrammed bone marrow epigenetics and transcriptomics to amplify inflammation upon secondary challenge. Thus, we designed a NET-inhibiting bioengineered platform (tPA@AGNs-DNase I) to erase MTI and prevent recurrent inflammation. This platform was constructed by encapsulating tPA within activated gelated neutrophils (AGNs) and conjugating DNase I onto the surface by glycoengineering and click chemistry. Leveraging the inflammation-homing property of AGNs, the platform enabled co-delivery of two enzymes: DNase I degraded the DNA scaffold of NETs, while tPA disrupted fibrin‒neutrophil engagement to block NETosis, thereby achieving synergistic NET clearance. Local periodontal administration of tPA@AGNs-DNase I not only resolved primary inflammation but also reversed established MTI by restoring aberrant bone marrow epigenetic and transcriptional reprogramming, thereby markedly attenuating recurrent hyperinflammation and alveolar bone loss in a religature-induced periodontitis model. Collectively, this work provides a bioengineered platform that erases central MTI via in situ NET clearance, offering a paradigm-shifting strategy to control chronic inflammatory disease recurrence.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 마이크로 트레이닝된 면역 반응(MTI)이 재발되는 척추염에 대한 면역 반응을 강화하는 방식으로 기능하는 방식을 이해하고, 이를 해결하기 위한 새로운 플랫폼을 개발하는 데 목표를 두고 있습니다. 이 플랫폼은 NETs를 제거하여 MTI를 제거하고, 척추염이 재발하는 것을 방지합니다.",
+      "methods": "이 연구에서는 활성화된 세포막을 가진 neutrophils를 사용하여 NETs를 제거하는 플랫폼을 설계했습니다. 이 플랫폼은 tPA와 DNase I를 가진 AGNs을 사용하여 NETs를 제거하고, 이는 neutrophils와 fibrin의 결합을 방해하여 NETosis를 중단합니다. 이 플랫폼은 척추염 모델에서 tPA@AGNs-DNase I를 주사하여 척추염의 재발을 방지하고, MTI를 회복하는 데 사용되었습니다.",
+      "quantitative_results": "연구 결과, 이 플랫폼은 척추염의 재발을 크게 감소시키고, 알파이브 모세 혈관의 손상을 크게 줄였습니다. 이는 MTI를 제거하고, 척추염이 재발하는 것을 방지하는 데 효과적인 플랫폼임을 입증했습니다.",
+      "novelty": "이 연구는 NETs를 제거하는 플랫폼을 설계하고, 이를 통해 MTI를 제거하고 척추염의 재발을 방지하는 새로운 접근법을 제시합니다. 이는 기존 연구에서 보여주지 않았던 새로운 방식입니다.",
+      "limitations": "이 연구는 척추염 모델에서만 실험을 수행했으며, 실제 환자에서의 효과를 확인하기 위해서는 추가적인 연구가 필요합니다. 또한, 이 연구는 MTI와 NETs의 역할에 대한 세부적인 이해를 제공하지만, 그 외의 면역 반응에 대한 연구가 필요합니다.",
+      "future_research": "이 연구는 척추염 모델에서의 효과를 확인하고, 실제 환자에서의 효과를 확인하기 위해 추가 연구가 필요합니다. 또한, 이 연구에서 사용된 플랫폼을 다른 질병에 적용하기 위한 연구도 필요합니다."
+    }
+  },
+  {
     "id": "doi:10.1016/j.jacbts.2026.101717",
     "title": "Tonlamarsen, a Hepatocyte-Directed Antisense Oligonucleotide Targeting Angiotensinogen: Phase 1 and 2a Clinical Studies.",
     "topic": "Nucleic acids",
@@ -41,6 +113,28 @@
       "novelty": "이 논문은 MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 새로운 접근 방식을 제시하며, 이는 기존 연구와는 다른 차별점이 있습니다. MOF는 허브-노드 구조를 가진 고유의 나노플랫폼으로, 약물의 정확한 투여와 제제 관리에 사용될 수 있습니다. 이 연구는 MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 새로운 접근 방식을 제시하고, 이를 통해 중증 호흡기염 치료에 대한 정확한 치료법을 개발할 수 있을 것으로 기대합니다.",
       "limitations": "이 논문에서는 MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 실험적 검증이 아직 이루어지지 않았습니다. 또한, MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 생물학적 안전성, 장기 나노독성, 확산성 제조, 면역 상호 작용, 그리고 규제 조정 등에 대한 정보는 아직 확인되지 않았습니다. 이러한 한계를 극복하기 위해, MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 실험적 검증이 필요합니다.",
       "future_research": "이 논문은 MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 실험적 검증이 아직 이루어지지 않았다는 한계를 명시하고, 이를 해결하기 위해 MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 실험적 연구가 필요하다는 제안을 합니다. 이러한 연구는 MOF를 이용한 JAK-STAT 약물의 투신 전달에 대한 정확한 치료법을 개발하는 데 필요한 연구입니다."
+    }
+  },
+  {
+    "id": "doi:10.1039/d6cs01262k",
+    "title": "Transition metal-based nanocatalysts for bidirectional immunomodulation: from catalytic anti-inflammation to catalytic immunotherapy.",
+    "topic": "Immunity",
+    "date": "2026-11-19",
+    "journal": "",
+    "authors": "Yang B, Shi J.",
+    "doi": "10.1039/d6cs01262k",
+    "pmid": "43056229",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43056229/",
+    "abstract": "Immune homeostasis is crucial for health, yet its hyperactivation or suppression poses significant therapeutic challenges. Nanocatalysts, especially transition metal-based nanocatalysts, are powerful chemical tools for immunomodulation. They work by precisely regulating chemical species in pathological microenvironments. These nanocatalysts serve two therapeutic purposes. First, antioxidative nanocatalysts scavenge excess ROS. This \"cools down\" hyperactivated immunity in inflammatory diseases, such as cardiovascular disorders, neuroinflammation, and bone diseases. Second, pro-oxidative nanocatalysts generate ROS. This \"heats up\" suppressed immunity in cancer and infections, mainly by inducing immunogenic cell death. This tutorial review elucidates the chemical basis of nanocatalytic bidirectional immunomodulation, discussing related catalytic and therapeutic mechanisms based on typical paradigms. Rational design of nanocatalysts determines which chemical reactions occur. These reactions lead to different immunoregulatory outcomes. Nanocatalytic bidirectional immunomodulation provides a richer set of chemical tools to meet the requirements of immune activation or suppression during disease treatments. Most existing reviews have focused on unidirectional nanocatalytic therapy. This tutorial review is the first work to systematically unify nanocatalytic anti-inflammation and nanocatalytic immunotherapy from the perspective of \"bidirectional immunomodulation\".",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 화학적 도구인 전이-metal 기반의 나노타이타이스트가 염증과 면역치료에서 양방향으로 면역을 조절하는 방법을 설명합니다. 이는 기존 연구에서 한방향적인 면역치료에만 초점을 맞춘 것과는 달라, 면역 조절의 다양성을 제공합니다.",
+      "methods": "논문에서는 전이-metal 기반의 나노타이타이스트가 염증성 질환에서 항산화 반응을 통해 염증을 조절하고, 암이나 감염에서 과산화 반응을 통해 면역을 강화하는 방법을 설명합니다. 이는 전통적인 화학적 도구와는 다른 방식으로 면역을 조절하는 방법을 제시합니다.",
+      "quantitative_results": "논문에서는 이전 연구와 비교하여 이 새로운 방법이 효과적으로 면역을 조절할 수 있음을 보여줍니다. 그러나 이 연구는 실험 조건과 결과에 대한 자세한 정보를 제공하지 않습니다.",
+      "novelty": "이 논문은 전이-metal 기반의 나노타이타이스트가 염증과 면역치료에서 양방향으로 작용하는 새로운 개념을 제시합니다. 이는 기존 연구에서 한방향적인 면역치료에만 초점을 맞춘 것과는 달라, 면역 조절의 다양성을 제공합니다.",
+      "limitations": "논문에서는 실험 조건과 결과에 대한 자세한 정보를 제공하지 않았습니다. 또한, 이 연구는 실험적 데이터를 통해 얻은 결과를 설명하지만, 이는 다른 연구에서도 확인할 수 있는 결과일 수 있습니다.",
+      "future_research": "후속 연구는 이 새로운 방법이 다른 질환에 적용될 수 있는지, 그리고 이 방법이 어떻게 면역을 조절하는지에 대한 더 깊은 이해를 제공하는 연구가 필요합니다."
     }
   },
   {
@@ -308,7 +402,7 @@
     "authors": "Kurniawansyah IS, Chaerunisaa AY, Akmalia NNN, Dewi MK.",
     "doi": "10.1080/15685551.2026.2762645",
     "pmid": "43054597",
-    "pmcid": "",
+    "pmcid": "PMC13779948",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43054597/",
     "abstract": "Plant-derived solid lipids from tropical species have attracted increasing attention as alternative biomaterials for lipid nanoparticle-based topical delivery. Solid lipid nanoparticles (SLNs) and nanostructured lipid carriers (NLCs) can provide versatile matrices for the topical delivery of active compounds; however, the contribution of tropical plant-derived solid lipids to nanoparticle performance remains insufficiently understood. This systematic review evaluated the use of tropical plant-derived solid lipids in lipid nanoparticle systems and examined the available evidence regarding their relationships with physicochemical characteristics and topical performance. A PRISMA-based literature search of PubMed, ScienceDirect, and SpringerLink identified 15 eligible original research studies published between 2018 and 2024. The reviewed lipid matrices included Bacuri, Cocoa, Cupuaçu, Illipe, and Shea butters. The reported formulations generally produced nanoparticles in the nanoscale range, although particle size, PDI, zeta potential, and encapsulation efficiency varied substantially according to the active compound, formulation composition, and production conditions. Reported biological and topical outcomes included formulation-specific improvements in selected photoprotective, antioxidant, anti-inflammatory, anti-edematous, and antibacterial endpoints. Overall, the available evidence suggests that tropical plant-derived solid lipids can serve as alternative lipid matrices with distinct compositional and physicochemical characteristics. However, the limited number of studies and the absence of controlled head-to-head comparisons prevent definitive conclusions regarding the superiority of any individual lipid or its performance relative to conventional lipid excipients. Future studies should prioritize standardized lipid characterization, controlled comparative formulations, and systematic investigation of structure-property-performance relationships to support the rational development of plant-derived lipid nanoparticle systems for topical delivery.",
     "summary": "초록 기반 요약",
@@ -368,7 +462,7 @@
     "pmid": "43037406",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43037406/",
-    "abstract": "Objective This study preliminarily evaluated the prognostic value of the inflammation-immunity-nutrition score (IINS) in advanced NSCLC patients receiving first-line immunotherapy. Methods This retrospective, single-center study enrolled 212 patients. Patients were categorized into the death group, survival group, progressive disease (PD) group, and non-PD (N-PD) group. Prognosis analysis employed Cox regression, Kaplan-Meier (KM) survival curves, and ROC curves. Internal validation was performed using the Bootstrap method and a 10-fold cross-validation approach, and calibration curves were plotted. Results High IINS was associated with poorly differentiated tumors, stage IV disease, and ≥2 metastases. Patients with PD or death had significantly higher IINS. After adjusting for available confounding factors, a higher IINS remained associated with PD and death. IINS may aid in the prognostic assessments of PD and death within 3 years, with good model performance in internal validation. High-risk patients showed reduced survival. Conclusion Higher IINS correlates with poor 3-year prognosis. Given the limitations of the retrospective, single-center design, the absence of a non-immunotherapy control group, and the failure to adjust for certain key confounding factors, the above conclusions should be regarded as preliminary, hypothesis-generating findings that require external validation through prospective, multicenter studies.",
+    "abstract": "Objective This study preliminarily evaluated the prognostic value of the inflammation-immunity-nutrition score (IINS) in advanced NSCLC patients receiving first-line immunotherapy. Methods This retrospective, single-center study enrolled 212 patients. Patients were categorized into the death group, survival group, progressive disease (PD) group, and non-PD (N-PD) group. Prognosis analysis employed Cox regression, Kaplan-Meier (KM) survival curves, and ROC curves. Internal validation was performed using the Bootstrap method and a 10-fold cross-validation approach, and calibration curves were plotted. Results High IINS was associated with poorly differentiated tumors, stage IV disease, and ≥2 metastases. Patients with PD or death had significantly higher IINS. After adjusting for available confounding factors, a higher IINS remained associated with PD and death. IINS may aid in prognostic assessment of PD and death within 3 years, with good model performance in internal validation. High-risk patients showed reduced survival. Conclusion High IINS is associated with a poor 3-year prognosis; however, due to the retrospective, single-center design, the conclusions are only preliminary hypotheses and require external validation through prospective, multicenter studies.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 연구는 암 치료에 사용되는 첫 번째 선제 항체 치료를 받는 중기 비소세포 폐암 환자들의 IINS 점수와 생존 예측 능력에 대해 평가하고자 합니다.",
@@ -630,7 +724,7 @@
     "authors": "Chakraborty A, Rana AS, Mukherjee K, Tung KS, Jena P, Chattopadhyay S.",
     "doi": "10.2147/jir.s653766",
     "pmid": "43048652",
-    "pmcid": "",
+    "pmcid": "PMC13776813",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43048652/",
     "abstract": "The inflammatory process is a fundamentally conserved component of host defense, naturally intended to eliminate pathogens and repair damaged tissue. However, unresolved, persistent inflammation triggers immune regulatory pathways which attempt to maintain homeostasis by suppressing immune cell activities. Hence, the intended protective aspect of inflammatory response is gradually subverted into a state of compromised host immunity. While chronic inflammation directly promotes tumor initiation, progression, metastasis, and therapeutic resistance, the resulting inflammation induced immune suppression further facilitates cancer progression by evading immune surveillance. Tumor cells, surrounding stromal cells, infiltrating immune cells, and metabolic mediators generate continuous inflammatory signals which can activate interconnected signaling pathways involving NF-κB, STAT3, mTOR etc. These pathways promote the recruitment and functional activation of specialized immunosuppressive cell types, including myeloid-derived suppressor cells (MDSCs), tumor-associated macrophages (TAMs), regulatory T cells (Tregs), regulatory B cells (Bregs), and neutrophils. Chronic inflammation also contributes to T cell exhaustion, the upregulation of immune checkpoints, and metabolic competition, all of which hinder effective antitumor immunity. Advanced technological approaches using relevant preclinical models have started to reveal the complex nature of suppressive immune cell populations, their development, and expose previously unrecognized therapeutic targets. Here, the role of different suppressive immune and non-immune cells, pathways, and key mediators that are induced under inflammation and coordinatively generate and maintain an immunosuppressive state in cancer has been extensively discussed. Furthermore, the therapeutic possibilities of targeting these interconnected mechanisms for improving antitumor immunity and its related challenges have been reviewed. This overview of inflammation-driven immune-suppression may be further relevant for the understanding and management of other related immune disorders.",
     "summary": "초록 기반 요약",
@@ -1010,7 +1104,7 @@
     "authors": "Povo-Retana A, Ruiz-Navarro J, Fernández-Frías L, Alvarez-Lucena C, Landauro-Vera R, Izquierdo M, Boscá L.",
     "doi": "10.3390/ijms27219930",
     "pmid": "43028174",
-    "pmcid": "",
+    "pmcid": "PMC13763918",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43028174/",
     "abstract": "Understanding the interplay between immune and stromal cells in the tumor microenvironment is essential for developing effective cancer therapies and preventing relapses. In this review, starting with the basics of tumor immunology and a historical review from cancer chemotherapy to current immunotherapy, in the context of precision medicine, we focus on immunotherapies based on genetically modified macrophages, and chimeric T-cell antigen receptor (CAR), highlighting the similarities and differences between TCR-endogenous signaling and CART-dependent signaling at the immune synapse, presenting all the generations that have been developed briefly, followed by NK cell-dependent CAR therapeutic approaches where a comparison is established, analyzing their respective advantages and drawbacks. Targeting the tumor-immune microenvironment has become central to cancer treatment, with combinatorial therapies applied and assessed as a feasible strategy for this complex group of diverse pathologies. In this context, modulating the immune synapse, rewiring immune cell metabolism, and developing genetically engineered immune cells have emerged as promising approaches that open novel avenues for treating and managing cancer patients. This review offers a holistic, historical view of state-of-the-art molecular approaches, along with insights into future perspectives and current limitations of the technologies supporting immunotherapy in molecular oncology.",
     "summary": "초록 기반 요약",
@@ -1176,6 +1270,20 @@
     }
   },
   {
+    "id": "doi:10.3389/fcell.2026.1982293",
+    "title": "Rewiring immune cell death in ovarian cancer: pyroptosis, apoptosis, and the immunosuppressive microenvironment.",
+    "topic": "Immunity",
+    "date": "2026-11-04",
+    "journal": "",
+    "authors": "Zhu H, Kang L, Shen L.",
+    "doi": "10.3389/fcell.2026.1982293",
+    "pmid": "43054258",
+    "pmcid": "PMC13778387",
+    "url": "https://europepmc.org/articles/PMC13778387",
+    "abstract": "Ovarian cancer remains the most lethal gynecological malignancy, in large part because of its highly immunosuppressive tumor microenvironment (TME) and limited responsiveness to current immunotherapies. Emerging evidence indicates that programmed cell death of immune cells is an important determinant of immune dysfunction, tumor immune escape, and therapeutic resistance. Among these processes, apoptosis and pyroptosis exert distinct but interconnected effects on antitumor immunity. Excessive apoptosis contributes to the depletion of cytotoxic T cells and natural killer (NK) cells, whereas apoptosis-resistant tumor-associated macrophages (TAMs) and other immunosuppressive populations can persist and sustain immune suppression. In contrast, pyroptosis is highly context dependent: controlled activation may enhance antitumor immunity through gasdermin-mediated membrane permeabilization, inflammatory cytokine release, dendritic cell (DC) activation, and improved antigen presentation, whereas excessive or persistent pyroptotic signaling may promote chronic inflammation and recruitment of immunosuppressive myeloid cells. Importantly, apoptosis and pyroptosis are interconnected through shared regulatory nodes, including caspase-8, gasdermin proteins, mitochondrial stress, and inflammatory signaling pathways. This review summarizes the characteristics, key signaling pathways, and functional consequences of pyroptosis and apoptosis in major immune-cell populations within the ovarian cancer microenvironment, with particular emphasis on their context-dependent roles in tumor immune evasion and on opportunities to overcome immunosuppression and improve immunotherapy.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.1093/protein/gzag033",
     "title": "EvoSeq-ML: Advancing Data-Centric Machine Learning with Evolutionary-Informed Protein Sequence Representation and Generation.",
     "topic": "Protein",
@@ -1338,7 +1446,7 @@
     "authors": "Xiao Y, Lan S, Dai Y, Liu X, Huang C, Yang C, Wang Z, Zou L.",
     "doi": "10.3390/molecules31213965",
     "pmid": "43029278",
-    "pmcid": "",
+    "pmcid": "PMC13765510",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43029278/",
     "abstract": "Tumor metabolic reprogramming contributes to an immunosuppressive microenvironment and limits the efficacy of cancer immunotherapy. Natural products can regulate multiple metabolic pathways, but their therapeutic application is often restricted by poor bioavailability and insufficient tumor exposure. Nanomedicine offers a means to overcome these limitations while enabling more selective metabolic intervention. This review examines how natural product nanomedicines remodel tumor immunometabolism and influence antitumor immunity. Current evidence shows that these nanomedicines can regulate glucose and lactate metabolism, lipid and amino acid-associated metabolism, and mitochondrial/redox homeostasis. Such metabolic remodeling has been associated with improved CD8 + T-cell activity, altered immunosuppressive immune populations, induction of immunogenic cell death, and improved responses to immune checkpoint blockade in selected studies. However, causal links between metabolic regulation and immune remodeling remain insufficiently defined, and metabolic interventions may exert distinct effects across tumor and immune cell populations. Future studies should emphasize cell-specific targeting, direct assessment of metabolic target engagement, and pharmacokinetic-pharmacodynamic relationships. Natural product nanomedicines therefore represent a promising platform for integrating metabolic intervention with cancer immunotherapy.",
     "summary": "초록 기반 요약"
@@ -1424,7 +1532,7 @@
     "authors": "Balachandar S, Xia SW, Hooper MJ, Guitart J, Burns MB, Zhou XA.",
     "doi": "10.3389/fimmu.2026.2008733",
     "pmid": "43041731",
-    "pmcid": "",
+    "pmcid": "PMC13771696",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43041731/",
     "abstract": "The gut microbiome is a critical regulator of systemic immunity that influences cancer development, therapeutic response, and immune homeostasis beyond the gastrointestinal tract. Although microbiome research has largely focused on solid tumors and immune checkpoint blockade, growing evidence indicates intestinal microorganisms also shape hematologic malignancies through effects on microbial metabolism, epithelial barrier integrity, immune cell differentiation, and inflammatory signaling. Cutaneous T-cell lymphoma (CTCL) represents a uniquely informative model to investigate these interactions: CTCL is characterized by chronic skin inflammation, progressive barrier dysfunction, systemic immune dysregulation, and skin microbial alterations, and can be longitudinally sampled via ready microbial reservoirs from tumors, blood, stool, and skin. Recent studies have demonstrated CTCL patients harbor gut microbiota with reduced diversity, depleted short-chain fatty acid (SCFA)-producing commensals, and altered microbial metabolic pathways. Associations between intestinal dysbiosis, disease severity, and therapeutic response have been made, alongside evidence linking skin microbial dysbiosis to malignant T-cell proliferation. These findings support a model in which intestinal and cutaneous microbial ecosystems cooperate to shape systemic antitumor immunity through a gut-skin-tumor axis. Microbial metabolites, including SCFAs and tryptophan-derived metabolites, may represent key mediators connecting gut dysbiosis with immune dysfunction and tumor progression. This review synthesizes current evidence regarding the gut microbiome in CTCL within the broader context of cancer immunology, hematologic malignancies, and the gut-skin axis. We discuss mechanisms linking intestinal dysbiosis with malignant T-cell biology, highlight opportunities for integrating microbiome research with multi-omic technologies, and propose future directions for microbiome-based biomarkers and therapeutic interventions to enhance antitumor immunity in CTCL.",
     "summary": "초록 기반 요약"
@@ -1579,6 +1687,48 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42992877/",
     "abstract": "Proteomics is the large-scale study of proteins. Mass spectrometry (MS) is one of the most informative techniques for analyzing proteins. Proteomics-based MS examines biological changes in diseases. It also identifies potential biomarker candidates in early disease stages, enabling the diagnosis, prognosis, and evaluation of therapeutic efficacy. Developing efficient and high-throughput proteomics techniques enables comprehensive exploration of the human plasma proteome. In this study, we compared the performance of various MS instruments and software tools for analyzing data-independent acquisition plasma proteomics data. We employed a \"mixed species\" approach, spiking three different amounts of Escherichia coliproteins into a constant amount of human plasma proteins to evaluate various LC-MS run length and data analysis workflows (DIA-NN and Spectronaut) for their ability to detect differential abundance. Assessing the power of the method to detect differences provides a more informative evaluation of workflow performance than relying solely on CVs. Our research shows that the ZenoTOF 7600 MS workflow, combined with DIA-NN in library mode, was most effective at detecting true-positive changes in protein abundance in our spiked samples. DIA-NN in library mode using the 21 min gradient method outperformed Spectronaut in detecting true-positive change. These results hold promise for detecting differentially abundant proteins in plasma.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/mrd.70156",
+    "title": "Single-Embryo Proteomics Reveals the Impact of Bovine Oviductal Spheroids on Individual Blastocyst Proteomes.",
+    "topic": "Protein",
+    "date": "2026-11-01",
+    "journal": "",
+    "authors": "Mahé C, Tomas D, Labas V, Souza-Fabjan JMG, Saint-Dizier M.",
+    "doi": "10.1002/mrd.70156",
+    "pmid": "43035000",
+    "pmcid": "PMC13770501",
+    "url": "https://europepmc.org/articles/PMC13770501",
+    "abstract": "Our objective was to highlight the potential of single-embryo proteomics for studying embryo-maternal interactions. Single bovine blastocysts were analyzed by nanoLC-MS/MS after co-culture or not (controls) with isthmic epithelial spheroids (IES) for 5 days. A total of 3326 proteins were identified, among which 782 were differentially abundant following IES exposure. Notably, 617 DAPs (79%) were overabundant compared to controls, including 45 predicted to be secreted by IES and potentially internalized by embryos. This work provides a new methodology for studying embryo-oviduct interactions while accounting for individual embryonic responses.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1093/hmg/ddag124",
+    "title": "Targeted antisense oligonucleotide mediated exon skipping therapies for a recurrent CEP290 mutation.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-01",
+    "journal": "",
+    "authors": "Dewhurst RM, Collins C, Dhondurao Sudhindar P, Neatu R, Devlin LA, Arcila-Galvis JE, Pillai J, Belga Ottoni Porto F, Sayer JA.",
+    "doi": "10.1093/hmg/ddag124",
+    "pmid": "43062977",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43062977/",
+    "abstract": "Joubert Syndrome (JBTS) is a ciliopathy and disease-causing variants in CEP290 are the leading cause of JBTS presenting with cerebello-retinal-renal phenotypes. We investigated a Brazilian child with JBTS and compound heterozygous variants in CEP290. Using patient derived fibroblasts, we characterised the c.6271-8T>G intron 46 splice site allele using RT-PCR, confirming it led to a 7 bp intronic inclusion leading to a frameshift and downstream nonsense variant p.(Asn2091Leufs*12). Patient fibroblasts displayed elongated and tortuous primary cilia and a decreased primary ciliation rate. We reviewed other Brazilian cohorts where the CEP290 c.6271-8T>G allele had been reported in homozygosity or in compound heterozygosity with a second pathogenic variant. Phenotypes associated with this allele included Leber congenital amaurosis, nephronophthisis and JBTS. Finally, we used antisense oligonucleotide (ASO) mediated exon skipping of exon 46, an 87 base pair exon which if skipped is not predicted to disrupt reading frame or CEP290 protein structure, in patient fibroblasts to rescue ciliary phenotypes and CEP290 protein expression at ciliary the transition zone. These findings confirm that the CEP290 c.6271-8T>G is a pathogenic splice-site variant and pathogenic alleles within or disrupting exon 46 splicing including c.6271-8T>G are amenable to targeted ASO mediated exon skipping as a future therapeutic strategy.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.molcel.2026.10.032",
+    "title": "When two become one: Chimeric RNAs regulating innate immunity.",
+    "topic": "Immunity",
+    "date": "2026-11-01",
+    "journal": "",
+    "authors": "El Farran CA, Kanneganti TD.",
+    "doi": "10.1016/j.molcel.2026.10.032",
+    "pmid": "43057210",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43057210/",
+    "abstract": "Venezia et al. 1 identified an inflammation-induced chimeric RNA that encodes a protein that regulates innate immune cell death by stabilizing gasdermin D (GSDMD) membrane pores to promote rapid cytokine release, which not only drives antibacterial defense but also exacerbates inflammatory pathology; these findings establish a functional role for chimeric RNAs in innate immunity.",
     "summary": "초록 기반 요약"
   },
   {
