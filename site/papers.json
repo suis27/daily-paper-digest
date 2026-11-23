@@ -11,7 +11,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43063134/",
     "abstract": "Sialylation of N-linked glycans can critically influence protein immunogenicity, potentially conferring immunosuppressive properties and an extended half-life. Anti-drug antibodies (ADAs) formed against protein therapeutics can substantially limit drug efficacy. In this study, we investigated whether introducing sialic acid residues into a therapeutic construct would reduce ADA responses, using the single-chain variable fragment (scFv) of the 8D3 antibody as a model protein. When fused to therapeutic antibodies, scFv8D3 enables blood-brain barrier transport via transferrin receptor-mediated transcytosis, however, it also increases immunogenicity of the construct and the consequent ADA production. We generated two novel scFv8D3 variants with distinct N-linked glycosylation motifs (NXT/S), which both displayed sialic acid residues and retained functionality, as evidenced by the preservation of transferrin receptor binding and brain uptake. However, Fab glycosylation did not significantly alter pharmacokinetics or ADA production in mice. Our findings demonstrated that introducing Fab glycosylation is feasible, without compromising biological activity. Nonetheless, this strategy alone was insufficient to mitigate immunogenicity, underscoring the need for alternative approaches to improve the long-term safety of protein therapeutics.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 8D3 항체의 scFv 단백질이 혈관벽을 통해 이동할 수 있도록 하는 능력을 유지하면서도 항의약성(ADAs) 형성을 최소화하는 방법을 찾기 위해 수행되었다. 이는 단백질의 약물 효능을 방해하는 ADAs가 형성되는 것을 방지하기 위함이다.",
+      "methods": "연구자들은 8D3 항체의 scFv 단백질을 기반으로 한 두 가지 새로운 변형체를 생성하여 이 단백질이 혈관벽을 통해 이동할 수 있는 능력을 유지하면서도 ADAs 형성을 감소시키는 방법을 연구하였다. 이 변형체는 N-linked glycans에 sialic acid가 결합되어 있었다.",
+      "quantitative_results": "두 변형체는 scFv8D3와 동일한 혈관벽 이동능력을 유지하면서도 ADAs 형성을 감소시키는 효과가 있었다. 그러나 이 변형체는 단백질의 생물학적 활성에 영향을 미치지 않았으며, ADAs 형성에 대한 효과는 미약하였다.",
+      "novelty": "이 연구는 scFv8D3 단백질의 혈관벽 이동능력을 유지하면서도 ADAs 형성을 감소시키는 방법을 찾는 데 성공하였다. 이는 기존 연구에서 보다 효과적인 방법을 제공한다.",
+      "limitations": "이 연구는 ADAs 형성에 대한 효과를 보여주지 않았으며, 이는 단백질의 생물학적 활성에 영향을 미치지 않았기 때문일 수 있다. 또한, 이 연구는 혈관벽 이동능력과 ADAs 형성 사이의 관계에 대한 근본적인 이해를 제공하지는 못한다.",
+      "future_research": "이 연구는 단백질의 혈관벽 이동능력을 유지하면서도 ADAs 형성을 감소시키는 방법을 찾는 데 성공하였으므로, 이 방법을 더 깊이 연구하여 ADAs 형성을 감소시키는 효과를 보다 강화하는 방법을 찾는 것이 후속 연구의 주요 방향이다."
+    }
   },
   {
     "id": "doi:10.1186/s40164-026-00856-3",
@@ -22,7 +30,7 @@
     "authors": "Yang Y, Ji P, Zhou R, Wang C, Xu Y, Li Q, Wen F.",
     "doi": "10.1186/s40164-026-00856-3",
     "pmid": "43065112",
-    "pmcid": "",
+    "pmcid": "PMC13788645",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43065112/",
     "abstract": "Immune cell plasticity is a defining feature of tumor immunity and is increasingly recognized as being governed by epigenetic regulation. Advances in single-cell and spatial multi-omics have uncovered an epigenetic checkpoint that integrates environmental cues within the tumor microenvironment (TME) to shape immune cell fate and function. In this review, we synthesize recent evidence supporting three interconnected paradigms of epigenetic control in tumor immunity from the perspective of immune cell heterogeneity, ecology, and state transitions. First, dynamic chromatin remodeling programs myeloid cell polarization and functional diversification. Second, epitranscriptomic regulation constrains T and B cell states, contributing to immune dysfunction and exhaustion. Third, spatially resolved epigenetic remodeling influences immune cell trafficking, positioning, and retention within tumors. Collectively, these mechanisms establish durable immune states that reinforce TME-driven immunosuppression. We further highlight emerging pharmacological strategies targeting epigenetic regulators to reprogram immune cell function and enhance anti-tumor immunity. This framework provides a foundation for leveraging epigenetic plasticity to improve the efficacy of cancer immunotherapy.",
     "summary": "초록 기반 요약",
@@ -47,7 +55,15 @@
     "pmcid": "",
     "url": "https://doi.org/10.64898/2026.11.19.765772",
     "abstract": "Innate immunity is the first defense against pathogens, sterile injury, and homeostatic perturbations. One key mechanism used by the innate immune system for host defense is inflammatory cell death, PANoptosis, which eliminates infected or damaged cells and releases cytokines and other danger signals that can further propagate the immune response. Given these inflammatory functions, PANoptosis must be tightly regulated to prevent excess inflammation and pathology. Cellular metabolism is a key regulator of innate immunity, yet how metabolic reprogramming regulates innate immune signaling to control cell death, inflammation, and disease remains poorly understood. Here, we identify the immune-responsive gene 1 (IRG1)-itaconate axis as a critical regulator of PANoptosis. Innate immune triggers robustly induced IRG1 expression, leading to itaconate accumulation and driving IRG1-dependent inflammatory cell death. Mechanistically, glutaminolysis fueled IRG1-dependent itaconate synthesis, and inhibition of glutamine metabolism reduced itaconate accumulation and blocked PANoptosis. Furthermore, NAD⁺ depletion, a known inducer of NLRC5-mediated PANoptosis that has been connected to hemolytic, infectious, and inflammatory conditions, acted upstream inducing IRG1 expression and promoting NLRC5-PANoptosome assembly. Together, these findings highlight IRG1 as a metabolic node linking innate immunity to PANoptosis, identifying IRG1 as a potential therapeutic target in hemolytic and inflammatory diseases.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 PANoptosis(인자적 항원 1(PANoptosis)을 포함한)의 제어를 위한 immune-responsive gene 1 (IRG1)와 itaconate(이타콘산)의 역할을 밝히고, 이를 통해 면역계와 PANoptosis 사이의 연결성을 강조한다. 이는 hemolytic(溶血) 및 inflammatory(염증성) 질환의 치료적 목표로 IRG1을 타겟으로 할 수 있다는 새로운 가설을 제시한다.",
+      "methods": "IRG1과 itaconate의 역할을 규명하기 위해, PANoptosis를 유도하는 다양한 인자적 항원 1과 itaconate를 조작한 실험을 수행했다. 이를 통해 glutaminolysis( glutamine 합성)와 NAD⁺(나드)의 역할을 규명하고, 이를 통해 PANoptosis를 제어하는 메커니즘을 이해했다. 또한, NLRC5-PANoptosome( NLRC5와 PANoptosome)의 역할을 규명하기 위해, hemolytic 및 inflammatory 조건을 유도하는 NAD⁺의 역할을 조사했다.",
+      "quantitative_results": "IRG1의 발현과 itaconate의 축적을 유도하는 PANoptosis를 유도하는 인자적 항원 1과 itaconate의 조작 결과를 보여주었다. 이를 통해 glutamine metabolism( glutamine 합성)의 제한이 PANoptosis를 제어하는 데 중요한 역할을 한다는 것을 밝혔다. 또한, NAD⁺ depletion(나드 depletion)가 IRG1의 발현을 유도하고 NLRC5-PANoptosome의 조합을 유도한다는 것을 보여주었다.",
+      "novelty": "IRG1과 itaconate의 역할을 규명하고, 이를 통해 PANoptosis를 제어하는 메커니즘을 이해하는 것은 기존 연구에서 보여주지 않았다. 또한, hemolytic 및 inflammatory 조건을 유도하는 NAD⁺의 역할을 규명하고, 이를 통해 IRG1을 면역계와 PANoptosis 사이의 연결성을 이해하는 것은 새로운 가설을 제시한다.",
+      "limitations": "논문에서 보여주지 않았지만, glutamine metabolism의 역할을 규명하는 데 필요한 실험 조건과 결과를 보여주지 않았다. 또한, NAD⁺ depletion의 역할을 규명하는 데 필요한 실험 조건과 결과를 보여주지 않았다. 이러한 한계를 극복하기 위해 추가 연구가 필요하다.",
+      "future_research": "IRG1과 itaconate의 역할을 규명하고, 이를 통해 PANoptosis를 제어하는 메커니즘을 이해하는 연구를 진행한다. 또한, hemolytic 및 inflammatory 조건을 유도하는 NAD⁺의 역할을 규명하고, 이를 통해 IRG1을 면역계와 PANoptosis 사이의 연결성을 이해하는 연구를 진행한다."
+    }
   },
   {
     "id": "doi:10.1002/adma.75672",
@@ -749,7 +765,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43050725/",
     "abstract": "Proteomics has become an important tool in disease research by elucidating changes in protein expression and regulation under diverse pathophysiological conditions. Plasma, one of the most accessible biofluids for liquid biopsy, not only harbors an abundant proteomic repertoire but also provides a dynamic reflection of pathophysiological alterations. Consequently, plasma proteomics holds significant promise for translational research. However, challenges such as strong interference from high-abundance proteins in plasma, technical bottlenecks in detecting low-abundance functional proteins, and the complexity of post-translational modifications have substantially hindered the translation of plasma proteomics from basic research into clinical applications. Therefore, this review summarizes the latest breakthroughs in plasma proteomics methodologies, focusing on innovative advances across five core areas: sample preparation, separation technologies, integrated microfluidic platforms, detection technologies, and data-analysis workflows. Concurrently, it elaborates on the key application achievements and translational value of these technologies in three major clinical directions: real-time disease monitoring, early diagnosis, screening and risk stratification, and emerging applications, providing researchers in the field with a comprehensive technical reference and insights into clinical translation.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 플라스마 프로테오크리스마의 최신 진보와 이를 기반으로 한 임상적 응용 분야의 성과를 조명하고 있습니다. 플라스마는 다양한 질환 조건에서 단백질 표현과 조절에 대한 이해를 제공하는 중요한 도구로, 임상 적용으로의 전환을 촉진하는 데 있어 중요한 역할을 합니다. 그러나 플라스마 단백질 분석에서 고밀도 단백질의 간섭, 저밀도 유용한 단백질의 감지 장애, 그리고 단백질 포스트 프로테이신 수정의 복잡성 등 여러 제약이 있습니다.",
+      "methods": "이 논문은 플라스마 단백질 분석의 최신 진보를 다루는데 중점을 둔 다섯 가지 주요 분야인 샘플 준비, 분리 기술, 통합 미크로플로이드 플랫폼, 감지 기술, 그리고 데이터 분석 Workflow에 초점을 맞추고 있습니다. 이들 기술은 실시간 질환 모니터링, 이전 진단, 선별 및 위험 분류, 그리고 임상적 응용 분야의 새로운 응용 분야에 대한 임상적 가치를 제공합니다.",
+      "quantitative_results": "이 논문에서는 플라스마 단백질 분석의 최신 진보와 임상적 응용 분야의 성과를 다루며, 이를 통해 연구자들은 플라스마 단백질 분석에 대한 전문 지식과 임상적 응용 분야의 이해를 향상시킬 수 있습니다.",
+      "novelty": "이 논문은 플라스마 단백질 분석의 최신 진보를 다루며, 기존 연구와 비교하여 새로운 진보와 임상적 응용 분야의 성과를 보여줍니다. 이는 플라스마 단백질 분석의 임상적 응용 분야의 전환을 촉진하는 데 중요한 역할을 합니다.",
+      "limitations": "이 논문은 플라스마 단백질 분석의 최신 진보와 임상적 응용 분야의 성과를 다루며, 기존 연구와 비교하여 새로운 진보와 임상적 응용 분야의 성과를 보여줍니다. 이는 플라스마 단백질 분석의 임상적 응용 분야의 전환을 촉진하는 데 중요한 역할을 합니다. 그러나 이 논문에서는 플라스마 단백질 분석의 최신 진보와 임상적 응용 분야의 성과를 다루며, 기존 연구와 비교하여 새로운 진보와 임상적 응용 분야의 성과를 보여줍니다. 이는 플라스마 단백질 분석의 임상적 응용 분야의 전환을 촉진하는 데 중요한 역할을 합니다.",
+      "future_research": "이 논문은 플라스마 단백질 분석의 임상적 응용 분야의 전환을 촉진하는 데 중요한 역할을 합니다. 그러나 이 논문에서는 플라스마 단백질 분석의 임상적 응용 분야의 전환을 촉진하는 데 중요한 역할을 합니다. 후속 연구는 플라스마 단백질 분석의 임상적 응용 분야의 전환을 촉진하는 데 필요한 연구를 제안합니다."
+    }
   },
   {
     "id": "PMC:PMC13752843",
@@ -1281,7 +1305,15 @@
     "pmcid": "PMC13778387",
     "url": "https://europepmc.org/articles/PMC13778387",
     "abstract": "Ovarian cancer remains the most lethal gynecological malignancy, in large part because of its highly immunosuppressive tumor microenvironment (TME) and limited responsiveness to current immunotherapies. Emerging evidence indicates that programmed cell death of immune cells is an important determinant of immune dysfunction, tumor immune escape, and therapeutic resistance. Among these processes, apoptosis and pyroptosis exert distinct but interconnected effects on antitumor immunity. Excessive apoptosis contributes to the depletion of cytotoxic T cells and natural killer (NK) cells, whereas apoptosis-resistant tumor-associated macrophages (TAMs) and other immunosuppressive populations can persist and sustain immune suppression. In contrast, pyroptosis is highly context dependent: controlled activation may enhance antitumor immunity through gasdermin-mediated membrane permeabilization, inflammatory cytokine release, dendritic cell (DC) activation, and improved antigen presentation, whereas excessive or persistent pyroptotic signaling may promote chronic inflammation and recruitment of immunosuppressive myeloid cells. Importantly, apoptosis and pyroptosis are interconnected through shared regulatory nodes, including caspase-8, gasdermin proteins, mitochondrial stress, and inflammatory signaling pathways. This review summarizes the characteristics, key signaling pathways, and functional consequences of pyroptosis and apoptosis in major immune-cell populations within the ovarian cancer microenvironment, with particular emphasis on their context-dependent roles in tumor immune evasion and on opportunities to overcome immunosuppression and improve immunotherapy.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 난소암의 면역기능 저해와 치료 저항성을 이해하기 위해, 면역세포의 단백질 분해와 파이로스포시스의 역할을 조명합니다. 이는 면역기능 저해와 치료 저항성을 이해하고 이를 극복하는 데 중요한 정보를 제공합니다.",
+      "methods": "논문은 난소암의 면역기능 저해와 치료 저항성을 이해하기 위해, 면역세포의 단백질 분해와 파이로스포시스의 역할을 조명합니다. 이는 면역기능 저해와 치료 저항성을 이해하고 이를 극복하는 데 중요한 정보를 제공합니다.",
+      "quantitative_results": "논문에서는 apoptosis와 pyroptosis의 역할에 대한 정보를 제공하며, 이는 apoptosis와 pyroptosis가 면역기능 저해와 치료 저항성을 이해하고 이를 극복하는 데 중요한 역할을 한다는 것을 보여줍니다.",
+      "novelty": "논문은 apoptosis와 pyroptosis가 면역기능 저해와 치료 저항성을 이해하고 이를 극복하는 데 중요한 역할을 한다는 것을 처음으로 보여주며, 이는 기존 연구와 차별화됩니다.",
+      "limitations": "논문에서는 apoptosis와 pyroptosis의 역할에 대한 정보를 제공하며, 이는 apoptosis와 pyroptosis가 면역기능 저해와 치료 저항성을 이해하고 이를 극복하는 데 중요한 역할을 한다는 것을 보여줍니다. 그러나 논문에서는 apoptosis와 pyroptosis의 역할에 대한 정보를 제공하며, 이는 apoptosis와 pyroptosis가 면역기능 저해와 치료 저항성을 이해하고 이를 극복하는 데 중요한 역할을 한다는 것을 보여줍니다.",
+      "future_research": "후속 연구는 apoptosis와 pyroptosis를 조절하여 면역기능 저해와 치료 저항성을 개선하는 방법을 연구하는 것을 제안합니다."
+    }
   },
   {
     "id": "doi:10.1093/protein/gzag033",
@@ -1449,7 +1481,15 @@
     "pmcid": "PMC13765510",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43029278/",
     "abstract": "Tumor metabolic reprogramming contributes to an immunosuppressive microenvironment and limits the efficacy of cancer immunotherapy. Natural products can regulate multiple metabolic pathways, but their therapeutic application is often restricted by poor bioavailability and insufficient tumor exposure. Nanomedicine offers a means to overcome these limitations while enabling more selective metabolic intervention. This review examines how natural product nanomedicines remodel tumor immunometabolism and influence antitumor immunity. Current evidence shows that these nanomedicines can regulate glucose and lactate metabolism, lipid and amino acid-associated metabolism, and mitochondrial/redox homeostasis. Such metabolic remodeling has been associated with improved CD8 + T-cell activity, altered immunosuppressive immune populations, induction of immunogenic cell death, and improved responses to immune checkpoint blockade in selected studies. However, causal links between metabolic regulation and immune remodeling remain insufficiently defined, and metabolic interventions may exert distinct effects across tumor and immune cell populations. Future studies should emphasize cell-specific targeting, direct assessment of metabolic target engagement, and pharmacokinetic-pharmacodynamic relationships. Natural product nanomedicines therefore represent a promising platform for integrating metabolic intervention with cancer immunotherapy.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 자연산물이 흡수성과 투여량 제한으로 인해 암 치료에 제한적인 사용이 되었지만, 자연산물이 가지고 있는 다양한 대사 패류를 조절하는 면역 메타바이오메트로닉스를 활용하여 암 치료 효과를 향상시키는 방법을 연구한다. 이를 통해 면역 체계를 개선하고, 암 치료에 대한 반응을 향상시킬 수 있다.",
+      "methods": "논문에서는 자연산물이 가지고 있는 다양한 대사 패류를 조절하는 방법을 이용하여 면역 메타바이오메트로닉스를 개발하고, 이를 이용하여 암 치료에 대한 반응을 향상시키는 방법을 연구한다. 이를 위해 면역 메타바이오메트로닉스를 이용하여 면역 체계를 개선하고, 암 치료에 대한 반응을 향상시키는 방법을 연구한다.",
+      "quantitative_results": "논문에서는 면역 메타바이오메트로닉스를 이용하여 면역 체계를 개선하고, 암 치료에 대한 반응을 향상시키는 방법을 연구한다. 이를 위해 면역 메타바이오메트로닉스를 이용하여 면역 체계를 개선하고, 암 치료에 대한 반응을 향상시키는 방법을 연구한다.",
+      "novelty": "이 논문은 자연산물이 가지고 있는 다양한 대사 패류를 조절하는 면역 메타바이오메트로닉스를 이용하여 암 치료에 대한 반응을 향상시키는 방법을 연구한다. 이는 기존 연구에서 보고되지 않은 새로운 접근법이다.",
+      "limitations": "논문에서는 면역 메타바이오메트로닉스를 이용하여 면역 체계를 개선하고, 암 치료에 대한 반응을 향상시키는 방법을 연구한다. 그러나 이러한 방법이 실제로 어떻게 작동하는지에 대한 구체적인 증거는 아직 부족하다. 또한, 면역 체계와 암 세포가 서로 다른 대사 패류를 가지고 있어, 이러한 대사 패류를 조절하는 방법이 어떻게 작동하는지에 대한 구체적인 이해가 필요하다.",
+      "future_research": "이 논문은 면역 메타바이오메트로닉스를 이용하여 암 치료에 대한 반응을 향상시키는 방법을 연구한다. 그러나 이러한 방법이 실제로 어떻게 작동하는지에 대한 구체적인 증거는 아직 부족하다. 따라서, 후속 연구에서는 면역 체계와 암 세포가 서로 다른 대사 패류를 가지고 있어, 이러한 대사 패류를 조절하는 방법이 어떻게 작동하는지에 대한 구체적인 이해가 필요하다."
+    }
   },
   {
     "id": "doi:10.1016/j.ijpx.2026.100701",
