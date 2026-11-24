@@ -1,5 +1,55 @@
 [
   {
+    "id": "PMC:PMC13786015",
+    "title": "Engineering endolysins as antibacterial biologics: protein engineering design strategies and trade-offs",
+    "topic": "Protein",
+    "date": "2026-11-23",
+    "journal": "",
+    "authors": "Saha S, Barkó S, Kirtania P, Bhowmik P.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13786015",
+    "url": "https://europepmc.org/articles/PMC13786015",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/advs.78675",
+    "title": "The Lysine Metabolism-Protein Modification Axis in Tumor Immunity.",
+    "topic": "Immunity",
+    "date": "2026-11-22",
+    "journal": "",
+    "authors": "Liu S, Xu Y, Li X, Yuan Q, Wu G.",
+    "doi": "10.1002/advs.78675",
+    "pmid": "43068881",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068881/",
+    "abstract": "The metabolic-epigenetic-immune tripartite regulatory network within the tumor immune microenvironment (TIME) serves as a central hub governing tumor immune evasion and therapeutic response. Long regarded merely as an essential nutritional substrate, lysine has now emerged as a pivotal signaling molecule bridging metabolic reprogramming, protein post-translational modifications (PTMs), and immune cell fate determination. Tumor cells remodel immune cell function and foster an immunosuppressive microenvironment via three coordinated mechanisms: hijacking lysine transport, rewiring lysine catabolic metabolism, and disrupting acylation and methylation modifications at lysine residues. Herein, we propose a novel preclinical theoretical model coined \"lysimetaboptenation,\" which we define as lysine metabolism-modification-coupled T cell exhaustion. This review systematically delineates lysine transmembrane transport, rewired lysine catabolism, and the lysine-centered PTM regulatory network, alongside the modulatory mechanisms underlying bidirectional crosstalk between tumor cells and immune cells. We further clarify the correlations between aberrant lysine axis signaling and patient prognosis, immunotherapeutic efficacy, and treatment resistance. Additionally, we summarize translational strategies targeting lysine transporters, catabolic enzymes, lysine PTM machinery, precision nutritional interventions, and combinatorial immunometabolic regimens. Finally, we highlight outstanding scientific questions, technical bottlenecks, and cutting-edge research frontiers, aiming to furnish theoretical frameworks and innovative avenues for overcoming resistance to immunotherapy and developing precision combinatorial metabolome-immunotherapy regimens.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1016/j.mbs.2026.109863",
+    "title": "Priming anti-tumor immunity via nutritional adjuvant therapy: A mathematical modeling and virtual cohort study regarding metabolic competition.",
+    "topic": "Immunity",
+    "date": "2026-11-21",
+    "journal": "",
+    "authors": "Wang L, Li C, Liang X, Lei J.",
+    "doi": "10.1016/j.mbs.2026.109863",
+    "pmid": "43067453",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43067453/",
+    "abstract": "Although immunotherapy has revolutionized cancer treatment, its efficacy is frequently constrained by the metabolically hostile tumor microenvironment (TME). An important contributor is competition for shared nutrients between rapidly proliferating tumor cells and metabolically active immune effector cells. We investigated how nutritional intervention modulates this competition to favor antitumor immunity by developing and calibrating a tumor-immune model with dynamic nutritional regulation. Combining bifurcation analysis with simulations in a heterogeneous virtual mouse cohort, we compared different nutrient delivery strategies. The model predicts that nutritional regulation can generate bistability, making treatment outcomes sensitive to intervention timing and initial conditions. At the same cumulative dose, a larger initial nutrient input followed by gradual tapering produced better tumor control than constant infusion. The simulations suggest that the larger initial input accelerates T cell expansion, allowing the immune response to reduce tumor burden before nutrient delivery declines. This work provides a quantitative framework for studying nutritional modulation of tumor-immune dynamics and supports further investigation of temporally optimized nutrient delivery as an adjunct to cancer immunotherapy.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 암 치료를 개선하기 위해 암과 면역 세포 간의 공급 관계를 조절하는 방법을 연구하고자 합니다. 이는 암세포와 면역 세포가 공유하는 영양소를 경쟁적으로 사용하는 암세포 환경에서 면역 치료의 효율성을 향상시키는 방법을 이해하는데 중점을 둡니다.",
+      "methods": "이 연구에서는 암-면역 모델을 개발하고 동물 모델을 사용하여 다양한 영양소 공급 전략을 시뮬레이션하여 효과를 평가했습니다. 이 모델은 암세포와 면역 세포 간의 경쟁을 조절하여 암 치료의 효과를 향상시키는 방법을 예측했습니다.",
+      "quantitative_results": "모델은 초기 영양소 공급량이 크고, 그 후에 점진적으로 줄어들면 암을 효과적으로 제어하는 것이 더 효과적이라는 것을 예측했습니다. 이 결과는 암 치료의 효과가 초기 영양소 공급량과 공급 시간에 민감하다는 것을 시사합니다.",
+      "novelty": "이 연구는 암 치료에서 영양소의 역할을 이해하는 데 기여하는 새로운 수준의 모델을 제시했습니다. 이 모델은 암 치료의 효과가 초기 영양소 공급량과 공급 시간에 민감하다는 것을 시사하며, 이는 기존 연구에서 확인할 수 없는 새로운 발견입니다.",
+      "limitations": "이 연구는 모델을 테스트하기 위한 동물 모델을 사용했기 때문에 실제 인간 환경에서의 적용성을 확인할 수 없습니다. 또한, 이 연구는 모델을 테스트하기 위한 동물 모델을 사용했기 때문에 실제 인간 환경에서의 적용성을 확인할 수 없습니다.",
+      "future_research": "이 연구는 암 치료에서 영양소의 역할을 이해하는 데 도움이 될 수 있습니다. 그러나 이 연구는 더 많은 실험을 통해 실제 환경에서의 효과를 확인해야 합니다. 또한, 이 연구는 암 치료에서 영양소 공급 전략을 개발하는 데 도움이 될 수 있습니다. 이 연구는 더 많은 실험을 통해 실제 환경에서의 효과를 확인해야 합니다."
+    }
+  },
+  {
     "id": "doi:10.1371/journal.pone.0355570",
     "title": "Engineered Fab glycosylation of a blood-brain barrier transporter single-chain variable fragment preserved functionality but did not impact anti-drug antibody formation.",
     "topic": "Protein",
@@ -278,6 +328,28 @@
     }
   },
   {
+    "id": "doi:10.2147/copd.s643714",
+    "title": "Research Trends in T-Cell Immune Dysregulation and Adaptive Immune Remodeling in COPD: A Multi-Database Bibliometric Analysis (2006-2026).",
+    "topic": "Immunity",
+    "date": "2026-11-18",
+    "journal": "",
+    "authors": "Yin X, Zhang F, Li X, Qiao B, Chen X, Li Q, Li Y, Xing H, Yuan J, Li J, Shen Z, Song Y, Yang Z, Wu Y.",
+    "doi": "10.2147/copd.s643714",
+    "pmid": "43069869",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43069869/",
+    "abstract": "T-cell immune dysregulation contributes to persistent inflammation, tissue injury, and COPD progression, but research on T-cell dysfunction and adaptive immune remodeling remains insufficiently characterized. This study mapped publication trends, collaboration networks, the knowledge base, and emerging topics from 2006 to 2026. Publications from January 1, 2006, to May 31, 2026, were retrieved from the Web of Science Core Collection (WoSCC) and Scopus. Data for 2026 include publications through May 31 only and do not represent a complete calendar year. The search combined COPD-related terms, T-cell and major subset terms, and terms related to immune dysregulation or adaptive immune remodeling. After merging, deduplication, and manual screening, 327 articles and reviews were included. Bibliometric analyses and visualizations were performed using VOSviewer, CiteSpace, R, and Microsoft Excel. COPD-related T-cell immunity research expanded, with annual publications increasing from 4 in 2006 to 31 in 2025 and a more pronounced increase observed during 2023-2025. China, the United States, and the United Kingdom were the leading contributors. The University of São Paulo had the highest output, while Shanghai Jiao Tong University and Ningxia Medical University were prominent in institutional collaboration. Principal journals were Frontiers in Immunology, International Journal of Chronic Obstructive Pulmonary Disease, and Respiratory Research. Influential references formed a knowledge base centered on chronic inflammation, impaired immune homeostasis, airway epithelial dysfunction, and innate immune activation. Core keyword themes included inflammation, T cells, smoking, and immune response; recent directions included T-cell subset imbalance, Th17/Treg dysregulation, oxidative stress, cellular senescence, and T-cell exhaustion. Within the retrieved literature, keyword analyses identified research attention to T-cell subset imbalance, oxidative stress, senescence, and exhaustion. These patterns are influenced by the predefined search terms and database coverage and may guide further investigation of T-cell dysfunction in COPD. chronic obstructive pulmonary disease; T cell; adaptive immunity; immune dysregulation; immune remodeling; bibliometrics; CiteSpace; VOSviewer.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 COPD 환자의 T세포 면역 불균형과 적응적 면역 재구성에 대한 연구 동향을 분석하여, 이 분야의 연구가 확대되고 있는지, 그리고 주요 연구지역과 기관, 학술지가 어디인지를 파악하고자 함을 목표로 한다.",
+      "methods": "이 연구는 2006년부터 2026년까지 웹 오브 스케이트 코어 컬렉션과 스쿠프에서 COPD와 관련된 논문을 수집하였다. 이를 통해 COPD와 관련된 T세포 면역 연구의 확대 추세, 주요 기관의 연구 활동, 학술지의 주요 위치 등을 분석하였다. 이를 위해 VOSviewer, CiteSpace, R, 그리고 Microsoft Excel을 사용하였다.",
+      "quantitative_results": "2006년부터 2025년까지 COPD와 관련된 T세포 면역 연구의 논문 수는 연간 4건에서 31건으로 증가하였고, 2023년부터 2025년까지는 더욱 뚜렷한 증가가 관찰되었다. 또한, 중국, 미국, 영국이 주요 기여자로, 소양대학교 소재 연구소가 가장 많은 연구를 수행하였으며, 상하이 교대와 Ningxia 의학 대학이 주요 협력 기관으로 분석되었다. 또한, 주요 학술지로는 국제 편지학, 국제 편지학, 그리고 편지학이 지정되었다.",
+      "novelty": "이 연구는 COPD와 관련된 T세포 면역 연구의 확대 추세를 보여주며, 이는 기존 연구보다 더 많은 논문이 출판되고 있는 것을 보여준다. 또한, 이 연구는 COPD와 관련된 T세포 면역 연구의 주요 기관과 학술지가 무엇인지에 대한 정보를 제공한다.",
+      "limitations": "이 연구는 정확한 논문 수와 논문의 출판 시점을 확인할 수 없다. 또한, 이 연구는 논문의 내용을 정확히 파악할 수 없다. 이러한 한계는 이 연구의 결과를 더 정확하게 이해하기 위해 추가 연구가 필요하다는 것을 시사한다.",
+      "future_research": "이 연구는 COPD와 관련된 T세포 면역 연구의 주요 기관과 학술지에 대한 정보를 제공하였으므로, 이에 대한 추가 연구를 제안한다. 또한, COPD와 관련된 T세포 면역 연구의 주요 주제와 최근의 연구 동향에 대한 추가 연구를 제안한다."
+    }
+  },
+  {
     "id": "doi:10.21203/rs.3.rs-11750300/v1",
     "title": "Targeting STAU1 ameliorates disease phenotypes in TDP-43 ALS mice",
     "topic": "Nucleic acids",
@@ -429,6 +501,28 @@
       "novelty": "이 연구는 태평양 식물 단백질이 탈사주물체 시스템에 사용되는 새로운 방법을 제시하며, 기존 연구와 비교하여 이 단백질이 기존의 탈사주물체 시스템에 비해 어떤 효율성을 보여줄 수 있는지에 대한 새로운 정보를 제공합니다.",
       "limitations": "이 연구는 태평양 식물 단백질이 탈사주물체 시스템에 사용되는 방법에 대한 충분한 정보를 제공하지 못했습니다. 또한, 태평양 식물 단백질이 기존의 탈사주물체 시스템에 비해 어떤 효율성을 보여줄 수 있는지에 대한 명확한 결론을 내리기 위해서는 더 많은 연구가 필요합니다. 또한, 태평양 식물 단백질이 기존의 탈사주물체 시스템에 비해 어떤 효율성을 보여줄 수 있는지에 대한 명확한 비교를 수행하기 위해서는 더 많은 연구가 필요합니다.",
       "future_research": "이 연구는 태평양 식물 단백질이 탈사주물체 시스템에 사용되는 방법에 대한 더 많은 연구가 필요하다는 것을 명확히 제시했습니다. 앞으로의 연구는 태평양 식물 단백질의 표준화된 탈사주물체 분석, 통제된 비교형태제, 그리고 탈사주물체 시스템의 구조-성질-성능 관계에 대한 체계적인 연구를 통해 태평양 식물 단백질 탈사주물체 시스템의 토크아코 팩 투여를 위한 합리적인 개발을 지원해야 합니다."
+    }
+  },
+  {
+    "id": "doi:10.2147/ijn.s652520",
+    "title": "Artificial Intelligence-Guided Precision Nanomedicine: Bridging Delivery Barriers, Controlled Release, and Clinical Translation.",
+    "topic": "Drug delivery",
+    "date": "2026-11-17",
+    "journal": "",
+    "authors": "Li M, Song Y, Feng N, Dong Y, Huang T.",
+    "doi": "10.2147/ijn.s652520",
+    "pmid": "43068073",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43068073/",
+    "abstract": "Targeted drug delivery aims to enhance therapeutic efficacy while minimizing systemic toxicity, yet its clinical translation remains limited by the unpredictable in vivo behaviour of nanocarriers. Although a broad range of nanocarrier platforms-including lipid-, polymer-, protein-, inorganic- and biomimetic-based systems-can improve drug solubility, pharmacokinetics, lesion-site accumulation and controlled release, their performance is frequently constrained by heterogeneous disease biology, insufficient tissue penetration, premature clearance, immune recognition and manufacturing variability. Artificial intelligence (AI) is emerging as a powerful strategy to address these multidimensional challenges. Machine learning, deep learning and computational modelling can support prediction of formulation-property relationships, release kinetics, nano- bio interactions, pharmacokinetics, biodistribution, toxicity and patient-specific therapeutic responses. In this Review, we propose an integrated, AI-guided framework that connects rational nanocarrier design, biological-fate prediction, controlled-release engineering and clinical translation within a single development pipeline. We further articulate a \"translation-by-design\" principle and the concept of minimum sufficient complexity, which together distinguish this Review from earlier surveys that address these stages separately. Finally, we examine key translational barriers-including data standardization, model interpretability, scalable manufacturing, safety assessment, regulatory uncertainty and the gap between preclinical efficacy and clinical outcomes-and propose that future targeted nanomedicine should move beyond increasingly complex carrier architectures toward predictive, interpretable and clinically validated AI-integrated development pipelines. Despite these capabilities, most reported models are validated on internal or closely related data; independent external and prospective validation-the evidence required before a prediction can reliably influence formulation, manufacturing or patient-level decisions-remains the principal gap in the field.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 인공지능 기반의 정밀 난소의약을 통해 약물 전달의 제약을 극복하고, 제어된 분리 및 임상 적용을 가능하게 하는 새로운 접근법을 제시한다. 이는 약물의 퍼포먼스를 개선하고, 제약 제거, 면역 반응, 제조 다양성 등 다양한 문제를 해결하기 위한 인공지능 기반의 통합 프로세스를 제안한다.",
+      "methods": "이 연구는 머신 러닝, 딥 러닝 및 계산 모델을 활용하여 난소 치료제의 성질-관계, 분리 kinetics, 난소-생물학적 상호작용, 퍼마크okinetics, 생물분포, 독성 및 환자별로 특정화된 치료 응답을 예측한다. 이는 통합된 인공지능 지도 프레임워크를 통해 난소 치료제 설계, 생물학적 운명 예측, 제어된 분리 공학 및 임상 적용이 연결된다.",
+      "quantitative_results": "논문에서는 통계적 결과나 대조군 비교가 언급되지 않았다.",
+      "novelty": "이 논문은 인공지능 기반의 통합 프레임워크를 통해 이전 연구와는 다른 방식으로 난소 치료제의 설계, 생물학적 운명 예측, 제어된 분리 공학 및 임상 적용을 연결한다. 이는 데이터 표준화, 모델 해석성, 확장 가능한 제조, 안전 평가, 규제 불확실성 및 임상 결과와 전임상 효능 간의 차이를 해결하는 새로운 원칙을 제시한다.",
+      "limitations": "논문은 통계적 결과나 대조군 비교가 언급되지 않았다. 또한, 데이터 표준화, 모델 해석성, 확장 가능한 제조, 안전 평가, 규제 불확실성 및 임상 결과와 전임상 효능 간의 차이를 해결하는 새로운 원칙을 제시한다. 이는 통합된 인공지능 지도 프레임워크를 통해 이전 연구와는 다른 방식으로 난소 치료제의 설계, 생물학적 운명 예측, 제어된 분리 공학 및 임상 적용을 연결한다.",
+      "future_research": "이 논문은 인공지능 기반의 통합 프레임워크를 통해 이전 연구와는 다른 방식으로 난소 치료제의 설계, 생물학적 운명 예측, 제어된 분리 공학 및 임상 적용을 연결한다. 이는 데이터 표준화, 모델 해석성, 확장 가능한 제조, 안전 평가, 규제 불확실성 및 임상 결과와 전임상 효능 간의 차이를 해결하는 새로운 원칙을 제시한다. 이는 통합된 인공지능 지도 프레임워크를 통해 이전 연구와는 다른 방식으로 난소 치료제의 설계, 생물학적 운명 예측, 제어된 분리 공학 및 임상 적용을 연결한다."
     }
   },
   {
@@ -1139,6 +1233,28 @@
       "novelty": "이 논문은 기존 연구와 비교하여 유전적으로 수정된 매크로포제와 차이화된 T세포 항원 수신자 (CAR)를 중심으로 암 치료법을 다루는 것이 차별점이다. 이는 암 세포와 세포 사이의 상호 작용을 조절하고 암 세포의 유기체 산소를 재설계하고 유전적으로 수정된 유기체 세포를 개발하는 새로운 접근법에 대해 설명한다.",
       "limitations": "이 논문은 암 치료법의 정밀 의학적 배경에서 암 화학 치료와 현재의 암 치료법을 다루는 것이 제한적이다. 또한, 이 논문에서는 암 세포와 세포 사이의 상호 작용을 조절하고 암 세포의 유기체 산소를 재설계하고 유전적으로 수정된 유기체 세포를 개발하는 유망한 접근법에 대해 설명한다.",
       "future_research": "이 논문은 암 치료법의 정밀 의학적 배경에서 암 화학 치료와 현재의 암 치료법을 다루는 것이 제한적이다. 이 논문은 암 세포와 세포 사이의 상호 작용을 조절하고 암 세포의 유기체 산소를 재설계하고 유전적으로 수정된 유기체 세포를 개발하는 유망한 접근법에 대해 설명한다. 이는 후속 연구를 위한 제안이다."
+    }
+  },
+  {
+    "id": "doi:10.3389/fmicb.2026.1944212",
+    "title": "Engineering endolysins as antibacterial biologics: protein engineering design strategies and trade-offs.",
+    "topic": "Protein",
+    "date": "2026-11-06",
+    "journal": "",
+    "authors": "Saha S, Barkó S, Kirtania P, Bhowmik P.",
+    "doi": "10.3389/fmicb.2026.1944212",
+    "pmid": "43065730",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43065730/",
+    "abstract": "Endolysins, the phage murein hydrolases, are promising alternatives to conventional antibiotics. They are highly target specific, rarely induce resistance and spare commensal microbiota. Synergy between endolysins and certain antibiotics has also been well documented, which further supports their therapeutic potential. However, clinical translation is constrained by protein instability, immunogenicity, limited Gram-negative bactericidal activity and short in vivo half-life. This narrative review examines protein engineering strategies for endolysin development and reconciles conflicting mechanistic observations in the literature. It proposes a trade-off framework and context-dependent design principles for engineering next-generation endolysin-based therapeutics.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 엔도리스민을 이용한 항균 바이오의약품 개발을 위한 프로tein 엔지니어링 전략을 분석하고, 이에 대한 기존 연구와의 차별성을 제시한다. 또한, 엔도리스민의 전략적 설계 원칙을 제시하고, 이에 따른 후속 연구를 제안한다.",
+      "methods": "논문에서는 엔도리스민의 프로tein 엔지니어링을 위한 다양한 설계 전략을 분석하고, 이에 대한 기존 연구와의 모순을 해결하는 방법을 제시한다. 이는 엔도리스민의 안정성, 면역성, 근육균 치료 효과 및 인체 내 생존 기간에 대한 전략적 설계 원칙을 제시한다.",
+      "quantitative_results": "논문에서는 엔도리스민의 다양한 전략적 설계 원칙을 제시하며, 이는 기존 연구와 비교하여 새로운 접근 방식을 제시한다. 그러나 논문에서는 실제 실험 결과나 수치를 제공하지 않고, 이는 논문의 초록에서 확인할 수 없다고 명시한다.",
+      "novelty": "논문은 엔도리스민의 안정성, 면역성, 근육균 치료 효과 및 인체 내 생존 기간에 대한 전략적 설계 원칙을 제시하며, 이는 기존 연구와는 다른 접근 방식을 제시한다. 이는 엔도리스민의 바이오의약품 개발을 위한 새로운 전략을 제시하는 것으로 간주된다.",
+      "limitations": "논문에서는 엔도리스민의 안정성, 면역성, 근육균 치료 효과 및 인체 내 생존 기간에 대한 전략적 설계 원칙을 제시하며, 이는 기존 연구와는 다른 접근 방식을 제시한다. 그러나 논문에서는 실제 실험 결과나 수치를 제공하지 않고, 이는 논문의 초록에서 확인할 수 없다고 명시한다.",
+      "future_research": "논문은 엔도리스민의 안정성, 면역성, 근육균 치료 효과 및 인체 내 생존 기간에 대한 전략적 설계 원칙을 제시하며, 이는 기존 연구와는 다른 접근 방식을 제시한다. 이에 따라, 후속 연구는 이와 관련된 실험을 수행하여 이론을 실증화하는 것이 필요하다고 제안한다."
     }
   },
   {
