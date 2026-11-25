@@ -1,5 +1,27 @@
 [
   {
+    "id": "doi:10.1021/acsami.6c22574",
+    "title": "Injectable Hydrogels for Programmable Protein Release.",
+    "topic": "Protein",
+    "date": "2026-11-24",
+    "journal": "",
+    "authors": "Shi W, Ying X, Pillai M, Collins K, Noble J, Hwang J, Sheng X, Hincapie R, Malu D, Bakshi A, Hu Y, Finn MG.",
+    "doi": "10.1021/acsami.6c22574",
+    "pmid": "43074517",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43074517/",
+    "abstract": "Injectable and degradable hydrogels provide a promising route for controlling the spatiotemporal release of protein therapeutics, yet achieving programmable release kinetics across proteins of different sizes remains challenging. Here, dextran-oxanorbornadiene (OND)/PEG-thiol hydrogels are described that integrate a degradable hydrogel network with tunable Michael addition reactivity to enable hydrolysis-gated and chemically programmable protein release. The OND linkers serve dual functions as crosslinkers forming the hydrogel network and as covalent tethers for protein cargos, allowing kinetic control over tethering efficiency and release rate through the choice of OND variant, precursor mixing sequence, and degree of protein functionalization. Using model proteins of different sizes and structural flexibilities-green fluorescent protein (GFP, 27 kDa), immunoglobulin G (IgG, 150 kDa), and the trimeric ectodomain of the HIV-1 glycoprotein (350 kDa)-the system demonstrates a transition from diffusion-dominated to hydrolysis-gated, non-first-order release behavior. Two mechanistically distinct tethering regimes were identified: reaction-rate-dominated tethering for IgG and competition-limited tethering for GFP, providing complementary routes for controlling cargo retention and release. Additional formulation-level modulation through network density and crosslinker topology provided orthogonal control over release rate and protein loading capacity. Representative cargos subjected to covalent tethering and release preserved protein structure and function after release. Collectively, this study establishes a modular framework for designing injectable OND hydrogels that achieve predictable and customizable release kinetics, offering a versatile platform for long-acting delivery of biologic therapeutics.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 연구는 단백질 치료제의 공간 및 시간적 배출을 제어하기 위한 투약 가능한 수분 유리체의 새로운 접근 방식을 개발하고자 합니다. 단백질의 다양한 크기와 구조적 유연성을 고려한 프로그래밍 가능한 배출 kinetics을 달성하는 것이 아직 어려운 문제입니다. 이를 해결하기 위해, 헤모글로빈-오xab로스벤디돈(OND)/PEG-巯기 수분 유리체는 단백질 치료제를 투여할 수 있는 수분 유리체 네트워크와 단백질 콘스 cargos를 결합할 수 있는 페닐가수신자(linker)를 결합한 새로운 수분 유리체를 제안합니다.",
+      "methods": "이 연구에서는 OND 링크를 사용하여 다양한 크기와 구조적 유연성을 가진 단백질을 투여할 수 있는 수분 유리체를 설계했습니다. OND 링크는 수분 유리체 네트워크를 형성하는 동시에 단백질 콘스를 결합하는 페닐가수신자 역할을 합니다. OND 링크의 유형, precursor의 섞임 순서, 단백질의 기능화 정도를 선택함으로써 단백질 콘스의 결합 효율과 배출 속도를 제어할 수 있습니다. 이 연구에서는 GFP, IgG, HIV-1 단백질의 트리머 ectodomain을 사용하여 이론을 검증했습니다.",
+      "quantitative_results": "이 연구는 단백질의 배출이 페닐가수신자에 의해 제어되는 것에서 페닐가수신자에 의해 제어되는 것으로 변화하는 것을 보여주었습니다. 이 연구는 두 가지 유형의 페닐가수신자에 의해 제어되는 단백질 배출을 제공했습니다. 이 연구는 수분 유리체 네트워크의 밀도와 페닐가수신자 네트워크의 유형을 통해 배출 속도와 단백질 배출 용량을 제어할 수 있음을 보여주었습니다.",
+      "novelty": "이 연구는 단백질 치료제의 공간 및 시간적 배출을 제어하기 위한 투약 가능한 수분 유리체의 새로운 접근 방식을 제안했습니다. 이 연구는 단백질의 다양한 크기와 구조적 유연성을 고려한 프로그래밍 가능한 배출 kinetics을 달성하는 것이 가능함을 보여주었습니다. 이 연구는 단백질의 구조와 기능을 유지하면서 단백질을 투여할 수 있는 수분 유리체를 설계했습니다.",
+      "limitations": "이 연구는 단백질의 다양한 크기와 구조적 유연성을 고려한 프로그래밍 가능한 배출 kinetics을 달성하는 것이 아직 어려운 문제임을 명시했습니다. 이 연구는 단백질의 구조와 기능을 유지하면서 단백질을 투여할 수 있는 수분 유리체를 설계했습니다. 이 연구는 단백질의 다양한 크기와 구조적 유연성을 고려한 프로그래밍 가능한 배출 kinetics을 달성하는 것이 아직 어려운 문제임을 명시했습니다.",
+      "future_research": "이 연구는 단백질 치료제의 공간 및 시간적 배출을 제어하기 위한 투약 가능한 수분 유리체의 새로운 접근 방식을 개발하고자 합니다. 이 연구는 단백질의 다양한 크기와 구조적 유연성을 고려한 프로그래밍 가능한 배출 kinetics을 달성하는 것이 가능함을 보여주었습니다. 이 연구는 단백질의 구조와 기능을 유지하면서 단백질을 투여할 수 있는 수분 유리체를 설계했습니다."
+    }
+  },
+  {
     "id": "PMC:PMC13786015",
     "title": "Engineering endolysins as antibacterial biologics: protein engineering design strategies and trade-offs",
     "topic": "Protein",
@@ -25,7 +47,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43068881/",
     "abstract": "The metabolic-epigenetic-immune tripartite regulatory network within the tumor immune microenvironment (TIME) serves as a central hub governing tumor immune evasion and therapeutic response. Long regarded merely as an essential nutritional substrate, lysine has now emerged as a pivotal signaling molecule bridging metabolic reprogramming, protein post-translational modifications (PTMs), and immune cell fate determination. Tumor cells remodel immune cell function and foster an immunosuppressive microenvironment via three coordinated mechanisms: hijacking lysine transport, rewiring lysine catabolic metabolism, and disrupting acylation and methylation modifications at lysine residues. Herein, we propose a novel preclinical theoretical model coined \"lysimetaboptenation,\" which we define as lysine metabolism-modification-coupled T cell exhaustion. This review systematically delineates lysine transmembrane transport, rewired lysine catabolism, and the lysine-centered PTM regulatory network, alongside the modulatory mechanisms underlying bidirectional crosstalk between tumor cells and immune cells. We further clarify the correlations between aberrant lysine axis signaling and patient prognosis, immunotherapeutic efficacy, and treatment resistance. Additionally, we summarize translational strategies targeting lysine transporters, catabolic enzymes, lysine PTM machinery, precision nutritional interventions, and combinatorial immunometabolic regimens. Finally, we highlight outstanding scientific questions, technical bottlenecks, and cutting-edge research frontiers, aiming to furnish theoretical frameworks and innovative avenues for overcoming resistance to immunotherapy and developing precision combinatorial metabolome-immunotherapy regimens.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암 환경 내에서 단백질 수정과 비타민 Lysine의 대사가 암 면역 피복과 치료 반응을 관리하는 중심 역할을 한다는 새로운 이론을 제시합니다. 이 이론은 암 세포가 면역 세포의 기능을 흡수시키고, 암 면역 저항 환경을 형성하는 세 가지 연계된 메커니즘을 통해 암 세포가 면역 세포의 기능을 흡수시키고, 암 세포의 단백질 포스트 트랜슬레이션 수정을 방해합니다. 이 연구는 암 세포와 면역 세포 간의 방향성 교환 메커니즘을 이해하고, 암 세포의 Lysine 이동, 재설계된 Lysine 대사, 그리고 Lysine 포스트 트랜슬레이션 수정(PTM) 규제 네트워크를 이해하는 데 중점을 둡니다.",
+      "methods": "논문은 암 환경 내에서 단백질 수정과 비타민 Lysine의 대사가 암 면역 피복과 치료 반응을 관리하는 중심 역할을 한다는 새로운 이론을 제시합니다. 이 이론은 암 세포가 면역 세포의 기능을 흡수시키고, 암 면역 저항 환경을 형성하는 세 가지 연계된 메커니즘을 통해 암 세포가 면역 세포의 기능을 흡수시키고, 암 세포의 단백질 포스트 트랜슬레이션 수정을 방해합니다. 이 연구는 암 세포와 면역 세포 간의 방향성 교환 메커니즘을 이해하고, 암 세포의 Lysine 이동, 재설계된 Lysine 대사, 그리고 Lysine 포스트 트랜슬레이션 수정(PTM) 규제 네트워크를 이해하는 데 중점을 둡니다.",
+      "quantitative_results": "논문에서는 암 세포의 Lysine 이동, 재설계된 Lysine 대사, 그리고 Lysine 포스트 트랜슬레이션 수정(PTM) 규제 네트워크에 대한 수치를 보고하지 않았습니다. 이 연구는 암 세포와 면역 세포 간의 방향성 교환 메커니즘을 이해하고, 암 세포의 Lysine 이동, 재설계된 Lysine 대사, 그리고 Lysine 포스트 트랜슬레이션 수정(PTM) 규제 네트워크를 이해하는 데 중점을 둡니다.",
+      "novelty": "이 논문은 암 환경 내에서 단백질 수정과 비타민 Lysine의 대사가 암 면역 피복과 치료 반응을 관리하는 중심 역할을 한다는 새로운 이론을 제시합니다. 이 이론은 암 세포가 면역 세포의 기능을 흡수시키고, 암 면역 저항 환경을 형성하는 세 가지 연계된 메커니즘을 통해 암 세포가 면역 세포의 기능을 흡수시키고, 암 세포의 단백질 포스트 트랜슬레이션 수정을 방해합니다. 이 연구는 암 세포와 면역 세포 간의 방향성 교환 메커니즘을 이해하고, 암 세포의 Lysine 이동, 재설계된 Lysine 대사, 그리고 Lysine 포스트 트랜슬레이션 수정(PTM) 규제 네트워크를 이해하는 데 중점을 둡니다.",
+      "limitations": "논문에서는 암 세포의 Lysine 이동, 재설계된 Lysine 대사, 그리고 Lysine 포스트 트랜슬레이션 수정(PTM) 규제 네트워크에 대한 수치를 보고하지 않았습니다. 이 연구는 암 세포와 면역 세포 간의 방향성 교환 메커니즘을 이해하고, 암 세포의 Lysine 이동, 재설계된 Lysine 대사, 그리고 Lysine 포스트 트랜슬레이션 수정(PTM) 규제 네트워크를 이해하는 데 중점을 둡니다. 이 연구는 암 세포와 면역 세포 간의 방향성 교환 메커니즘을 이해하고, 암 세포의 Lysine 이동, 재설계된 Lysine 대사, 그리고 Lysine 포스트 트랜슬레이션 수정(PTM) 규제 네트워크를 이해하는 데 중점을 둡니다.",
+      "future_research": "논문은 암 세포와 면역 세포 간의 방향성 교환 메커니즘을 이해하고, 암 세포의 Lysine 이동, 재설계된 Lysine 대사, 그리고 Lysine 포스트 트랜슬레이션 수정(PTM) 규제 네트워크를 이해하는 데 중점을 둡니다. 이 연구는 암 세포와 면역 세포 간의 방향성 교환 메커니즘을 이해하고, 암 세포의 Lysine 이동, 재설계된 Lysine 대사, 그리고 Lysine 포스트 트랜슬레이션 수정(PTM) 규제 네트워크를 이해하는 데 중점을 둡니다. 이 연구는 암 세포와 면역 세포 간의 방향성 교환 메커니즘을 이해하고, 암 세포의 Lysine 이동, 재설계된 Lysine 대사, 그리고 Lysine 포스트 트랜슬레이션 수정(PTM) 규제 네트워크를 이해하는 데 중점을 둡니다. 이 연구는 암 세포와 면역 세포 간의 방향성 교환 메커니즘을 이해하고, 암 세포의 Lysine 이동, 재설계된 Lysine 대사, 그리고 Lysine 포스트 트랜슬레이션 수정(PTM) 규제 네트워크를 이해하는 데 중점을 둡니다."
+    }
   },
   {
     "id": "doi:10.1016/j.mbs.2026.109863",
@@ -1070,7 +1100,7 @@
     "pmid": "43009219",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43009219/",
-    "abstract": "Motivation Developing state-of-the-art RNA- and DNA-based therapeutics requires advanced computational frameworks that support the entire workflow - from biological rationale to the final drug construct - enabling tissue- and cell-specific targeting with high precision. Existing bioinformatics tools provide only partial solutions and rarely generate designs directly suitable for synthesis or preclinical evaluation. To address these limitations, we present BIOREDIS, a web-based platform for comprehensive nucleic acid therapeutic design. Results BIOREDIS integrates curated data from nine major biological resources and incorporates modules for coding sequence optimization, RNA interference (shRNA/siRNA) design, promoter/UTR selection, and automated construction of viral (AAV, lentiviral), non-viral, and mRNA vaccine vectors. The platform supports designs for human, mouse, and rat, with tissue-specific promoter recommendations available for human and mouse, and advanced cell-expression profiling natively restricted to human. BIOREDIS demonstrates competitive performance in coding sequence optimization and RNAi prediction, while uniquely providing an end-to-end workflow from target selection to fully specified next-generation DNA or RNA therapeutic constructs ready for synthesis and experimental validation. Availability BIOREDIS is freely available at https://rnadrug.ichb.pl/bioredis, with a mirror site at https://bioredis.cs.put.poznan.pl. Supplementary information Supplementary data are available at Bioinformatics online.",
+    "abstract": "Motivation Developing state-of-the-art RNA- and DNA-based therapeutics requires advanced computational frameworks that support the entire workflow-from biological rationale to the final drug construct-enabling tissue- and cell-specific targeting with high precision. Existing bioinformatics tools provide only partial solutions and rarely generate designs directly suitable for synthesis or preclinical evaluation. To address these limitations, we present BIOREDIS, a web-based platform for comprehensive nucleic acid therapeutic design. Results BIOREDIS integrates curated data from nine major biological resources and incorporates modules for coding sequence optimization, RNA interference (shRNA/siRNA) design, promoter/untranslated region selection, and automated construction of viral (AAV, lentiviral), nonviral, and mRNA vaccine vectors. The platform supports designs for human, mouse, and rat, with tissue-specific promoter recommendations available for human and mouse, and advanced cell-expression profiling natively restricted to human. BIOREDIS demonstrates competitive performance in coding sequence optimization and RNAi prediction, while uniquely providing an end-to-end workflow from target selection to fully specified next-generation DNA or RNA therapeutic constructs ready for synthesis and experimental validation. Availability and implementation BIOREDIS is freely available at https://rnadrug.ichb.pl/bioredis, with a mirror site at https://bioredis.cs.put.poznan.pl.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 논문은 RNA-와 DNA 기반의 신약을 개발하기 위한 고급 계산적 기반을 제공하고, 이는 유전체학적 근거에서부터 최종 약물 구조까지의 전 과정을 지원합니다. 이를 통해 특정 조직과 세포에 대한 정확한 지시가 가능합니다.",
@@ -1123,6 +1153,28 @@
       "novelty": "이 연구는 암적 신장 손상에 대한 나노기술 연구의 전반적인 연구 분포, 지식 구조, 주제 변화를 체계적으로 분석하고, 나아가 이를 통해 암적 신장 손상에 대한 나노기술 연구의 현재 주제와 미래 연구 방향을 제시하였습니다. 이 연구는 기존 연구보다 더 넓은 분야에 걸쳐 연구되고 있으며, 암적 손상, 치료 전달, 그리고 기계학적으로 이해된 나노 플랫폼 등에 대한 주제가 더욱 강조되고 있습니다.",
       "limitations": "이 연구는 주요 한계를 명시하지 않았으며, 이는 연구의 유효성을 확인하기 위해 충분히 검토되지 않았기 때문입니다. 그러나, 이 연구는 암적 신장 손상에 대한 나노기술 연구의 전반적인 연구 분포, 지식 구조, 주제 변화를 체계적으로 분석하고, 이를 통해 암적 신장 손상에 대한 나노기술 연구의 현재 주제와 미래 연구 방향을 제시하였습니다.",
       "future_research": "후속 연구는 암적 신장 손상에 대한 나노기술 연구의 전반적인 연구 분포, 지식 구조, 주제 변화를 체계적으로 분석하고, 이를 통해 암적 신장 손상에 대한 나노기술 연구의 현재 주제와 미래 연구 방향을 제시하였습니다. 이 연구는 암적 신장 손상에 대한 나노기술 연구의 전반적인 연구 분포, 지식 구조, 주제 변화를 체계적으로 분석하고, 이를 통해 암적 신장 손상에 대한 나노기술 연구의 현재 주제와 미래 연구 방향을 제시하였습니다. 이 연구는 암적 신장 손상에 대한 나노기술 연구의 전반적인 연구 분포, 지식 구조, 주제 변화를 체계적으로 분석하고, 이를 통해 암적 신장 손상에 대한 나노기술 연구의 현재 주제와 미래 연구 방향을 제시하였습니다."
+    }
+  },
+  {
+    "id": "doi:10.3389/fpls.2026.1997664",
+    "title": "AI-driven strategies for Cas12 protein design and genome editing optimization.",
+    "topic": "Protein",
+    "date": "2026-11-09",
+    "journal": "",
+    "authors": "Li Y, Zhang C, Meng F.",
+    "doi": "10.3389/fpls.2026.1997664",
+    "pmid": "43075133",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43075133/",
+    "abstract": "The rise of the CRISPR-CAS system has greatly promoted the development of gene editing technology. Cas12, with its unique molecular characteristics, has become an important editing tool following Cas9. In recent years, artificial intelligence (AI) has been widely applied in Cas12-related research, ranging from protein structure optimization, target design to editing efficiency prediction and off-target risk assessment. AI has demonstrated great potential in enhancing system performance and discovering new mutants. Most of these models were trained and benchmarked in human cell lines, E. coli , or yeast, whereas only a subset of engineering strategies has been validated directly in plants, including soybean hairy roots, rice, and Populus . This mini-review summarizes the latest research progress of AI in the field of Cas12 protein optimization and functional prediction, discusses the opportunities and challenges in its application in plants, and provides new ideas for future AI-driven plant gene editing.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 AI 기술이 Cas12 단백질의 설계와 유전자 편집 최적화에 대한 연구를 개선하고 새로운 유전자 편집 전략을 제시하는 데 사용될 수 있음을 보여줍니다. 현재까지는 대부분의 모델이 인체 세포, E. coli, 또는 박테리아 세포에서 훈련되었으며, 이들 모델은 아직 식물에서 직접 검증되지 않았습니다. 이 논문은 AI가 Cas12 단백질의 최적화와 유전자 기능 예측에 대한 최신 연구 동향을 요약하고, 식물에서의 AI 적용 기회와 도전을 논의합니다.",
+      "methods": "이 연구는 AI 기술을 활용하여 Cas12 단백질의 유전자 편집 효율성 예측, 오프타겟 위험 평가, 그리고 단백질 구조 최적화와 타겟 설계에 대한 연구를 포함합니다. 식물에서의 직접적 검증은 아직 이루어지지 않았으며, 이는 아직 식물에서의 AI 적용에 대한 연구가 부족하기 때문입니다.",
+      "quantitative_results": "이 논문에서는 AI 기술이 Cas12 단백질의 유전자 편집 효율성을 향상시키고 새로운 유전자 변이를 발견하는 데 있어 탁월한 잠재력을 보여주었습니다. 그러나 식물에서의 직접적 검증은 아직 이루어지지 않았습니다.",
+      "novelty": "이 연구는 식물에서의 AI 적용에 대한 새로운 아이디어를 제공하며, 이는 식물 유전자 편집 분야의 미래 연구를 개척할 수 있는 가능성을 열어줍니다. 식물에서의 AI 적용은 아직 초기 단계이지만, 이는 식물 유전자 편집 분야의 중요한 발전을 가져올 수 있습니다.",
+      "limitations": "이 연구는 식물에서의 AI 적용에 대한 연구가 아직 초기 단계임을 명시합니다. 또한, 식물에서의 직접적 검증은 아직 이루어지지 않았으며, 이는 아직 식물에서의 AI 적용에 대한 연구가 부족하기 때문입니다. 또한, 이 연구는 아직 식물에서의 AI 적용에 대한 연구가 부족하기 때문입니다.",
+      "future_research": "이 연구는 식물에서의 AI 적용에 대한 후속 연구를 제안합니다. 이를 통해 식물에서의 AI 적용이 얼마나 효과적이고, 얼마나 다양한 유전자 편집 전략을 제공할 수 있는지에 대한 더 깊은 이해를 얻을 수 있습니다."
     }
   },
   {
@@ -1619,7 +1671,15 @@
     "pmcid": "PMC13761360",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43032665/",
     "abstract": "Lung cancer is a leading cause of death in the world and is highly heterogeneous with extensive molecular changes and often resistant to therapy. Despite significant advances in clinical management through surgery, chemotherapy, radiotherapy, and immunotherapy, some of these treatments are limited in effectiveness by late diagnosis, systemic toxicity, poor accumulation, molecular heterogeneity, and acquired resistance. This review provides a comprehensive overview of current and emerging therapeutic strategies for lung cancer, with particular emphasis on advanced drug delivery systems and nanomedicine-based approaches. Recent advances in lipid-based nanoparticles, polymeric nanoparticles and micelles, inorganic nanoparticles, and nanocrystals are highlighted for their ability to improve drug solubility, pharmacokinetics, tumor accumulation, cellular uptake, and controlled drug release. Active targeting and stimuli-responsive nanocarriers can improve tumor selectivity, intracellular drug delivery, and drug retention, potentially addressing selected resistance-associated mechanisms. Gene-delivery and genome-editing approaches offer additional opportunities to modulate resistance-related pathways, while photodynamic and photothermal therapies provide complementary strategies for localized tumor treatment. However, the extent to which these approaches reverse established drug resistance varies with the targeted mechanism and the experimental model employed. Distinguishing functional resistance reversal from improved drug delivery and general anticancer activity is therefore essential for assessing their translational potential.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 폐암 치료의 효과를 향상시키기 위해 신경망 의약품을 활용하는 방법을 소개하고 있습니다. 이 방법은 약물 저항성과 치료 장애물을 극복하는 데 초점을 맞추고 있습니다.",
+      "methods": "논문에서는 신경망 의약품을 사용하여 약물의 퍼포먼스를 향상시키는 방법을 다루고 있습니다. 이 방법은 약물의 흡수, 암 세포의 흡수, 약물의 제어된 배출을 개선하는 데 초점을 맞추고 있습니다. 또한, 암 세포 선택성을 향상시키고 암 세포 내 약물을 흡수하는 능력을 향상시키는 데 초점을 맞추고 있습니다.",
+      "quantitative_results": "논문에서는 신경망 의약품의 다양한 유형이 약물의 흡수와 암 세포의 흡수에 어떻게 영향을 미치는지에 대한 정보를 제공하고 있습니다. 그러나 논문에서는 이러한 방법이 약물 저항성과 치료 장애물을 완전히 극복하는 데 얼마나 효과적인지에 대한 수치를 제공하지 않았습니다.",
+      "novelty": "이 논문은 신경망 의약품을 사용하여 암 치료를 개선하는 데 대한 새로운 접근법을 제안합니다. 이 방법은 암 치료의 여러 장애물을 극복하는 데 도움이 될 수 있습니다.",
+      "limitations": "논문에서는 약물 저항성과 치료 장애물을 완전히 극복하는 데 얼마나 효과적인지에 대한 정보를 제공하지 않았습니다. 또한, 논문에서는 특정 저항성 관련 메커니즘과 실험 모델에 대한 정보를 제공하지 않았습니다.",
+      "future_research": "후속 연구는 이러한 신경망 의약품이 암 치료에 어떻게 효과적인지에 대한 더 많은 연구가 필요합니다. 또한, 이 방법이 다른 암 유형이나 다른 질병에 적용될 수 있는지에 대한 연구도 필요할 것입니다."
+    }
   },
   {
     "id": "doi:10.64898/2026.10.30.762893",
@@ -1677,7 +1737,15 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42971030/",
     "abstract": "Mass spectrometry (MS)-based proteomics has transformed our ability to measure protein abundance and modification state on a proteome-wide scale. However, many critical determinants of protein function, including post-translational modification (PTM) state, spatial localization, and enzyme activity, require strategies designed to specifically capture these biological features. Enzymes are uniquely suited for this challenge because their molecular recognition properties, catalytic activities, and genetic encodability enable highly selective transformations that are difficult to achieve using purely chemical approaches. In this review, we highlight recent advances in enzyme-enabled proteomics that exploit natural and engineered enzyme activity to expand the functional information accessible by MS-based proteomics analysis. We discuss approaches that harness endogenous enzymes for metabolic labeling, repurpose enzyme chemistry for selective PTM tagging, and engineer enzymes to record protein localization and synthesis. Finally, we consider how continued discovery and engineering of enzyme chemistry may shift the role of enzymes beyond enrichment toward molecular recording strategies that encode increasingly complex aspects of protein function.",
-    "summary": "초록 기반 요약"
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 단백질의 기능을 해독하기 위한 단백질 프로테오크로미스 분야의 새로운 접근법을 소개하고 있습니다. 이 접근법은 단백질의 포스트 트랜슬레이션 수정 상태, 공간적 위치, 그리고 효소 활성 등을 추적하는 데 사용됩니다.",
+      "methods": "논문은 자연적 효소와 엔지니어링된 효소를 활용한 새로운 방법들을 소개합니다. 이 방법들은 단백질의 포스트 트랜슬레이션 수정을 마이크로로 표시하거나 단백질의 위치를 추적하는 데 사용됩니다. 또한, 효소를 이용해 단백질의 생성을 기록하는 방법도 제시되었습니다.",
+      "quantitative_results": "논문에서는 이러한 방법들이 단백질 프로테오크로미스 분석을 통해 접근할 수 있는 기능 정보를 확장하는 데 도움이 된다는 점을 보여주었습니다.",
+      "novelty": "이 논문의 가장 큰 특징은 단백질의 기능을 해독하는 데 사용되는 효소를 활용한 새로운 방법들이 새로운 접근법을 제시한다는 점입니다. 이는 단백질 프로테오크로미스 분석의 한계를 극복하고 새로운 정보를 제공하는 데 도움이 될 것입니다.",
+      "limitations": "논문에서는 효소의 작동 방식과 효소의 효율성에 대한 정보가 부족하다는 한계를 지적했습니다. 또한, 효소의 작동 방식을 이해하는 데 필요한 실험 조건을 제공하지 않았습니다.",
+      "future_research": "후속 연구에서는 효소의 작동 방식을 더 깊이 이해하고, 효소를 이용한 새로운 방법들이 단백질의 기능을 더 정확하게 해독하는 데 어떻게 도움이 되는지에 대한 연구가 필요합니다."
+    }
   },
   {
     "id": "doi:10.3389/fimmu.2026.2008733",
@@ -1885,6 +1953,34 @@
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43057210/",
     "abstract": "Venezia et al. 1 identified an inflammation-induced chimeric RNA that encodes a protein that regulates innate immune cell death by stabilizing gasdermin D (GSDMD) membrane pores to promote rapid cytokine release, which not only drives antibacterial defense but also exacerbates inflammatory pathology; these findings establish a functional role for chimeric RNAs in innate immunity.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1021/acs.jcim.6c03837",
+    "title": "Artificial Intelligence-Aided Design of Peptides with Custom Secondary Structure Motifs and Reduced Amino Acid Alphabets.",
+    "topic": "Protein",
+    "date": "2026-11-01",
+    "journal": "",
+    "authors": "Brown SM, Cohen AB, Dean SN.",
+    "doi": "10.1021/acs.jcim.6c03837",
+    "pmid": "43070950",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070950/",
+    "abstract": "Proteins are highly diverse functional polymers where the specific sequence of amino acids, selected from a standard genetically encoded alphabet of 20 (C20), determines the structure and ultimately the function of the resulting folded protein. This standard alphabet has been identified to be nonrandomly distributed in physicochemical properties crucial to both structure formation and function, often referred to as coverage theory. While machine learning models have drastically improved protein structure prediction, success of protein design models lags structure prediction, particularly for custom secondary structure motifs and amino acid alphabets. Here, we therefore bridge contemporary biological theory with recent advancements in artificial intelligence (AI) to develop and evaluate a generative AI protein design model, trained on hundreds of thousands of proteins within the RCSB PDB, for custom secondary structure motifs using reduced amino acid alphabets (RAAs). Results indicate an overall success in designing novel proteins with desired secondary structure motifs for a broad range of amino acid alphabets and complexity of designs. Interestingly, for a substantial fraction of designs, ESMFold predicts a fold close to that of the target structure despite training only on physicochemical sequence space and secondary structure information. The development of this model advances research across multiple disciplines, from general scientific AI architecture development to protein design for biotechnology, astrobiology, and early-Earth evolutionary biology.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1021/acs.langmuir.6c00929",
+    "title": "The Role of Membrane Asymmetry in Vesicle-Mediated In Vitro Delivery of Nucleic Acid Cargo.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-01",
+    "journal": "",
+    "authors": "Nicdao DS, Ramnath A, Adams TJ, Wilhelmsson LM, Esbjörner EK, Holme MN.",
+    "doi": "10.1021/acs.langmuir.6c00929",
+    "pmid": "43076330",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43076330/",
+    "abstract": "Nucleic acid therapeutics typically require a delivery vector, such as lipid-based nanoparticles. However, limitations in e.g. specific targeting and biodistribution, pose challenges to their clinical applications, and alternative lipid-based delivery vectors are therefore highly desirable. Here, we investigated the effect of introducing membrane asymmetry to lipid vesicles (i.e., the inner and outer leaflets have different lipid compositions), which has previously been shown to alter their biophysical properties. In this study, we prepared asymmetric large unilamellar vesicles (aLUVs) composed of 1,2-dioleoyl-sn-glycero-3-phosphocholine (DOPC) on the inner leaflet and either 1,2-dioleoyl-sn-glycero-3-phosphatidic acid (DOPA) or sphingomyelin (SM) on the outer leaflet, with the addition of cholesterol (Chol), using methyl-β-cyclodextrin-catalyzed lipid exchange. The extent of outer leaflet exchange was found to be lipid-dependent. Further, we probed intracellular uptake and nucleic acid cargo delivery of DOPC:SM:Chol aLUVs. Widefield fluorescence imaging using HeLa_Luc705 cells and confocal imaging using SH-SY5Y-miRFP670 cells revealed cellular internalization and nuclear localization of aLUVs as early as 4 h, with analogous symmetric vesicles showing lower uptake and notable localization in the perinuclear region. However, HeLa_Luc705 cells treated with aLUVs and symmetric LUVs loaded with a splice-switching oligonucleotide showed similar levels of luciferase production after 24 h, indicating similar levels of functional oligonucleotide cargo delivery. Overall, the data presented indicates that asymmetric vesicles are able to deliver nucleic acid cargo and that the asymmetric distribution of lipids across membrane leaflets can influence the cellular uptake and intracellular distribution of vesicle nanocarriers.",
     "summary": "초록 기반 요약"
   },
   {
