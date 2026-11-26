@@ -22,6 +22,56 @@
     }
   },
   {
+    "id": "doi:10.1093/bioinformatics/btag860",
+    "title": "NovoTax: sample-specific database construction for prokaryotic mass spectrometry-based proteomics.",
+    "topic": "Protein",
+    "date": "2026-11-24",
+    "journal": "",
+    "authors": "Svedberg D, Mateus A.",
+    "doi": "10.1093/bioinformatics/btag860",
+    "pmid": "43081932",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43081932/",
+    "abstract": "Summary Traditional mass spectrometry-based proteomics typically requires prior knowledge of sample composition to match spectra to peptides. Here, we introduce a pipeline (NovoTax) to identify well matching prokaryotic proteomes directly from bottom-up proteomics data. The approach combines peptide sequencing tools with an optimized implementation of peptide searching against an extensive proteome database. On a benchmark dataset of species isolates, we identified the reported species and strain neighborhood in the majority of cases and showed that in discordant cases NovoTax databases better reflected the protein content of the sample. Interestingly, NovoTax was also able to identify additional species in samples. The algorithm also identified the most abundant organisms in bacterial communities. In summary, NovoTax provides a compact proteome database that enables downstream use of conventional proteomics search engines. Availability and implementation The open-source software is available on GitHub at https://github.com/mateuslab-prot/NovoTax (https://doi.org/10.5281/zenodo.23732583). Supplementary information Supplementary data are available at Bioinformatics online.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1021/acssensors.6c00975",
+    "title": "A Biomolecular Sandwich Assay to Characterize the Binding Properties of Antisense Oligonucleotide Conjugates.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-24",
+    "journal": "",
+    "authors": "Byrne SA, Antilla S, Couture-Senécal J, Dow NW, Rondon A, Zhang BB, Pal S, Prado M, Self A, Loas A, Anderson DG, Pentelute BL.",
+    "doi": "10.1021/acssensors.6c00975",
+    "pmid": "43077348",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077348/",
+    "abstract": "Antisense oligonucleotides (ASOs) are a treatment modality for genetic diseases, binding to ribonucleic acid (RNA) with high specificity, with downstream effects that eventually reduce, restore, or modify protein expression through distinct mechanisms. Conjugating ASOs to targeting ligands has emerged as a promising strategy to improve tissue-specific delivery, but there remains a lack of binding assays to study this class of therapeutic conjugates. Here, we develop streamlined assays that assess the binding kinetics of both the ASO and the targeting ligand using biolayer interferometry (BLI). The BLI biosensor facilitates immobilization of a biotinylated oligonucleotide, which can then hybridize an ASO conjugate and subsequently measure its binding affinity to the ligand target (e.g., antibody or receptor) through analysis of a BLI sensorgram. The utility of this biomolecular sandwich binding assay is demonstrated with phosphorodiamidate morpholino oligomers (PMOs) and peptide nucleic acids (PNAs) conjugated to a peptide or protein ligand. We show that this assay can be used to detect cellular binding and predict in vitro efficacy. The methods developed here can be leveraged to accelerate the development of next-generation ASO therapeutics.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1088/1361-6528/aec603",
+    "title": "Mechanical Checkpoints in Antitumor Immunity: From Piezo1 to AFM Nanomechanics.",
+    "topic": "Immunity",
+    "date": "2026-11-24",
+    "journal": "",
+    "authors": "Wang Y, Yin X, Deng Q, Ju T, Wang Z.",
+    "doi": "10.1088/1361-6528/aec603",
+    "pmid": "43077720",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43077720/",
+    "abstract": "Immunotherapy resistance in solid tumors remains a major clinical challenge. One emerging reason is that the tumor microenvironment exhibits aberrant mechanical properties-tissues become stiff, and cancer cells become soft. These mechanical changes directly affect how T cells migrate, form synapses, and kill target cells. In this review, we first describe how the extracellular matrix (ECM) stiffening and cancer cell softening create a physical barrier that limits immune cell function. We then focus on Piezo1, a mechanosensitive ion channel that acts as a \"mechanical checkpoint\" in T cells. Acute mechanical stimulation activates Piezo1 and enhances T cell cytotoxicity, while chronic overstimulation in a stiff tumor environment drives T cell exhaustion through the CaMKII-CREB-Osr2 pathway. Next, we show how atomic force microscopy (AFM) can measure single-cell mechanics, track real-time mechanical death trajectories during immune attack, and help identify mechano-biomarkers. Finally, we discuss strategies to target these mechanical pathways, including Piezo1 agonists/antagonists, \"mechanical biopsy,\" and physical interventions such as focused ultrasound. We also point out current problems, including the lack of standardized methods, tumor heterogeneity, and limited clinical translation. Nevertheless, integrating mechano-immunology into cancer therapy does not replace traditional immunotherapy but expands it. By correcting mechanical abnormalities and using AFM-based characterization, we may improve the effectiveness of immunotherapy in solid tumors.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 암 세포와 주변 조직의 기계적 속성을 변화시키는 현상이 면역세포의 기능을 제한하는 방식을 설명하며, 이를 해결하기 위한 새로운 접근법들을 제시하고 있습니다. 특히, 기계적 장애를 수정하고, 면역세포의 기계적 속성을 측정하는 기술인 AFM을 활용하여 암 세포의 면역 치료 효과를 향상시키는 방법을 논의하고 있습니다.",
+      "methods": "논문에서는 Piezo1이라는 기계적 감각 채널이 T세포에서 기계적 장벽을 형성하고, 이로 인해 면역세포의 기능이 제한되는 방식을 설명합니다. 또한, 암 세포의 기계적 손상과 T세포의 지속적인 과도한 자극이 CaMKII-CREB-Osr2 경로를 통해 T세포의 지칠 수를 유발하는 방식도 설명합니다. 이외에도, 기계적 손상의 측정을 위한 AFM 기술을 소개하고, 이를 통해 암 세포의 기계적 속성을 조사할 수 있는 방법을 제시합니다.",
+      "quantitative_results": "논문에서는 기계적 장애가 암 세포와 주변 조직의 기계적 속성을 변화시키는 방식을 설명하며, 이러한 변화가 면역세포의 기능을 제한하는 방식을 설명합니다. 그러나, 논문에서는 이러한 기계적 장애를 수정하고, 면역세포의 기계적 속성을 측정하는 기술을 활용하여 암 세포의 기계적 손상을 줄이고, 암 치료 효과를 향상시키는 방법을 제시합니다.",
+      "novelty": "이 논문은 기계적 장애를 수정하고, 면역세포의 기계적 속성을 측정하는 기술인 AFM을 활용하여 암 세포의 기계적 손상을 줄이고, 암 치료 효과를 향상시키는 방법을 제시합니다. 이는 기존 연구에서 보고되지 않은 새로운 접근법입니다.",
+      "limitations": "논문에서는 기계적 장애를 수정하고, 면역세포의 기계적 속성을 측정하는 기술인 AFM을 활용하여 암 세포의 기계적 손상을 줄이고, 암 치료 효과를 향상시키는 방법을 제시합니다. 그러나, 논문에서는 이러한 기계적 장애를 수정하고, 면역세포의 기계적 속성을 측정하는 기술을 활용하여 암 세포의 기계적 손상을 줄이고, 암 치료 효과를 향상시키는 방법을 제시합니다. 그러나, 논문에서는 이러한 기계적 장애를 수정하고, 면역세포의 기계적 속성을 측정하는 기술을 활용하여 암 세포의 기계적 손상을 줄이고, 암 치료 효과를 향상시키는 방법을 제시합니다. 논문에서는 이러한 기계적 장애를 수정하고, 면역세포의 기계적 속성을 측정하는 기술을 활용하여 암 세포의 기계적 손상을 줄이고, 암 치료 효과를 향상시키는 방법을 제시합니다. 그러나, 논문에서는 이러한 기계적 장애를 수정하고, 면역세포의 기계적 속성을 측정하는 기술을 활용하여 암 세포의 기계적 손상을 줄이고, 암 치료 효과를 향상시키는 방법을 제시합니다.",
+      "future_research": "후속 연구는 기계적 장애를 수정하고, 면역세포의 기계적 속성을 측정하는 기술인 AFM을 활용하여 암 세포의 기계적 손상을 줄이고, 암 치료 효과를 향상시키는 방법을 연구하는 것에 초점을 맞추고 있습니다. 또한, 기계적 장애를 수정하고, 면역세포의 기계적 속성을 측정하는 기술을 활용하여 암 세포의 기계적 손상을 줄이고, 암 치료 효과를 향상시키는 방법을 연구하는 것에 초점을 맞추고 있습니다. 또한, 기계적 장애를 수정하고, 면역세포의 기계적 속성을 측정하는 기술을 활용하여 암 세포의 기계적 손상을 줄이고, 암 치료 효과를 향상시키는 방법을 연구하는 것에 초점을 맞추고 있습니다."
+    }
+  },
+  {
     "id": "PMC:PMC13786015",
     "title": "Engineering endolysins as antibacterial biologics: protein engineering design strategies and trade-offs",
     "topic": "Protein",
@@ -36,6 +86,64 @@
     "summary": "초록 기반 요약"
   },
   {
+    "id": "doi:10.1002/smll.76841",
+    "title": "Nanotechnology-Enabled STING Activation in Cancer Immunotherapy: Is there a Sting in the Tail?",
+    "topic": "Immunity",
+    "date": "2026-11-23",
+    "journal": "",
+    "authors": "Hanumanthappa R, Mukherjee V, Mahalingaswamy M, Dalavaikodihalli Nanjaiah N, Ranganath SH.",
+    "doi": "10.1002/smll.76841",
+    "pmid": "43070740",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070740/",
+    "abstract": "Immunotherapy has revolutionized clinical oncology, turning a once-promising concept into a major therapeutic approach; however, its efficacy is frequently hampered by the immunosuppressive tumor microenvironment, inadequate immune cell infiltration, and immune evasion. Activation of the cyclic GMP-AMP synthase-stimulator of interferon genes (cGAS-STING) pathway has emerged as a promising strategy to restore robust antitumor immunity by promoting Type I interferon signaling, dendritic cell maturation, and cytotoxic T-cell activation. This review provides a critical evaluation of the mechanistic role of the STING pathway in cancer immunity and categorizes the synthetic and biological STING agonists developed. We then discuss key translational bottlenecks of STING agonists, including poor pharmacokinetics, low cytosolic delivery, rapid degradation, and systemic toxicity. We highlight the recent advancements in nanotechnology- and controlled release systems, while critically evaluating associated hurdles, including heterogeneous biodistribution, off-target inflammation, endosomal entrapment, and the risk of immune overstimulation leading to T-cell exhaustion. Furthermore, we outline emerging biomaterial design principles including spatiotemporal release kinetics, lymphoid-targeted carriers, biomimetic platforms, and feedback-regulated activation aimed at achieving precise STING modulation. Finally, we conclude that integrating immunological understanding with advanced nanomaterial engineering offers a highly promising pathway toward safer, more effective, and clinically viable STING-based cancer immunotherapies.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 STING 신호 경로를 이용한 암 치료제 개발에 대한 분석과 전망을 제공합니다. STING 신호 경로는 암 치료에서 중요한 역할을 하며, 이를 이용한 약물 전달 시스템의 개발과 적용에 대한 연구가 진행되고 있습니다. 이 논문에서는 STING 신호 경로의 작용 메커니즘, 약물 전달 시스템의 발전 동향, 그리고 이를 통해 얻을 수 있는 이익과 위험을 조명합니다.",
+      "methods": "논문에서는 STING 신호 경로의 작용 메커니즘에 대한 분석을 통해 암 치료에 효과적인 약물 전달 시스템의 개발을 제안합니다. 이를 위해, STING 신호 경로의 작용을 향상시키는 합성 STING 약물, 그리고 STING 신호 경로의 작용을 제한하는 시스템을 개발하고 분석합니다. 또한, STING 신호 경로의 작용을 조절하는 새로운 biomaterial 디자인 원칙을 제시합니다.",
+      "quantitative_results": "논문에서는 STING 신호 경로의 작용을 향상시키는 합성 STING 약물의 경우, 약물의 생체 내 흡수율과 생체 내 투여 효율성, 그리고 약물의 생체 내 투여 후의 생체 내 투여 효율성에 대한 정보를 제공합니다. 또한, STING 신호 경로의 작용을 제한하는 시스템의 경우, 시스템의 생체 내 투여 효율성, 그리고 시스템의 생체 내 투여 후의 생체 내 투여 효율성에 대한 정보를 제공합니다.",
+      "novelty": "이 논문은 STING 신호 경로의 작용을 향상시키는 합성 STING 약물과, STING 신호 경로의 작용을 제한하는 시스템을 개발하고 분석하는 새로운 연구 방법을 제시합니다. 또한, STING 신호 경로의 작용을 조절하는 새로운 biomaterial 디자인 원칙을 제시합니다.",
+      "limitations": "논문에서는 STING 신호 경로의 작용을 향상시키는 합성 STING 약물의 경우, 약물의 생체 내 흡수율과 생체 내 투여 효율성, 그리고 약물의 생체 내 투여 후의 생체 내 투여 효율성에 대한 정보를 제공하지 않습니다. 또한, STING 신호 경로의 작용을 제한하는 시스템의 경우, 시스템의 생체 내 투여 효율성, 그리고 시스템의 생체 내 투여 후의 생체 내 투여 효율성에 대한 정보를 제공하지 않습니다. 이 정보는 논문에서 확인할 수 없습니다.",
+      "future_research": "이 논문에서는 STING 신호 경로의 작용을 향상시키는 합성 STING 약물과, STING 신호 경로의 작용을 제한하는 시스템의 개발과 적용에 대한 후속 연구를 제안합니다. 또한, STING 신호 경로의 작용을 조절하는 새로운 biomaterial 디자인 원칙의 적용에 대한 후속 연구를 제안합니다."
+    }
+  },
+  {
+    "id": "doi:10.70962/jhi.ascia2026abstracts",
+    "title": "Clinical Grand Rounds and Inborn Errors of Immunity abstracts from the Australasian Society of Clinical Immunology and Allergy 2026 conference - PDF.",
+    "topic": "Immunity",
+    "date": "2026-11-23",
+    "journal": "",
+    "authors": "",
+    "doi": "10.70962/jhi.ascia2026abstracts",
+    "pmid": "43070572",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43070572/",
+    "abstract": "A collection of Clinical Grand Rounds and Inborn Errors of Immunity abstracts from the Australasian Society of Clinical Immunology and Allergy (ASCIA) 2026 conference, September 1-4, 2026, Christchurch, New Zealand. All abstracts were reviewed and approved by the ASCIA organizing committee.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 아ustral리아와新西兰临床免疫学和过敏协会(ASCIA) 2026년 회의에서 제시된 임상 대강의와 태생적 면역 결함 관련 초록을 조사하고 분석하는 것을 목표로 합니다. 이를 통해 최근 연구 결과와 새로운 발견을 파악하고, 면역학 분야의 발전을 추적할 수 있습니다.",
+      "methods": "논문은 ASCIA 회의에서 제시된 초록을 수집하고, ASCIA 조직위원회의 승인을 받아 분석했습니다. 이는 연구의 신뢰성을 보장하고, 연구 결과의 정확성을 유지하는 데 도움이 됩니다.",
+      "quantitative_results": "논문에서는 태생적 면역 결함 관련 연구의 주요 결과를 보여주며, 이는 면역계의 복잡성과 병리학적 이해를 높이는 데 기여할 수 있습니다. 그러나 논문은 수치나 실험 조건을 제공하지 않아, 이에 대한 자세한 정보는 초록에서 확인할 수 없습니다.",
+      "novelty": "논문은 ASCIA 회의에서 발표된 새로운 연구 결과를 포함하고 있으며, 이는 기존 연구와 비교하여 면역학의 이해를 향상시키는 데 도움이 될 수 있습니다. 이러한 새로운 발견은 면역 결함의 진단과 치료에 대한 이해를 높이는 데 기여할 수 있습니다.",
+      "limitations": "논문은 초록에서 제공된 정보를 바탕으로 한 연구이며, 모든 정보를 완전히 확인할 수 없습니다. 따라서 일부 연구 결과와 추론은 확인할 수 없는 정보로 간주되어야 합니다. 또한, 논문은 후속 연구를 제안하며, 이는 태생적 면역 결함에 대한 더 깊은 이해를 위해 추가 연구가 필요하다는 것을 시사합니다.",
+      "future_research": "논문은 후속 연구를 제안하며, 이를 통해 태생적 면역 결함의 복잡성과 병리학적 이해를 더욱 깊이 있게 파악할 수 있을 것입니다. 이러한 연구는 새로운 치료법 개발과 면역 결함의 진단 기법 개선에 기여할 수 있습니다."
+    }
+  },
+  {
+    "id": "doi:10.1021/acsabm.6c00703",
+    "title": "Tunable Functionality Enables Stable Bacterial Cellulose Nanoparticles for Cellular Delivery.",
+    "topic": "Drug delivery",
+    "date": "2026-11-23",
+    "journal": "",
+    "authors": "Balistreri GN, Mandal A, Ramanan S, Dorey S, Reeder A, Zhou W, Wu E, Zhang S, Roumeli E, Nance E.",
+    "doi": "10.1021/acsabm.6c00703",
+    "pmid": "43074141",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43074141/",
+    "abstract": "Biologically sourced nanomaterials such as polysaccharides are increasingly explored for nanomedicine, with several already approved for clinical and consumer use. Motivated by their reduced environmental impact compared to synthetic nanomaterials, we previously developed bacterial cellulose nanoparticles (BCNPs) incorporated with protein for therapeutic applications. Here, we established a BCNP formulation that can be tuned to modulate chemical and colloidal properties relevant for drug delivery. BCNPs were formulated via nanoprecipitation using dispersed bacterial cellulose (BC) in dimethylacetamide and lithium chloride, followed by precipitation into aqueous surfactant solution. The mean particle size of BCNPs was 114 ± 7.2 nm, and their zeta potential was -25.9 ± 2.6 mV, desired parameters for tissue-penetrating nanobased drug delivery. To alter the chemical functionality of BCNPs, we applied methylation, acetylation, and amination chemistries to the hydroxyl end groups on BC. Fourier transform infrared spectroscopy validated the presence of methyl, acetyl, and amine functional groups, respectively. X-ray diffraction and atomic force microscopy revealed that, beyond the modest (2.8%) reduction in crystallinity associated with nanoparticle processing, functionalization produced distinct structural consequences: (1) methylation caused complete amorphization and disruption of the hierarchical assembly of the treated fibers, (2) acetylation reduced but did not eliminate crystallinity (22.6% reduction), and (3) amination preserved the cellulose backbone connectivity but disrupted long-range order. We assessed the colloidal stability of the functionalized BCNPs (F-BCNPs) in biologically relevant salt- and protein-based environments. Methyl- and amin-BCNPs remained dispersed for 48 h and acetyl-BCNPs crashed out of suspension, whereas unmodified-BCNPs gradually flocculated in salt-based media. We hypothesize that the stability differences correlated with surface polarity and hierarchical organization of the fibers, where the amine groups enhanced hydration and protein corona formation, while methyl groups yielded stable dispersions likely due to amorphization and disruption of the hydrogen bonding network, altering the hierarchical fiber arrangement. All F-BCNPs retained sub-120 nm size and negative zeta potential and were evaluated in an ex vivo cultured brain tissue model. We also found minimal cytotoxicity (<12%) and observed nanoparticle localization within microglia in the brain. Our results establish a tunable, sustainably derived platform in nanomedicine. Tuning the chemical functionality of the BCNPs can open opportunities for other utilizations in drug delivery and bioengineering.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.1002/advs.78675",
     "title": "The Lysine Metabolism-Protein Modification Axis in Tumor Immunity.",
     "topic": "Immunity",
@@ -44,7 +152,7 @@
     "authors": "Liu S, Xu Y, Li X, Yuan Q, Wu G.",
     "doi": "10.1002/advs.78675",
     "pmid": "43068881",
-    "pmcid": "",
+    "pmcid": "PMC13789545",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43068881/",
     "abstract": "The metabolic-epigenetic-immune tripartite regulatory network within the tumor immune microenvironment (TIME) serves as a central hub governing tumor immune evasion and therapeutic response. Long regarded merely as an essential nutritional substrate, lysine has now emerged as a pivotal signaling molecule bridging metabolic reprogramming, protein post-translational modifications (PTMs), and immune cell fate determination. Tumor cells remodel immune cell function and foster an immunosuppressive microenvironment via three coordinated mechanisms: hijacking lysine transport, rewiring lysine catabolic metabolism, and disrupting acylation and methylation modifications at lysine residues. Herein, we propose a novel preclinical theoretical model coined \"lysimetaboptenation,\" which we define as lysine metabolism-modification-coupled T cell exhaustion. This review systematically delineates lysine transmembrane transport, rewired lysine catabolism, and the lysine-centered PTM regulatory network, alongside the modulatory mechanisms underlying bidirectional crosstalk between tumor cells and immune cells. We further clarify the correlations between aberrant lysine axis signaling and patient prognosis, immunotherapeutic efficacy, and treatment resistance. Additionally, we summarize translational strategies targeting lysine transporters, catabolic enzymes, lysine PTM machinery, precision nutritional interventions, and combinatorial immunometabolic regimens. Finally, we highlight outstanding scientific questions, technical bottlenecks, and cutting-edge research frontiers, aiming to furnish theoretical frameworks and innovative avenues for overcoming resistance to immunotherapy and developing precision combinatorial metabolome-immunotherapy regimens.",
     "summary": "초록 기반 요약",
@@ -198,7 +306,7 @@
     "authors": "Wankhede SC, Pethe AM.",
     "doi": "10.1186/s11671-026-05136-x",
     "pmid": "43055869",
-    "pmcid": "",
+    "pmcid": "PMC13785453",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43055869/",
     "abstract": "Metal-organic frameworks (MOFs) have emerged as highly versatile nanoporous materials for nanomedicine owing to their exceptionally high surface area, tunable pore architecture, controllable surface chemistry, and stimuli-responsive drug release. These nanoscale characteristics enable efficient encapsulation of poorly soluble therapeutics, targeted delivery, and controlled release while minimizing systemic toxicity. Pulmonary delivery has gained increasing attention as an approach for localized treatment of inflammatory lung diseases. In parallel, the Janus kinase-signal transducer and activator of transcription (JAK-STAT) signaling pathway has been established as a key regulator of cytokine-mediated inflammation in severe asthma, although systemic administration of JAK inhibitors remains limited by immunosuppression and dose-dependent adverse effects. While MOFs have demonstrated considerable promise as pulmonary drug delivery systems and JAK inhibitors have shown therapeutic potential in inflammatory airway diseases, no published study has directly investigated MOF-mediated pulmonary delivery of JAK inhibitors for asthma. This review critically examines the current evidence supporting both fields and proposes a conceptual framework for integrating these technologies. Specifically, it discusses the nanoscale design principles of MOFs, including structural engineering, pore modulation, physicochemical characteristics, biodegradability, and pulmonary delivery strategies relevant to inhaled nanomedicine. Recent advances in MOF-based drug delivery, preclinical evidence, comparisons with conventional nanocarriers, and emerging approaches involving biomimetic coatings, hybrid nanocomposites, and artificial intelligence-assisted nanomaterial design are critically evaluated. Current challenges, including pulmonary biocompatibility, long-term nanotoxicity, scalable manufacturing, immune interactions, and regulatory considerations, are also discussed. By distinguishing established evidence from future opportunities, this review identifies MOF-mediated pulmonary delivery of JAK inhibitors as a promising yet experimentally unvalidated strategy and outlines key research priorities required for its successful translation toward precision therapy for severe asthma.Clinical trial number: NA.",
     "summary": "초록 기반 요약",
@@ -368,7 +476,7 @@
     "pmid": "43069869",
     "pmcid": "",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43069869/",
-    "abstract": "T-cell immune dysregulation contributes to persistent inflammation, tissue injury, and COPD progression, but research on T-cell dysfunction and adaptive immune remodeling remains insufficiently characterized. This study mapped publication trends, collaboration networks, the knowledge base, and emerging topics from 2006 to 2026. Publications from January 1, 2006, to May 31, 2026, were retrieved from the Web of Science Core Collection (WoSCC) and Scopus. Data for 2026 include publications through May 31 only and do not represent a complete calendar year. The search combined COPD-related terms, T-cell and major subset terms, and terms related to immune dysregulation or adaptive immune remodeling. After merging, deduplication, and manual screening, 327 articles and reviews were included. Bibliometric analyses and visualizations were performed using VOSviewer, CiteSpace, R, and Microsoft Excel. COPD-related T-cell immunity research expanded, with annual publications increasing from 4 in 2006 to 31 in 2025 and a more pronounced increase observed during 2023-2025. China, the United States, and the United Kingdom were the leading contributors. The University of São Paulo had the highest output, while Shanghai Jiao Tong University and Ningxia Medical University were prominent in institutional collaboration. Principal journals were Frontiers in Immunology, International Journal of Chronic Obstructive Pulmonary Disease, and Respiratory Research. Influential references formed a knowledge base centered on chronic inflammation, impaired immune homeostasis, airway epithelial dysfunction, and innate immune activation. Core keyword themes included inflammation, T cells, smoking, and immune response; recent directions included T-cell subset imbalance, Th17/Treg dysregulation, oxidative stress, cellular senescence, and T-cell exhaustion. Within the retrieved literature, keyword analyses identified research attention to T-cell subset imbalance, oxidative stress, senescence, and exhaustion. These patterns are influenced by the predefined search terms and database coverage and may guide further investigation of T-cell dysfunction in COPD. chronic obstructive pulmonary disease; T cell; adaptive immunity; immune dysregulation; immune remodeling; bibliometrics; CiteSpace; VOSviewer.",
+    "abstract": "Objective T-cell immune dysregulation contributes to persistent inflammation, tissue injury, and COPD progression, but research on T-cell dysfunction and adaptive immune remodeling remains insufficiently characterized. This study mapped publication trends, collaboration networks, the knowledge base, and emerging topics from 2006 to 2026. Methods Publications from January 1, 2006, to May 31, 2026, were retrieved from the Web of Science Core Collection (WoSCC) and Scopus. Data for 2026 include publications through May 31 only and do not represent a complete calendar year. The search combined COPD-related terms, T-cell and major subset terms, and terms related to immune dysregulation or adaptive immune remodeling. After merging, deduplication, and manual screening, 327 articles and reviews were included. Bibliometric analyses and visualizations were performed using VOSviewer, CiteSpace, R, and Microsoft Excel. Results COPD-related T-cell immunity research expanded, with annual publications increasing from 4 in 2006 to 31 in 2025 and a more pronounced increase observed during 2023-2025. China, the United States, and the United Kingdom were the leading contributors. The University of São Paulo had the highest output, while Shanghai Jiao Tong University and Ningxia Medical University were prominent in institutional collaboration. Principal journals were Frontiers in Immunology, International Journal of Chronic Obstructive Pulmonary Disease, and Respiratory Research. Influential references formed a knowledge base centered on chronic inflammation, impaired immune homeostasis, airway epithelial dysfunction, and innate immune activation. Core keyword themes included inflammation, T cells, smoking, and immune response; recent directions included T-cell subset imbalance, Th17/Treg dysregulation, oxidative stress, cellular senescence, and T-cell exhaustion. Conclusion Within the retrieved literature, keyword analyses identified research attention to T-cell subset imbalance, oxidative stress, senescence, and exhaustion. These patterns are influenced by the predefined search terms and database coverage and may guide further investigation of T-cell dysfunction in COPD. Keywords chronic obstructive pulmonary disease; T cell; adaptive immunity; immune dysregulation; immune remodeling; bibliometrics; CiteSpace; VOSviewer.",
     "summary": "초록 기반 요약",
     "ai_summary": {
       "research_purpose": "이 연구는 COPD 환자의 T세포 면역 불균형과 적응적 면역 재구성에 대한 연구 동향을 분석하여, 이 분야의 연구가 확대되고 있는지, 그리고 주요 연구지역과 기관, 학술지가 어디인지를 파악하고자 함을 목표로 한다.",
@@ -554,6 +662,20 @@
       "limitations": "논문은 통계적 결과나 대조군 비교가 언급되지 않았다. 또한, 데이터 표준화, 모델 해석성, 확장 가능한 제조, 안전 평가, 규제 불확실성 및 임상 결과와 전임상 효능 간의 차이를 해결하는 새로운 원칙을 제시한다. 이는 통합된 인공지능 지도 프레임워크를 통해 이전 연구와는 다른 방식으로 난소 치료제의 설계, 생물학적 운명 예측, 제어된 분리 공학 및 임상 적용을 연결한다.",
       "future_research": "이 논문은 인공지능 기반의 통합 프레임워크를 통해 이전 연구와는 다른 방식으로 난소 치료제의 설계, 생물학적 운명 예측, 제어된 분리 공학 및 임상 적용을 연결한다. 이는 데이터 표준화, 모델 해석성, 확장 가능한 제조, 안전 평가, 규제 불확실성 및 임상 결과와 전임상 효능 간의 차이를 해결하는 새로운 원칙을 제시한다. 이는 통합된 인공지능 지도 프레임워크를 통해 이전 연구와는 다른 방식으로 난소 치료제의 설계, 생물학적 운명 예측, 제어된 분리 공학 및 임상 적용을 연결한다."
     }
+  },
+  {
+    "id": "doi:10.3390/md24110414",
+    "title": "Mass Spectrometry-Based Proteomics of Algal Toxins: A Scoping Review of Methodological Trends, Reporting Standards, and Analysis of Comparative Protein Responses.",
+    "topic": "Protein",
+    "date": "2026-11-17",
+    "journal": "",
+    "authors": "Cook EN, Ceballos C, Williams JM, Rein KS.",
+    "doi": "10.3390/md24110414",
+    "pmid": "43083169",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43083169/",
+    "abstract": "Algal toxins pose critical threats to aquatic ecosystems and public health. Mass spectrometry-based proteomics has become an increasingly important tool in ecotoxicology, enabling researchers to characterize molecular and cellular responses to a variety of environmental stressors, including chemical pollutants and naturally occurring toxins. Among these, algal toxins have emerged as a key area of application, with proteomics offering valuable insights into organismal responses, toxicity mechanisms and biomarker discovery. A systematic literature search of SciFinder, Scopus, and Web of Science identified 76 eligible mass spectrometry-based proteomic studies published from 2015 through May 2026. This review critically examines the current state of mass spectrometry-based proteomics, focused on key algal toxins including microcystins, anatoxins, BMAA, brevetoxins, saxitoxins, domoic acid, cylindrospermopsin, and okadaic acid/ Dinophysis toxins, highlighting methodological trends, data transparency, adherence to reporting standards, and emerging themes in protein and pathway-level responses. We assess reporting quality and transparency using the Minimum Information About a Proteomics Experiment (MIAPE) guidelines and the Criteria for Reporting and Evaluating Ecotoxicity Data (CRED) framework. Additionally, a comparative protein and pathway analysis was conducted, identifying recurring functional responses across toxin classes while highlighting toxin-specific signatures at both the protein and biological process levels. Because the proteomics of microcystins has been comprehensively reviewed elsewhere, microcystin studies were included only in the methodological assessment and were excluded from the protein and pathway analysis. This review concludes with recommendations to improve reproducibility, promote data sharing, and guide the next phase of proteomic applications in algal toxin research.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1021/acschembio.6c00553",
@@ -1098,7 +1220,7 @@
     "authors": "Kubis J, Boinski P, Antczak M, Figlerowicz MM, Szachniuk M, Figiel M.",
     "doi": "10.1093/bioinformatics/btag815",
     "pmid": "43009219",
-    "pmcid": "",
+    "pmcid": "PMC13792836",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43009219/",
     "abstract": "Motivation Developing state-of-the-art RNA- and DNA-based therapeutics requires advanced computational frameworks that support the entire workflow-from biological rationale to the final drug construct-enabling tissue- and cell-specific targeting with high precision. Existing bioinformatics tools provide only partial solutions and rarely generate designs directly suitable for synthesis or preclinical evaluation. To address these limitations, we present BIOREDIS, a web-based platform for comprehensive nucleic acid therapeutic design. Results BIOREDIS integrates curated data from nine major biological resources and incorporates modules for coding sequence optimization, RNA interference (shRNA/siRNA) design, promoter/untranslated region selection, and automated construction of viral (AAV, lentiviral), nonviral, and mRNA vaccine vectors. The platform supports designs for human, mouse, and rat, with tissue-specific promoter recommendations available for human and mouse, and advanced cell-expression profiling natively restricted to human. BIOREDIS demonstrates competitive performance in coding sequence optimization and RNAi prediction, while uniquely providing an end-to-end workflow from target selection to fully specified next-generation DNA or RNA therapeutic constructs ready for synthesis and experimental validation. Availability and implementation BIOREDIS is freely available at https://rnadrug.ichb.pl/bioredis, with a mirror site at https://bioredis.cs.put.poznan.pl.",
     "summary": "초록 기반 요약",
@@ -1164,7 +1286,7 @@
     "authors": "Li Y, Zhang C, Meng F.",
     "doi": "10.3389/fpls.2026.1997664",
     "pmid": "43075133",
-    "pmcid": "",
+    "pmcid": "PMC13791386",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43075133/",
     "abstract": "The rise of the CRISPR-CAS system has greatly promoted the development of gene editing technology. Cas12, with its unique molecular characteristics, has become an important editing tool following Cas9. In recent years, artificial intelligence (AI) has been widely applied in Cas12-related research, ranging from protein structure optimization, target design to editing efficiency prediction and off-target risk assessment. AI has demonstrated great potential in enhancing system performance and discovering new mutants. Most of these models were trained and benchmarked in human cell lines, E. coli , or yeast, whereas only a subset of engineering strategies has been validated directly in plants, including soybean hairy roots, rice, and Populus . This mini-review summarizes the latest research progress of AI in the field of Cas12 protein optimization and functional prediction, discusses the opportunities and challenges in its application in plants, and provides new ideas for future AI-driven plant gene editing.",
     "summary": "초록 기반 요약",
@@ -1176,6 +1298,20 @@
       "limitations": "이 연구는 식물에서의 AI 적용에 대한 연구가 아직 초기 단계임을 명시합니다. 또한, 식물에서의 직접적 검증은 아직 이루어지지 않았으며, 이는 아직 식물에서의 AI 적용에 대한 연구가 부족하기 때문입니다. 또한, 이 연구는 아직 식물에서의 AI 적용에 대한 연구가 부족하기 때문입니다.",
       "future_research": "이 연구는 식물에서의 AI 적용에 대한 후속 연구를 제안합니다. 이를 통해 식물에서의 AI 적용이 얼마나 효과적이고, 얼마나 다양한 유전자 편집 전략을 제공할 수 있는지에 대한 더 깊은 이해를 얻을 수 있습니다."
     }
+  },
+  {
+    "id": "doi:10.3389/fbioe.2026.1865763",
+    "title": "The role of nMOFs in anticancer combinations of photodynamic therapy and immunotherapy.",
+    "topic": "Immunity",
+    "date": "2026-11-09",
+    "journal": "",
+    "authors": "Shange MG, Mohomane S, Songca SP.",
+    "doi": "10.3389/fbioe.2026.1865763",
+    "pmid": "43075050",
+    "pmcid": "PMC13791186",
+    "url": "https://europepmc.org/articles/PMC13791186",
+    "abstract": "Nano Metal-Organic Frameworks (nMOFs) have emerged as a versatile class of porous materials with significant potential in biomedical applications, particularly in cancer treatment. This review explores the pivotal role of nMOFs in facilitating the combination of photodynamic therapy (PDT) and immunotherapy (IMT), focusing on their unique capabilities to additively enhance therapeutic outcomes. By serving as efficient carriers and delivery systems for photosensitizers (PSs) and immunotherapy drugs, nMOFs can serve as immune response modulators and enable targeted tumour destruction through reactive oxygen species (ROS generation, while simultaneously stimulating antitumor immunity. The combination of nMOF-based PDT with immunotherapy represents a promising strategy for more effective cancer treatments. This article highlights recent progress, challenges, and future perspectives in leveraging nMOFs for the additive cancer therapy landscape.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1002/anie.4133117",
@@ -1308,6 +1444,20 @@
       "limitations": "논문에서는 엔도리스민의 안정성, 면역성, 근육균 치료 효과 및 인체 내 생존 기간에 대한 전략적 설계 원칙을 제시하며, 이는 기존 연구와는 다른 접근 방식을 제시한다. 그러나 논문에서는 실제 실험 결과나 수치를 제공하지 않고, 이는 논문의 초록에서 확인할 수 없다고 명시한다.",
       "future_research": "논문은 엔도리스민의 안정성, 면역성, 근육균 치료 효과 및 인체 내 생존 기간에 대한 전략적 설계 원칙을 제시하며, 이는 기존 연구와는 다른 접근 방식을 제시한다. 이에 따라, 후속 연구는 이와 관련된 실험을 수행하여 이론을 실증화하는 것이 필요하다고 제안한다."
     }
+  },
+  {
+    "id": "doi:10.3390/proteomes14040057",
+    "title": "Plant Genomics and Proteomics.",
+    "topic": "Protein",
+    "date": "2026-11-06",
+    "journal": "",
+    "authors": "Komatsu S, Yang P.",
+    "doi": "10.3390/proteomes14040057",
+    "pmid": "43081330",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43081330/",
+    "abstract": "Advances in genomics and proteomics have greatly expanded our understanding of plant biology by providing comprehensive insights into the molecular mechanisms underlying growth, development, and adaptation to environmental challenges [...].",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1128/jmbe.00253-26",
@@ -1682,6 +1832,20 @@
     }
   },
   {
+    "id": "doi:10.1186/s13062-026-01040-7",
+    "title": "Beyond oncogenesis: how pathogen-induced immune remodeling shapes tumor immune escape and immunotherapy resistance.",
+    "topic": "Immunity",
+    "date": "2026-11-03",
+    "journal": "",
+    "authors": "Zhang Y, Shu Y, Song L, Cheng L, Zhu C, Liao Y, Zhang H, Zhang W, Luo P, Zou Z.",
+    "doi": "10.1186/s13062-026-01040-7",
+    "pmid": "43079610",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43079610/",
+    "abstract": "Tumor immune escape limits the effectiveness of current anticancer treatments, particularly immune checkpoint blockade. Tumor-intrinsic alterations and host immune dysfunction have been widely studied. Yet the role of persistent pathogen infections as an external evolutionary force shaping tumor immunity remains poorly understood. Recent evidence indicates that oncogenic and tumor-associated pathogens both initiate malignant transformation and persistently remodel the tumor immune microenvironment. This remodeling fosters immune tolerance, tumor progression, and therapy resistance. In this review, we propose a pathogen-driven immune remodeling framework. This framework systematically explains how viruses, bacteria, fungi, and parasites regulate tumor immune escape through interconnected mechanisms. These mechanisms include immune checkpoint activation, recruitment and polarization of immunosuppressive cells such as regulatory T cells, tumor-associated macrophages, and myeloid-derived suppressor cells, reprogramming of cytokine networks, metabolic adaptation, and disruption of antigen processing and presentation. Moreover, we highlight the dynamic interactions among pathogens, tumor cells, and the host immune system. These interactions create an infection-induced microenvironment marked by persistent inflammation and immune dysfunction. Importantly, we discuss how pathogen-mediated immune remodeling may contribute to resistance or attenuated responses to immunotherapy. We also explore new therapeutic strategies that target pathogen-related immune escape pathways, such as combination immunotherapy, microbial interventions, and personalized immunomodulation. This review integrates infectious factors into current tumor immunology models. It provides a conceptual framework for understanding tumor immune evolution and suggests new opportunities for precision immunotherapy in infection-associated and refractory cancers.",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.64898/2026.10.30.762893",
     "title": "Cell-resolved pharmacodynamic profiling reveals tissue- and cell-population-specific activity of antisense oligonucleotide chemical conjugates in vivo",
     "topic": "Nucleic acids",
@@ -1770,7 +1934,7 @@
     "authors": "Waldherr A, Freimann GL, Lupas AN.",
     "doi": "10.1002/pro.70809",
     "pmid": "42867160",
-    "pmcid": "",
+    "pmcid": "PMC13660404",
     "url": "https://pubmed.ncbi.nlm.nih.gov/42867160/",
     "abstract": "Non-standard amino acids (ncAAs) together with synthetic additions (like caps and linkers) are of wide interest for protein design and pharmaceutical optimization, as they can improve physicochemical properties and possibly reshape protein structure. Their inclusion in experimental structures has not been explored systematically. It remains elusive which components are those most impactful for protein design. We therefore collected all non-standard components present in the Protein Data Bank (PDB) into MONDE·T: A database of 1,210 unique ncAAs and 724 other synthetic components present in 23,149 PDB structures with a corresponding webserver. Analyses can focus on a single component or a single structure, illustrated here by example applications. MONDE·T allows for download of the data, visualization of a structure, identification of unusual backbone angles, and comparison of chemical similarities. The webserver is hosted at the Max Planck Institute Tübingen, accessible online via https://mondet.tuebingen.mpg.de/. MONDE·T is freely available under the Creative Commons 4.0 License.",
     "summary": "초록 기반 요약",
