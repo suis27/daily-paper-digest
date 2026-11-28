@@ -1,5 +1,55 @@
 [
   {
+    "id": "PMC:PMC13811305",
+    "title": "Surface Chemistry-Based Nanomedicine Design in Oral Drug Delivery",
+    "topic": "Drug delivery",
+    "date": "2026-11-27",
+    "journal": "",
+    "authors": "Hu J, Zhou M, Lu L, Wang J.",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13811305",
+    "url": "https://europepmc.org/articles/PMC13811305",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1002/advs.78685",
+    "title": "EvoSeq: A Eukaryotic Sequence-Function Profiling Platform for AI-Guided Engineering of Genome-Editing Enzymes.",
+    "topic": "Protein",
+    "date": "2026-11-26",
+    "journal": "",
+    "authors": "Shen J, Sun Y, Han P, Zhu T, Gu M, Lu Y.",
+    "doi": "10.1002/advs.78685",
+    "pmid": "43098935",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43098935/",
+    "abstract": "Artificial intelligence is reshaping protein engineering, yet progress remains constrained by the limited availability of scalable, normalized sequence-activity datasets and experimental benchmarks. Reported here is Evolution by Sequencing (EvoSeq), a sequencing-based profiling platform for genome-editing enzymes that links each variant to a reporter sequence change, enabling activity and variant sequence to be quantified together by next-generation sequencing. Representative sequencing-assisted workflows either require separate functional assays or were performed in bacteria. EvoSeq performs sequence-activity profiling in eukaryotic yeast system with reduced background by up to 95-fold compared to bacterial system, positioning EvoSeq as a pooled eukaryotic alternative to workflows that require separate functional assays and to approaches demonstrated primarily in bacteria. Application to adenine base editor evolution identifies variants with 1.4-fold higher on-target activity at a HBG gene target and threefold lower off-target editing at PCSK9 after mRNA-lipid nanoparticle validation in HepG2 cells. An intron-embedded homologous-recombination recording strategy further enables direct evolution of the large Cas12i nuclease CasY7 and supports active learning, increasing the hit rate of model-nominated mutational windows compared with manual selection. EvoSeq therefore provides an experimental benchmarking method for AI-guided protein-design algorithms and AI-compatible sequence-activity profiling platform for engineering genome editors in eukaryotic cells.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1039/d6tb01972b",
+    "title": "Polymersome-based nanomedicine: innovative progress on permeability control, morphology transformation, and active motility.",
+    "topic": "Drug delivery",
+    "date": "2026-11-26",
+    "journal": "",
+    "authors": "Pu Y, Dai Y, Han H, Gong X, Li C, Song S, Cao S.",
+    "doi": "10.1039/d6tb01972b",
+    "pmid": "43096070",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43096070/",
+    "abstract": "Engineering nanomedicine with dynamic and adaptive features has emerged as a transformative strategy to overcome the intrinsic limitations of conventional nanocarriers. Among various biomimetic nanoplatforms, polymersomes have attracted growing attention owing to their chemical versatility, structural stability, and highly programmable physicochemical properties. Their bilayer membranes and vesicular structure enable the simultaneous encapsulation of hydrophilic and hydrophobic active species, while the molecular versatility of amphiphilic block copolymers provides unprecedented opportunities to engineer membrane functions, permeable features and dynamic behaviors. Recent advances in polymersome-based nanoplatforms have demonstrated their potential beyond conventional drug carriers, enabling utility as adaptive nanomedicine platforms capable of responding to and acting within complex biological environments. For instance, precise regulation of membrane permeability enables on-demand molecular transport and controlled cargo release in the desired site of action; programmable morphological transformation facilitates environmental adaptation, modulating polymersome interfacial interactions with cells and tissues; and active motility endows polymersomes with guided transport for enhanced targeted delivery and tissue penetration. These features and properties offer new opportunities to improve delivery efficiency, therapeutic precision, and biological responsiveness with polymersome-based delivery systems that are difficult to achieve using conventional nano-systems. In this review, we highlight recent progress in polymersome-based nanomedicine with a focus on emergent behaviors-permeability control, morphological transformation, and active motility. We discuss the molecular design principles, fabrication strategies, and underlying mechanisms governing these dynamic features, functions and behaviors. In addition, the utility of polymersome-based nanomedicine in biomedical fields ranging from controlled drug delivery and intracellular transport to disease diagnosis and precision therapy will be highlighted. Finally, we outline the remaining challenges and future opportunities toward integrating multiple adaptive features into intelligent polymersome systems to address critical biomedical challenges and envision the next generation of life-inspired nanomedicines capable of continuously sensing, adapting to, and interacting with complex biological environments for precision therapeutics.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 단백질, 핵산, 면역학, 약물 전달 분야에서의 연구를 초점으로 하여, 플라스모이자스 기반의 난소약제품에 대한 새로운 발전과 기능을 소개하고 있습니다. 이 연구는 플라스모이자스가 보유한 다양한 특성으로 인해 보다 정확하고 효율적인 약물 전달을 가능하게 한다는 점을 강조합니다.",
+      "methods": "논문에서는 플라스모이자스의 특성과 기능을 이해하기 위한 다양한 방법을 사용했습니다. 이들은 플라스모이자스의 물리화학적 특성, 모형 변환, 그리고 동적인 행동을 조절하는 방법을 다루고 있습니다. 또한, 플라스모이자스의 분자 설계 원리, 제조 전략, 그리고 이에 대한 기초적인 메커니즘을 다루고 있습니다.",
+      "quantitative_results": "논문에서는 플라스모이자스 기반의 난소약제품이 보통의 난소약제품보다 더 정확하고 효율적인 약물 전달을 가능하게 한다는 것을 보여주었습니다. 이는 플라스모이자스의 특성과 기능을 이해하는 데 도움이 되는 중요한 결과입니다.",
+      "novelty": "이 논문은 플라스모이자스 기반의 난소약제품이 보다 정교하고 효율적인 약물 전달을 가능하게 한다는 새로운 개념을 제시합니다. 이는 기존의 난소약제품과는 다른 새로운 기능을 갖는다는 것을 의미합니다.",
+      "limitations": "논문에서는 플라스모이자스의 특정 특성과 기능에 대한 구체적인 정보를 제공하지 않았습니다. 이는 플라스모이자스의 실제 작동 방식에 대한 더 깊이 있는 연구가 필요하다는 것을 의미합니다. 또한, 이 연구는 플라스모이자스의 실제 작동 방식에 대한 더 깊이 있는 연구가 필요하다는 것을 의미합니다.",
+      "future_research": "이 논문은 플라스모이자스 기반의 난소약제품을 더욱 정교하고 효율적으로 만들기 위한 후속 연구를 제안합니다. 이는 플라스모이자스의 작동 방식을 더 잘 이해하고, 이를 통해 더 정교하고 효율적인 약물 전달을 가능하게 하는 새로운 기능을 개발하는 데 초점을 맞추고 있습니다."
+    }
+  },
+  {
     "id": "doi:10.1021/acsami.6c22574",
     "title": "Injectable Hydrogels for Programmable Protein Release.",
     "topic": "Protein",
@@ -190,6 +240,28 @@
     }
   },
   {
+    "id": "doi:10.2147/ijn.s653621",
+    "title": "Lipid Nanoparticles (LNPs) in Anticancer Drug Delivery: Biological Barriers and Clinical Translation Potential.",
+    "topic": "Drug delivery",
+    "date": "2026-11-22",
+    "journal": "",
+    "authors": "Wang Y, Zhu B, Li D.",
+    "doi": "10.2147/ijn.s653621",
+    "pmid": "43101471",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43101471/",
+    "abstract": "Background During the COVID-19 pandemic, lipid nanoparticle (LNP)-based messenger RNA (mRNA) vaccines have been widely deployed in clinical practice, demonstrating the clinical feasibility of this delivery platform. Although applications of LNPs in cancer treatment are advancing rapidly, barriers to clinical translation remain. Therefore, this review aims to summarize the major barriers and translational potential of LNP-based strategies in cancer treatment. Methods We systematically searched PubMed/MEDLINE for relevant literature on LNP design, formulation, and applications in anticancer drug delivery published up to May 2026, including preclinical studies, clinical trials, and reviews. Results LNPs played pivotal roles in cancer treatment by delivering pharmaceutical ingredients, including chemotherapeutic and immunotherapeutic drugs. By encapsulating the anticancer medicines, LNPs facilitated drug delivery to tumor sites and protected the payloads from degradation in vivo. Major barriers include protein corona formation, inefficient endosomal escape, hepatic accumulation, formulation instability, immunogenicity and toxicity, and challenges in manufacturing consistency and cost control. Clinically, liposomal chemotherapeutics have achieved regulatory approval, whereas LNP-based nucleic acid therapies for cancer remain predominantly investigational. Moreover, structural modifications on the major components of LNPs helped address these limitations. The latest advancements of LNP designs and applications in the delivery of nucleic acids and chemotherapeutic drugs exhibited better biocompatibility and therapeutic efficacy with improved safety profiles. Conclusion LNP-based therapies hold potential for clinical applications in cancer treatment. Future efforts should focus on improving targeting and endosomal escape, reducing toxicity, and enhancing stability and manufacturing quality while controlling costs. Artificial intelligence-assisted design and biodegradable materials may support these developments and facilitate clinical translation.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 코로나19 팬데믹 기간 동안 mRNA 백신을 기반으로 한 리파이블(LNP) 플랫폼의 임상적 가능성을 보여주었음에도 불구하고, 리파이블(LNP) 기반 암 치료 전략의 임상적 적용에 대한 장벽과 잠재적인 임상적 적용 가능성을 조사하고 있습니다.",
+      "methods": "이 연구는 PubMed/MEDLINE에서 2026년 5월까지 출간된 LNP 설계, 제형화 및 암 치료 약물 전달에 대한 관련 연구를 systematic search를 통해 수집하였습니다. 이 연구는 LNP 설계, 제형화, 암 치료 약물 전달에 대한 전문적인 방법을 사용하였습니다.",
+      "quantitative_results": "이 연구는 리파이블(LNP)이 암 치료에서 중요한 역할을 하며, 약물의 전달을 암 세포로 이동시키고, 암 세포에서 약물이 분해되는 것을 방지하는 역할을 하였음을 보여주었습니다.",
+      "novelty": "이 연구는 리파이블(LNP) 설계와 암 치료 약물 전달에 대한 최신 발전을 보여주며, 이 발전이 높은 생물학적 유합성과 치료 효과를 가져다주며, 안전성에 대한 개선된 프로파일을 제공하였습니다.",
+      "limitations": "이 연구는 리파이블(LNP)의 주요 구성 요소에 대한 구조적 변경이 장벽을 해결하는 데 도움이 되었음을 보여주었습니다. 그러나 이 연구는 리파이블(LNP)의 임상적 적용 가능성을 완전히 확인할 수 없음을 명시하였습니다. 또한, 이 연구는 리파이블(LNP)의 임상적 적용 가능성을 완전히 이해하기 위해 추가 연구가 필요함을 제안하였습니다.",
+      "future_research": "이 연구는 리파이블(LNP)의 암 치료 전략의 임상적 적용 가능성을 향한 후속 연구를 제안합니다. 이 연구는 리파이블(LNP)의 암 치료 약물 전달에 대한 더 나은 약물 선택, 암 세포의 끝osomal 이탈을 개선하고, 암 치료 약물 전달의 안전성과 품질을 향상시키는 데 초점을 맞추며, 비용을 관리하는 데 초점을 맞추는 후속 연구를 제안합니다. 또한, 인공지능 기반 설계와 생분해성 재료의 사용이 이러한 발전을 지원하고 임상적 적용을 가속화할 수 있음을 제안합니다."
+    }
+  },
+  {
     "id": "doi:10.1016/j.mbs.2026.109863",
     "title": "Priming anti-tumor immunity via nutritional adjuvant therapy: A mathematical modeling and virtual cohort study regarding metabolic competition.",
     "topic": "Immunity",
@@ -300,6 +372,20 @@
     }
   },
   {
+    "id": "PMC:PMC13803593",
+    "title": "MSGFLEX: An optimized end-to-end pipeline for proteomics and metaproteomics analysis built on MS-GF+ with a dedicated rescoring model, XPECTRA",
+    "topic": "Protein",
+    "date": "2026-11-20",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13803593",
+    "url": "https://europepmc.org/articles/PMC13803593",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.1016/j.jacbts.2026.101717",
     "title": "Tonlamarsen, a Hepatocyte-Directed Antisense Oligonucleotide Targeting Angiotensinogen: Phase 1 and 2a Clinical Studies.",
     "topic": "Nucleic acids",
@@ -363,6 +449,42 @@
       "novelty": "이 논문은 전이-metal 기반의 나노타이타이스트가 염증과 면역치료에서 양방향으로 작용하는 새로운 개념을 제시합니다. 이는 기존 연구에서 한방향적인 면역치료에만 초점을 맞춘 것과는 달라, 면역 조절의 다양성을 제공합니다.",
       "limitations": "논문에서는 실험 조건과 결과에 대한 자세한 정보를 제공하지 않았습니다. 또한, 이 연구는 실험적 데이터를 통해 얻은 결과를 설명하지만, 이는 다른 연구에서도 확인할 수 있는 결과일 수 있습니다.",
       "future_research": "후속 연구는 이 새로운 방법이 다른 질환에 적용될 수 있는지, 그리고 이 방법이 어떻게 면역을 조절하는지에 대한 더 깊은 이해를 제공하는 연구가 필요합니다."
+    }
+  },
+  {
+    "id": "PMC:PMC13802584",
+    "title": "Pioneer and Altimeter: Rapid and Scalable Analysis of DIA Proteomics Data Optimized for Narrow Isolation Windows",
+    "topic": "Protein",
+    "date": "2026-11-19",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13802584",
+    "url": "https://europepmc.org/articles/PMC13802584",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.3390/vaccines14110998",
+    "title": "Lipid Nanoparticle-mRNA Vaccines for Infectious Diseases: Making a Potent Platform Predictable.",
+    "topic": "Drug delivery",
+    "date": "2026-11-19",
+    "journal": "",
+    "authors": "Zhao Y, Cheng H, Zhou S, He L, Xiu C, Huang B, Lu X.",
+    "doi": "10.3390/vaccines14110998",
+    "pmid": "43083828",
+    "pmcid": "PMC13808064",
+    "url": "https://europepmc.org/articles/PMC13808064",
+    "abstract": "Lipid nanoparticle (LNP)-mRNA vaccines compressed the path from pathogen sequence to licensed product into less than a year and are now approved for three viral diseases (COVID-19, respiratory syncytial virus and seasonal influenza), with more than twenty indications in clinical development. The platform's potency is no longer in doubt; its predictability is. We argue that progress is now limited by three interfaces that are engineered largely independently: the lipid-RNA interface, which sets encapsulation, internal structure and storage stability; the particle-cell interface, which sets tropism and the efficiency of endosomal escape; and the particle-immune interface, which sets the balance between adjuvanticity and reactogenicity. Quantitative design rules exist for the first interface, remain empirical for the second, and are almost absent for the third, which is why formulation development still proceeds by screening rather than by calculation. We review the molecular design of the mRNA payload and structural antigen selection; the chemistry, manufacture and intracellular trafficking of LNPs; the immunological chain that links innate activation and dendritic-cell cross-presentation to germinal-centre output; and the clinical evidence across COVID-19, respiratory syncytial virus, influenza, cytomegalovirus, HIV, personalised cancer vaccines and other targets. We conclude by identifying the measurements, pharmacopoeial quality attributes and design rules that would make the next generation of LNP-mRNA vaccines predictable rather than empirical.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 lipid nanoparticle (LNP)-mRNA 백신 플랫폼의 예측 가능성을 강조하고, 이를 위해 세 가지 주요 인터페이스의 설계 규칙을 제시한다. 이는 현재의 시장에서 LNP-mRNA 백신이 더 많은 질병에 대해 승인을 받았음에도 불구하고, 그들의 예측 가능성에 대한 의문이 남아 있음을 보여준다.",
+      "methods": "논문은 mRNA의 구조적 항원 선택, lipid-RNA 인터페이스, particle-cell 인터페이스, particle-immune 인터페이스의 분석을 포함한다. 또한, LNP의 화학, 제조, 인체 내 이동성에 대한 연구도 포함한다. 마지막으로, COVID-19, 호흡기성 측집염 바이러스, 인플루엔자, 카타마노바 바이러스, HIV, 개인화된 암 백신 등 다양한 목표에 대한 임상 데이터를 다루고 있다.",
+      "quantitative_results": "논문에서는 lipid-RNA 인터페이스의 설계 규칙이 명확히 제시되었으며, particle-cell 인터페이스와 particle-immune 인터페이스의 설계 규칙은 아직 부족하다는 점이 확인되었다. 이는 현재의 시장에서 LNP-mRNA 백신이 더 많은 질병에 대해 승인을 받았음에도 불구하고, 그들의 예측 가능성에 대한 의문이 남아 있음을 보여준다.",
+      "novelty": "이 논문의 주요 기여는 lipid-RNA 인터페이스의 설계 규칙이 명확히 제시되었으며, 이는 LNP-mRNA 백신의 예측 가능성에 대한 의문을 해결하는 데 중요한 역할을 할 것으로 보인다. 또한, particle-cell 인터페이스와 particle-immune 인터페이스의 설계 규칙이 아직 부족하다는 점도 새로운 발견으로 볼 수 있다.",
+      "limitations": "논문은 lipid-RNA 인터페이스와 particle-cell 인터페이스의 설계 규칙이 명확히 제시되었다는 점을 제시하지만, particle-immune 인터페이스의 설계 규칙은 아직 부족하다는 점을 명시하지 않았다. 또한, 논문은 임상 데이터를 다루지만, 이는 아직 시장에서의 실제 성능을 보여주지 못한다는 한계가 있다.",
+      "future_research": "논문은 lipid-RNA 인터페이스와 particle-cell 인터페이스의 설계 규칙이 명확히 제시되었다는 점을 제시하였으므로, 이에 대한 후속 연구는 이에 대한 구체적인 규칙을 제시하는 것이 중요할 것이다. 또한, particle-immune 인터페이스의 설계 규칙을 명확히 제시하는 것이 필요하다. 이는 LNP-mRNA 백신의 예측 가능성에 대한 의문을 해결하는 데 중요한 역할을 할 것으로 보인다."
     }
   },
   {
@@ -710,6 +832,20 @@
     }
   },
   {
+    "id": "PMC:PMC13803471",
+    "title": "Visually guided analysis of single cell proteomics data with SCP-Viz",
+    "topic": "Protein",
+    "date": "2026-11-17",
+    "journal": "",
+    "authors": "",
+    "doi": "",
+    "pmid": "",
+    "pmcid": "PMC13803471",
+    "url": "https://europepmc.org/articles/PMC13803471",
+    "abstract": "",
+    "summary": "초록 기반 요약"
+  },
+  {
     "id": "doi:10.1021/acschembio.6c00553",
     "title": "Chemical Biology in the Age of Artificial Intelligence: From Ligand Discovery to Virtual Cells.",
     "topic": "Protein",
@@ -1054,6 +1190,28 @@
     }
   },
   {
+    "id": "doi:10.3390/biom16111660",
+    "title": "Advancing Precision siRNA Therapeutics for Osteoporosis Through Rational Design of Bone-Targeted Delivery Systems.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-13",
+    "journal": "",
+    "authors": "Qiao F, Zhang W, Dong D, Xiang B, Zhang N.",
+    "doi": "10.3390/biom16111660",
+    "pmid": "43090049",
+    "pmcid": "PMC13800743",
+    "url": "https://europepmc.org/articles/PMC13800743",
+    "abstract": "Osteoporosis (OP) is a degenerative skeletal disorder driven by disrupted homeostasis between bone-forming osteoblasts and bone-resorbing osteoclasts. Conventional anti-osteoporotic therapeutics are hindered by insufficient bone-targeting efficacy, undesirable systemic adverse reactions, and prolonged treatment durations. Small interfering RNA (siRNA), a prototype of small nucleic acid therapeutics, enables specific silencing of pivotal bone metabolic genes and restores balanced bone remodeling via dual modulatory effects on osteogenic and osteoclastic cascades. Signaling pathways associated with bone formation drive osteoblast maturation, while bone resorption-related signaling pathways facilitate osteoclast differentiation. Targeting the key regulatory molecules of these pathways can suppress osteoclastic signaling or boost osteogenic activity, thereby restoring disrupted bone metabolic homeostasis. This review systematically summarizes siRNA chemical modification schemes and bone-homing nanodelivery platforms, dissects the underlying anti-osteoporotic mechanisms of nucleic acid therapeutics, discusses outstanding translational hurdles, and offers theoretical insights for the rational design of next-generation bone-targeted nucleic acid nanomedicines.",
+    "summary": "초록 기반 요약",
+    "ai_summary": {
+      "research_purpose": "이 논문은 오steoporosis 치료를 위한 정밀 siRNA 치료법의 발전을 목표로 합니다. 오steoporosis는 근골질 질환으로, 근골절세포와 근골절소세포 사이의 균형이 깨진 상태에서 발생합니다. 이 연구는 siRNA의 화학적 수정 방법과 근골절소세포 집중형 나노송신체 플랫폼을 systematically 분석하고, nucleic acid 치료법의 anti-osteoporotic 작용 메커니즘을 dissects하며, 현재의 연구 결과와 대조하여 outstanding translational hurdles를 논의합니다. 이 연구는 future research를 제안합니다.",
+      "methods": "이 연구는 siRNA의 화학적 수정 방법과 근골절소세포 집중형 나노송신체 플랫폼을 systematic으로 분석합니다. 이 플랫폼은 근골절소세포 집중형으로 설계되어, siRNA가 근골절소세포에 더 잘 전달될 수 있도록 합니다. 이 연구는 siRNA의 작용 메커니즘을 dissect하고, 이를 통해 새로운 나노송신체 플랫폼을 설계하여 osteoporosis 치료에 대한 새로운 접근법을 제시합니다.",
+      "quantitative_results": "이 논문에서는 quantitative 결과를 보고하지 않았습니다. 이 연구는 quantitative 결과를 보고하지 않고, 대신 siRNA의 작용 메커니즘과 나노송신체 플랫폼의 작용 메커니즘을 dissect하고 있습니다.",
+      "novelty": "이 논문은 현재의 연구 결과와 대조하여 outstanding translational hurdles를 논의하고, 이에 대한 theoretical insights를 제공합니다. 이 연구는 기존 연구 대비 차별점이 없습니다.",
+      "limitations": "이 연구는 확인할 수 없는 정보를 제공하지 않습니다. 이 연구는 현재의 연구 결과와 대조하여 outstanding translational hurdles를 논의하고, 이에 대한 theoretical insights를 제공합니다.",
+      "future_research": "이 연구는 future research를 제안합니다. 이 연구는 나노송신체 플랫폼을 설계하여 osteoporosis 치료에 대한 새로운 접근법을 제시합니다. 이 연구는 이 접근법을 시험하고, 효과성을 확인하기 위해 future research를 제안합니다."
+    }
+  },
+  {
     "id": "PMC:PMC13752843",
     "title": "Orthogonal ensemble and single-particle characterisation of antisense oligonucleotide lipid nanoparticles",
     "topic": "Nucleic acids",
@@ -1220,6 +1378,20 @@
       "limitations": "논문에서는 대장균의 다양한 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다. 그러나 이 연구는 대장균의 다양한 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다. 이는 기존 연구에서 보장되지 않았던 새로운 정보입니다.",
       "future_research": "이 논문은 대장균이 암 치료에 대한 반응을 조절하는 다양한 메커니즘을 통해 암 치료 저항성을 형성하는 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다. 이는 기존 연구에서 보장되지 않았던 새로운 정보입니다. 이 연구는 대장균의 다양한 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다. 이는 기존 연구에서 보장되지 않았던 새로운 정보입니다. 이 연구는 대장균의 다양한 메커니즘을 조사하고, 이를 통해 암 치료에 대한 반응을 조절하는 메커니즘을 이해하는데 초점을 맞춥니다. 이는 기존 연구에서 보장되지 않았던 새로운 정보입니다."
     }
+  },
+  {
+    "id": "doi:10.3390/ijms272210110",
+    "title": "The Need for Variant-Specific Splicing Assessment in Developing Antisense Oligonucleotide Therapies for Duchenne Muscular Dystrophy: Lessons from the DMD c.4675-2A>G Variant.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-11",
+    "journal": "",
+    "authors": "Sunami A, Horiguchi T, Takeuchi A, Ishikawa Y, Kataoka N, Komai K, Nishio H, Matsuo M.",
+    "doi": "10.3390/ijms272210110",
+    "pmid": "43091743",
+    "pmcid": "PMC13804607",
+    "url": "https://europepmc.org/articles/PMC13804607",
+    "abstract": "Duchenne muscular dystrophy is caused by pathogenic variants in the DMD gene. Splice-site variants can generate aberrant transcripts whose consequences cannot always be predicted by the classical reading-frame rule. Here, we characterized the c.4675-2A>G variant at the exon 34 splice acceptor site for the development of an exon-skipping therapy. A minigene analysis demonstrated that c.4675-2A>G activated a cryptic splice acceptor within exon 34 rather than inducing skipping of the entire exon, resulting in deletion of the first 7 nucleotides, a frameshift, and a premature termination codon. To restore the reading frame by promoting skipping of the entire exon 34, we used antisense oligonucleotides (ASOs) targeting distinct splice-regulatory regions. Among the ASO treatments tested, including individual ASOs and ASO combinations, A1&E4&D1 produced the highest exon exclusion and consistently promoted exon 34 skipping across the examined -2A mutant genotypes. A1&E4&D1 consists of ASOs A1, E4, and D1. A1 targeted the cryptic 3' splice acceptor region, E4 targeted a predicted exonic splicing enhancer region, and D1 targeted the 5' splice donor region. These findings illustrate a stepwise, variant-directed strategy in which characterization of aberrant splicing guides the design of a tailor-made ASO intervention.",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "doi:10.1016/j.anai.2026.11.002",
@@ -1494,7 +1666,7 @@
     "authors": "Komatsu S, Yang P.",
     "doi": "10.3390/proteomes14040057",
     "pmid": "43081330",
-    "pmcid": "",
+    "pmcid": "PMC13797501",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43081330/",
     "abstract": "Advances in genomics and proteomics have greatly expanded our understanding of plant biology by providing comprehensive insights into the molecular mechanisms underlying growth, development, and adaptation to environmental challenges [...].",
     "summary": "초록 기반 요약"
@@ -1556,6 +1728,34 @@
       "limitations": "논문에서는 SM-102와 MC3의 교체에 대한 ASO의 회복률 감소와 유동성 조건의 변화에 대한 LNP의 크기 증가와 회복률 개선의 결과를 보여주었습니다. 그러나, 논문에서는 이러한 결과가 ASO의 lipid nanoparticle의 성질에만 국한된 것이 아니라, 다른 lipid nanoparticle의 성질에도 적용될 수 있다는 추론을 하지 않았습니다. 또한, 논문에서는 ASO의 lipid nanoparticle의 성질에 대한 추가적인 실험 조건과 lipid의 유형에 대한 추가적인 실험을 제안하였습니다.",
       "future_research": "논문에서는 ASO의 lipid nanoparticle의 성질에 대한 추가적인 실험 조건과 lipid의 유형에 대한 추가적인 실험을 제안하였습니다. 이를 통해 ASO의 lipid nanoparticle의 성질에 대한 더 깊은 이해를 얻을 수 있을 것입니다."
     }
+  },
+  {
+    "id": "doi:10.1007/s12195-026-00956-4",
+    "title": "Targeted Liposomal Nanocarriers for High-Efficiency Neuronal mRNA Delivery.",
+    "topic": "Nucleic acids",
+    "date": "2026-11-05",
+    "journal": "",
+    "authors": "Tasset A, Xu H, To K, Artman B, Ropars A, Sleiman Y, Seidlits S, Wang H.",
+    "doi": "10.1007/s12195-026-00956-4",
+    "pmid": "43094824",
+    "pmcid": "PMC13796695",
+    "url": "https://europepmc.org/articles/PMC13796695",
+    "abstract": "Purpose Messenger RNA therapeutics enable rapid, transient protein expression without risk of genomic integration, but their delivery to post-mitotic neurons remains challenging. Here, we present a neuron-targeted liposomal platform designed to enhance mRNA delivery efficiency in neurons. Methods We engineered DOTAP: DOPE liposomes to promote nucleic acid loading, stability, and endosomal escape, incorporated PEGylation to improve biocompatibility and circulation, and functionalized the liposome surface with a rabies virus glycoprotein (RVG)-derived peptide for neuronal targeting. We assessed particle size and surface charge, mRNA encapsulation/loading across different lipid: mRNA ratios, cytotoxicity in HEK293T cells as a function of cationic lipid content and PEGylation, and transfection performance in HEK293T cells and primary neurons, benchmarking against a commercial transfection reagent, with functional mRNA delivery further demonstrated in midbrain organoids following microinjection. Results The system enabled efficient mRNA encapsulation, maintained favorable particle size and surface charge characteristics, and supported low cytotoxicity. Across formulations, mRNA loading increased with lipid: mRNA ratio, with only modest reductions following PEGylation. In HEK293T cells, higher cationic lipid content increased its toxicity, whereas PEGylation reduced membrane interactions and improved tolerability. Transfection studies identified the 50:10 DOTAP: DOPE composition as optimal, yielding robust mRNA expression. In primary neurons, RVG-functionalized PEGylated liposomes containing 10 mol% DOPE achieved gene expression levels comparable to those of a commercial transfection reagent at a 10:1 lipid:mRNA ratio. Notably, incorporating 0.1% w/w RVG significantly outperformed the commercial formulation, yielding >30% gene-delivery efficiency in primary neuronal cultures. In midbrain organoids, the optimized mRNA-loaded RVG-functionalized liposomes produced GFP mRNA expression overlapping with NeuN staining, demonstrating functional mRNA delivery and translation within three-dimensional neural tissue. Conclusions Neuron-targeted DOTAP: DOPE liposomes incorporating the RVG peptide represent a promising mRNA delivery system for neurological applications, achieving a favorable balance of potency, safety, and specificity and supporting transient gene modulation in the central nervous system.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.3390/medicina62112156",
+    "title": "Getting the Diagnosis Right-And Keeping Patients on Treatment: Lessons from a Special Issue on Allergy, Asthma, and Clinical Immunology.",
+    "topic": "Immunity",
+    "date": "2026-11-05",
+    "journal": "",
+    "authors": "Pitsios C.",
+    "doi": "10.3390/medicina62112156",
+    "pmid": "43091553",
+    "pmcid": "PMC13805671",
+    "url": "https://europepmc.org/articles/PMC13805671",
+    "abstract": "In recent years, advances in molecular and cellular diagnostics, the use of biologicals, and the continued development of allergen immunotherapy have improved the diagnostic and therapeutic capabilities of allergologists, yet the availability of new tools alone does not guarantee better care [...].",
+    "summary": "초록 기반 요약"
   },
   {
     "id": "PMC:PMC13729012",
@@ -1880,7 +2080,7 @@
     "authors": "Zhang Y, Shu Y, Song L, Cheng L, Zhu C, Liao Y, Zhang H, Zhang W, Luo P, Zou Z.",
     "doi": "10.1186/s13062-026-01040-7",
     "pmid": "43079610",
-    "pmcid": "",
+    "pmcid": "PMC13794611",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43079610/",
     "abstract": "Tumor immune escape limits the effectiveness of current anticancer treatments, particularly immune checkpoint blockade. Tumor-intrinsic alterations and host immune dysfunction have been widely studied. Yet the role of persistent pathogen infections as an external evolutionary force shaping tumor immunity remains poorly understood. Recent evidence indicates that oncogenic and tumor-associated pathogens both initiate malignant transformation and persistently remodel the tumor immune microenvironment. This remodeling fosters immune tolerance, tumor progression, and therapy resistance. In this review, we propose a pathogen-driven immune remodeling framework. This framework systematically explains how viruses, bacteria, fungi, and parasites regulate tumor immune escape through interconnected mechanisms. These mechanisms include immune checkpoint activation, recruitment and polarization of immunosuppressive cells such as regulatory T cells, tumor-associated macrophages, and myeloid-derived suppressor cells, reprogramming of cytokine networks, metabolic adaptation, and disruption of antigen processing and presentation. Moreover, we highlight the dynamic interactions among pathogens, tumor cells, and the host immune system. These interactions create an infection-induced microenvironment marked by persistent inflammation and immune dysfunction. Importantly, we discuss how pathogen-mediated immune remodeling may contribute to resistance or attenuated responses to immunotherapy. We also explore new therapeutic strategies that target pathogen-related immune escape pathways, such as combination immunotherapy, microbial interventions, and personalized immunomodulation. This review integrates infectious factors into current tumor immunology models. It provides a conceptual framework for understanding tumor immune evolution and suggests new opportunities for precision immunotherapy in infection-associated and refractory cancers.",
     "summary": "초록 기반 요약"
@@ -2168,7 +2368,7 @@
     "authors": "Brown SM, Cohen AB, Dean SN.",
     "doi": "10.1021/acs.jcim.6c03837",
     "pmid": "43070950",
-    "pmcid": "",
+    "pmcid": "PMC13799288",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43070950/",
     "abstract": "Proteins are highly diverse functional polymers where the specific sequence of amino acids, selected from a standard genetically encoded alphabet of 20 (C20), determines the structure and ultimately the function of the resulting folded protein. This standard alphabet has been identified to be nonrandomly distributed in physicochemical properties crucial to both structure formation and function, often referred to as coverage theory. While machine learning models have drastically improved protein structure prediction, success of protein design models lags structure prediction, particularly for custom secondary structure motifs and amino acid alphabets. Here, we therefore bridge contemporary biological theory with recent advancements in artificial intelligence (AI) to develop and evaluate a generative AI protein design model, trained on hundreds of thousands of proteins within the RCSB PDB, for custom secondary structure motifs using reduced amino acid alphabets (RAAs). Results indicate an overall success in designing novel proteins with desired secondary structure motifs for a broad range of amino acid alphabets and complexity of designs. Interestingly, for a substantial fraction of designs, ESMFold predicts a fold close to that of the target structure despite training only on physicochemical sequence space and secondary structure information. The development of this model advances research across multiple disciplines, from general scientific AI architecture development to protein design for biotechnology, astrobiology, and early-Earth evolutionary biology.",
     "summary": "초록 기반 요약"
@@ -2182,9 +2382,37 @@
     "authors": "Nicdao DS, Ramnath A, Adams TJ, Wilhelmsson LM, Esbjörner EK, Holme MN.",
     "doi": "10.1021/acs.langmuir.6c00929",
     "pmid": "43076330",
-    "pmcid": "",
+    "pmcid": "PMC13811514",
     "url": "https://pubmed.ncbi.nlm.nih.gov/43076330/",
     "abstract": "Nucleic acid therapeutics typically require a delivery vector, such as lipid-based nanoparticles. However, limitations in e.g. specific targeting and biodistribution, pose challenges to their clinical applications, and alternative lipid-based delivery vectors are therefore highly desirable. Here, we investigated the effect of introducing membrane asymmetry to lipid vesicles (i.e., the inner and outer leaflets have different lipid compositions), which has previously been shown to alter their biophysical properties. In this study, we prepared asymmetric large unilamellar vesicles (aLUVs) composed of 1,2-dioleoyl-sn-glycero-3-phosphocholine (DOPC) on the inner leaflet and either 1,2-dioleoyl-sn-glycero-3-phosphatidic acid (DOPA) or sphingomyelin (SM) on the outer leaflet, with the addition of cholesterol (Chol), using methyl-β-cyclodextrin-catalyzed lipid exchange. The extent of outer leaflet exchange was found to be lipid-dependent. Further, we probed intracellular uptake and nucleic acid cargo delivery of DOPC:SM:Chol aLUVs. Widefield fluorescence imaging using HeLa_Luc705 cells and confocal imaging using SH-SY5Y-miRFP670 cells revealed cellular internalization and nuclear localization of aLUVs as early as 4 h, with analogous symmetric vesicles showing lower uptake and notable localization in the perinuclear region. However, HeLa_Luc705 cells treated with aLUVs and symmetric LUVs loaded with a splice-switching oligonucleotide showed similar levels of luciferase production after 24 h, indicating similar levels of functional oligonucleotide cargo delivery. Overall, the data presented indicates that asymmetric vesicles are able to deliver nucleic acid cargo and that the asymmetric distribution of lipids across membrane leaflets can influence the cellular uptake and intracellular distribution of vesicle nanocarriers.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.13345/j.cjb.260251",
+    "title": "[Advances in ProteinMPNN-driven protein engineering].",
+    "topic": "Protein",
+    "date": "2026-11-01",
+    "journal": "",
+    "authors": "Qu Y, Shen X, Wang J, Sun X, Yuan Q.",
+    "doi": "10.13345/j.cjb.260251",
+    "pmid": "43098905",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43098905/",
+    "abstract": "Biomanufacturing is a key pathway for promoting the green transformation of conventional production methods. Its core bottleneck lies in the difficulty of natural enzymes to meet the requirements of industrial applications, necessitating the customized modification of enzyme molecules through protein engineering. Conventional semi-rational design is limited by a narrow sequence search space, heavy reliance on known structural information, and high experimental screening costs, which make it difficult to achieve precise design of industrial-grade enzyme molecules. In recent years, artificial intelligence-based protein design technologies represented by ProteinMPNN have made breakthrough progress and are driving a profound paradigm shift in protein engineering. This article systematically describes the technical principles, workflow, and methodological advantages of ProteinMPNN, compares it with Rosetta and other protein design models, and reviews the research progress of this technology in industrial enzyme engineering and biomanufacturing. On this basis, this article discusses current research hotspots and challenges in industrial application, and provides an outlook on future development directions and prospects for industrial implementation. It is expected to serve as a reference for fundamental research and industrial translation in synthetic biology and protein engineering.",
+    "summary": "초록 기반 요약"
+  },
+  {
+    "id": "doi:10.1021/jacs.6c11808",
+    "title": "Porphyrin-Driven Redox Tuning in Structurally Defined De Novo Heme Proteins.",
+    "topic": "Protein",
+    "date": "2026-11-01",
+    "journal": "",
+    "authors": "Mellor C, Williams C, Bungay EL, Berrones-Reyes JC, Barringer R, Back CR, Molinaro P, Siddiqui SA, Stuart AN, Oliver TAA, Koder RL, Lichtenstein BR, Mulholland AJ, Crump MP, Anderson JLR.",
+    "doi": "10.1021/jacs.6c11808",
+    "pmid": "43089504",
+    "pmcid": "",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/43089504/",
+    "abstract": "Designing redox proteins with predictable and tunable electron transfer properties is a major goal in de novo bioenergetics. Here we show that replacing heme B with a series of structurally conservative non-natural metalloporphyrins enables broad modulation of redox potentials over 400 mV in the de novo designed monoheme m4D2 and diheme 4D2 T19D. The non-natural porphyrins bind with high affinity and do not compromise either the heme binding site or global protein structure, as evidenced by X-ray crystallography and NMR spectroscopy. We also report the native-like NMR structure of m4D2 loaded with the non-natural and symmetric iron 2,4-dimethyldeuteroporphyrin IX, confirming our modular approach to tetrahelical redox protein design. This work establishes a versatile platform for constructing tunable electron carriers for engineered bioenergetic pathways and bioelectronic applications.",
     "summary": "초록 기반 요약"
   },
   {
